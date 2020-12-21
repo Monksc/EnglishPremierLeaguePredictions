@@ -1,0 +1,1 @@
+curl https://fixturedownload.com/download/epl-2020-GMTStandardTime.csv --output epl-2020-week-0.csv
