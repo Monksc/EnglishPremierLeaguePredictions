@@ -74,4 +74,7 @@ print("Loss: {:0.4f}".format(results[0]))
 for name, value in zip(model.metrics_names, results):
     print(name, ': ', value)
 
+# Save the entire model as a SavedModel.
+!mkdir -p saved_model
+model.save('saved_model/my_model')
 
