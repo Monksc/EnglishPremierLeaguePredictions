@@ -5,7 +5,7 @@ import pagerank
 import sys
 
 
-def getData(csvFileName):
+def getData(csvFileName, flip_result=False):
     
     data = pd.read_csv(csvFileName)
     
@@ -27,19 +27,53 @@ def getData(csvFileName):
                 index = teamToIndex[team]
                 indexToGamesPlayed[index] += 1
 
+    for i in range(len(data["Home Team"])):
+        if not(type(data["Result"][i]) is str):
+            continue
+        if flip_result:
+            data["Result"][i] = data["Result"][i][::-1]
+
     return data, indexToTeam, teamToIndex, indexToGamesPlayed
 
 
-def getMatrixForSeason(week, model):
+def createWeekMultiplier(reg=8):
+    def f(week, round_number):
+        return 1.0 / (week - round_number + reg) ** 2
+    return f
+
+def getMatrixForSeason(week, model, week_multiplier=None):
     
     data, indexToTeam, teamToIndex, indexToGamesPlayed = model
+
+    # Calculate Games Played
+    indexToGamesPlayed = [0 for i in range(len(indexToTeam))]
+    for i in range(len(data["Home Team"])):
+        if data["Round Number"][i] > week:
+            break
+
+        if not(type(data["Result"][i]) is str):
+            continue
+        
+        result = data["Result"][i].split("-")
+        if len(result) != 2:
+            continue
+
+        homeTeam = data["Home Team"][i]
+        awayTeam = data["Away Team"][i]
+
+        homeIndex = teamToIndex[homeTeam]
+        awayIndex = teamToIndex[awayTeam]
+
+        indexToGamesPlayed[homeIndex] += 1
+        indexToGamesPlayed[awayIndex] += 1
+
 
     A = [[0.0 for i in range(len(indexToTeam))] for j in range(len(indexToTeam))]
     
     for i in range(len(data["Home Team"])):
 
         if data["Round Number"][i] > week:
-            continue
+            break
     
         homeTeam = data["Home Team"][i]
         awayTeam = data["Away Team"][i]
@@ -59,14 +93,20 @@ def getMatrixForSeason(week, model):
     
         homeTeamPlayed = indexToGamesPlayed[homeIndex]
         awayTeamPlayed = indexToGamesPlayed[awayIndex]
+
+        # Adds in a weight to latest games
+        #weight = 1.0 #/ (week - data["Round Number"][i] + 8) ** 2
+        weight = 1.0
+        if week_multiplier != None:
+            weight = week_multiplier(week, data["Round Number"][i])
     
         if homeScore > awayScore:
-            A[awayIndex][homeIndex] += (1/homeTeamPlayed) * 3.0
+            A[awayIndex][homeIndex] += (1/homeTeamPlayed) * 3.0 * weight
         elif awayScore < homeScore:
-            A[homeIndex][awayIndex] += (1/awayTeamPlayed) * 3.0
+            A[homeIndex][awayIndex] += (1/awayTeamPlayed) * 3.0 * weight
         else:
-            A[awayIndex][homeIndex] += (1/homeTeamPlayed) * 1.0
-            A[homeIndex][awayIndex] += (1/awayTeamPlayed) * 1.0
+            A[awayIndex][homeIndex] += (1/homeTeamPlayed) * 1.0 * weight
+            A[homeIndex][awayIndex] += (1/awayTeamPlayed) * 1.0 * weight
     
         #A[awayIndex][homeIndex] += (0.2) * (1/homeTeamPlayed) * homeScore
         #A[homeIndex][awayIndex] += (0.2) * (1/awayTeamPlayed) * awayScore
@@ -91,9 +131,9 @@ def printRankings(rankings, model):
 
 def getSeasonStats(R, week):
 
-    indexToExpectedPoints = [ 0 for i in range(len(indexToTeam))]
-    indexToRandomPoints   = [ 0 for i in range(len(indexToTeam))]
-    indexToMorePoints     = [ 0 for i in range(len(indexToTeam))]
+    indexToExpectedPoints = [ 0 for i in range(len(indexToTeam)) ]
+    indexToRandomPoints   = [ 0 for i in range(len(indexToTeam)) ]
+    indexToMorePoints     = [ 0 for i in range(len(indexToTeam)) ]
     
     for i in range(len(data["Home Team"])):
     
@@ -174,9 +214,9 @@ def getSeasonStats(R, week):
 
 # Graph Stats
 
-def getRankings(week, model):
+def getRankings(week, model, week_multiplier=None):
 
-    A = np.array(getMatrixForSeason(week, model))
+    A = np.array(getMatrixForSeason(week, model, week_multiplier))
     R = pagerank.rank(A)
     
     rankings = [(i, R[i]) for i in range(len(indexToTeam))]
@@ -185,86 +225,30 @@ def getRankings(week, model):
 
     return indexToExpectedPoints
 
-def plotSeason(maxWeek, model):
+def plotSeason(maxWeek, model, week_multiplier=None):
 
     data, indexToTeam, teamToIndex, indexToGamesPlayed = model
     
     indexTeamToWeekToPoints = [[] for i in range(len(indexToTeam))]
     for i in range(maxWeek+1):
-        indexToPoints = getRankings(i, model)
+        indexToPoints = getRankings(i, model, week_multiplier)
         for j in range(len(indexToTeam)):
             indexTeamToWeekToPoints[j].append(indexToPoints[j])
 
     import matplotlib.pyplot as plt
 
-    for j in range(len(indexToTeam)):
+    rankings = [(i, indexTeamToWeekToPoints[i][-1]) for i in range(len(indexTeamToWeekToPoints))]
+    rankings = sorted(rankings, key=getValue, reverse=True)
+    for i in range(len(rankings)):
+        j = rankings[i][0]
         plt.plot(indexTeamToWeekToPoints[j], label=indexToTeam[j])
+
     plt.ylabel('Expected Points')
     plt.legend(bbox_to_anchor=(1.00, 1), loc="upper left")
     #plt.legend(bbox_to_anchor=(0, 0), loc="upper left")
     plt.show()
 
 
-def createScore(maxScore):
-    def score(lastWeek, currentWeek):
-    
-        diff = 0.0
-        for i in range(len(lastWeek)):
-            diff += (lastWeek[i] - currentWeek[i]) ** 2
-    
-        return diff / len(lastWeek)
-    def f(lastWeek, currentWeek):
-        return score(lastWeek, currentWeek) <= maxScore
-    return f
-
-def createDiff(maxDiff):
-    def diff(lastWeek, currentWeek):
-    
-        diff = 0.0
-        for i in range(len(lastWeek)):
-            diff += abs(lastWeek[i] - currentWeek[i])
-    
-        return diff / len(lastWeek)
-    def f(lastWeek, currentWeek):
-        return diff(lastWeek, currentWeek) <= maxDiff
-    return f
-
-def createGoodEnough(amountOfTeams, changePosition):
-    def goodEnough(lastWeek, currentWeek):
-    
-        bad = 0
-        for i in range(len(lastWeek)):
-            if abs(lastWeek[i] - currentWeek[i]) > changePosition:
-                bad += 1
-    
-        return bad < amountOfTeams
-    return goodEnough
-
-def whatWeek(isGood, model):
-
-    data, indexToTeam, teamToIndex, indexToGamesPlayed = model
-
-    def getPlacement(week):
-        rankings = getRankings(week)
-        rankings = [(i, rankings[i]) for i in range(len(indexToTeam))]
-        rankings = sorted(rankings, key=getValue, reverse=True)
-        newValues = [rankings[i][0] for i in range(len(rankings))]
-        return newValues
-
-
-    i = 38
-    lastWeek = getPlacement(i)
-    while i > 1:
-
-        weekI = getPlacement(i)
-
-        if not(isGood(lastWeek, weekI)):
-            return i
-        i -= 1
-
-
-    return 0
-        
 
 if __name__ == "__main__":
 
@@ -280,7 +264,7 @@ if __name__ == "__main__":
 
 
     # Get matrix A and Ranking
-    A = getMatrixForSeason(week, model)
+    A = getMatrixForSeason(week, model, createWeekMultiplier(8))
     A = np.array(A)
     R = pagerank.rank(A)
     
@@ -306,8 +290,4 @@ if __name__ == "__main__":
 
     plotSeason(week, model)
     
-    print(whatWeek(createGoodEnough(5, 5), model))
-    print(whatWeek(createScore(9**2), model))
-    print(whatWeek(createDiff(9), model))
-
 
