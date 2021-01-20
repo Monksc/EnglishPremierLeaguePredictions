@@ -3,6 +3,7 @@ import keras
 import numpy as np
 import random
 import collect_data as cdata
+import epl
 
 print(tf.version.VERSION)
 
@@ -32,6 +33,9 @@ def makeModel(input_len, output_len):
         loss=keras.losses.BinaryCrossentropy(),
         metrics=metrics)
 
+
+    model.load_weights('saved_model/model.ckpt')
+
     return model
 
 def trainModel(model, train_features, train_labels, batch_size=128, epochs=16):
@@ -42,7 +46,8 @@ def trainModel(model, train_features, train_labels, batch_size=128, epochs=16):
         train_features,
         train_labels,
         batch_size=batch_size,
-        epochs=epochs)
+        epochs=epochs,
+        verbose=1)
         #validation_data=(train_features, train_labels), 
         #verbose=0)
 
@@ -51,30 +56,68 @@ def getData():
     return cdata.getAllMyData()
 
 
-features, labels = getData()
-
-indexes = np.arange(len(features))
-random.shuffle(indexes,)
-features = features[indexes,]
-labels = labels[indexes,]
-
-train_features = features[:-100]
-train_labels = labels[:-100]
-
-testing_features = features[-100:]
-testing_labels   = labels[-100:]
-
-model = makeModel(train_features.shape[1], train_labels.shape[1])
-trainModel(model, train_features, train_labels, batch_size=256, epochs=2**6)
+def train():
+    features, labels = getData()
     
-print(model.predict(train_features))
-results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
+    indexes = np.arange(len(features))
+    random.seed(42)
+    random.shuffle(indexes,)
+    features = features[indexes,]
+    labels = labels[indexes,]
+    
+    train_features = features[:-100]
+    train_labels = labels[:-100]
+    
+    testing_features = features[-100:]
+    testing_labels   = labels[-100:]
+    
+    model = makeModel(train_features.shape[1], train_labels.shape[1])
+    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
+    #trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
+        
+    print(model.predict(train_features))
+    results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
+    
+    print("Loss: {:0.4f}".format(results[0]))
+    for name, value in zip(model.metrics_names, results):
+        print(name, ': ', value)
+    
+    # Save the entire model as a SavedModel.
+    model.save_weights("saved_model/model.ckpt".format(epoch=0))
 
-print("Loss: {:0.4f}".format(results[0]))
-for name, value in zip(model.metrics_names, results):
-    print(name, ': ', value)
+def predictGames():
 
-# Save the entire model as a SavedModel.
-!mkdir -p saved_model
-model.save('saved_model/my_model')
+    model = makeModel(train_features.shape[1], train_labels.shape[1])
+
+    data, indexToTeam, teamToIndex, indexToGamesPlayed = epl.getData("epl-2020-week-0.csv")
+
+    for i in range(len(data["Home Team"])):
+
+        if data["Round Number"][i] > week:
+            break
+    
+        homeTeam = data["Home Team"][i]
+        awayTeam = data["Away Team"][i]
+    
+        if not(type(data["Result"][i]) is str):
+            continue
+        
+        result = data["Result"][i].split("-")
+        if len(result) != 2:
+            continue
+    
+        homeScore = int(result[0].strip())
+        awayScore = int(result[1].strip())
+    
+        homeIndex = teamToIndex[homeTeam]
+        awayIndex = teamToIndex[awayTeam]
+    
+        homeTeamPlayed = indexToGamesPlayed[homeIndex]
+        awayTeamPlayed = indexToGamesPlayed[awayIndex]
+
+
+if __name__ == "__main__":
+    #train()
+    predictGames()
+
 
