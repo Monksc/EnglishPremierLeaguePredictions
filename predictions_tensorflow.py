@@ -34,7 +34,7 @@ def makeModel(input_len, output_len):
         metrics=metrics)
 
 
-    model.load_weights('saved_model/model.ckpt')
+    model.load_weights('saved_model/model2.ckpt')
 
     return model
 
@@ -72,8 +72,8 @@ def train():
     testing_labels   = labels[-100:]
     
     model = makeModel(train_features.shape[1], train_labels.shape[1])
-    #trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
-    #trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
+    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**14)
+    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**12)
         
     print(model.predict(train_features))
     results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
@@ -83,7 +83,7 @@ def train():
         print(name, ': ', value)
     
     # Save the entire model as a SavedModel.
-    model.save_weights("saved_model/model.ckpt".format(epoch=0))
+    model.save_weights("saved_model/model2.ckpt".format(epoch=0))
 
 def predictGames():
 
@@ -95,7 +95,7 @@ def predictGames():
 
     print("SHAPE: ", inputs.shape, labels.shape, outputs.shape)
 
-    print("%20s : %s Goals %s %-20s     Home   Tie    Loss" % ("Home Team", " " * 2, " " * 5, "Away Team"))
+    print("%20s : %s Goals %s %-20s     Home   Tie    Away" % ("Home Team", " " * 2, " " * 5, "Away Team"))
 
     indexToPoints = [0.0 for i in range(len(indexToTeam))]
 
@@ -118,7 +118,8 @@ def predictGames():
         homeTeamPlayed = indexToGamesPlayed[homeIndex]
         awayTeamPlayed = indexToGamesPlayed[awayIndex]
 
-        output = outputs[i]
+        output = np.array(outputs[i])
+        p_output = output / output.sum()
 
         if homeScore != None:
             if homeScore > awayScore:
@@ -129,8 +130,8 @@ def predictGames():
                 indexToPoints[homeIndex] += 1.0
                 indexToPoints[awayIndex] += 1.0
         else:
-            indexToPoints[homeIndex] += output[0] * 3.0 + output[2]
-            indexToPoints[awayIndex] += output[1] * 3.0 + output[2]
+            indexToPoints[homeIndex] += p_output[0] * 3.0 + p_output[2]
+            indexToPoints[awayIndex] += p_output[1] * 3.0 + p_output[2]
 
         if homeScore == None:
             print("%20s : %s vs %s : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, " " * 4, " " * 4, awayTeam, output[0], output[2], output[1]))

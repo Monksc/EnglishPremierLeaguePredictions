@@ -60,8 +60,8 @@ def createA(var, wins_multiplier=1.0, goals_multiplier=0.0, week_multiplier=None
             weight = week_multiplier(week)
 
         if "totals" in collected_data:
-            homeTeamPlayed = collected_data["totals"]["played"][homeIndex]
-            awayTeamPlayed = collected_data["totals"]["played"][awayIndex]
+            homeTeamPlayed = collected_data["totals"]["Hplayed"][homeIndex] + collected_data["totals"]["Aplayed"][homeIndex]
+            awayTeamPlayed = collected_data["totals"]["Hplayed"][awayIndex] + collected_data["totals"]["Aplayed"][awayIndex]
             if homeTeamPlayed == 0:
                 homeTeamPlayed = 1
             if awayTeamPlayed == 0:
@@ -128,55 +128,92 @@ def addAverageToInputs():
             team_count = collected_data["team_count"]
 
             collected_data["totals"] = {
-                    "played" : [0.0 for i in range(team_count)],
-                    "wins"   : [0.0 for i in range(team_count)],
-                    "tie"    : [0.0 for i in range(team_count)],
-                    "loss"   : [0.0 for i in range(team_count)],
-                    "goalsF" : [0.0 for i in range(team_count)],
-                    "goalsA" : [0.0 for i in range(team_count)],
+                    "Hplayed"  : [0.0 for i in range(team_count)],
+                    "Hwins"   : [0.0 for i in range(team_count)],
+                    "Htie"    : [0.0 for i in range(team_count)],
+                    "Hloss"   : [0.0 for i in range(team_count)],
+                    "HgoalsF" : [0.0 for i in range(team_count)],
+                    "HgoalsA" : [0.0 for i in range(team_count)],
+                    "Aplayed"  : [0.0 for i in range(team_count)],
+                    "Awins"   : [0.0 for i in range(team_count)],
+                    "Atie"    : [0.0 for i in range(team_count)],
+                    "Aloss"   : [0.0 for i in range(team_count)],
+                    "AgoalsF" : [0.0 for i in range(team_count)],
+                    "AgoalsA" : [0.0 for i in range(team_count)],
             }
             
         if homeScore != None:
-            collected_data["totals"]["played"][homeIndex] += 1
-            collected_data["totals"]["played"][awayIndex] += 1
+            collected_data["totals"]["Hplayed"][homeIndex] += 1
+            collected_data["totals"]["Aplayed"][awayIndex] += 1
 
-            collected_data["totals"]["goalsF"][homeIndex] += homeScore
-            collected_data["totals"]["goalsF"][awayIndex] += awayScore
+            collected_data["totals"]["HgoalsF"][homeIndex] += homeScore
+            collected_data["totals"]["AgoalsF"][awayIndex] += awayScore
 
-            collected_data["totals"]["goalsA"][homeIndex] += awayScore
-            collected_data["totals"]["goalsA"][awayIndex] += homeScore
+            collected_data["totals"]["HgoalsA"][homeIndex] += awayScore
+            collected_data["totals"]["AgoalsA"][awayIndex] += homeScore
 
             if homeScore > awayScore:
-                collected_data["totals"]["wins"][homeIndex] += 1
-                collected_data["totals"]["loss"][awayIndex] += 1
+                collected_data["totals"]["Hwins"][homeIndex] += 1
+                collected_data["totals"]["Aloss"][awayIndex] += 1
             elif homeScore < awayScore:
-                collected_data["totals"]["wins"][awayIndex] += 1
-                collected_data["totals"]["loss"][homeIndex] += 1
+                collected_data["totals"]["Awins"][awayIndex] += 1
+                collected_data["totals"]["Hloss"][homeIndex] += 1
             else:
-                collected_data["totals"]["tie"][homeIndex] += 1
-                collected_data["totals"]["tie"][awayIndex] += 1
+                collected_data["totals"]["Htie"][homeIndex] += 1
+                collected_data["totals"]["Atie"][awayIndex] += 1
 
         if not(canAddInput):
             return
 
+        
+        # Home
 
-        homeTotal = collected_data["totals"]["played"][homeIndex]
-        awayTotal = collected_data["totals"]["played"][awayIndex]
+        homeTotal = collected_data["totals"]["Hplayed"][homeIndex]
+        awayTotal = collected_data["totals"]["Hplayed"][awayIndex]
+        if homeTotal == 0.0:
+            homeTotal = 1.0
+        if awayTotal == 0.0:
+            awayTotal = 1.0
 
-        collected_data["inputs"][-1].append(collected_data["totals"]["wins"][homeIndex] / homeTotal)
-        collected_data["inputs"][-1].append(collected_data["totals"]["wins"][awayIndex] / awayTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Hwins"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Hwins"][awayIndex] / awayTotal)
 
-        collected_data["inputs"][-1].append(collected_data["totals"]["loss"][homeIndex] / homeTotal)
-        collected_data["inputs"][-1].append(collected_data["totals"]["loss"][awayIndex] / awayTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Hloss"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Hloss"][awayIndex] / awayTotal)
 
-        collected_data["inputs"][-1].append(collected_data["totals"]["tie"][homeIndex] / homeTotal)
-        collected_data["inputs"][-1].append(collected_data["totals"]["tie"][awayIndex] / awayTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Htie"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Htie"][awayIndex] / awayTotal)
 
-        collected_data["inputs"][-1].append(collected_data["totals"]["goalsF"][homeIndex] / homeTotal)
-        collected_data["inputs"][-1].append(collected_data["totals"]["goalsF"][awayIndex] / awayTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["HgoalsF"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["HgoalsF"][awayIndex] / awayTotal)
 
-        collected_data["inputs"][-1].append(collected_data["totals"]["goalsA"][homeIndex] / homeTotal)
-        collected_data["inputs"][-1].append(collected_data["totals"]["goalsA"][awayIndex] / awayTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["HgoalsA"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["HgoalsA"][awayIndex] / awayTotal)
+
+
+        # Away
+
+        homeTotal = collected_data["totals"]["Aplayed"][homeIndex]
+        awayTotal = collected_data["totals"]["Aplayed"][awayIndex]
+        if homeTotal == 0.0:
+            homeTotal = 1.0
+        if awayTotal == 0.0:
+            awayTotal = 1.0
+
+        collected_data["inputs"][-1].append(collected_data["totals"]["Awins"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Awins"][awayIndex] / awayTotal)
+
+        collected_data["inputs"][-1].append(collected_data["totals"]["Aloss"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Aloss"][awayIndex] / awayTotal)
+
+        collected_data["inputs"][-1].append(collected_data["totals"]["Atie"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["Atie"][awayIndex] / awayTotal)
+
+        collected_data["inputs"][-1].append(collected_data["totals"]["AgoalsF"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["AgoalsF"][awayIndex] / awayTotal)
+
+        collected_data["inputs"][-1].append(collected_data["totals"]["AgoalsA"][homeIndex] / homeTotal)
+        collected_data["inputs"][-1].append(collected_data["totals"]["AgoalsA"][awayIndex] / awayTotal)
 
     return f
 
