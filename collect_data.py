@@ -2,7 +2,7 @@ import numpy as np
 import epl
 import pagerank
 
-def loopThroughData(model, funcs, starting_week=10):
+def loopThroughData(model, funcs, only_result=True, starting_week=10):
 
     data, indexToTeam, teamToIndex, indexToGamesPlayed = model
 
@@ -14,21 +14,27 @@ def loopThroughData(model, funcs, starting_week=10):
     
     for i in range(len(data["Home Team"])):
 
+        result = data["Result"][i]
         if not(type(data["Result"][i]) is str):
+            result = ""
             continue
         
-        result = data["Result"][i].split("-")
-        if len(result) != 2:
-            continue
-
         homeTeam = data["Home Team"][i]
         awayTeam = data["Away Team"][i]
 
         homeIndex = teamToIndex[homeTeam]
         awayIndex = teamToIndex[awayTeam]
 
-        homeScore = int(result[0].strip())
-        awayScore = int(result[1].strip())
+        result = result.split("-")
+        if len(result) == 2:
+            homeScore = int(result[0].strip())
+            awayScore = int(result[1].strip())
+        elif only_result:
+            continue
+        else:
+            homeScore = None
+            awayScore = None
+
 
         week = data["Round Number"][i]
         for f in funcs:
@@ -65,6 +71,10 @@ def createA(var, wins_multiplier=1.0, goals_multiplier=0.0, week_multiplier=None
             homeTeamPlayed = 1.0
             awayTeamPlayed = 1.0
     
+        # This is when we are predicting games we havent seen yet
+        if homeScore == None:
+            return
+
         if homeScore > awayScore:
             collected_data[var][awayIndex][homeIndex] += wins_multiplier * (1/homeTeamPlayed) * 3.0 * weight
         elif awayScore < homeScore:
@@ -98,12 +108,15 @@ def addNewInputAndOutput(collected_data, week, canAddInput, homeIndex, awayIndex
         collected_data["inputs"].append([])
 
         result = [0.0, 0.0, 0.0]
-        if homeScore > awayScore:
-            result[0] = 1.0
-        elif homeScore < awayScore:
-            result[1] = 1.0
-        else:
-            result[2] = 1.0
+
+        # This is when we are predicting games we havent seen yet
+        if homeScore != None:
+            if homeScore > awayScore:
+                result[0] = 1.0
+            elif homeScore < awayScore:
+                result[1] = 1.0
+            else:
+                result[2] = 1.0
 
         collected_data["outputs"].append(result)
 
@@ -124,24 +137,25 @@ def addAverageToInputs():
                     "goalsA" : [0.0 for i in range(team_count)],
             }
             
-        collected_data["totals"]["played"][homeIndex] += 1
-        collected_data["totals"]["played"][awayIndex] += 1
+        if homeScore != None:
+            collected_data["totals"]["played"][homeIndex] += 1
+            collected_data["totals"]["played"][awayIndex] += 1
 
-        collected_data["totals"]["goalsF"][homeIndex] += homeScore
-        collected_data["totals"]["goalsF"][awayIndex] += awayScore
+            collected_data["totals"]["goalsF"][homeIndex] += homeScore
+            collected_data["totals"]["goalsF"][awayIndex] += awayScore
 
-        collected_data["totals"]["goalsA"][homeIndex] += awayScore
-        collected_data["totals"]["goalsA"][awayIndex] += homeScore
+            collected_data["totals"]["goalsA"][homeIndex] += awayScore
+            collected_data["totals"]["goalsA"][awayIndex] += homeScore
 
-        if homeScore > awayScore:
-            collected_data["totals"]["wins"][homeIndex] += 1
-            collected_data["totals"]["loss"][awayIndex] += 1
-        elif homeScore < awayScore:
-            collected_data["totals"]["wins"][awayIndex] += 1
-            collected_data["totals"]["loss"][homeIndex] += 1
-        else:
-            collected_data["totals"]["tie"][homeIndex] += 1
-            collected_data["totals"]["tie"][awayIndex] += 1
+            if homeScore > awayScore:
+                collected_data["totals"]["wins"][homeIndex] += 1
+                collected_data["totals"]["loss"][awayIndex] += 1
+            elif homeScore < awayScore:
+                collected_data["totals"]["wins"][awayIndex] += 1
+                collected_data["totals"]["loss"][homeIndex] += 1
+            else:
+                collected_data["totals"]["tie"][homeIndex] += 1
+                collected_data["totals"]["tie"][awayIndex] += 1
 
         if not(canAddInput):
             return
@@ -168,19 +182,19 @@ def addAverageToInputs():
     return f
 
 
-def getAllMyData():
-
-    total_inputs  = []
-    total_outputs = []
-
-    for filename in [
+def getAllMyData(filenames=[
             "old_data/epl-2015.csv",
             "old_data/epl-2016.csv",
             "old_data/epl-2017.csv",
             "old_data/epl-2018.csv",
             "old_data/epl-2019.csv",
             "epl-2020-week-0.csv",
-            ]:
+            ], getAllInputs=False, starting_week=10):
+
+    total_inputs  = []
+    total_outputs = []
+
+    for filename in filenames:
 
         bothFuncs = [
             createA("A",        1.0, 0.0, None),
@@ -208,13 +222,13 @@ def getAllMyData():
         ]
 
         model = epl.getData(filename, False)
-        data = loopThroughData(model, bothFuncs)
+        data = loopThroughData(model, bothFuncs, not(getAllInputs), starting_week)
 
         inputs  = data["inputs"]
         outputs = data["outputs"]
 
         model = epl.getData(filename, True)
-        data = loopThroughData(model, bothFuncs)
+        data = loopThroughData(model, bothFuncs, not(getAllInputs), starting_week)
 
         inps = data["inputs"]
 

@@ -72,7 +72,7 @@ def train():
     testing_labels   = labels[-100:]
     
     model = makeModel(train_features.shape[1], train_labels.shape[1])
-    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
+    #trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
     #trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
         
     print(model.predict(train_features))
@@ -87,33 +87,41 @@ def train():
 
 def predictGames():
 
-    model = makeModel(train_features.shape[1], train_labels.shape[1])
-
+    inputs, labels = cdata.getAllMyData(['epl-2020-week-0.csv'], True, 0)
+    print("SHAPE: ", inputs.shape, labels.shape)
     data, indexToTeam, teamToIndex, indexToGamesPlayed = epl.getData("epl-2020-week-0.csv")
+
+    model = makeModel(inputs.shape[1], labels.shape[1])
+    outputs = model.predict(inputs)
+
+    print("%20s : %s Goals %s %-20s     Home   Tie    Loss" % ("Home Team", " " * 2, " " * 5, "Away Team"))
 
     for i in range(len(data["Home Team"])):
 
-        if data["Round Number"][i] > week:
-            break
-    
         homeTeam = data["Home Team"][i]
         awayTeam = data["Away Team"][i]
     
-        if not(type(data["Result"][i]) is str):
-            continue
-        
-        result = data["Result"][i].split("-")
-        if len(result) != 2:
-            continue
-    
-        homeScore = int(result[0].strip())
-        awayScore = int(result[1].strip())
+        homeScore = None
+        awayScore = None
+        if (type(data["Result"][i]) is str):
+            result = data["Result"][i].split("-")
+            if len(result) == 2:
+                homeScore = int(result[0].strip())
+                awayScore = int(result[1].strip())
     
         homeIndex = teamToIndex[homeTeam]
         awayIndex = teamToIndex[awayTeam]
     
         homeTeamPlayed = indexToGamesPlayed[homeIndex]
         awayTeamPlayed = indexToGamesPlayed[awayIndex]
+
+        output = outputs[i]
+
+        if homeScore == None:
+            print("%20s : %s vs %s : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, " " * 4, " " * 4, awayTeam, output[0], output[2], output[1]))
+        else:
+            print("%20s : %4.2f vs %4.2f : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, homeScore, awayScore, awayTeam, output[0], output[2], output[1]))
+        #print(homeTeam, ':', homeScore, '\tvs\t', awayTeam, ':', awayScore, "\t", "%.2f" % output[0], "%.2f" % output[1], "%.2f" % output[2]) 
 
 
 if __name__ == "__main__":
