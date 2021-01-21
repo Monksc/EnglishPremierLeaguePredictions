@@ -14,7 +14,9 @@ Currently it doesnt predict score. You can do a page rank to see who is the bett
 
 # Neural Network
 Uses several variations to page rank, wins, tie, loss, from home to away games to see
-    the chance a team has to win.
+    the chance a team has to win. Currently the model is extremly overfitted just to see
+    my limits for how big the model can be. I also need more data on past seasons. Only
+    have seasons 2015-2016+
 ```
 python3 predictions_tensorflow.py
 ```
