@@ -17,7 +17,6 @@ def loopThroughData(model, funcs, only_result=True, starting_week=10):
         result = data["Result"][i]
         if not(type(data["Result"][i]) is str):
             result = ""
-            continue
         
         homeTeam = data["Home Team"][i]
         awayTeam = data["Away Team"][i]

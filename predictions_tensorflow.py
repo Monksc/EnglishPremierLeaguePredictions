@@ -88,13 +88,16 @@ def train():
 def predictGames():
 
     inputs, labels = cdata.getAllMyData(['epl-2020-week-0.csv'], True, 0)
-    print("SHAPE: ", inputs.shape, labels.shape)
     data, indexToTeam, teamToIndex, indexToGamesPlayed = epl.getData("epl-2020-week-0.csv")
 
     model = makeModel(inputs.shape[1], labels.shape[1])
     outputs = model.predict(inputs)
 
+    print("SHAPE: ", inputs.shape, labels.shape, outputs.shape)
+
     print("%20s : %s Goals %s %-20s     Home   Tie    Loss" % ("Home Team", " " * 2, " " * 5, "Away Team"))
+
+    indexToPoints = [0.0 for i in range(len(indexToTeam))]
 
     for i in range(len(data["Home Team"])):
 
@@ -117,11 +120,29 @@ def predictGames():
 
         output = outputs[i]
 
+        if homeScore != None:
+            if homeScore > awayScore:
+                indexToPoints[homeIndex] += 3.0
+            elif homeScore < awayScore:
+                indexToPoints[awayIndex] += 3.0
+            else:
+                indexToPoints[homeIndex] += 1.0
+                indexToPoints[awayIndex] += 1.0
+        else:
+            indexToPoints[homeIndex] += output[0] * 3.0 + output[2]
+            indexToPoints[awayIndex] += output[1] * 3.0 + output[2]
+
         if homeScore == None:
             print("%20s : %s vs %s : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, " " * 4, " " * 4, awayTeam, output[0], output[2], output[1]))
         else:
-            print("%20s : %4.2f vs %4.2f : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, homeScore, awayScore, awayTeam, output[0], output[2], output[1]))
-        #print(homeTeam, ':', homeScore, '\tvs\t', awayTeam, ':', awayScore, "\t", "%.2f" % output[0], "%.2f" % output[1], "%.2f" % output[2]) 
+            print("%20s : %4d vs %-4d : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, homeScore, awayScore, awayTeam, output[0], output[2], output[1]))
+
+    points = np.array([indexToPoints, np.arange(len(indexToPoints))])
+    points = np.array(sorted(points.T, key=lambda x:x[0], reverse=True))
+    print("\n\n")
+    print("   %-30s %5s" % ("Team", "Points"))
+    for i in range(len(points)):
+        print("%2d %-30s %5.3f" % (i+1, indexToTeam[int(points[i][1])], points[i][0]))
 
 
 if __name__ == "__main__":
