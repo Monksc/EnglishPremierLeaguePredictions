@@ -9,12 +9,18 @@ print(tf.version.VERSION)
 
 def makeModel(input_len, output_len):
 
+    #model = keras.Sequential([
+    #    keras.layers.Dense(64, activation='sigmoid', input_shape=(input_len,)),
+    #    keras.layers.Dense(64, activation='sigmoid'),
+    #    keras.layers.Dense(64, activation='sigmoid'),
+    #    keras.layers.Dense(output_len, activation='sigmoid',
+    #        bias_initializer=None),
+    #])
+
     model = keras.Sequential([
-        keras.layers.Dense(64, activation='sigmoid', input_shape=(input_len,)),
-        keras.layers.Dense(64, activation='sigmoid'),
-        keras.layers.Dense(64, activation='sigmoid'),
-        keras.layers.Dense(output_len, activation='sigmoid',
-            bias_initializer=None),
+        keras.layers.Dense(output_len, activation='sigmoid', input_shape=(input_len,)),
+        #keras.layers.Dense(output_len, activation='sigmoid',
+            #bias_initializer=None),
     ])
     
     metrics = [
@@ -34,7 +40,7 @@ def makeModel(input_len, output_len):
         metrics=metrics)
 
 
-    model.load_weights('saved_model/model2.ckpt')
+    model.load_weights('saved_model/model4.ckpt')
 
     return model
 
@@ -72,8 +78,8 @@ def train():
     testing_labels   = labels[-100:]
     
     model = makeModel(train_features.shape[1], train_labels.shape[1])
-    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**14)
-    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**12)
+    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
+    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
         
     print(model.predict(train_features))
     results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
@@ -83,7 +89,7 @@ def train():
         print(name, ': ', value)
     
     # Save the entire model as a SavedModel.
-    model.save_weights("saved_model/model2.ckpt".format(epoch=0))
+    model.save_weights("saved_model/model4.ckpt")
 
 def predictGames():
 
@@ -95,7 +101,7 @@ def predictGames():
 
     print("SHAPE: ", inputs.shape, labels.shape, outputs.shape)
 
-    print("%20s : %s Goals %s %-20s     Home   Tie    Away" % ("Home Team", " " * 2, " " * 5, "Away Team"))
+    print("%20s : %s Goals %s %-20s     Home   Tie    Away         Accurate (Should be close to 1 for accuracy)" % ("Home Team", " " * 2, " " * 5, "Away Team"))
 
     indexToPoints = [0.0 for i in range(len(indexToTeam))]
 
@@ -134,9 +140,11 @@ def predictGames():
             indexToPoints[awayIndex] += p_output[1] * 3.0 + p_output[2]
 
         if homeScore == None:
-            print("%20s : %s vs %s : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, " " * 4, " " * 4, awayTeam, output[0], output[2], output[1]))
+            print("%20s : %s vs %s : %-20s     %4.2f   %4.2f   %4.2f   %10.2f %8.2f" % 
+                    (homeTeam, " " * 4, " " * 4, awayTeam, p_output[0], p_output[2], p_output[1], output.sum(), 1.0 - (5 * (output.sum() - 1.0)) ** 2))
         else:
-            print("%20s : %4d vs %-4d : %-20s     %4.2f   %4.2f   %4.2f" % (homeTeam, homeScore, awayScore, awayTeam, output[0], output[2], output[1]))
+            print("%20s : %4d vs %-4d : %-20s     %4.2f   %4.2f   %4.2f   %10.2f %8.2f" % 
+                    (homeTeam, homeScore, awayScore, awayTeam, p_output[0], p_output[2], p_output[1], output.sum(), 1.0 - (5 * (output.sum() - 1.0)) ** 2))
 
     points = np.array([indexToPoints, np.arange(len(indexToPoints))])
     points = np.array(sorted(points.T, key=lambda x:x[0], reverse=True))
@@ -147,7 +155,7 @@ def predictGames():
 
 
 if __name__ == "__main__":
-    #train()
+    train()
     predictGames()
 
 

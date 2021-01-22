@@ -219,6 +219,12 @@ def addAverageToInputs():
 
 
 def getAllMyData(filenames=[
+            "old_data/epl-2009.csv",
+            "old_data/epl-2010.csv",
+            "old_data/epl-2011.csv",
+            "old_data/epl-2012.csv",
+            "old_data/epl-2013.csv",
+            "old_data/epl-2014.csv",
             "old_data/epl-2015.csv",
             "old_data/epl-2016.csv",
             "old_data/epl-2017.csv",
