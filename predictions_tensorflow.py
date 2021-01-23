@@ -9,18 +9,9 @@ print(tf.version.VERSION)
 
 def makeModel(input_len, output_len):
 
-    #model = keras.Sequential([
-    #    keras.layers.Dense(64, activation='sigmoid', input_shape=(input_len,)),
-    #    keras.layers.Dense(64, activation='sigmoid'),
-    #    keras.layers.Dense(64, activation='sigmoid'),
-    #    keras.layers.Dense(output_len, activation='sigmoid',
-    #        bias_initializer=None),
-    #])
-
     model = keras.Sequential([
-        keras.layers.Dense(output_len, activation='sigmoid', input_shape=(input_len,)),
-        #keras.layers.Dense(output_len, activation='sigmoid',
-            #bias_initializer=None),
+        keras.layers.Dense(8, activation='sigmoid', input_shape=(input_len,)),
+        keras.layers.Dense(output_len, activation='sigmoid'),
     ])
     
     metrics = [
@@ -71,15 +62,17 @@ def train():
     features = features[indexes,]
     labels = labels[indexes,]
     
-    train_features = features[:-100]
-    train_labels = labels[:-100]
+    train_size = 256
+
+    train_features = features[:-train_size]
+    train_labels = labels[:-train_size]
     
-    testing_features = features[-100:]
-    testing_labels   = labels[-100:]
+    testing_features = features[-train_size:]
+    testing_labels   = labels[-train_size:]
     
     model = makeModel(train_features.shape[1], train_labels.shape[1])
-    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**12)
-    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
+    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**14)
+    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**12)
         
     print(model.predict(train_features))
     results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
@@ -90,6 +83,8 @@ def train():
     
     # Save the entire model as a SavedModel.
     model.save_weights("saved_model/model4.ckpt")
+
+    print("Training Features Shape: ", train_features.shape, "Testing Labels Shape: ", testing_labels.shape)
 
 def predictGames():
 
@@ -155,7 +150,7 @@ def predictGames():
 
 
 if __name__ == "__main__":
-    train()
+    #train()
     predictGames()
 
 
