@@ -219,15 +219,32 @@ def addAverageToInputs():
 
 
 def getAllMyData(filenames=[
-            "old_data/epl-2009.csv",
-            "old_data/epl-2010.csv",
-            "old_data/epl-2011.csv",
-            "old_data/epl-2012.csv",
-            "old_data/epl-2013.csv",
-            "old_data/epl-2014.csv",
-            "old_data/epl-2015.csv",
-            "old_data/epl-2016.csv",
-            "old_data/epl-2017.csv",
+            #"old_data/bundesliga-2018.csv",
+            #"old_data/bundesliga-2019.csv",
+            #"old_data/bundesliga-2020.csv",
+            #"old_data/efl-championship-2019.csv",
+            #"old_data/efl-championship-2020.csv",
+            #"old_data/la-liga-2018.csv",
+            #"old_data/la-liga-2019.csv",
+            ##"old_data/la-liga-2020.csv",
+            #"old_data/ligue-1-2018.csv",
+            #"old_data/ligue-1-2019.csv",
+            #"old_data/ligue-1-2020.csv",
+            #"old_data/serie-a-2017.csv",
+            #"old_data/serie-a-2018.csv",
+            #"old_data/serie-a-2019.csv",
+            #"old_data/serie-a-2020.csv",
+            #"old_data/turkey-super-lig-2019.csv",
+            #"old_data/turkey-super-lig-2020.csv",
+            #"old_data/epl-2009.csv",
+            #"old_data/epl-2010.csv",
+            #"old_data/epl-2011.csv",
+            #"old_data/epl-2012.csv",
+            #"old_data/epl-2013.csv",
+            #"old_data/epl-2014.csv",
+            #"old_data/epl-2015.csv",
+            #"old_data/epl-2016.csv",
+            #"old_data/epl-2017.csv",
             "old_data/epl-2018.csv",
             "old_data/epl-2019.csv",
             "epl-2020-week-0.csv",
@@ -238,11 +255,13 @@ def getAllMyData(filenames=[
 
     for filename in filenames:
 
+        print("READING ", filename)
+
         bothFuncs = [
             createA("A",        1.0, 0.0, None),
-            createA("A-week",   1.0, 0.0, createWeekMultiplier(42)),
+            createA("A-week",   1.0, 0.0, createWeekMultiplier(47)),
             createA("A-G",      0.0, 1.0, None),
-            createA("A-G-week", 0.0, 1.0, createWeekMultiplier(42)),
+            createA("A-G-week", 0.0, 1.0, createWeekMultiplier(47)),
             addNewInputAndOutput,
             addRankToInputs("A"),
             addRankToInputs("A-week"),
@@ -253,9 +272,9 @@ def getAllMyData(filenames=[
 
         repeatFuncs = [
             createA("A",        1.0, 0.0, None),
-            createA("A-week",   1.0, 0.0, createWeekMultiplier(42)),
+            createA("A-week",   1.0, 0.0, createWeekMultiplier(47)),
             createA("A-G",      0.0, 1.0, None),
-            createA("A-G-week", 0.0, 1.0, createWeekMultiplier(42)),
+            createA("A-G-week", 0.0, 1.0, createWeekMultiplier(47)),
             addNewInputAndOutput,
             addRankToInputs("A"),
             addRankToInputs("A-week"),

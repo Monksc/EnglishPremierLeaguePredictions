@@ -4,7 +4,7 @@ Predicts Matches for the English Premier League. Can be changed for other league
 # Page Rank
 To do a page rank to see predictions for ranking of teams and predictions for end of season type in
 ```
-python3 eply.py <csv file for schedule> <week>
+python3 epl.py <csv file for schedule> <week>
 ```
 
 # Predicting Games
@@ -14,9 +14,11 @@ Currently it doesnt predict score. You can do a page rank to see who is the bett
 
 # Neural Network
 Uses several variations to page rank, wins, tie, loss, from home to away games to see
-    the chance a team has to win. Currently the model is extremly overfitted just to see
-    my limits for how big the model can be. I also need more data on past seasons. Only
-    have seasons 2015-2016+
+    the chance a team has to win. 
 ```
 python3 predictions_tensorflow.py
 ```
+
+# Folder 'old_data'
+This folder contains data from other leagues from previous years. The name format usually goes by
+    "{name of the league}-{year season started}"

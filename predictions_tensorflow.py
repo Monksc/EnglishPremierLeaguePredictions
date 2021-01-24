@@ -7,10 +7,17 @@ import epl
 
 print(tf.version.VERSION)
 
-def makeModel(input_len, output_len):
+def makeModel(inputs, output_len):
+
+    input = tf.keras.Input(shape=(inputs.shape[1],))
+    norm = keras.layers.experimental.preprocessing.Normalization()
+    norm.adapt(inputs)
+    layer1 = norm(input)
 
     model = keras.Sequential([
-        keras.layers.Dense(8, activation='sigmoid', input_shape=(input_len,)),
+        layer1,
+        keras.layers.Dense(8, activation='sigmoid', input_shape=(inputs.shape[1],)),
+        keras.layers.Dense(6, activation='sigmoid'),
         keras.layers.Dense(output_len, activation='sigmoid'),
     ])
     
@@ -31,13 +38,18 @@ def makeModel(input_len, output_len):
         metrics=metrics)
 
 
-    model.load_weights('saved_model/model4.ckpt')
+    #model.load_weights('saved_model/model5.ckpt')
 
     return model
 
 def trainModel(model, train_features, train_labels, batch_size=128, epochs=16):
 
+    print("SHAPES:")
     print(train_features.shape, train_labels.shape)
+    for i in range(len(train_labels)):
+        if train_labels[i].max() > 1.0 or train_labels[i].min() < 0:
+            print(train_labels[i])
+
     
     careful_bias_history = model.fit(
         train_features,
@@ -62,7 +74,7 @@ def train():
     features = features[indexes,]
     labels = labels[indexes,]
     
-    train_size = 256
+    train_size = 1000
 
     train_features = features[:-train_size]
     train_labels = labels[:-train_size]
@@ -70,9 +82,9 @@ def train():
     testing_features = features[-train_size:]
     testing_labels   = labels[-train_size:]
     
-    model = makeModel(train_features.shape[1], train_labels.shape[1])
-    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**14)
-    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**12)
+    model = makeModel(train_features, train_labels.shape[1])
+    trainModel(model, train_features, train_labels, batch_size=128, epochs=2**10)
+    trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
         
     print(model.predict(train_features))
     results = model.evaluate(testing_features, testing_labels, batch_size=len(testing_features), verbose=0)
@@ -82,16 +94,16 @@ def train():
         print(name, ': ', value)
     
     # Save the entire model as a SavedModel.
-    model.save_weights("saved_model/model4.ckpt")
+    model.save_weights("saved_model/model5.ckpt")
 
     print("Training Features Shape: ", train_features.shape, "Testing Labels Shape: ", testing_labels.shape)
 
-def predictGames():
+def predictGames(filename):
 
-    inputs, labels = cdata.getAllMyData(['epl-2020-week-0.csv'], True, 0)
-    data, indexToTeam, teamToIndex, indexToGamesPlayed = epl.getData("epl-2020-week-0.csv")
+    inputs, labels = cdata.getAllMyData([filename], True, 0)
+    data, indexToTeam, teamToIndex, indexToGamesPlayed = epl.getData(filename)
 
-    model = makeModel(inputs.shape[1], labels.shape[1])
+    model = makeModel(inputs, labels.shape[1])
     outputs = model.predict(inputs)
 
     print("SHAPE: ", inputs.shape, labels.shape, outputs.shape)
@@ -150,7 +162,12 @@ def predictGames():
 
 
 if __name__ == "__main__":
-    #train()
-    predictGames()
-
-
+    train()
+    predictGames('epl-2020-week-0.csv')
+    #predictGames('old_data/efl-championship-2020.csv')
+    #predictGames('old_data/la-liga-2019.csv')
+    #predictGames('old_data/bundesliga-2020.csv')
+    #predictGames('old_data/ligue-1-2020.csv')
+    #predictGames('old_data/serie-a-2020.csv')
+    #predictGames('old_data/turkey-super-lig-2020.csv')
+    #predictGames('test.csv')
