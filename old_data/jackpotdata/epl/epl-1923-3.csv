@@ -1,0 +1,925 @@
+,Round Number,Date,Home Team,Away Team,Result
+21068,0,1923-08-25,Barrow,Hartlepool United,1 - 2
+21069,0,1923-08-25,Bradford Park Avenue,New Brighton,1 - 1
+21070,0,1923-08-25,Chesterfield,Wolverhampton Wanderers,0 - 0
+21071,0,1923-08-25,Darlington,Accrington Stanley,2 - 1
+21072,0,1923-08-25,Doncaster Rovers,Wigan Borough,0 - 0
+21073,0,1923-08-25,Lincoln City,Halifax Town,1 - 1
+21074,0,1923-08-25,Rochdale,Durham City,2 - 0
+21075,0,1923-08-25,Rotherham County,Walsall,0 - 2
+21076,0,1923-08-25,Southport,Crewe Alexandra,1 - 0
+21077,0,1923-08-25,Tranmere Rovers,Grimsby Town,2 - 1
+21078,0,1923-08-25,Wrexham,Ashington,4 - 0
+21079,0,1923-08-25,Charlton Athletic,Aberdare Athletic,3 - 1
+21080,0,1923-08-25,Gillingham,Bristol Rovers,1 - 0
+21081,0,1923-08-25,Merthyr Town,Southend United,3 - 2
+21082,0,1923-08-25,Newport County,Exeter City,2 - 0
+21083,0,1923-08-25,Northampton Town,Brighton & Hove Albion,3 - 0
+21084,0,1923-08-25,Norwich City,Millwall,1 - 1
+21085,0,1923-08-25,Plymouth Argyle,Portsmouth,1 - 2
+21086,0,1923-08-25,Queens Park Rangers,Brentford,1 - 0
+21087,0,1923-08-25,Swansea City,Luton Town,1 - 0
+21088,0,1923-08-25,Swindon Town,AFC Bournemouth,3 - 1
+21089,0,1923-08-25,Watford,Reading,2 - 1
+21108,0,1923-08-27,Ashington,Doncaster Rovers,3 - 1
+21109,1,1923-08-27,Grimsby Town,Bradford Park Avenue,2 - 0
+21110,1,1923-08-27,Halifax Town,Tranmere Rovers,0 - 0
+21111,1,1923-08-27,Walsall,Wrexham,1 - 2
+21112,1,1923-08-27,Wigan Borough,Rochdale,3 - 0
+21113,1,1923-08-27,Wolverhampton Wanderers,Rotherham County,3 - 0
+21114,1,1923-08-27,Aberdare Athletic,Norwich City,0 - 0
+21115,1,1923-08-27,Brentford,Plymouth Argyle,1 - 1
+21116,1,1923-08-27,Bristol Rovers,Queens Park Rangers,2 - 1
+21117,1,1923-08-27,Luton Town,Northampton Town,1 - 1
+21118,1,1923-08-27,Millwall,Swindon Town,1 - 0
+21119,1,1923-08-27,Southend United,Charlton Athletic,2 - 2
+21124,1,1923-08-29,Crewe Alexandra,Darlington,2 - 1
+21125,1,1923-08-29,Durham City,Southport,0 - 1
+21126,1,1923-08-29,New Brighton,Chesterfield,0 - 0
+21127,1,1923-08-29,Brighton & Hove Albion,Gillingham,2 - 2
+21128,1,1923-08-29,Exeter City,Merthyr Town,1 - 0
+21129,1,1923-08-29,Portsmouth,Newport County,5 - 0
+21130,1,1923-08-29,Reading,Swansea City,3 - 4
+21153,1,1923-09-01,Accrington Stanley,Darlington,2 - 0
+21154,1,1923-09-01,Ashington,Wrexham,0 - 2
+21155,2,1923-09-01,Crewe Alexandra,Southport,1 - 1
+21156,2,1923-09-01,Durham City,Rochdale,0 - 0
+21157,2,1923-09-01,Grimsby Town,Tranmere Rovers,0 - 0
+21158,2,1923-09-01,Halifax Town,Lincoln City,1 - 0
+21159,2,1923-09-01,Hartlepool United,Barrow,1 - 0
+21160,2,1923-09-01,New Brighton,Bradford Park Avenue,1 - 0
+21161,2,1923-09-01,Walsall,Rotherham County,1 - 1
+21162,2,1923-09-01,Wigan Borough,Doncaster Rovers,1 - 0
+21163,2,1923-09-01,Wolverhampton Wanderers,Chesterfield,2 - 1
+21164,2,1923-09-01,Aberdare Athletic,Charlton Athletic,4 - 1
+21165,2,1923-09-01,AFC Bournemouth,Swindon Town,0 - 0
+21166,2,1923-09-01,Brentford,Queens Park Rangers,0 - 1
+21167,2,1923-09-01,Brighton & Hove Albion,Northampton Town,2 - 0
+21168,2,1923-09-01,Bristol Rovers,Gillingham,2 - 0
+21169,2,1923-09-01,Exeter City,Newport County,5 - 0
+21170,2,1923-09-01,Luton Town,Swansea City,1 - 2
+21171,2,1923-09-01,Millwall,Norwich City,2 - 1
+21172,2,1923-09-01,Portsmouth,Plymouth Argyle,2 - 1
+21173,2,1923-09-01,Reading,Watford,1 - 1
+21174,2,1923-09-01,Southend United,Merthyr Town,3 - 1
+21189,2,1923-09-03,Barrow,Accrington Stanley,0 - 0
+21190,3,1923-09-03,Bradford Park Avenue,Grimsby Town,2 - 1
+21191,3,1923-09-03,Chesterfield,New Brighton,1 - 0
+21192,3,1923-09-03,Doncaster Rovers,Ashington,2 - 1
+21193,3,1923-09-03,Rochdale,Wigan Borough,1 - 0
+21194,3,1923-09-03,Rotherham County,Wolverhampton Wanderers,1 - 1
+21195,3,1923-09-03,Charlton Athletic,Southend United,4 - 1
+21196,3,1923-09-03,Northampton Town,Luton Town,2 - 0
+21197,3,1923-09-03,Norwich City,Aberdare Athletic,5 - 0
+21198,3,1923-09-03,Plymouth Argyle,Brentford,4 - 1
+21199,3,1923-09-03,Swansea City,Reading,5 - 1
+21200,3,1923-09-03,Swindon Town,Millwall,1 - 0
+21202,3,1923-09-04,Southport,Durham City,1 - 0
+21207,3,1923-09-05,Darlington,Crewe Alexandra,1 - 1
+21208,3,1923-09-05,Lincoln City,Hartlepool United,1 - 1
+21209,3,1923-09-05,Wrexham,Walsall,0 - 0
+21210,3,1923-09-05,Gillingham,Brighton & Hove Albion,1 - 1
+21211,3,1923-09-05,Queens Park Rangers,Bristol Rovers,1 - 2
+21212,3,1923-09-05,Watford,AFC Bournemouth,0 - 0
+21213,3,1923-09-06,Tranmere Rovers,Halifax Town,3 - 0
+21214,3,1923-09-06,Merthyr Town,Exeter City,3 - 0
+21215,3,1923-09-06,Newport County,Portsmouth,2 - 1
+21238,3,1923-09-08,Accrington Stanley,New Brighton,0 - 0
+21239,4,1923-09-08,Bradford Park Avenue,Rochdale,4 - 2
+21240,4,1923-09-08,Chesterfield,Doncaster Rovers,2 - 1
+21241,4,1923-09-08,Crewe Alexandra,Wolverhampton Wanderers,0 - 0
+21242,4,1923-09-08,Darlington,Hartlepool United,5 - 0
+21243,4,1923-09-08,Durham City,Walsall,1 - 0
+21244,4,1923-09-08,Halifax Town,Grimsby Town,1 - 3
+21245,4,1923-09-08,Lincoln City,Barrow,4 - 1
+21246,4,1923-09-08,Rotherham County,Wrexham,2 - 1
+21247,4,1923-09-08,Tranmere Rovers,Southport,1 - 1
+21248,4,1923-09-08,Wigan Borough,Ashington,1 - 1
+21249,4,1923-09-08,Aberdare Athletic,Millwall,1 - 1
+21250,4,1923-09-08,Brentford,Luton Town,2 - 1
+21251,4,1923-09-08,Bristol Rovers,Brighton & Hove Albion,2 - 0
+21252,4,1923-09-08,Charlton Athletic,Merthyr Town,1 - 0
+21253,4,1923-09-08,Exeter City,AFC Bournemouth,0 - 2
+21254,4,1923-09-08,Newport County,Southend United,5 - 0
+21255,4,1923-09-08,Norwich City,Plymouth Argyle,0 - 1
+21256,4,1923-09-08,Portsmouth,Reading,1 - 1
+21257,4,1923-09-08,Swansea City,Northampton Town,2 - 1
+21258,4,1923-09-08,Swindon Town,Queens Park Rangers,0 - 0
+21259,4,1923-09-08,Watford,Gillingham,1 - 1
+21262,4,1923-09-10,Aberdare Athletic,Brentford,1 - 2
+21263,5,1923-09-10,Northampton Town,Bristol Rovers,0 - 0
+21264,5,1923-09-10,Norwich City,Watford,0 - 0
+21268,5,1923-09-12,New Brighton,Durham City,2 - 0
+21269,5,1923-09-12,Exeter City,Portsmouth,0 - 0
+21270,5,1923-09-12,Queens Park Rangers,Newport County,0 - 3
+21293,5,1923-09-15,Ashington,Wigan Borough,3 - 0
+21294,5,1923-09-15,Barrow,Lincoln City,2 - 1
+21295,5,1923-09-15,Doncaster Rovers,Chesterfield,0 - 2
+21296,5,1923-09-15,Grimsby Town,Halifax Town,1 - 1
+21297,5,1923-09-15,Hartlepool United,Darlington,0 - 1
+21298,5,1923-09-15,New Brighton,Accrington Stanley,1 - 2
+21299,6,1923-09-15,Rochdale,Bradford Park Avenue,3 - 0
+21300,6,1923-09-15,Southport,Tranmere Rovers,1 - 1
+21301,6,1923-09-15,Walsall,Durham City,1 - 1
+21302,6,1923-09-15,Wolverhampton Wanderers,Crewe Alexandra,1 - 0
+21303,6,1923-09-15,Wrexham,Rotherham County,1 - 0
+21304,6,1923-09-15,AFC Bournemouth,Exeter City,1 - 0
+21305,6,1923-09-15,Brighton & Hove Albion,Bristol Rovers,2 - 1
+21306,6,1923-09-15,Gillingham,Watford,0 - 0
+21307,6,1923-09-15,Luton Town,Brentford,2 - 1
+21308,6,1923-09-15,Merthyr Town,Charlton Athletic,2 - 1
+21309,6,1923-09-15,Millwall,Aberdare Athletic,2 - 0
+21310,6,1923-09-15,Northampton Town,Swansea City,2 - 0
+21311,6,1923-09-15,Plymouth Argyle,Norwich City,2 - 0
+21312,6,1923-09-15,Queens Park Rangers,Swindon Town,2 - 2
+21313,6,1923-09-15,Reading,Portsmouth,1 - 4
+21314,6,1923-09-15,Southend United,Newport County,2 - 0
+21317,6,1923-09-19,Wrexham,Wigan Borough,0 - 0
+21318,7,1923-09-19,AFC Bournemouth,Watford,1 - 1
+21319,7,1923-09-19,Southend United,Portsmouth,0 - 1
+21342,7,1923-09-22,Accrington Stanley,Wolverhampton Wanderers,1 - 0
+21343,7,1923-09-22,Bradford Park Avenue,Southport,2 - 0
+21344,7,1923-09-22,Chesterfield,Rochdale,1 - 1
+21345,7,1923-09-22,Crewe Alexandra,Walsall,2 - 0
+21346,7,1923-09-22,Darlington,Wrexham,3 - 0
+21347,7,1923-09-22,Halifax Town,New Brighton,2 - 1
+21348,7,1923-09-22,Lincoln City,Grimsby Town,1 - 3
+21349,7,1923-09-22,Rotherham County,Doncaster Rovers,3 - 0
+21350,7,1923-09-22,Tranmere Rovers,Barrow,3 - 0
+21351,7,1923-09-22,Wigan Borough,Hartlepool United,4 - 1
+21352,8,1923-09-22,Aberdare Athletic,AFC Bournemouth,1 - 0
+21353,8,1923-09-22,Brentford,Brighton & Hove Albion,1 - 2
+21354,8,1923-09-22,Bristol Rovers,Southend United,3 - 1
+21355,8,1923-09-22,Charlton Athletic,Millwall,0 - 1
+21356,8,1923-09-22,Exeter City,Reading,3 - 2
+21357,8,1923-09-22,Newport County,Northampton Town,1 - 1
+21358,8,1923-09-22,Norwich City,Merthyr Town,2 - 0
+21359,8,1923-09-22,Portsmouth,Luton Town,3 - 0
+21360,8,1923-09-22,Swansea City,Gillingham,3 - 1
+21361,8,1923-09-22,Swindon Town,Plymouth Argyle,0 - 1
+21362,8,1923-09-22,Watford,Queens Park Rangers,0 - 2
+21364,8,1923-09-25,Accrington Stanley,Barrow,3 - 1
+21387,8,1923-09-29,Ashington,Durham City,2 - 1
+21388,8,1923-09-29,Barrow,Tranmere Rovers,1 - 1
+21389,9,1923-09-29,Doncaster Rovers,Rotherham County,0 - 1
+21390,9,1923-09-29,Grimsby Town,Lincoln City,2 - 2
+21391,9,1923-09-29,Hartlepool United,Wigan Borough,0 - 0
+21392,9,1923-09-29,New Brighton,Halifax Town,2 - 0
+21393,9,1923-09-29,Rochdale,Chesterfield,3 - 0
+21394,9,1923-09-29,Southport,Bradford Park Avenue,1 - 0
+21395,9,1923-09-29,Walsall,Crewe Alexandra,1 - 0
+21396,9,1923-09-29,Wolverhampton Wanderers,Accrington Stanley,5 - 1
+21397,9,1923-09-29,Wrexham,Darlington,0 - 1
+21398,9,1923-09-29,AFC Bournemouth,Aberdare Athletic,0 - 1
+21399,9,1923-09-29,Brighton & Hove Albion,Brentford,2 - 0
+21400,9,1923-09-29,Gillingham,Swansea City,0 - 1
+21401,9,1923-09-29,Luton Town,Portsmouth,4 - 1
+21402,9,1923-09-29,Merthyr Town,Norwich City,2 - 3
+21403,9,1923-09-29,Millwall,Charlton Athletic,1 - 0
+21404,9,1923-09-29,Northampton Town,Newport County,0 - 0
+21405,9,1923-09-29,Plymouth Argyle,Swindon Town,1 - 3
+21406,9,1923-09-29,Queens Park Rangers,Watford,2 - 1
+21407,9,1923-09-29,Reading,Exeter City,1 - 0
+21408,9,1923-09-29,Southend United,Bristol Rovers,1 - 0
+21432,9,1923-10-06,Accrington Stanley,Walsall,0 - 3
+21433,10,1923-10-06,Bradford Park Avenue,Barrow,3 - 0
+21434,10,1923-10-06,Chesterfield,Southport,4 - 0
+21435,10,1923-10-06,Crewe Alexandra,Ashington,1 - 3
+21436,10,1923-10-06,Doncaster Rovers,Wrexham,1 - 0
+21437,10,1923-10-06,Halifax Town,Wolverhampton Wanderers,2 - 2
+21438,10,1923-10-06,Hartlepool United,Grimsby Town,1 - 1
+21439,10,1923-10-06,Lincoln City,Darlington,2 - 0
+21440,10,1923-10-06,New Brighton,Tranmere Rovers,0 - 0
+21441,10,1923-10-06,Rotherham County,Rochdale,0 - 0
+21442,10,1923-10-06,Wigan Borough,Durham City,0 - 1
+21443,10,1923-10-06,Aberdare Athletic,Reading,1 - 0
+21444,10,1923-10-06,Bristol Rovers,Brentford,2 - 0
+21445,10,1923-10-06,Charlton Athletic,Newport County,2 - 1
+21446,10,1923-10-06,Exeter City,Luton Town,2 - 1
+21447,10,1923-10-06,Gillingham,Northampton Town,1 - 1
+21448,10,1923-10-06,Norwich City,AFC Bournemouth,1 - 1
+21449,10,1923-10-06,Portsmouth,Brighton & Hove Albion,1 - 3
+21450,10,1923-10-06,Southend United,Millwall,0 - 0
+21451,10,1923-10-06,Swansea City,Queens Park Rangers,2 - 0
+21452,10,1923-10-06,Swindon Town,Merthyr Town,3 - 0
+21453,10,1923-10-06,Watford,Plymouth Argyle,0 - 1
+21476,10,1923-10-13,Ashington,Crewe Alexandra,3 - 0
+21477,11,1923-10-13,Barrow,Bradford Park Avenue,1 - 1
+21478,11,1923-10-13,Darlington,Lincoln City,1 - 0
+21479,11,1923-10-13,Durham City,Wigan Borough,2 - 2
+21480,11,1923-10-13,Grimsby Town,Hartlepool United,0 - 1
+21481,11,1923-10-13,Rochdale,Rotherham County,1 - 0
+21482,11,1923-10-13,Southport,Chesterfield,1 - 0
+21483,11,1923-10-13,Tranmere Rovers,New Brighton,1 - 2
+21484,11,1923-10-13,Walsall,Accrington Stanley,2 - 0
+21485,11,1923-10-13,Wolverhampton Wanderers,Halifax Town,4 - 0
+21486,11,1923-10-13,Wrexham,Doncaster Rovers,2 - 2
+21487,11,1923-10-13,AFC Bournemouth,Norwich City,1 - 2
+21488,11,1923-10-13,Brentford,Bristol Rovers,1 - 2
+21489,11,1923-10-13,Brighton & Hove Albion,Portsmouth,0 - 4
+21490,11,1923-10-13,Luton Town,Exeter City,1 - 0
+21491,11,1923-10-13,Merthyr Town,Swindon Town,2 - 0
+21492,11,1923-10-13,Millwall,Southend United,0 - 0
+21493,11,1923-10-13,Newport County,Charlton Athletic,0 - 1
+21494,11,1923-10-13,Northampton Town,Gillingham,2 - 0
+21495,11,1923-10-13,Plymouth Argyle,Watford,1 - 0
+21496,11,1923-10-13,Queens Park Rangers,Swansea City,2 - 2
+21497,11,1923-10-13,Reading,Aberdare Athletic,0 - 1
+21522,11,1923-10-20,Ashington,Accrington Stanley,1 - 1
+21523,12,1923-10-20,Bradford Park Avenue,Wolverhampton Wanderers,0 - 1
+21524,12,1923-10-20,Chesterfield,Barrow,2 - 1
+21525,12,1923-10-20,Doncaster Rovers,Darlington,1 - 0
+21526,12,1923-10-20,Durham City,Hartlepool United,3 - 0
+21527,12,1923-10-20,New Brighton,Grimsby Town,0 - 0
+21528,12,1923-10-20,Southport,Rotherham County,0 - 0
+21529,12,1923-10-20,Tranmere Rovers,Lincoln City,1 - 3
+21530,12,1923-10-20,Walsall,Halifax Town,2 - 0
+21531,12,1923-10-20,Wigan Borough,Crewe Alexandra,3 - 0
+21532,12,1923-10-20,Wrexham,Rochdale,1 - 1
+21533,12,1923-10-20,Aberdare Athletic,Luton Town,0 - 1
+21534,12,1923-10-20,AFC Bournemouth,Millwall,2 - 0
+21535,12,1923-10-20,Brighton & Hove Albion,Exeter City,1 - 0
+21536,12,1923-10-20,Charlton Athletic,Norwich City,0 - 0
+21537,12,1923-10-20,Gillingham,Newport County,2 - 1
+21538,12,1923-10-20,Northampton Town,Queens Park Rangers,3 - 0
+21539,12,1923-10-20,Plymouth Argyle,Swansea City,2 - 0
+21540,12,1923-10-20,Portsmouth,Bristol Rovers,1 - 1
+21541,12,1923-10-20,Southend United,Brentford,3 - 1
+21542,12,1923-10-20,Swindon Town,Reading,1 - 0
+21543,12,1923-10-20,Watford,Merthyr Town,4 - 0
+21566,12,1923-10-27,Accrington Stanley,Ashington,0 - 1
+21567,13,1923-10-27,Barrow,Chesterfield,2 - 0
+21568,13,1923-10-27,Crewe Alexandra,Wigan Borough,0 - 2
+21569,13,1923-10-27,Darlington,Doncaster Rovers,1 - 1
+21570,13,1923-10-27,Grimsby Town,New Brighton,0 - 0
+21571,13,1923-10-27,Halifax Town,Walsall,3 - 0
+21572,13,1923-10-27,Hartlepool United,Durham City,0 - 0
+21573,13,1923-10-27,Lincoln City,Tranmere Rovers,1 - 1
+21574,13,1923-10-27,Rochdale,Wrexham,0 - 0
+21575,13,1923-10-27,Rotherham County,Southport,1 - 1
+21576,13,1923-10-27,Wolverhampton Wanderers,Bradford Park Avenue,2 - 0
+21577,13,1923-10-27,Brentford,Southend United,3 - 1
+21578,13,1923-10-27,Bristol Rovers,Portsmouth,0 - 1
+21579,13,1923-10-27,Exeter City,Brighton & Hove Albion,0 - 1
+21580,13,1923-10-27,Luton Town,Aberdare Athletic,1 - 0
+21581,13,1923-10-27,Merthyr Town,Watford,2 - 1
+21582,13,1923-10-27,Millwall,AFC Bournemouth,4 - 2
+21583,13,1923-10-27,Newport County,Gillingham,2 - 1
+21584,13,1923-10-27,Norwich City,Charlton Athletic,2 - 2
+21585,13,1923-10-27,Queens Park Rangers,Northampton Town,3 - 2
+21586,13,1923-10-27,Reading,Swindon Town,1 - 0
+21587,13,1923-10-27,Swansea City,Plymouth Argyle,1 - 0
+21610,13,1923-11-03,Ashington,Halifax Town,4 - 0
+21611,14,1923-11-03,Bradford Park Avenue,Lincoln City,3 - 1
+21612,14,1923-11-03,Crewe Alexandra,Durham City,0 - 2
+21613,14,1923-11-03,Doncaster Rovers,Rochdale,0 - 0
+21614,14,1923-11-03,Hartlepool United,New Brighton,0 - 1
+21615,14,1923-11-03,Rotherham County,Barrow,2 - 0
+21616,14,1923-11-03,Southport,Wrexham,1 - 0
+21617,14,1923-11-03,Tranmere Rovers,Darlington,1 - 4
+21618,14,1923-11-03,Walsall,Chesterfield,0 - 1
+21619,14,1923-11-03,Wigan Borough,Accrington Stanley,2 - 0
+21620,14,1923-11-03,Wolverhampton Wanderers,Grimsby Town,4 - 1
+21621,14,1923-11-03,Brighton & Hove Albion,Aberdare Athletic,5 - 0
+21622,14,1923-11-03,Bristol Rovers,Exeter City,0 - 0
+21623,14,1923-11-03,Charlton Athletic,Swindon Town,3 - 1
+21624,14,1923-11-03,Gillingham,Queens Park Rangers,0 - 0
+21625,14,1923-11-03,Luton Town,Watford,0 - 0
+21626,14,1923-11-03,Merthyr Town,Swansea City,0 - 0
+21627,14,1923-11-03,Newport County,Norwich City,1 - 0
+21628,14,1923-11-03,Plymouth Argyle,Northampton Town,0 - 0
+21629,14,1923-11-03,Portsmouth,Brentford,3 - 0
+21630,14,1923-11-03,Reading,Millwall,2 - 0
+21631,14,1923-11-03,Southend United,AFC Bournemouth,1 - 1
+21654,14,1923-11-10,Accrington Stanley,Wigan Borough,2 - 2
+21655,15,1923-11-10,Barrow,Rotherham County,1 - 2
+21656,15,1923-11-10,Chesterfield,Walsall,7 - 0
+21657,15,1923-11-10,Darlington,Tranmere Rovers,4 - 1
+21658,15,1923-11-10,Durham City,Crewe Alexandra,3 - 1
+21659,15,1923-11-10,Grimsby Town,Wolverhampton Wanderers,2 - 0
+21660,15,1923-11-10,Halifax Town,Ashington,3 - 0
+21661,15,1923-11-10,Lincoln City,Bradford Park Avenue,2 - 3
+21662,15,1923-11-10,New Brighton,Hartlepool United,0 - 0
+21663,15,1923-11-10,Rochdale,Doncaster Rovers,2 - 0
+21664,15,1923-11-10,Wrexham,Southport,3 - 0
+21665,15,1923-11-10,Aberdare Athletic,Brighton & Hove Albion,3 - 1
+21666,15,1923-11-10,AFC Bournemouth,Southend United,0 - 1
+21667,15,1923-11-10,Brentford,Portsmouth,1 - 1
+21668,15,1923-11-10,Exeter City,Bristol Rovers,3 - 1
+21669,15,1923-11-10,Millwall,Reading,0 - 0
+21670,15,1923-11-10,Northampton Town,Plymouth Argyle,1 - 0
+21671,15,1923-11-10,Norwich City,Newport County,3 - 1
+21672,15,1923-11-10,Queens Park Rangers,Gillingham,1 - 1
+21673,15,1923-11-10,Swansea City,Merthyr Town,5 - 1
+21674,15,1923-11-10,Swindon Town,Charlton Athletic,1 - 1
+21675,15,1923-11-10,Watford,Luton Town,0 - 0
+21697,15,1923-11-17,Darlington,Bradford Park Avenue,3 - 1
+21698,16,1923-11-17,Grimsby Town,Walsall,1 - 0
+21699,16,1923-11-17,Halifax Town,Wigan Borough,1 - 2
+21700,16,1923-11-17,Rotherham County,Crewe Alexandra,1 - 0
+21701,16,1923-11-17,Wrexham,Chesterfield,0 - 0
+21702,16,1923-11-17,Gillingham,Plymouth Argyle,1 - 0
+21703,16,1923-11-17,Millwall,Luton Town,0 - 1
+21704,16,1923-11-17,Northampton Town,Merthyr Town,3 - 0
+21705,16,1923-11-17,Norwich City,Swindon Town,2 - 0
+21706,16,1923-11-17,Reading,AFC Bournemouth,1 - 2
+21707,16,1923-11-17,Swansea City,Brighton & Hove Albion,1 - 0
+21708,16,1923-11-17,Watford,Charlton Athletic,1 - 0
+21728,16,1923-11-24,Ashington,Rotherham County,1 - 2
+21729,16,1923-11-24,Bradford Park Avenue,Tranmere Rovers,2 - 0
+21730,17,1923-11-24,Chesterfield,Lincoln City,2 - 1
+21731,17,1923-11-24,Darlington,Rochdale,2 - 2
+21732,17,1923-11-24,Durham City,Accrington Stanley,3 - 0
+21733,17,1923-11-24,Southport,Doncaster Rovers,2 - 2
+21734,17,1923-11-24,Walsall,Grimsby Town,2 - 0
+21735,17,1923-11-24,Wigan Borough,Halifax Town,0 - 1
+21736,17,1923-11-24,Wolverhampton Wanderers,New Brighton,5 - 1
+21737,17,1923-11-24,Wrexham,Barrow,2 - 0
+21738,17,1923-11-24,AFC Bournemouth,Reading,0 - 0
+21739,17,1923-11-24,Brentford,Exeter City,1 - 0
+21740,17,1923-11-24,Brighton & Hove Albion,Swansea City,4 - 1
+21741,17,1923-11-24,Bristol Rovers,Aberdare Athletic,2 - 0
+21742,17,1923-11-24,Charlton Athletic,Watford,1 - 1
+21743,17,1923-11-24,Luton Town,Millwall,2 - 0
+21744,17,1923-11-24,Merthyr Town,Northampton Town,0 - 0
+21745,17,1923-11-24,Plymouth Argyle,Gillingham,3 - 0
+21746,17,1923-11-24,Portsmouth,Southend United,3 - 0
+21747,17,1923-11-24,Swindon Town,Norwich City,4 - 2
+21765,17,1923-12-01,Doncaster Rovers,Barrow,2 - 2
+21766,18,1923-12-01,New Brighton,Wolverhampton Wanderers,0 - 1
+21767,18,1923-12-01,Luton Town,AFC Bournemouth,6 - 2
+21768,18,1923-12-01,Millwall,Brighton & Hove Albion,0 - 0
+21769,18,1923-12-01,Newport County,Swindon Town,3 - 0
+21770,18,1923-12-01,Queens Park Rangers,Plymouth Argyle,3 - 2
+21771,18,1923-12-01,Swansea City,Charlton Athletic,1 - 0
+21795,18,1923-12-08,Ashington,Grimsby Town,1 - 0
+21796,18,1923-12-08,Barrow,Doncaster Rovers,0 - 0
+21797,19,1923-12-08,Bradford Park Avenue,Darlington,1 - 0
+21798,19,1923-12-08,Chesterfield,Tranmere Rovers,5 - 0
+21799,19,1923-12-08,Crewe Alexandra,Accrington Stanley,1 - 2
+21800,19,1923-12-08,Durham City,Halifax Town,2 - 2
+21801,19,1923-12-08,Hartlepool United,Wolverhampton Wanderers,0 - 1
+21802,19,1923-12-08,Lincoln City,Rotherham County,2 - 1
+21803,19,1923-12-08,New Brighton,Walsall,1 - 0
+21804,19,1923-12-08,Southport,Rochdale,0 - 1
+21805,19,1923-12-08,Wigan Borough,Wrexham,3 - 1
+21806,19,1923-12-08,AFC Bournemouth,Luton Town,2 - 3
+21807,19,1923-12-08,Brentford,Aberdare Athletic,1 - 1
+21808,19,1923-12-08,Brighton & Hove Albion,Millwall,2 - 2
+21809,19,1923-12-08,Bristol Rovers,Northampton Town,1 - 1
+21810,19,1923-12-08,Charlton Athletic,Swansea City,1 - 3
+21811,19,1923-12-08,Merthyr Town,Gillingham,0 - 2
+21812,19,1923-12-08,Plymouth Argyle,Queens Park Rangers,2 - 0
+21813,19,1923-12-08,Portsmouth,Exeter City,4 - 0
+21814,19,1923-12-08,Southend United,Reading,2 - 1
+21815,19,1923-12-08,Swindon Town,Newport County,3 - 0
+21816,19,1923-12-08,Watford,Norwich City,0 - 0
+21839,19,1923-12-15,Doncaster Rovers,Durham City,2 - 1
+21840,20,1923-12-15,New Brighton,Crewe Alexandra,2 - 1
+21841,20,1923-12-15,Rochdale,Barrow,3 - 1
+21842,20,1923-12-15,AFC Bournemouth,Brighton & Hove Albion,1 - 0
+21843,20,1923-12-15,Luton Town,Reading,2 - 0
+21844,20,1923-12-15,Millwall,Bristol Rovers,1 - 0
+21845,20,1923-12-15,Newport County,Plymouth Argyle,1 - 2
+21846,20,1923-12-15,Queens Park Rangers,Merthyr Town,3 - 0
+21847,20,1923-12-15,Swindon Town,Watford,0 - 0
+21871,20,1923-12-22,Ashington,New Brighton,5 - 0
+21872,20,1923-12-22,Barrow,Rochdale,1 - 2
+21873,21,1923-12-22,Chesterfield,Bradford Park Avenue,2 - 3
+21874,21,1923-12-22,Crewe Alexandra,Halifax Town,2 - 2
+21875,21,1923-12-22,Darlington,Southport,3 - 1
+21876,21,1923-12-22,Durham City,Doncaster Rovers,2 - 1
+21877,21,1923-12-22,Hartlepool United,Accrington Stanley,3 - 0
+21878,21,1923-12-22,Lincoln City,Wrexham,4 - 2
+21879,21,1923-12-22,Tranmere Rovers,Rotherham County,0 - 1
+21880,21,1923-12-22,Wigan Borough,Grimsby Town,4 - 0
+21881,21,1923-12-22,Wolverhampton Wanderers,Walsall,0 - 0
+21882,21,1923-12-22,Brentford,Gillingham,3 - 2
+21883,21,1923-12-22,Brighton & Hove Albion,AFC Bournemouth,5 - 0
+21884,21,1923-12-22,Bristol Rovers,Millwall,4 - 1
+21885,21,1923-12-22,Charlton Athletic,Northampton Town,0 - 0
+21886,21,1923-12-22,Merthyr Town,Queens Park Rangers,2 - 0
+21887,21,1923-12-22,Plymouth Argyle,Newport County,3 - 2
+21888,21,1923-12-22,Portsmouth,Aberdare Athletic,4 - 0
+21889,21,1923-12-22,Reading,Luton Town,0 - 1
+21890,21,1923-12-22,Southend United,Exeter City,0 - 0
+21891,21,1923-12-22,Swansea City,Norwich City,1 - 0
+21892,21,1923-12-22,Watford,Swindon Town,0 - 0
+21910,21,1923-12-25,Barrow,Darlington,1 - 0
+21911,22,1923-12-25,Chesterfield,Rotherham County,3 - 1
+21912,22,1923-12-25,Doncaster Rovers,Bradford Park Avenue,1 - 1
+21913,22,1923-12-25,Grimsby Town,Crewe Alexandra,2 - 0
+21914,22,1923-12-25,Halifax Town,Hartlepool United,1 - 0
+21915,22,1923-12-25,Lincoln City,Rochdale,0 - 2
+21916,22,1923-12-25,Southport,Accrington Stanley,1 - 0
+21917,22,1923-12-25,Tranmere Rovers,Ashington,2 - 4
+21918,22,1923-12-25,Walsall,Wigan Borough,3 - 0
+21919,22,1923-12-25,AFC Bournemouth,Brentford,2 - 4
+21920,22,1923-12-25,Gillingham,Norwich City,3 - 1
+21921,22,1923-12-25,Luton Town,Brighton & Hove Albion,0 - 0
+21922,22,1923-12-25,Merthyr Town,Newport County,3 - 3
+21923,22,1923-12-25,Millwall,Portsmouth,2 - 0
+21924,22,1923-12-25,Plymouth Argyle,Exeter City,4 - 0
+21925,22,1923-12-25,Queens Park Rangers,Charlton Athletic,0 - 0
+21926,22,1923-12-25,Reading,Bristol Rovers,3 - 2
+21927,22,1923-12-25,Southend United,Aberdare Athletic,1 - 1
+21928,22,1923-12-25,Swansea City,Watford,1 - 0
+21949,22,1923-12-26,Accrington Stanley,Southport,2 - 0
+21950,23,1923-12-26,Bradford Park Avenue,Doncaster Rovers,4 - 2
+21951,23,1923-12-26,Crewe Alexandra,Grimsby Town,0 - 0
+21952,23,1923-12-26,Darlington,Barrow,5 - 1
+21953,23,1923-12-26,Hartlepool United,Halifax Town,1 - 3
+21954,23,1923-12-26,New Brighton,Ashington,1 - 1
+21955,23,1923-12-26,Rochdale,Lincoln City,1 - 0
+21956,23,1923-12-26,Rotherham County,Chesterfield,1 - 2
+21957,23,1923-12-26,Wigan Borough,Walsall,2 - 1
+21958,23,1923-12-26,Wolverhampton Wanderers,Durham City,2 - 1
+21959,23,1923-12-26,Wrexham,Tranmere Rovers,1 - 1
+21960,23,1923-12-26,Aberdare Athletic,Southend United,5 - 2
+21961,23,1923-12-26,Brentford,AFC Bournemouth,2 - 0
+21962,23,1923-12-26,Brighton & Hove Albion,Luton Town,4 - 0
+21963,23,1923-12-26,Bristol Rovers,Reading,0 - 0
+21964,23,1923-12-26,Charlton Athletic,Queens Park Rangers,3 - 0
+21965,23,1923-12-26,Exeter City,Plymouth Argyle,0 - 4
+21966,23,1923-12-26,Newport County,Merthyr Town,4 - 4
+21967,23,1923-12-26,Norwich City,Gillingham,1 - 0
+21968,23,1923-12-26,Portsmouth,Millwall,0 - 1
+21969,23,1923-12-26,Swindon Town,Northampton Town,2 - 0
+21970,23,1923-12-26,Watford,Swansea City,2 - 2
+21972,23,1923-12-27,Northampton Town,Swindon Town,1 - 1
+21994,24,1923-12-29,Darlington,Chesterfield,2 - 1
+21995,24,1923-12-29,Doncaster Rovers,Lincoln City,3 - 2
+21996,24,1923-12-29,Grimsby Town,Durham City,1 - 0
+21997,24,1923-12-29,Halifax Town,Accrington Stanley,3 - 0
+21998,24,1923-12-29,New Brighton,Wigan Borough,5 - 0
+21999,24,1923-12-29,Rochdale,Crewe Alexandra,1 - 0
+22000,24,1923-12-29,Southport,Barrow,2 - 0
+22001,24,1923-12-29,Walsall,Hartlepool United,2 - 0
+22002,24,1923-12-29,Wolverhampton Wanderers,Ashington,1 - 0
+22003,24,1923-12-29,Aberdare Athletic,Exeter City,0 - 0
+22004,24,1923-12-29,AFC Bournemouth,Bristol Rovers,0 - 1
+22005,24,1923-12-29,Gillingham,Charlton Athletic,0 - 1
+22006,24,1923-12-29,Luton Town,Southend United,4 - 4
+22007,24,1923-12-29,Millwall,Brentford,4 - 1
+22008,24,1923-12-29,Newport County,Watford,1 - 0
+22009,24,1923-12-29,Northampton Town,Norwich City,1 - 0
+22010,25,1923-12-29,Plymouth Argyle,Merthyr Town,1 - 1
+22011,25,1923-12-29,Queens Park Rangers,Portsmouth,0 - 2
+22012,25,1923-12-29,Reading,Brighton & Hove Albion,0 - 1
+22013,25,1923-12-29,Swansea City,Swindon Town,1 - 1
+22025,25,1924-01-01,Accrington Stanley,Grimsby Town,2 - 0
+22026,25,1924-01-01,Ashington,Walsall,3 - 1
+22027,25,1924-01-01,Chesterfield,Wrexham,1 - 0
+22028,25,1924-01-01,Darlington,Rotherham County,1 - 0
+22029,25,1924-01-01,Durham City,Wolverhampton Wanderers,2 - 3
+22030,25,1924-01-01,Halifax Town,Crewe Alexandra,2 - 0
+22031,25,1924-01-01,Hartlepool United,Lincoln City,1 - 1
+22032,25,1924-01-01,Southport,New Brighton,3 - 0
+22033,25,1924-01-01,Tranmere Rovers,Bradford Park Avenue,2 - 1
+22034,25,1924-01-01,Newport County,Queens Park Rangers,2 - 1
+22059,25,1924-01-05,Accrington Stanley,Halifax Town,1 - 2
+22060,26,1924-01-05,Ashington,Wolverhampton Wanderers,1 - 7
+22061,26,1924-01-05,Barrow,Southport,1 - 3
+22062,26,1924-01-05,Bradford Park Avenue,Rotherham County,2 - 0
+22063,26,1924-01-05,Chesterfield,Darlington,5 - 1
+22064,26,1924-01-05,Crewe Alexandra,Rochdale,0 - 2
+22065,26,1924-01-05,Durham City,Grimsby Town,0 - 1
+22066,26,1924-01-05,Hartlepool United,Walsall,0 - 1
+22067,26,1924-01-05,Lincoln City,Doncaster Rovers,1 - 1
+22068,26,1924-01-05,Tranmere Rovers,Wrexham,1 - 1
+22069,26,1924-01-05,Wigan Borough,New Brighton,1 - 0
+22070,26,1924-01-05,Brentford,Millwall,1 - 3
+22071,26,1924-01-05,Brighton & Hove Albion,Reading,4 - 0
+22072,26,1924-01-05,Bristol Rovers,AFC Bournemouth,3 - 4
+22073,26,1924-01-05,Charlton Athletic,Gillingham,0 - 0
+22074,26,1924-01-05,Exeter City,Aberdare Athletic,1 - 1
+22075,26,1924-01-05,Merthyr Town,Plymouth Argyle,1 - 0
+22076,26,1924-01-05,Norwich City,Northampton Town,1 - 4
+22077,26,1924-01-05,Portsmouth,Queens Park Rangers,7 - 0
+22078,26,1924-01-05,Southend United,Luton Town,1 - 1
+22079,26,1924-01-05,Swindon Town,Swansea City,1 - 0
+22080,26,1924-01-05,Watford,Newport County,8 - 2
+22081,26,1924-01-08,Rochdale,Southport,2 - 2
+22082,27,1924-01-12,Barrow,Wrexham,0 - 0
+22083,27,1924-01-12,Doncaster Rovers,Southport,3 - 0
+22084,27,1924-01-12,Lincoln City,Chesterfield,0 - 1
+22085,27,1924-01-12,Rochdale,Hartlepool United,1 - 0
+22086,28,1924-01-12,Rotherham County,Tranmere Rovers,5 - 1
+22087,28,1924-01-12,Walsall,New Brighton,3 - 0
+22088,28,1924-01-12,Reading,Southend United,1 - 0
+22111,28,1924-01-19,Barrow,Crewe Alexandra,1 - 2
+22112,28,1924-01-19,Bradford Park Avenue,Halifax Town,1 - 0
+22113,28,1924-01-19,Chesterfield,Grimsby Town,4 - 2
+22114,28,1924-01-19,Darlington,Durham City,3 - 2
+22115,28,1924-01-19,Doncaster Rovers,Walsall,3 - 0
+22116,28,1924-01-19,Lincoln City,Accrington Stanley,0 - 2
+22117,28,1924-01-19,Rochdale,Ashington,1 - 0
+22118,29,1924-01-19,Rotherham County,New Brighton,3 - 1
+22119,29,1924-01-19,Tranmere Rovers,Hartlepool United,2 - 0
+22120,29,1924-01-19,Wigan Borough,Southport,1 - 1
+22121,29,1924-01-19,Wrexham,Wolverhampton Wanderers,2 - 2
+22122,29,1924-01-19,AFC Bournemouth,Swansea City,0 - 0
+22123,29,1924-01-19,Gillingham,Luton Town,0 - 0
+22124,29,1924-01-19,Merthyr Town,Portsmouth,2 - 2
+22125,29,1924-01-19,Northampton Town,Reading,3 - 1
+22126,29,1924-01-19,Norwich City,Southend United,3 - 1
+22127,29,1924-01-19,Plymouth Argyle,Bristol Rovers,2 - 2
+22128,29,1924-01-19,Queens Park Rangers,Brighton & Hove Albion,1 - 0
+22129,29,1924-01-19,Swindon Town,Aberdare Athletic,3 - 1
+22130,29,1924-01-19,Watford,Millwall,1 - 1
+22154,29,1924-01-26,Accrington Stanley,Lincoln City,3 - 1
+22155,29,1924-01-26,Ashington,Rochdale,1 - 0
+22156,30,1924-01-26,Crewe Alexandra,Barrow,2 - 0
+22157,30,1924-01-26,Durham City,Darlington,3 - 2
+22158,30,1924-01-26,Grimsby Town,Chesterfield,0 - 0
+22159,30,1924-01-26,Halifax Town,Bradford Park Avenue,0 - 0
+22160,30,1924-01-26,Hartlepool United,Tranmere Rovers,2 - 1
+22161,30,1924-01-26,New Brighton,Rotherham County,1 - 2
+22162,30,1924-01-26,Southport,Wigan Borough,1 - 1
+22163,30,1924-01-26,Walsall,Doncaster Rovers,5 - 2
+22164,30,1924-01-26,Wolverhampton Wanderers,Wrexham,3 - 0
+22165,30,1924-01-26,Aberdare Athletic,Swindon Town,2 - 2
+22166,30,1924-01-26,Brentford,Newport County,0 - 0
+22167,30,1924-01-26,Brighton & Hove Albion,Queens Park Rangers,3 - 0
+22168,30,1924-01-26,Bristol Rovers,Plymouth Argyle,1 - 1
+22169,30,1924-01-26,Exeter City,Charlton Athletic,0 - 0
+22170,30,1924-01-26,Luton Town,Gillingham,1 - 1
+22171,30,1924-01-26,Millwall,Watford,2 - 0
+22172,30,1924-01-26,Portsmouth,Merthyr Town,1 - 0
+22173,30,1924-01-26,Reading,Northampton Town,1 - 0
+22174,30,1924-01-26,Southend United,Norwich City,3 - 1
+22175,30,1924-01-26,Swansea City,AFC Bournemouth,1 - 0
+22182,30,1924-02-02,Barrow,Durham City,1 - 2
+22183,31,1924-02-02,Bradford Park Avenue,Hartlepool United,4 - 0
+22184,31,1924-02-02,Darlington,Wigan Borough,3 - 1
+22185,31,1924-02-02,Lincoln City,Crewe Alexandra,0 - 0
+22186,31,1924-02-02,Rochdale,Walsall,1 - 0
+22187,31,1924-02-02,Rotherham County,Grimsby Town,2 - 1
+22188,31,1924-02-02,Southport,Ashington,2 - 0
+22189,31,1924-02-02,Tranmere Rovers,Accrington Stanley,2 - 0
+22190,31,1924-02-02,Wrexham,New Brighton,0 - 0
+22191,31,1924-02-02,Gillingham,Reading,1 - 0
+22192,31,1924-02-02,Merthyr Town,Brentford,2 - 0
+22193,31,1924-02-02,Newport County,Bristol Rovers,1 - 0
+22194,31,1924-02-02,Northampton Town,AFC Bournemouth,3 - 1
+22195,31,1924-02-02,Queens Park Rangers,Luton Town,0 - 2
+22198,31,1924-02-06,Bradford Park Avenue,Chesterfield,2 - 1
+22221,32,1924-02-09,Accrington Stanley,Tranmere Rovers,3 - 1
+22222,32,1924-02-09,Ashington,Southport,2 - 0
+22223,32,1924-02-09,Crewe Alexandra,Lincoln City,1 - 2
+22224,32,1924-02-09,Durham City,Barrow,1 - 2
+22225,32,1924-02-09,Grimsby Town,Rotherham County,1 - 1
+22226,32,1924-02-09,Halifax Town,Chesterfield,2 - 0
+22227,32,1924-02-09,Hartlepool United,Bradford Park Avenue,0 - 0
+22228,32,1924-02-09,New Brighton,Wrexham,0 - 0
+22229,32,1924-02-09,Walsall,Rochdale,0 - 1
+22230,32,1924-02-09,Wigan Borough,Darlington,2 - 2
+22231,32,1924-02-09,Wolverhampton Wanderers,Doncaster Rovers,1 - 0
+22232,32,1924-02-09,Aberdare Athletic,Watford,4 - 0
+22233,32,1924-02-09,AFC Bournemouth,Northampton Town,2 - 1
+22234,32,1924-02-09,Brentford,Merthyr Town,0 - 0
+22235,32,1924-02-09,Brighton & Hove Albion,Plymouth Argyle,4 - 1
+22236,32,1924-02-09,Bristol Rovers,Newport County,0 - 0
+22237,32,1924-02-09,Exeter City,Norwich City,1 - 2
+22238,32,1924-02-09,Luton Town,Queens Park Rangers,2 - 0
+22239,32,1924-02-09,Millwall,Swansea City,2 - 1
+22240,32,1924-02-09,Portsmouth,Charlton Athletic,0 - 0
+22241,32,1924-02-09,Reading,Gillingham,4 - 0
+22242,32,1924-02-09,Southend United,Swindon Town,0 - 2
+22245,32,1924-02-11,Accrington Stanley,Crewe Alexandra,1 - 1
+22246,33,1924-02-11,Wolverhampton Wanderers,Hartlepool United,2 - 1
+22251,33,1924-02-14,Norwich City,Exeter City,4 - 0
+22274,33,1924-02-16,Bradford Park Avenue,Accrington Stanley,1 - 1
+22275,33,1924-02-16,Chesterfield,Hartlepool United,5 - 1
+22276,33,1924-02-16,Crewe Alexandra,Tranmere Rovers,1 - 1
+22277,34,1924-02-16,Darlington,Ashington,3 - 2
+22278,34,1924-02-16,Doncaster Rovers,New Brighton,2 - 0
+22279,34,1924-02-16,Lincoln City,Durham City,3 - 1
+22280,34,1924-02-16,Rochdale,Wolverhampton Wanderers,0 - 0
+22281,34,1924-02-16,Rotherham County,Halifax Town,3 - 2
+22282,34,1924-02-16,Southport,Walsall,1 - 1
+22283,34,1924-02-16,Wigan Borough,Barrow,4 - 0
+22284,34,1924-02-16,Wrexham,Grimsby Town,1 - 1
+22285,34,1924-02-16,Charlton Athletic,Brentford,3 - 1
+22286,34,1924-02-16,Gillingham,AFC Bournemouth,1 - 0
+22287,34,1924-02-16,Merthyr Town,Bristol Rovers,1 - 1
+22288,34,1924-02-16,Millwall,Northampton Town,4 - 3
+22289,34,1924-02-16,Newport County,Brighton & Hove Albion,0 - 0
+22290,34,1924-02-16,Norwich City,Portsmouth,3 - 1
+22291,34,1924-02-16,Plymouth Argyle,Luton Town,0 - 0
+22292,34,1924-02-16,Queens Park Rangers,Reading,1 - 4
+22293,34,1924-02-16,Swansea City,Aberdare Athletic,1 - 0
+22294,34,1924-02-16,Swindon Town,Exeter City,0 - 1
+22295,34,1924-02-16,Watford,Southend United,4 - 1
+22308,34,1924-02-23,Accrington Stanley,Bradford Park Avenue,2 - 2
+22309,34,1924-02-23,Ashington,Darlington,2 - 1
+22310,35,1924-02-23,Barrow,Wigan Borough,2 - 1
+22311,35,1924-02-23,Durham City,Lincoln City,1 - 0
+22312,35,1924-02-23,Grimsby Town,Wrexham,0 - 0
+22313,35,1924-02-23,Halifax Town,Rotherham County,0 - 2
+22314,35,1924-02-23,Hartlepool United,Chesterfield,2 - 3
+22315,35,1924-02-23,New Brighton,Doncaster Rovers,2 - 0
+22316,35,1924-02-23,Tranmere Rovers,Crewe Alexandra,1 - 1
+22317,35,1924-02-23,Walsall,Southport,0 - 1
+22318,35,1924-02-23,Aberdare Athletic,Swansea City,4 - 2
+22319,35,1924-02-23,AFC Bournemouth,Gillingham,0 - 0
+22320,35,1924-02-23,Brentford,Charlton Athletic,0 - 0
+22321,35,1924-02-23,Bristol Rovers,Merthyr Town,0 - 0
+22322,35,1924-02-23,Exeter City,Southend United,2 - 0
+22323,35,1924-02-23,Luton Town,Plymouth Argyle,0 - 2
+22324,35,1924-02-23,Northampton Town,Millwall,2 - 1
+22325,35,1924-02-23,Portsmouth,Norwich City,4 - 0
+22326,35,1924-02-23,Reading,Queens Park Rangers,4 - 0
+22354,35,1924-03-01,Ashington,Barrow,2 - 0
+22355,36,1924-03-01,Bradford Park Avenue,Crewe Alexandra,1 - 1
+22356,36,1924-03-01,Chesterfield,Accrington Stanley,3 - 0
+22357,36,1924-03-01,Darlington,Walsall,4 - 2
+22358,36,1924-03-01,Doncaster Rovers,Grimsby Town,2 - 1
+22359,36,1924-03-01,Durham City,Tranmere Rovers,1 - 1
+22360,36,1924-03-01,Lincoln City,Wigan Borough,1 - 1
+22361,36,1924-03-01,Rochdale,New Brighton,6 - 2
+22362,36,1924-03-01,Rotherham County,Hartlepool United,5 - 0
+22363,36,1924-03-01,Southport,Wolverhampton Wanderers,0 - 0
+22364,36,1924-03-01,Wrexham,Halifax Town,0 - 1
+22365,36,1924-03-01,Charlton Athletic,Bristol Rovers,1 - 3
+22366,36,1924-03-01,Gillingham,Millwall,0 - 2
+22367,36,1924-03-01,Merthyr Town,Brighton & Hove Albion,2 - 1
+22368,36,1924-03-01,Newport County,Luton Town,1 - 0
+22369,36,1924-03-01,Norwich City,Brentford,2 - 3
+22370,36,1924-03-01,Plymouth Argyle,Reading,2 - 1
+22371,36,1924-03-01,Queens Park Rangers,AFC Bournemouth,0 - 1
+22372,36,1924-03-01,Swansea City,Southend United,2 - 1
+22373,36,1924-03-01,Swindon Town,Portsmouth,0 - 0
+22374,36,1924-03-01,Watford,Exeter City,4 - 1
+22392,36,1924-03-08,Accrington Stanley,Chesterfield,2 - 0
+22393,37,1924-03-08,Barrow,Ashington,2 - 2
+22394,37,1924-03-08,Crewe Alexandra,Bradford Park Avenue,1 - 1
+22395,37,1924-03-08,Grimsby Town,Doncaster Rovers,1 - 1
+22396,37,1924-03-08,Halifax Town,Wrexham,0 - 0
+22397,37,1924-03-08,Hartlepool United,Rotherham County,2 - 5
+22398,37,1924-03-08,New Brighton,Rochdale,1 - 1
+22399,37,1924-03-08,Tranmere Rovers,Durham City,1 - 0
+22400,37,1924-03-08,Walsall,Darlington,2 - 1
+22401,37,1924-03-08,Wigan Borough,Lincoln City,0 - 0
+22402,37,1924-03-08,Wolverhampton Wanderers,Southport,2 - 1
+22403,37,1924-03-08,Aberdare Athletic,Northampton Town,2 - 2
+22404,37,1924-03-08,AFC Bournemouth,Queens Park Rangers,3 - 1
+22405,37,1924-03-08,Brentford,Norwich City,3 - 0
+22406,37,1924-03-08,Brighton & Hove Albion,Merthyr Town,0 - 0
+22407,37,1924-03-08,Bristol Rovers,Charlton Athletic,2 - 0
+22408,37,1924-03-08,Exeter City,Watford,1 - 0
+22409,37,1924-03-08,Luton Town,Newport County,2 - 0
+22410,37,1924-03-08,Millwall,Gillingham,5 - 0
+22411,37,1924-03-08,Reading,Plymouth Argyle,1 - 2
+22412,37,1924-03-08,Southend United,Swansea City,0 - 0
+22416,37,1924-03-10,Halifax Town,Durham City,2 - 1
+22417,38,1924-03-10,Charlton Athletic,Portsmouth,1 - 1
+22422,38,1924-03-12,Wrexham,Lincoln City,2 - 1
+22423,38,1924-03-12,Gillingham,Merthyr Town,2 - 1
+22424,38,1924-03-13,Northampton Town,Charlton Athletic,1 - 0
+22425,38,1924-03-13,Swansea City,Millwall,1 - 2
+22448,38,1924-03-15,Accrington Stanley,Rotherham County,3 - 2
+22449,38,1924-03-15,Ashington,Lincoln City,2 - 1
+22450,38,1924-03-15,Crewe Alexandra,Chesterfield,0 - 1
+22451,38,1924-03-15,Durham City,Bradford Park Avenue,2 - 0
+22452,39,1924-03-15,Grimsby Town,Rochdale,1 - 0
+22453,39,1924-03-15,Halifax Town,Doncaster Rovers,0 - 1
+22454,39,1924-03-15,Hartlepool United,Wrexham,4 - 0
+22455,39,1924-03-15,New Brighton,Southport,0 - 0
+22456,39,1924-03-15,Walsall,Barrow,1 - 1
+22457,39,1924-03-15,Wigan Borough,Tranmere Rovers,1 - 2
+22458,39,1924-03-15,Wolverhampton Wanderers,Darlington,2 - 0
+22459,39,1924-03-15,Aberdare Athletic,Gillingham,1 - 1
+22460,39,1924-03-15,AFC Bournemouth,Plymouth Argyle,0 - 0
+22461,39,1924-03-15,Brentford,Swindon Town,2 - 2
+22462,39,1924-03-15,Brighton & Hove Albion,Charlton Athletic,3 - 0
+22463,39,1924-03-15,Bristol Rovers,Norwich City,3 - 1
+22464,39,1924-03-15,Exeter City,Swansea City,1 - 0
+22465,39,1924-03-15,Luton Town,Merthyr Town,1 - 1
+22466,39,1924-03-15,Millwall,Queens Park Rangers,3 - 0
+22467,39,1924-03-15,Portsmouth,Watford,4 - 0
+22468,39,1924-03-15,Reading,Newport County,1 - 1
+22469,39,1924-03-15,Southend United,Northampton Town,5 - 1
+22472,39,1924-03-17,Accrington Stanley,Hartlepool United,2 - 0
+22473,39,1924-03-17,Rotherham County,Ashington,1 - 0
+22474,39,1924-03-17,Aberdare Athletic,Portsmouth,0 - 0
+22479,40,1924-03-19,Exeter City,Swindon Town,3 - 1
+22480,40,1924-03-19,Gillingham,Brentford,6 - 0
+22481,40,1924-03-19,Southend United,Watford,3 - 0
+22505,40,1924-03-22,Barrow,Walsall,0 - 1
+22506,40,1924-03-22,Bradford Park Avenue,Durham City,3 - 0
+22507,40,1924-03-22,Chesterfield,Crewe Alexandra,2 - 1
+22508,40,1924-03-22,Darlington,Wolverhampton Wanderers,1 - 1
+22509,40,1924-03-22,Doncaster Rovers,Halifax Town,7 - 0
+22510,40,1924-03-22,Lincoln City,Ashington,2 - 0
+22511,40,1924-03-22,Rochdale,Grimsby Town,4 - 2
+22512,40,1924-03-22,Rotherham County,Accrington Stanley,2 - 0
+22513,40,1924-03-22,Tranmere Rovers,Wigan Borough,1 - 0
+22514,40,1924-03-22,Wrexham,Hartlepool United,1 - 0
+22515,40,1924-03-22,Charlton Athletic,Brighton & Hove Albion,0 - 2
+22516,40,1924-03-22,Gillingham,Aberdare Athletic,3 - 1
+22517,41,1924-03-22,Merthyr Town,Luton Town,0 - 0
+22518,41,1924-03-22,Newport County,Reading,2 - 0
+22519,41,1924-03-22,Northampton Town,Southend United,8 - 0
+22520,41,1924-03-22,Norwich City,Bristol Rovers,3 - 1
+22521,41,1924-03-22,Plymouth Argyle,AFC Bournemouth,4 - 0
+22522,41,1924-03-22,Queens Park Rangers,Millwall,1 - 1
+22523,41,1924-03-22,Swansea City,Exeter City,1 - 0
+22524,41,1924-03-22,Swindon Town,Brentford,2 - 1
+22525,41,1924-03-22,Watford,Portsmouth,2 - 3
+22526,41,1924-03-24,Rotherham County,Bradford Park Avenue,1 - 0
+22527,41,1924-03-26,Chesterfield,Halifax Town,1 - 1
+22528,41,1924-03-26,Wolverhampton Wanderers,Rochdale,0 - 0
+22529,41,1924-03-26,Brighton & Hove Albion,Newport County,4 - 0
+22531,41,1924-03-27,Grimsby Town,Wigan Borough,1 - 1
+22549,41,1924-03-29,Accrington Stanley,Wrexham,1 - 0
+22550,41,1924-03-29,Ashington,Tranmere Rovers,3 - 3
+22551,41,1924-03-29,Crewe Alexandra,Rotherham County,1 - 0
+22552,41,1924-03-29,Durham City,Chesterfield,1 - 1
+22553,41,1924-03-29,Grimsby Town,Southport,1 - 0
+22554,42,1924-03-29,Halifax Town,Rochdale,0 - 1
+22555,42,1924-03-29,Hartlepool United,Doncaster Rovers,1 - 1
+22556,42,1924-03-29,New Brighton,Darlington,1 - 1
+22557,42,1924-03-29,Walsall,Lincoln City,0 - 0
+22558,42,1924-03-29,Wigan Borough,Bradford Park Avenue,0 - 1
+22559,42,1924-03-29,Wolverhampton Wanderers,Barrow,3 - 0
+22560,42,1924-03-29,Aberdare Athletic,Queens Park Rangers,1 - 1
+22561,42,1924-03-29,Brentford,Watford,4 - 1
+22562,42,1924-03-29,Brighton & Hove Albion,Norwich City,3 - 0
+22563,42,1924-03-29,Bristol Rovers,Swindon Town,0 - 1
+22564,42,1924-03-29,Exeter City,Northampton Town,2 - 1
+22565,42,1924-03-29,Luton Town,Charlton Athletic,0 - 1
+22566,42,1924-03-29,Millwall,Plymouth Argyle,1 - 0
+22567,42,1924-03-29,Newport County,AFC Bournemouth,2 - 0
+22568,42,1924-03-29,Portsmouth,Swansea City,3 - 0
+22569,42,1924-03-29,Reading,Merthyr Town,3 - 0
+22570,42,1924-03-29,Southend United,Gillingham,3 - 2
+22572,42,1924-03-31,Aberdare Athletic,Bristol Rovers,2 - 0
+22578,43,1924-04-02,Exeter City,Brentford,1 - 0
+22579,43,1924-04-02,Swindon Town,Southend United,3 - 0
+22602,43,1924-04-05,Barrow,Wolverhampton Wanderers,2 - 2
+22603,43,1924-04-05,Bradford Park Avenue,Wigan Borough,4 - 0
+22604,43,1924-04-05,Darlington,New Brighton,3 - 1
+22605,43,1924-04-05,Doncaster Rovers,Hartlepool United,3 - 1
+22606,43,1924-04-05,Durham City,Ashington,4 - 0
+22607,43,1924-04-05,Lincoln City,Walsall,2 - 0
+22608,43,1924-04-05,Rochdale,Halifax Town,3 - 0
+22609,43,1924-04-05,Southport,Grimsby Town,3 - 0
+22610,43,1924-04-05,Tranmere Rovers,Chesterfield,0 - 0
+22611,43,1924-04-05,Wrexham,Accrington Stanley,1 - 0
+22612,43,1924-04-05,AFC Bournemouth,Newport County,0 - 1
+22613,43,1924-04-05,Charlton Athletic,Luton Town,1 - 1
+22614,43,1924-04-05,Gillingham,Southend United,3 - 2
+22615,43,1924-04-05,Merthyr Town,Reading,1 - 1
+22616,43,1924-04-05,Northampton Town,Exeter City,1 - 0
+22617,43,1924-04-05,Norwich City,Brighton & Hove Albion,1 - 0
+22618,43,1924-04-05,Plymouth Argyle,Millwall,1 - 1
+22619,43,1924-04-05,Queens Park Rangers,Aberdare Athletic,3 - 0
+22620,43,1924-04-05,Swansea City,Portsmouth,0 - 0
+22621,43,1924-04-05,Swindon Town,Bristol Rovers,0 - 0
+22622,44,1924-04-05,Watford,Brentford,0 - 1
+22625,44,1924-04-07,Walsall,Wolverhampton Wanderers,2 - 1
+22626,44,1924-04-07,Charlton Athletic,Exeter City,1 - 0
+22627,44,1924-04-07,Northampton Town,Aberdare Athletic,1 - 2
+22628,44,1924-04-08,Grimsby Town,Ashington,4 - 0
+22653,44,1924-04-12,Ashington,Bradford Park Avenue,1 - 0
+22654,45,1924-04-12,Crewe Alexandra,Wrexham,1 - 1
+22655,45,1924-04-12,Doncaster Rovers,Accrington Stanley,1 - 2
+22656,45,1924-04-12,Durham City,Rotherham County,3 - 2
+22657,45,1924-04-12,Grimsby Town,Darlington,3 - 0
+22658,45,1924-04-12,Halifax Town,Southport,1 - 0
+22659,45,1924-04-12,Hartlepool United,Rochdale,1 - 2
+22660,45,1924-04-12,Lincoln City,Wolverhampton Wanderers,0 - 0
+22661,45,1924-04-12,New Brighton,Barrow,5 - 0
+22662,45,1924-04-12,Walsall,Tranmere Rovers,0 - 4
+22663,45,1924-04-12,Wigan Borough,Chesterfield,3 - 1
+22664,45,1924-04-12,Aberdare Athletic,Plymouth Argyle,1 - 2
+22665,45,1924-04-12,AFC Bournemouth,Merthyr Town,3 - 3
+22666,45,1924-04-12,Brentford,Swansea City,2 - 2
+22667,45,1924-04-12,Brighton & Hove Albion,Swindon Town,1 - 1
+22668,45,1924-04-12,Bristol Rovers,Watford,4 - 2
+22669,45,1924-04-12,Exeter City,Gillingham,2 - 1
+22670,45,1924-04-12,Luton Town,Norwich City,2 - 1
+22671,45,1924-04-12,Millwall,Newport County,2 - 1
+22672,45,1924-04-12,Portsmouth,Northampton Town,1 - 3
+22673,45,1924-04-12,Reading,Charlton Athletic,3 - 1
+22674,45,1924-04-12,Southend United,Queens Park Rangers,4 - 2
+22691,45,1924-04-18,Ashington,Hartlepool United,0 - 0
+22692,46,1924-04-18,Barrow,Halifax Town,1 - 0
+22693,46,1924-04-18,Chesterfield,Durham City,1 - 1
+22694,46,1924-04-18,Crewe Alexandra,New Brighton,2 - 0
+22695,46,1924-04-18,Grimsby Town,Accrington Stanley,2 - 0
+22696,46,1924-04-18,Rochdale,Darlington,0 - 0
+22697,46,1924-04-18,Southport,Lincoln City,3 - 2
+22698,46,1924-04-18,Tranmere Rovers,Doncaster Rovers,3 - 0
+22699,46,1924-04-18,Brighton & Hove Albion,Southend United,2 - 0
+22700,46,1924-04-18,Gillingham,Swindon Town,1 - 0
+22701,46,1924-04-18,Luton Town,Bristol Rovers,0 - 0
+22702,46,1924-04-18,Millwall,Exeter City,3 - 1
+22703,46,1924-04-18,Plymouth Argyle,Charlton Athletic,1 - 1
+22704,46,1924-04-18,Portsmouth,AFC Bournemouth,3 - 0
+22705,46,1924-04-18,Queens Park Rangers,Norwich City,2 - 1
+22706,46,1924-04-18,Reading,Brentford,1 - 0
+22707,46,1924-04-18,Swansea City,Newport County,2 - 1
+22708,46,1924-04-18,Watford,Aberdare Athletic,2 - 0
+22731,46,1924-04-19,Accrington Stanley,Doncaster Rovers,0 - 0
+22732,47,1924-04-19,Barrow,New Brighton,2 - 1
+22733,47,1924-04-19,Bradford Park Avenue,Ashington,3 - 1
+22734,47,1924-04-19,Chesterfield,Wigan Borough,1 - 0
+22735,47,1924-04-19,Darlington,Grimsby Town,1 - 0
+22736,47,1924-04-19,Rotherham County,Durham City,5 - 1
+22737,47,1924-04-19,Southport,Halifax Town,3 - 0
+22738,47,1924-04-19,Tranmere Rovers,Walsall,3 - 1
+22739,47,1924-04-19,Wolverhampton Wanderers,Lincoln City,3 - 0
+22740,47,1924-04-19,Wrexham,Crewe Alexandra,1 - 0
+22741,47,1924-04-19,Charlton Athletic,Reading,0 - 0
+22742,47,1924-04-19,Gillingham,Exeter City,1 - 1
+22743,47,1924-04-19,Merthyr Town,AFC Bournemouth,4 - 2
+22744,47,1924-04-19,Newport County,Millwall,2 - 1
+22745,47,1924-04-19,Northampton Town,Portsmouth,0 - 4
+22746,47,1924-04-19,Norwich City,Luton Town,2 - 0
+22747,47,1924-04-19,Plymouth Argyle,Aberdare Athletic,2 - 0
+22748,47,1924-04-19,Queens Park Rangers,Southend United,0 - 0
+22749,47,1924-04-19,Swansea City,Brentford,4 - 0
+22750,47,1924-04-19,Swindon Town,Brighton & Hove Albion,4 - 0
+22751,47,1924-04-19,Watford,Bristol Rovers,4 - 0
+22770,47,1924-04-21,Doncaster Rovers,Tranmere Rovers,4 - 0
+22771,48,1924-04-21,Durham City,New Brighton,2 - 1
+22772,48,1924-04-21,Halifax Town,Barrow,1 - 0
+22773,48,1924-04-21,Hartlepool United,Crewe Alexandra,2 - 2
+22774,48,1924-04-21,Lincoln City,Southport,1 - 1
+22775,48,1924-04-21,Rotherham County,Darlington,2 - 0
+22776,48,1924-04-21,Walsall,Ashington,1 - 1
+22777,48,1924-04-21,Wolverhampton Wanderers,Wigan Borough,3 - 3
+22778,48,1924-04-21,Wrexham,Bradford Park Avenue,2 - 2
+22779,48,1924-04-21,AFC Bournemouth,Portsmouth,0 - 0
+22780,48,1924-04-21,Brentford,Reading,4 - 1
+22781,48,1924-04-21,Bristol Rovers,Luton Town,1 - 1
+22782,48,1924-04-21,Charlton Athletic,Plymouth Argyle,0 - 1
+22783,48,1924-04-21,Exeter City,Millwall,2 - 0
+22784,48,1924-04-21,Merthyr Town,Aberdare Athletic,0 - 0
+22785,48,1924-04-21,Newport County,Swansea City,4 - 1
+22786,48,1924-04-21,Norwich City,Queens Park Rangers,5 - 0
+22787,48,1924-04-21,Southend United,Brighton & Hove Albion,1 - 0
+22788,48,1924-04-21,Swindon Town,Gillingham,4 - 1
+22789,48,1924-04-21,Watford,Northampton Town,0 - 2
+22796,48,1924-04-22,Bradford Park Avenue,Wrexham,2 - 0
+22797,49,1924-04-22,Hartlepool United,Ashington,0 - 1
+22798,49,1924-04-22,Rochdale,Tranmere Rovers,1 - 0
+22799,49,1924-04-22,Rotherham County,Lincoln City,2 - 0
+22800,49,1924-04-22,Wigan Borough,Wolverhampton Wanderers,1 - 1
+22801,49,1924-04-22,Aberdare Athletic,Merthyr Town,0 - 0
+22802,49,1924-04-22,Newport County,Brentford,3 - 2
+22803,49,1924-04-22,Northampton Town,Watford,1 - 2
+22823,49,1924-04-26,Accrington Stanley,Rochdale,0 - 1
+22824,49,1924-04-26,Ashington,Chesterfield,1 - 1
+22825,50,1924-04-26,Crewe Alexandra,Doncaster Rovers,0 - 2
+22826,50,1924-04-26,Durham City,Wrexham,4 - 3
+22827,50,1924-04-26,Grimsby Town,Barrow,5 - 0
+22828,50,1924-04-26,Halifax Town,Darlington,1 - 4
+22829,50,1924-04-26,Hartlepool United,Southport,1 - 0
+22830,50,1924-04-26,New Brighton,Lincoln City,3 - 1
+22831,50,1924-04-26,Walsall,Bradford Park Avenue,2 - 3
+22832,50,1924-04-26,Wigan Borough,Rotherham County,3 - 1
+22833,50,1924-04-26,Wolverhampton Wanderers,Tranmere Rovers,3 - 0
+22834,50,1924-04-26,Aberdare Athletic,Newport County,2 - 0
+22835,50,1924-04-26,AFC Bournemouth,Charlton Athletic,1 - 0
+22836,50,1924-04-26,Brentford,Northampton Town,1 - 0
+22837,50,1924-04-26,Brighton & Hove Albion,Watford,3 - 0
+22838,50,1924-04-26,Bristol Rovers,Swansea City,2 - 0
+22839,50,1924-04-26,Exeter City,Queens Park Rangers,3 - 0
+22840,50,1924-04-26,Luton Town,Swindon Town,3 - 2
+22841,50,1924-04-26,Millwall,Merthyr Town,6 - 0
+22842,50,1924-04-26,Portsmouth,Gillingham,3 - 0
+22843,50,1924-04-26,Reading,Norwich City,3 - 0
+22844,50,1924-04-26,Southend United,Plymouth Argyle,0 - 2
+22846,50,1924-04-28,Tranmere Rovers,Rochdale,2 - 1
+22847,51,1924-04-28,Norwich City,Swansea City,2 - 0
+22848,51,1924-04-29,Southport,Darlington,1 - 0
+22851,51,1924-04-30,Accrington Stanley,Durham City,5 - 4
+22852,51,1924-04-30,Crewe Alexandra,Hartlepool United,2 - 1
+22853,51,1924-04-30,Plymouth Argyle,Brighton & Hove Albion,3 - 0
+22854,51,1924-04-30,Portsmouth,Swindon Town,4 - 1
+22855,51,1924-05-01,Doncaster Rovers,Wolverhampton Wanderers,0 - 2
+22872,51,1924-05-03,Barrow,Grimsby Town,3 - 1
+22873,51,1924-05-03,Bradford Park Avenue,Walsall,5 - 0
+22874,51,1924-05-03,Chesterfield,Ashington,2 - 0
+22875,51,1924-05-03,Darlington,Halifax Town,0 - 0
+22876,52,1924-05-03,Doncaster Rovers,Crewe Alexandra,4 - 1
+22877,52,1924-05-03,Lincoln City,New Brighton,1 - 0
+22878,52,1924-05-03,Rochdale,Accrington Stanley,4 - 1
+22879,52,1924-05-03,Rotherham County,Wigan Borough,4 - 0
+22880,52,1924-05-03,Southport,Hartlepool United,2 - 2
+22881,52,1924-05-03,Tranmere Rovers,Wolverhampton Wanderers,0 - 0
+22882,52,1924-05-03,Wrexham,Durham City,0 - 0
+22883,52,1924-05-03,Charlton Athletic,AFC Bournemouth,1 - 2
+22884,52,1924-05-03,Gillingham,Portsmouth,0 - 2
+22885,52,1924-05-03,Merthyr Town,Millwall,1 - 0
+22886,52,1924-05-03,Newport County,Aberdare Athletic,0 - 0
+22887,52,1924-05-03,Northampton Town,Brentford,2 - 3
+22888,52,1924-05-03,Norwich City,Reading,2 - 2
+22889,52,1924-05-03,Plymouth Argyle,Southend United,7 - 1
+22890,52,1924-05-03,Queens Park Rangers,Exeter City,2 - 0
+22891,52,1924-05-03,Swansea City,Bristol Rovers,3 - 1
+22892,52,1924-05-03,Swindon Town,Luton Town,3 - 2
+22893,52,1924-05-03,Watford,Brighton & Hove Albion,0 - 0

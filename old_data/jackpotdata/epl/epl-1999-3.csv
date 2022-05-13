@@ -1,0 +1,553 @@
+,Round Number,Date,Home Team,Away Team,Result
+157412,0,1999-08-07,AFC Bournemouth,Cambridge United,2 - 1
+157413,0,1999-08-07,Blackpool,Wrexham,2 - 1
+157414,0,1999-08-07,Bristol Rovers,Brentford,0 - 0
+157415,0,1999-08-07,Bury,Gillingham,2 - 1
+157416,0,1999-08-07,Cardiff City,Millwall,1 - 1
+157417,0,1999-08-07,Chesterfield,Colchester United,0 - 1
+157418,0,1999-08-07,Notts County,Luton Town,0 - 0
+157419,0,1999-08-07,Oldham Athletic,Preston North End,0 - 1
+157420,0,1999-08-07,Reading,Bristol City,2 - 1
+157421,0,1999-08-07,Stoke City,Oxford United,1 - 2
+157422,0,1999-08-07,Wigan Athletic,Scunthorpe United,3 - 0
+157423,0,1999-08-07,Wycombe Wanderers,Burnley,1 - 1
+157464,0,1999-08-14,Brentford,Oldham Athletic,2 - 0
+157465,1,1999-08-14,Bristol City,AFC Bournemouth,3 - 1
+157466,1,1999-08-14,Burnley,Chesterfield,2 - 1
+157467,1,1999-08-14,Cambridge United,Reading,3 - 1
+157468,1,1999-08-14,Colchester United,Notts County,0 - 3
+157469,1,1999-08-14,Gillingham,Bristol Rovers,0 - 1
+157470,1,1999-08-14,Luton Town,Blackpool,3 - 2
+157471,1,1999-08-14,Millwall,Wigan Athletic,3 - 3
+157472,1,1999-08-14,Oxford United,Cardiff City,2 - 3
+157473,1,1999-08-14,Preston North End,Stoke City,2 - 1
+157474,1,1999-08-14,Scunthorpe United,Wycombe Wanderers,0 - 1
+157475,1,1999-08-14,Wrexham,Bury,1 - 0
+157513,1,1999-08-21,AFC Bournemouth,Colchester United,4 - 0
+157514,2,1999-08-21,Blackpool,Gillingham,1 - 1
+157515,2,1999-08-21,Bristol Rovers,Oxford United,1 - 0
+157516,2,1999-08-21,Bury,Brentford,2 - 2
+157517,2,1999-08-21,Chesterfield,Cambridge United,4 - 2
+157518,2,1999-08-21,Notts County,Scunthorpe United,3 - 0
+157519,2,1999-08-21,Oldham Athletic,Burnley,0 - 1
+157520,2,1999-08-21,Reading,Luton Town,1 - 2
+157521,2,1999-08-21,Wigan Athletic,Bristol City,2 - 1
+157522,2,1999-08-21,Wycombe Wanderers,Preston North End,1 - 1
+157535,2,1999-08-22,Cardiff City,Wrexham,1 - 1
+157536,2,1999-08-22,Stoke City,Millwall,3 - 1
+157565,2,1999-08-28,Brentford,Blackpool,2 - 0
+157566,3,1999-08-28,Bristol City,Bury,1 - 1
+157567,3,1999-08-28,Burnley,Stoke City,1 - 0
+157568,3,1999-08-28,Cambridge United,Notts County,1 - 1
+157569,3,1999-08-28,Colchester United,Reading,3 - 2
+157570,3,1999-08-28,Gillingham,Wycombe Wanderers,2 - 2
+157571,3,1999-08-28,Luton Town,Cardiff City,1 - 0
+157572,3,1999-08-28,Millwall,Chesterfield,1 - 1
+157573,3,1999-08-28,Oxford United,Oldham Athletic,1 - 0
+157574,3,1999-08-28,Preston North End,Wigan Athletic,1 - 4
+157575,3,1999-08-28,Scunthorpe United,AFC Bournemouth,3 - 1
+157576,3,1999-08-28,Wrexham,Bristol Rovers,2 - 1
+157599,3,1999-08-30,Blackpool,Oxford United,1 - 1
+157600,4,1999-08-30,Bristol Rovers,Burnley,1 - 0
+157601,4,1999-08-30,Bury,Colchester United,5 - 2
+157602,4,1999-08-30,Cardiff City,Scunthorpe United,1 - 1
+157603,4,1999-08-30,Stoke City,Gillingham,1 - 1
+157604,4,1999-08-30,Wigan Athletic,Cambridge United,1 - 1
+157615,4,1999-08-31,AFC Bournemouth,Luton Town,1 - 0
+157616,4,1999-08-31,Wycombe Wanderers,Wrexham,0 - 1
+157620,4,1999-09-01,Reading,Preston North End,2 - 2
+157622,4,1999-09-03,Burnley,AFC Bournemouth,2 - 1
+157623,5,1999-09-03,Wrexham,Notts County,2 - 3
+157630,5,1999-09-04,Bristol City,Blackpool,5 - 2
+157631,5,1999-09-04,Cambridge United,Stoke City,1 - 3
+157632,5,1999-09-04,Gillingham,Oldham Athletic,2 - 1
+157633,5,1999-09-04,Luton Town,Bury,1 - 1
+157634,5,1999-09-04,Oxford United,Wycombe Wanderers,0 - 0
+157635,5,1999-09-04,Preston North End,Chesterfield,0 - 2
+157636,5,1999-09-04,Scunthorpe United,Bristol Rovers,0 - 2
+157666,5,1999-09-11,AFC Bournemouth,Reading,3 - 1
+157667,6,1999-09-11,Bristol City,Millwall,0 - 0
+157668,6,1999-09-11,Cambridge United,Brentford,2 - 2
+157669,6,1999-09-11,Chesterfield,Stoke City,0 - 2
+157670,6,1999-09-11,Colchester United,Scunthorpe United,0 - 1
+157671,6,1999-09-11,Luton Town,Wrexham,3 - 1
+157672,6,1999-09-11,Notts County,Blackpool,2 - 1
+157673,6,1999-09-11,Oldham Athletic,Bury,2 - 0
+157674,6,1999-09-11,Oxford United,Gillingham,1 - 2
+157675,6,1999-09-11,Preston North End,Burnley,0 - 0
+157676,6,1999-09-11,Wigan Athletic,Bristol Rovers,3 - 1
+157677,6,1999-09-11,Wycombe Wanderers,Cardiff City,3 - 1
+157708,6,1999-09-18,Blackpool,AFC Bournemouth,0 - 0
+157709,7,1999-09-18,Brentford,Luton Town,2 - 0
+157710,7,1999-09-18,Bristol Rovers,Oldham Athletic,3 - 2
+157711,7,1999-09-18,Burnley,Colchester United,3 - 0
+157712,7,1999-09-18,Bury,Wycombe Wanderers,2 - 0
+157713,7,1999-09-18,Cardiff City,Notts County,2 - 1
+157714,7,1999-09-18,Gillingham,Preston North End,0 - 2
+157715,7,1999-09-18,Millwall,Cambridge United,2 - 1
+157716,7,1999-09-18,Reading,Chesterfield,1 - 0
+157717,7,1999-09-18,Scunthorpe United,Bristol City,1 - 2
+157718,7,1999-09-18,Stoke City,Wigan Athletic,1 - 1
+157719,7,1999-09-18,Wrexham,Oxford United,1 - 0
+157757,7,1999-09-25,AFC Bournemouth,Bury,1 - 1
+157758,8,1999-09-25,Blackpool,Wycombe Wanderers,1 - 2
+157759,8,1999-09-25,Brentford,Preston North End,2 - 2
+157760,8,1999-09-25,Bristol City,Burnley,0 - 0
+157761,8,1999-09-25,Cambridge United,Gillingham,2 - 2
+157762,8,1999-09-25,Cardiff City,Wigan Athletic,0 - 0
+157763,8,1999-09-25,Luton Town,Oxford United,4 - 2
+157764,8,1999-09-25,Millwall,Colchester United,1 - 0
+157765,8,1999-09-25,Notts County,Bristol Rovers,0 - 2
+157766,8,1999-09-25,Reading,Oldham Athletic,1 - 1
+157767,8,1999-09-25,Scunthorpe United,Chesterfield,0 - 0
+157768,8,1999-09-25,Wrexham,Stoke City,2 - 3
+157787,8,1999-09-28,Brentford,Cardiff City,2 - 1
+157789,9,1999-10-01,Colchester United,Wrexham,2 - 2
+157803,9,1999-10-02,Bristol Rovers,Blackpool,3 - 1
+157804,9,1999-10-02,Burnley,Brentford,2 - 2
+157805,9,1999-10-02,Bury,Cardiff City,3 - 2
+157806,9,1999-10-02,Chesterfield,AFC Bournemouth,0 - 1
+157807,9,1999-10-02,Gillingham,Millwall,2 - 0
+157808,9,1999-10-02,Oldham Athletic,Notts County,1 - 2
+157809,9,1999-10-02,Oxford United,Bristol City,3 - 0
+157810,9,1999-10-02,Preston North End,Cambridge United,2 - 1
+157811,9,1999-10-02,Stoke City,Scunthorpe United,1 - 0
+157812,9,1999-10-02,Wigan Athletic,Luton Town,1 - 0
+157813,9,1999-10-02,Wycombe Wanderers,Reading,5 - 3
+157840,9,1999-10-09,Bristol Rovers,Cardiff City,1 - 1
+157841,10,1999-10-09,Bury,Notts County,1 - 3
+157842,10,1999-10-09,Chesterfield,Blackpool,0 - 0
+157843,10,1999-10-09,Gillingham,Wrexham,5 - 1
+157844,10,1999-10-09,Oldham Athletic,Luton Town,2 - 1
+157845,10,1999-10-09,Oxford United,Millwall,1 - 3
+157846,10,1999-10-09,Preston North End,Bristol City,1 - 0
+157847,10,1999-10-09,Stoke City,Reading,2 - 1
+157848,10,1999-10-09,Wycombe Wanderers,Cambridge United,1 - 0
+157860,10,1999-10-10,Burnley,Scunthorpe United,1 - 2
+157862,10,1999-10-15,Cambridge United,Colchester United,5 - 2
+157883,11,1999-10-16,AFC Bournemouth,Stoke City,1 - 1
+157884,11,1999-10-16,Blackpool,Bury,0 - 5
+157885,11,1999-10-16,Brentford,Oxford United,2 - 0
+157886,11,1999-10-16,Cardiff City,Oldham Athletic,1 - 1
+157887,11,1999-10-16,Luton Town,Gillingham,3 - 1
+157888,11,1999-10-16,Millwall,Burnley,1 - 1
+157889,11,1999-10-16,Notts County,Wycombe Wanderers,2 - 1
+157890,11,1999-10-16,Reading,Wigan Athletic,0 - 2
+157891,11,1999-10-16,Scunthorpe United,Preston North End,1 - 1
+157892,11,1999-10-16,Wrexham,Chesterfield,1 - 1
+157906,11,1999-10-17,Bristol City,Bristol Rovers,0 - 0
+157919,11,1999-10-19,AFC Bournemouth,Bristol Rovers,0 - 1
+157920,12,1999-10-19,Blackpool,Oldham Athletic,1 - 2
+157921,12,1999-10-19,Brentford,Gillingham,1 - 2
+157922,12,1999-10-19,Bristol City,Colchester United,1 - 1
+157923,12,1999-10-19,Cambridge United,Burnley,0 - 1
+157924,12,1999-10-19,Cardiff City,Stoke City,1 - 2
+157925,12,1999-10-19,Luton Town,Wycombe Wanderers,1 - 1
+157926,12,1999-10-19,Millwall,Preston North End,0 - 2
+157927,12,1999-10-19,Notts County,Chesterfield,1 - 0
+157928,12,1999-10-19,Scunthorpe United,Oxford United,1 - 0
+157929,12,1999-10-19,Wrexham,Wigan Athletic,1 - 1
+157943,12,1999-10-20,Reading,Bury,2 - 0
+157962,12,1999-10-23,Bristol Rovers,Notts County,0 - 1
+157963,13,1999-10-23,Burnley,Bristol City,2 - 0
+157964,13,1999-10-23,Bury,AFC Bournemouth,2 - 2
+157965,13,1999-10-23,Chesterfield,Scunthorpe United,1 - 1
+157966,13,1999-10-23,Colchester United,Millwall,1 - 2
+157967,13,1999-10-23,Gillingham,Cambridge United,2 - 1
+157968,13,1999-10-23,Oldham Athletic,Reading,1 - 2
+157969,13,1999-10-23,Oxford United,Luton Town,0 - 1
+157970,13,1999-10-23,Preston North End,Brentford,2 - 1
+157971,13,1999-10-23,Stoke City,Wrexham,2 - 0
+157972,13,1999-10-23,Wigan Athletic,Cardiff City,2 - 0
+157973,13,1999-10-23,Wycombe Wanderers,Blackpool,0 - 2
+157999,13,1999-10-26,Colchester United,Wigan Athletic,2 - 2
+158000,14,1999-10-26,Notts County,Brentford,0 - 1
+158030,14,1999-11-02,Brentford,Reading,1 - 1
+158031,15,1999-11-02,Bristol Rovers,Bury,0 - 0
+158032,15,1999-11-02,Burnley,Wrexham,5 - 0
+158033,15,1999-11-02,Cambridge United,Scunthorpe United,1 - 3
+158034,15,1999-11-02,Cardiff City,Blackpool,1 - 1
+158035,15,1999-11-02,Gillingham,Bristol City,3 - 0
+158036,15,1999-11-02,Millwall,Luton Town,1 - 0
+158037,15,1999-11-02,Oldham Athletic,Wycombe Wanderers,2 - 2
+158038,15,1999-11-02,Oxford United,Colchester United,1 - 1
+158039,15,1999-11-02,Wigan Athletic,Chesterfield,3 - 0
+158053,15,1999-11-03,Preston North End,AFC Bournemouth,3 - 0
+158054,15,1999-11-03,Stoke City,Notts County,0 - 1
+158074,15,1999-11-06,AFC Bournemouth,Cardiff City,1 - 0
+158075,16,1999-11-06,Blackpool,Wigan Athletic,2 - 2
+158076,16,1999-11-06,Bristol City,Cambridge United,1 - 1
+158077,16,1999-11-06,Bury,Stoke City,0 - 0
+158078,16,1999-11-06,Chesterfield,Oldham Athletic,0 - 1
+158079,16,1999-11-06,Colchester United,Preston North End,2 - 2
+158080,16,1999-11-06,Luton Town,Burnley,2 - 1
+158081,16,1999-11-06,Notts County,Gillingham,1 - 1
+158082,16,1999-11-06,Scunthorpe United,Millwall,1 - 4
+158083,16,1999-11-06,Wrexham,Brentford,0 - 1
+158084,16,1999-11-06,Wycombe Wanderers,Bristol Rovers,1 - 1
+158100,16,1999-11-07,Reading,Oxford United,1 - 2
+158102,16,1999-11-09,Oldham Athletic,Millwall,2 - 1
+158107,17,1999-11-12,Brentford,Scunthorpe United,4 - 3
+158108,17,1999-11-12,Cambridge United,Luton Town,3 - 1
+158109,17,1999-11-12,Cardiff City,Chesterfield,2 - 1
+158110,17,1999-11-12,Gillingham,AFC Bournemouth,4 - 1
+158111,17,1999-11-12,Millwall,Wrexham,0 - 0
+158112,18,1999-11-12,Preston North End,Notts County,2 - 0
+158113,18,1999-11-12,Wigan Athletic,Wycombe Wanderers,2 - 1
+158123,18,1999-11-13,Oxford United,Bury,1 - 1
+158129,18,1999-11-14,Burnley,Blackpool,1 - 0
+158130,18,1999-11-14,Oldham Athletic,Colchester United,1 - 2
+158131,18,1999-11-14,Stoke City,Bristol City,1 - 1
+158135,18,1999-11-16,Millwall,Reading,5 - 0
+158136,19,1999-11-16,Wigan Athletic,AFC Bournemouth,3 - 1
+158138,19,1999-11-19,Colchester United,Brentford,0 - 3
+158158,19,1999-11-20,Chesterfield,Bristol Rovers,0 - 1
+158172,19,1999-11-23,AFC Bournemouth,Brentford,4 - 1
+158173,20,1999-11-23,Blackpool,Millwall,1 - 2
+158174,20,1999-11-23,Bristol City,Oldham Athletic,1 - 1
+158175,20,1999-11-23,Bury,Wigan Athletic,2 - 2
+158176,20,1999-11-23,Colchester United,Cardiff City,0 - 3
+158177,20,1999-11-23,Luton Town,Preston North End,0 - 2
+158178,20,1999-11-23,Notts County,Oxford United,0 - 1
+158179,20,1999-11-23,Scunthorpe United,Gillingham,1 - 4
+158180,20,1999-11-23,Wrexham,Cambridge United,1 - 1
+158181,20,1999-11-23,Wycombe Wanderers,Stoke City,0 - 4
+158196,20,1999-11-24,Reading,Burnley,0 - 0
+158213,20,1999-11-27,AFC Bournemouth,Millwall,1 - 2
+158214,21,1999-11-27,Blackpool,Cambridge United,2 - 1
+158215,21,1999-11-27,Bristol Rovers,Luton Town,3 - 0
+158216,21,1999-11-27,Bury,Preston North End,1 - 3
+158217,21,1999-11-27,Cardiff City,Gillingham,1 - 2
+158218,21,1999-11-27,Chesterfield,Oxford United,0 - 0
+158219,21,1999-11-27,Notts County,Bristol City,4 - 4
+158220,21,1999-11-27,Oldham Athletic,Wrexham,0 - 0
+158221,21,1999-11-27,Reading,Scunthorpe United,1 - 1
+158222,21,1999-11-27,Stoke City,Colchester United,1 - 1
+158223,21,1999-11-27,Wigan Athletic,Burnley,1 - 1
+158224,21,1999-11-27,Wycombe Wanderers,Brentford,2 - 0
+158245,21,1999-12-03,Colchester United,Chesterfield,1 - 0
+158263,22,1999-12-04,Brentford,Bristol Rovers,0 - 3
+158264,22,1999-12-04,Bristol City,Reading,3 - 1
+158265,22,1999-12-04,Burnley,Wycombe Wanderers,1 - 0
+158266,22,1999-12-04,Cambridge United,AFC Bournemouth,0 - 2
+158267,22,1999-12-04,Gillingham,Bury,1 - 0
+158268,22,1999-12-04,Luton Town,Notts County,2 - 2
+158269,22,1999-12-04,Millwall,Cardiff City,2 - 0
+158270,22,1999-12-04,Oxford United,Stoke City,1 - 1
+158271,22,1999-12-04,Preston North End,Oldham Athletic,2 - 0
+158272,22,1999-12-04,Scunthorpe United,Wigan Athletic,1 - 2
+158273,22,1999-12-04,Wrexham,Blackpool,1 - 1
+158293,22,1999-12-07,Chesterfield,Bristol City,0 - 2
+158294,23,1999-12-10,Brentford,Chesterfield,1 - 1
+158297,23,1999-12-11,Bristol Rovers,Colchester United,2 - 1
+158298,23,1999-12-11,Notts County,AFC Bournemouth,5 - 1
+158299,23,1999-12-11,Wycombe Wanderers,Millwall,1 - 2
+158311,23,1999-12-17,Bristol City,Wycombe Wanderers,0 - 0
+158312,24,1999-12-17,Colchester United,Luton Town,3 - 0
+158333,24,1999-12-18,AFC Bournemouth,Oxford United,4 - 0
+158334,24,1999-12-18,Burnley,Cardiff City,2 - 1
+158335,24,1999-12-18,Cambridge United,Oldham Athletic,2 - 3
+158336,24,1999-12-18,Millwall,Notts County,1 - 0
+158337,24,1999-12-18,Preston North End,Blackpool,3 - 0
+158338,24,1999-12-18,Reading,Wrexham,2 - 2
+158339,24,1999-12-18,Scunthorpe United,Bury,0 - 2
+158340,24,1999-12-18,Stoke City,Bristol Rovers,1 - 2
+158341,24,1999-12-18,Wigan Athletic,Brentford,1 - 0
+158373,24,1999-12-26,Blackpool,Stoke City,1 - 2
+158374,25,1999-12-26,Brentford,Bristol City,2 - 1
+158375,25,1999-12-26,Bristol Rovers,Millwall,1 - 0
+158376,25,1999-12-26,Bury,Burnley,4 - 2
+158377,25,1999-12-26,Cardiff City,Reading,1 - 0
+158378,25,1999-12-26,Gillingham,Colchester United,2 - 1
+158379,25,1999-12-26,Luton Town,Chesterfield,1 - 1
+158380,25,1999-12-26,Notts County,Wigan Athletic,0 - 2
+158381,25,1999-12-26,Oldham Athletic,Scunthorpe United,1 - 1
+158382,25,1999-12-26,Oxford United,Cambridge United,1 - 0
+158383,25,1999-12-26,Wrexham,Preston North End,0 - 0
+158384,25,1999-12-26,Wycombe Wanderers,AFC Bournemouth,2 - 1
+158416,25,1999-12-28,AFC Bournemouth,Wrexham,1 - 0
+158417,26,1999-12-28,Bristol City,Luton Town,0 - 0
+158418,26,1999-12-28,Burnley,Oxford United,3 - 2
+158419,26,1999-12-28,Cambridge United,Cardiff City,0 - 0
+158420,26,1999-12-28,Millwall,Brentford,3 - 2
+158421,26,1999-12-28,Preston North End,Bristol Rovers,2 - 1
+158422,26,1999-12-28,Reading,Notts County,0 - 0
+158423,26,1999-12-28,Scunthorpe United,Blackpool,1 - 0
+158424,26,1999-12-28,Stoke City,Oldham Athletic,0 - 0
+158425,26,1999-12-28,Wigan Athletic,Gillingham,2 - 0
+158460,26,2000-01-03,Blackpool,Colchester United,1 - 1
+158461,27,2000-01-03,Brentford,Stoke City,0 - 1
+158462,27,2000-01-03,Bristol Rovers,Cambridge United,1 - 0
+158463,27,2000-01-03,Cardiff City,Preston North End,0 - 4
+158464,27,2000-01-03,Gillingham,Reading,2 - 2
+158465,27,2000-01-03,Luton Town,Scunthorpe United,4 - 1
+158466,27,2000-01-03,Notts County,Burnley,2 - 0
+158467,27,2000-01-03,Oldham Athletic,AFC Bournemouth,1 - 0
+158468,27,2000-01-03,Oxford United,Wigan Athletic,1 - 2
+158469,27,2000-01-03,Wrexham,Bristol City,0 - 1
+158470,27,2000-01-03,Wycombe Wanderers,Chesterfield,3 - 0
+158483,27,2000-01-04,Bury,Millwall,2 - 2
+158484,27,2000-01-07,Wigan Athletic,Oldham Athletic,0 - 1
+158487,28,2000-01-08,AFC Bournemouth,Notts County,1 - 1
+158488,28,2000-01-08,Chesterfield,Brentford,1 - 0
+158489,28,2000-01-08,Colchester United,Bristol Rovers,5 - 4
+158490,28,2000-01-08,Millwall,Wycombe Wanderers,1 - 1
+158491,28,2000-01-08,Reading,Blackpool,1 - 1
+158492,28,2000-01-08,Stoke City,Luton Town,2 - 1
+158504,28,2000-01-09,Bristol City,Cardiff City,0 - 0
+158507,28,2000-01-14,Stoke City,Preston North End,2 - 1
+158527,29,2000-01-15,AFC Bournemouth,Bristol City,2 - 3
+158528,29,2000-01-15,Blackpool,Luton Town,3 - 3
+158529,29,2000-01-15,Bristol Rovers,Gillingham,2 - 1
+158530,29,2000-01-15,Bury,Wrexham,0 - 2
+158531,29,2000-01-15,Cardiff City,Oxford United,1 - 1
+158532,29,2000-01-15,Chesterfield,Burnley,1 - 1
+158533,29,2000-01-15,Notts County,Colchester United,1 - 2
+158534,29,2000-01-15,Oldham Athletic,Brentford,3 - 0
+158535,29,2000-01-15,Reading,Cambridge United,0 - 0
+158536,29,2000-01-15,Wigan Athletic,Millwall,1 - 1
+158537,29,2000-01-15,Wycombe Wanderers,Scunthorpe United,2 - 1
+158551,29,2000-01-18,Colchester United,Wycombe Wanderers,1 - 0
+158573,30,2000-01-22,Brentford,Bury,2 - 1
+158574,30,2000-01-22,Bristol City,Wigan Athletic,0 - 0
+158575,30,2000-01-22,Burnley,Oldham Athletic,3 - 0
+158576,30,2000-01-22,Cambridge United,Chesterfield,2 - 0
+158577,30,2000-01-22,Colchester United,AFC Bournemouth,3 - 1
+158578,31,2000-01-22,Gillingham,Blackpool,1 - 3
+158579,31,2000-01-22,Luton Town,Reading,3 - 1
+158580,31,2000-01-22,Millwall,Stoke City,1 - 0
+158581,31,2000-01-22,Oxford United,Bristol Rovers,0 - 5
+158582,31,2000-01-22,Preston North End,Wycombe Wanderers,3 - 2
+158583,31,2000-01-22,Scunthorpe United,Notts County,1 - 0
+158584,31,2000-01-22,Wrexham,Cardiff City,2 - 1
+158607,31,2000-01-29,AFC Bournemouth,Scunthorpe United,1 - 1
+158608,32,2000-01-29,Blackpool,Brentford,0 - 1
+158609,32,2000-01-29,Bristol Rovers,Wrexham,3 - 1
+158610,32,2000-01-29,Bury,Bristol City,0 - 0
+158611,32,2000-01-29,Chesterfield,Millwall,2 - 0
+158612,32,2000-01-29,Oldham Athletic,Oxford United,2 - 0
+158613,32,2000-01-29,Reading,Colchester United,2 - 0
+158614,32,2000-01-29,Stoke City,Burnley,2 - 2
+158627,32,2000-01-30,Cardiff City,Luton Town,1 - 3
+158628,32,2000-02-01,Chesterfield,Gillingham,0 - 0
+158629,33,2000-02-01,Oxford United,Preston North End,0 - 4
+158630,33,2000-02-01,Scunthorpe United,Wrexham,0 - 2
+158656,33,2000-02-05,Brentford,Notts County,0 - 2
+158657,33,2000-02-05,Bristol City,Chesterfield,3 - 0
+158658,33,2000-02-05,Burnley,Bristol Rovers,1 - 0
+158659,33,2000-02-05,Cambridge United,Wigan Athletic,1 - 1
+158660,33,2000-02-05,Colchester United,Bury,1 - 3
+158661,33,2000-02-05,Gillingham,Stoke City,3 - 0
+158662,34,2000-02-05,Luton Town,AFC Bournemouth,1 - 2
+158663,34,2000-02-05,Millwall,Oldham Athletic,1 - 0
+158664,34,2000-02-05,Oxford United,Blackpool,0 - 1
+158665,34,2000-02-05,Preston North End,Reading,2 - 2
+158666,34,2000-02-05,Scunthorpe United,Cardiff City,0 - 0
+158667,34,2000-02-05,Wrexham,Wycombe Wanderers,1 - 3
+158680,34,2000-02-08,Blackpool,Reading,0 - 2
+158681,35,2000-02-08,Luton Town,Stoke City,2 - 1
+158704,35,2000-02-12,AFC Bournemouth,Burnley,0 - 1
+158705,35,2000-02-12,Blackpool,Bristol City,1 - 2
+158706,36,2000-02-12,Bristol Rovers,Scunthorpe United,1 - 1
+158707,36,2000-02-12,Bury,Luton Town,1 - 0
+158708,36,2000-02-12,Cardiff City,Brentford,1 - 1
+158709,36,2000-02-12,Chesterfield,Preston North End,0 - 1
+158710,36,2000-02-12,Notts County,Wrexham,2 - 1
+158711,36,2000-02-12,Oldham Athletic,Gillingham,1 - 3
+158712,36,2000-02-12,Reading,Millwall,2 - 0
+158713,36,2000-02-12,Stoke City,Cambridge United,1 - 0
+158714,36,2000-02-12,Wigan Athletic,Colchester United,0 - 1
+158715,36,2000-02-12,Wycombe Wanderers,Oxford United,0 - 1
+158731,36,2000-02-15,Notts County,Cambridge United,2 - 3
+158744,37,2000-02-19,Brentford,Wycombe Wanderers,0 - 0
+158745,37,2000-02-19,Bristol City,Notts County,2 - 2
+158746,37,2000-02-19,Burnley,Wigan Athletic,0 - 0
+158747,37,2000-02-19,Cambridge United,Blackpool,0 - 2
+158748,38,2000-02-19,Colchester United,Stoke City,1 - 0
+158749,38,2000-02-19,Luton Town,Bristol Rovers,1 - 4
+158750,38,2000-02-19,Millwall,AFC Bournemouth,3 - 1
+158751,38,2000-02-19,Oxford United,Chesterfield,2 - 1
+158752,38,2000-02-19,Preston North End,Bury,1 - 1
+158753,38,2000-02-19,Scunthorpe United,Reading,2 - 2
+158754,38,2000-02-19,Wrexham,Oldham Athletic,0 - 3
+158768,38,2000-02-22,Bury,Cambridge United,0 - 2
+158769,39,2000-02-22,Cardiff City,Bristol City,0 - 0
+158790,39,2000-02-26,AFC Bournemouth,Blackpool,2 - 0
+158791,39,2000-02-26,Bristol City,Scunthorpe United,2 - 1
+158792,40,2000-02-26,Cambridge United,Millwall,0 - 2
+158793,40,2000-02-26,Chesterfield,Reading,2 - 0
+158794,40,2000-02-26,Colchester United,Burnley,1 - 2
+158795,40,2000-02-26,Luton Town,Brentford,1 - 2
+158796,40,2000-02-26,Notts County,Cardiff City,2 - 1
+158797,40,2000-02-26,Oldham Athletic,Bristol Rovers,1 - 4
+158798,40,2000-02-26,Oxford United,Wrexham,1 - 4
+158799,40,2000-02-26,Preston North End,Gillingham,0 - 2
+158800,40,2000-02-26,Wigan Athletic,Stoke City,1 - 2
+158801,40,2000-02-26,Wycombe Wanderers,Bury,3 - 0
+158819,40,2000-03-03,Cardiff City,Wycombe Wanderers,2 - 2
+158838,41,2000-03-04,Blackpool,Notts County,2 - 1
+158839,41,2000-03-04,Brentford,Cambridge United,1 - 1
+158840,41,2000-03-04,Bristol Rovers,Wigan Athletic,1 - 1
+158841,41,2000-03-04,Burnley,Preston North End,0 - 3
+158842,41,2000-03-04,Bury,Oldham Athletic,2 - 2
+158843,41,2000-03-04,Gillingham,Oxford United,1 - 0
+158844,41,2000-03-04,Millwall,Bristol City,4 - 1
+158845,41,2000-03-04,Reading,AFC Bournemouth,2 - 0
+158846,41,2000-03-04,Scunthorpe United,Colchester United,0 - 0
+158847,41,2000-03-04,Stoke City,Chesterfield,5 - 1
+158848,41,2000-03-04,Wrexham,Luton Town,1 - 0
+158874,41,2000-03-07,Brentford,Wrexham,0 - 2
+158875,42,2000-03-07,Bristol Rovers,Wycombe Wanderers,1 - 0
+158876,42,2000-03-07,Burnley,Luton Town,0 - 2
+158877,42,2000-03-07,Cambridge United,Bristol City,3 - 0
+158878,42,2000-03-07,Cardiff City,AFC Bournemouth,1 - 2
+158879,42,2000-03-07,Gillingham,Notts County,0 - 1
+158880,42,2000-03-07,Millwall,Scunthorpe United,1 - 2
+158881,42,2000-03-07,Oxford United,Reading,1 - 3
+158882,42,2000-03-07,Preston North End,Colchester United,2 - 3
+158883,42,2000-03-07,Wigan Athletic,Blackpool,5 - 1
+158917,42,2000-03-11,AFC Bournemouth,Preston North End,0 - 1
+158918,43,2000-03-11,Blackpool,Cardiff City,2 - 2
+158919,43,2000-03-11,Bristol City,Gillingham,0 - 1
+158920,43,2000-03-11,Bury,Bristol Rovers,0 - 0
+158921,43,2000-03-11,Chesterfield,Wigan Athletic,1 - 1
+158922,43,2000-03-11,Colchester United,Oxford United,1 - 2
+158923,43,2000-03-11,Luton Town,Millwall,0 - 2
+158924,43,2000-03-11,Notts County,Stoke City,0 - 0
+158925,43,2000-03-11,Reading,Brentford,1 - 0
+158926,43,2000-03-11,Scunthorpe United,Cambridge United,0 - 3
+158927,43,2000-03-11,Wrexham,Burnley,0 - 1
+158928,43,2000-03-11,Wycombe Wanderers,Oldham Athletic,0 - 0
+158944,43,2000-03-14,Gillingham,Burnley,2 - 2
+158945,44,2000-03-14,Preston North End,Oxford United,3 - 1
+158950,44,2000-03-17,Cardiff City,Colchester United,3 - 2
+158969,44,2000-03-18,Brentford,AFC Bournemouth,0 - 2
+158970,44,2000-03-18,Bristol Rovers,Chesterfield,3 - 1
+158971,44,2000-03-18,Burnley,Reading,3 - 0
+158972,45,2000-03-18,Cambridge United,Wrexham,3 - 4
+158973,45,2000-03-18,Gillingham,Scunthorpe United,3 - 1
+158974,45,2000-03-18,Millwall,Blackpool,1 - 1
+158975,45,2000-03-18,Oldham Athletic,Bristol City,1 - 1
+158976,45,2000-03-18,Oxford United,Notts County,2 - 3
+158977,45,2000-03-18,Preston North End,Luton Town,1 - 0
+158978,45,2000-03-18,Stoke City,Wycombe Wanderers,1 - 1
+158979,45,2000-03-18,Wigan Athletic,Bury,1 - 0
+159003,45,2000-03-21,AFC Bournemouth,Gillingham,0 - 1
+159004,45,2000-03-21,Blackpool,Burnley,1 - 1
+159005,46,2000-03-21,Bury,Oxford United,1 - 2
+159006,46,2000-03-21,Chesterfield,Cardiff City,1 - 1
+159007,46,2000-03-21,Colchester United,Oldham Athletic,0 - 1
+159008,46,2000-03-21,Luton Town,Cambridge United,2 - 2
+159009,46,2000-03-21,Notts County,Preston North End,1 - 0
+159010,46,2000-03-21,Scunthorpe United,Brentford,0 - 0
+159011,46,2000-03-21,Wrexham,Millwall,1 - 1
+159012,46,2000-03-21,Wycombe Wanderers,Wigan Athletic,0 - 2
+159029,46,2000-03-22,Reading,Bristol Rovers,2 - 0
+159048,46,2000-03-25,AFC Bournemouth,Wycombe Wanderers,2 - 0
+159049,46,2000-03-25,Bristol City,Brentford,1 - 0
+159050,46,2000-03-25,Burnley,Bury,2 - 2
+159051,47,2000-03-25,Cambridge United,Oxford United,2 - 0
+159052,47,2000-03-25,Chesterfield,Luton Town,1 - 3
+159053,47,2000-03-25,Colchester United,Gillingham,2 - 1
+159054,47,2000-03-25,Millwall,Bristol Rovers,3 - 0
+159055,47,2000-03-25,Preston North End,Wrexham,1 - 0
+159056,47,2000-03-25,Reading,Cardiff City,0 - 1
+159057,47,2000-03-25,Scunthorpe United,Oldham Athletic,1 - 2
+159058,47,2000-03-25,Stoke City,Blackpool,3 - 0
+159059,47,2000-03-25,Wigan Athletic,Notts County,2 - 0
+159076,47,2000-03-28,Bristol City,Stoke City,2 - 2
+159077,47,2000-03-28,Chesterfield,Bury,0 - 1
+159078,48,2000-03-28,Wrexham,Scunthorpe United,3 - 1
+159079,48,2000-03-28,Wycombe Wanderers,Gillingham,1 - 0
+159099,48,2000-04-01,Blackpool,Preston North End,0 - 0
+159100,48,2000-04-01,Brentford,Wigan Athletic,0 - 2
+159101,48,2000-04-01,Bristol Rovers,Stoke City,3 - 3
+159102,48,2000-04-01,Bury,Scunthorpe United,3 - 0
+159103,49,2000-04-01,Cardiff City,Burnley,1 - 2
+159104,49,2000-04-01,Gillingham,Chesterfield,1 - 0
+159105,49,2000-04-01,Luton Town,Colchester United,3 - 2
+159106,49,2000-04-01,Notts County,Millwall,1 - 1
+159107,49,2000-04-01,Oldham Athletic,Cambridge United,1 - 0
+159108,49,2000-04-01,Oxford United,AFC Bournemouth,1 - 0
+159109,49,2000-04-01,Wrexham,Reading,0 - 1
+159110,49,2000-04-01,Wycombe Wanderers,Bristol City,1 - 2
+159127,49,2000-04-04,Bristol Rovers,Reading,0 - 1
+159128,49,2000-04-04,Cambridge United,Bury,3 - 0
+159129,50,2000-04-04,Oldham Athletic,Stoke City,0 - 1
+159130,50,2000-04-04,Wigan Athletic,Preston North End,0 - 1
+159136,50,2000-04-07,Reading,Gillingham,2 - 2
+159152,50,2000-04-08,AFC Bournemouth,Oldham Athletic,3 - 0
+159153,50,2000-04-08,Bristol City,Wrexham,4 - 0
+159154,50,2000-04-08,Burnley,Notts County,2 - 1
+159155,50,2000-04-08,Cambridge United,Bristol Rovers,1 - 1
+159156,51,2000-04-08,Chesterfield,Wycombe Wanderers,1 - 2
+159157,51,2000-04-08,Colchester United,Blackpool,1 - 1
+159158,51,2000-04-08,Millwall,Bury,3 - 0
+159159,51,2000-04-08,Preston North End,Cardiff City,0 - 0
+159160,51,2000-04-08,Scunthorpe United,Luton Town,1 - 2
+159161,51,2000-04-08,Stoke City,Brentford,1 - 0
+159162,51,2000-04-08,Wigan Athletic,Oxford United,2 - 0
+159179,51,2000-04-11,Oldham Athletic,Wigan Athletic,2 - 1
+159204,51,2000-04-15,Blackpool,Scunthorpe United,0 - 2
+159205,52,2000-04-15,Brentford,Millwall,1 - 3
+159206,52,2000-04-15,Bristol Rovers,Preston North End,0 - 2
+159207,52,2000-04-15,Bury,Chesterfield,1 - 1
+159208,52,2000-04-15,Cardiff City,Cambridge United,0 - 4
+159209,52,2000-04-15,Gillingham,Wigan Athletic,2 - 1
+159210,52,2000-04-15,Notts County,Reading,1 - 2
+159211,52,2000-04-15,Oxford United,Burnley,1 - 2
+159212,52,2000-04-15,Wrexham,AFC Bournemouth,1 - 0
+159213,52,2000-04-15,Wycombe Wanderers,Colchester United,3 - 0
+159228,52,2000-04-18,Burnley,Gillingham,0 - 3
+159229,53,2000-04-18,Luton Town,Bristol City,1 - 2
+159230,53,2000-04-18,Oldham Athletic,Chesterfield,1 - 2
+159236,53,2000-04-21,Wycombe Wanderers,Notts County,2 - 0
+159255,53,2000-04-22,Bristol Rovers,Bristol City,2 - 0
+159256,53,2000-04-22,Burnley,Millwall,4 - 3
+159257,54,2000-04-22,Bury,Blackpool,3 - 2
+159258,54,2000-04-22,Chesterfield,Wrexham,0 - 3
+159259,54,2000-04-22,Colchester United,Cambridge United,3 - 1
+159260,54,2000-04-22,Gillingham,Luton Town,2 - 0
+159261,54,2000-04-22,Oldham Athletic,Cardiff City,1 - 2
+159262,54,2000-04-22,Oxford United,Brentford,1 - 1
+159263,54,2000-04-22,Preston North End,Scunthorpe United,1 - 0
+159264,54,2000-04-22,Stoke City,AFC Bournemouth,1 - 0
+159265,54,2000-04-22,Wigan Athletic,Reading,1 - 0
+159292,54,2000-04-24,Blackpool,Bristol Rovers,2 - 1
+159293,55,2000-04-24,Brentford,Burnley,2 - 3
+159294,55,2000-04-24,Bristol City,Oxford United,2 - 2
+159295,55,2000-04-24,Cambridge United,Preston North End,2 - 0
+159296,55,2000-04-24,Cardiff City,Bury,0 - 2
+159297,55,2000-04-24,Luton Town,Wigan Athletic,1 - 1
+159298,55,2000-04-24,Millwall,Gillingham,2 - 2
+159299,55,2000-04-24,Notts County,Oldham Athletic,0 - 1
+159300,55,2000-04-24,Reading,Wycombe Wanderers,2 - 1
+159301,55,2000-04-24,Scunthorpe United,Stoke City,0 - 2
+159302,55,2000-04-24,Wrexham,Colchester United,1 - 0
+159315,55,2000-04-25,AFC Bournemouth,Chesterfield,1 - 1
+159336,55,2000-04-29,Bristol Rovers,AFC Bournemouth,2 - 2
+159337,56,2000-04-29,Burnley,Cambridge United,2 - 0
+159338,56,2000-04-29,Bury,Reading,1 - 1
+159339,56,2000-04-29,Chesterfield,Notts County,2 - 1
+159340,56,2000-04-29,Colchester United,Bristol City,3 - 4
+159341,56,2000-04-29,Gillingham,Brentford,2 - 0
+159342,56,2000-04-29,Oldham Athletic,Blackpool,1 - 1
+159343,56,2000-04-29,Oxford United,Scunthorpe United,2 - 0
+159344,56,2000-04-29,Preston North End,Millwall,3 - 2
+159345,56,2000-04-29,Wigan Athletic,Wrexham,0 - 1
+159346,56,2000-04-29,Wycombe Wanderers,Luton Town,0 - 1
+159362,56,2000-04-30,Stoke City,Cardiff City,2 - 1
+159365,56,2000-05-02,Gillingham,Cardiff City,4 - 1
+159370,57,2000-05-03,Stoke City,Bury,3 - 0
+159379,57,2000-05-06,AFC Bournemouth,Wigan Athletic,2 - 2
+159380,57,2000-05-06,Blackpool,Chesterfield,2 - 2
+159381,57,2000-05-06,Brentford,Colchester United,0 - 0
+159382,57,2000-05-06,Bristol City,Preston North End,0 - 2
+159383,57,2000-05-06,Cambridge United,Wycombe Wanderers,1 - 2
+159384,57,2000-05-06,Cardiff City,Bristol Rovers,1 - 0
+159385,58,2000-05-06,Luton Town,Oldham Athletic,1 - 1
+159386,58,2000-05-06,Millwall,Oxford United,1 - 0
+159387,58,2000-05-06,Notts County,Bury,2 - 2
+159388,58,2000-05-06,Reading,Stoke City,1 - 0
+159389,58,2000-05-06,Scunthorpe United,Burnley,1 - 2
+159390,58,2000-05-06,Wrexham,Gillingham,1 - 0

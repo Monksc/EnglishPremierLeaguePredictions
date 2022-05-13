@@ -1,0 +1,463 @@
+,Round Number,Date,Home Team,Away Team,Result
+24753,0,1925-08-29,Blackpool,Southampton,2 - 1
+24754,0,1925-08-29,Chelsea,Bradford City,2 - 0
+24755,0,1925-08-29,Darlington,Nottingham Forest,0 - 0
+24756,0,1925-08-29,Hull City,Derby County,0 - 0
+24757,0,1925-08-29,Leyton Orient,Port Vale,1 - 2
+24758,0,1925-08-29,Oldham Athletic,Barnsley,2 - 1
+24759,0,1925-08-29,Portsmouth,Middlesbrough,1 - 5
+24760,0,1925-08-29,Sheffield Wednesday,Fulham,3 - 0
+24761,0,1925-08-29,Stoke City,Stockport County,3 - 0
+24762,0,1925-08-29,Swansea City,South Shields,1 - 2
+24763,0,1925-08-29,Wolverhampton Wanderers,Preston North End,3 - 0
+24791,0,1925-08-31,Barnsley,Bradford City,0 - 0
+24792,1,1925-08-31,Derby County,Leyton Orient,3 - 1
+24793,1,1925-08-31,Fulham,Swansea City,0 - 1
+24794,1,1925-08-31,Nottingham Forest,Chelsea,1 - 5
+24795,1,1925-08-31,Port Vale,Stoke City,3 - 0
+24796,1,1925-08-31,Preston North End,Portsmouth,3 - 2
+24797,1,1925-08-31,Southampton,Hull City,0 - 2
+24798,1,1925-08-31,Stockport County,Sheffield Wednesday,0 - 2
+24815,1,1925-09-02,Middlesbrough,Blackpool,3 - 2
+24835,1,1925-09-05,Barnsley,Leyton Orient,3 - 1
+24836,2,1925-09-05,Bradford City,Hull City,0 - 1
+24837,2,1925-09-05,Derby County,Darlington,0 - 2
+24838,2,1925-09-05,Fulham,Stoke City,2 - 4
+24839,2,1925-09-05,Middlesbrough,Wolverhampton Wanderers,4 - 1
+24840,2,1925-09-05,Nottingham Forest,Blackpool,1 - 1
+24841,2,1925-09-05,Port Vale,Chelsea,0 - 6
+24842,2,1925-09-05,Preston North End,Swansea City,4 - 2
+24843,2,1925-09-05,South Shields,Sheffield Wednesday,1 - 1
+24844,2,1925-09-05,Southampton,Portsmouth,1 - 3
+24845,2,1925-09-05,Stockport County,Oldham Athletic,1 - 0
+24874,2,1925-09-07,Blackpool,Middlesbrough,2 - 3
+24875,3,1925-09-07,Bradford City,Barnsley,4 - 1
+24876,3,1925-09-07,Chelsea,Nottingham Forest,0 - 0
+24877,3,1925-09-07,Hull City,Southampton,4 - 0
+24878,3,1925-09-07,Oldham Athletic,Sheffield Wednesday,1 - 1
+24879,3,1925-09-07,South Shields,Wolverhampton Wanderers,3 - 1
+24880,3,1925-09-07,Stoke City,Port Vale,0 - 3
+24895,3,1925-09-09,Darlington,Preston North End,1 - 1
+24916,3,1925-09-12,Blackpool,Derby County,1 - 2
+24917,4,1925-09-12,Chelsea,Barnsley,3 - 2
+24918,4,1925-09-12,Darlington,Bradford City,1 - 3
+24919,4,1925-09-12,Hull City,Port Vale,3 - 0
+24920,4,1925-09-12,Leyton Orient,Stockport County,2 - 1
+24921,4,1925-09-12,Oldham Athletic,Fulham,4 - 0
+24922,4,1925-09-12,Sheffield Wednesday,Preston North End,5 - 1
+24923,4,1925-09-12,Southampton,Nottingham Forest,2 - 0
+24924,4,1925-09-12,Stoke City,South Shields,0 - 1
+24925,4,1925-09-12,Swansea City,Middlesbrough,4 - 0
+24926,4,1925-09-12,Wolverhampton Wanderers,Portsmouth,4 - 1
+24950,4,1925-09-14,Blackpool,Darlington,0 - 1
+24951,5,1925-09-14,Oldham Athletic,Stoke City,7 - 2
+24952,5,1925-09-14,Port Vale,Barnsley,3 - 0
+24953,5,1925-09-14,Preston North End,Middlesbrough,1 - 0
+24954,5,1925-09-14,Swansea City,Stockport County,4 - 0
+24955,5,1925-09-14,Wolverhampton Wanderers,South Shields,2 - 0
+24984,5,1925-09-19,Barnsley,Hull City,2 - 1
+24985,6,1925-09-19,Bradford City,Blackpool,1 - 0
+24986,6,1925-09-19,Derby County,Southampton,2 - 2
+24987,6,1925-09-19,Fulham,Stockport County,1 - 0
+24988,6,1925-09-19,Leyton Orient,Chelsea,1 - 2
+24989,6,1925-09-19,Middlesbrough,Sheffield Wednesday,3 - 0
+24990,6,1925-09-19,Nottingham Forest,Wolverhampton Wanderers,1 - 4
+24991,6,1925-09-19,Port Vale,Darlington,6 - 1
+24992,6,1925-09-19,Portsmouth,Swansea City,0 - 0
+24993,6,1925-09-19,Preston North End,Stoke City,2 - 0
+24994,6,1925-09-19,South Shields,Oldham Athletic,0 - 0
+25022,6,1925-09-21,Sheffield Wednesday,Stockport County,6 - 2
+25023,7,1925-09-21,Swansea City,Fulham,6 - 0
+25028,7,1925-09-23,Darlington,Blackpool,1 - 3
+25029,7,1925-09-23,Middlesbrough,Preston North End,5 - 1
+25036,7,1925-09-24,Leyton Orient,Derby County,0 - 1
+25050,7,1925-09-26,Blackpool,Port Vale,2 - 2
+25051,8,1925-09-26,Chelsea,Fulham,4 - 0
+25052,8,1925-09-26,Darlington,Barnsley,2 - 2
+25053,8,1925-09-26,Hull City,Leyton Orient,2 - 0
+25054,8,1925-09-26,Nottingham Forest,Derby County,1 - 2
+25055,8,1925-09-26,Oldham Athletic,Preston North End,3 - 2
+25056,8,1925-09-26,Sheffield Wednesday,Portsmouth,4 - 2
+25057,8,1925-09-26,Southampton,Bradford City,1 - 2
+25058,8,1925-09-26,Stockport County,South Shields,4 - 1
+25059,8,1925-09-26,Stoke City,Middlesbrough,4 - 0
+25060,8,1925-09-26,Swansea City,Wolverhampton Wanderers,2 - 4
+25085,8,1925-09-30,Darlington,Southampton,3 - 1
+25086,9,1925-09-30,Portsmouth,Preston North End,5 - 2
+25103,9,1925-10-03,Barnsley,Blackpool,2 - 0
+25104,9,1925-10-03,Bradford City,Nottingham Forest,0 - 1
+25105,9,1925-10-03,Chelsea,Hull City,4 - 0
+25106,9,1925-10-03,Derby County,Swansea City,5 - 0
+25107,9,1925-10-03,Leyton Orient,Darlington,1 - 2
+25108,9,1925-10-03,Middlesbrough,Oldham Athletic,2 - 1
+25109,9,1925-10-03,Port Vale,Southampton,1 - 1
+25110,9,1925-10-03,Portsmouth,Stoke City,2 - 0
+25111,10,1925-10-03,Preston North End,Stockport County,5 - 3
+25112,10,1925-10-03,South Shields,Fulham,5 - 2
+25113,10,1925-10-03,Wolverhampton Wanderers,Sheffield Wednesday,1 - 2
+25138,10,1925-10-05,Fulham,Wolverhampton Wanderers,1 - 2
+25139,11,1925-10-05,Southampton,Darlington,4 - 1
+25140,11,1925-10-07,Bradford City,Leyton Orient,0 - 3
+25154,11,1925-10-10,Blackpool,Leyton Orient,3 - 0
+25155,11,1925-10-10,Darlington,Chelsea,1 - 1
+25156,12,1925-10-10,Derby County,Bradford City,0 - 0
+25157,12,1925-10-10,Fulham,Preston North End,2 - 1
+25158,12,1925-10-10,Hull City,South Shields,1 - 3
+25159,12,1925-10-10,Nottingham Forest,Port Vale,2 - 0
+25160,12,1925-10-10,Oldham Athletic,Portsmouth,1 - 3
+25161,12,1925-10-10,Sheffield Wednesday,Swansea City,3 - 1
+25162,12,1925-10-10,Southampton,Barnsley,0 - 0
+25163,12,1925-10-10,Stockport County,Middlesbrough,1 - 2
+25164,12,1925-10-10,Stoke City,Wolverhampton Wanderers,0 - 0
+25188,12,1925-10-12,Hull City,Nottingham Forest,4 - 1
+25202,13,1925-10-17,Fulham,Leyton Orient,0 - 2
+25203,13,1925-10-17,Middlesbrough,Darlington,3 - 2
+25204,13,1925-10-17,Oldham Athletic,Port Vale,3 - 2
+25205,13,1925-10-17,Portsmouth,Blackpool,2 - 0
+25206,13,1925-10-17,Preston North End,Hull City,4 - 0
+25207,13,1925-10-17,Sheffield Wednesday,Derby County,1 - 4
+25208,13,1925-10-17,South Shields,Chelsea,0 - 0
+25209,13,1925-10-17,Stockport County,Barnsley,1 - 1
+25210,13,1925-10-17,Stoke City,Bradford City,1 - 0
+25211,13,1925-10-17,Swansea City,Nottingham Forest,3 - 0
+25212,13,1925-10-17,Wolverhampton Wanderers,Southampton,4 - 1
+25246,13,1925-10-24,Barnsley,Fulham,2 - 2
+25247,14,1925-10-24,Blackpool,Wolverhampton Wanderers,4 - 0
+25248,14,1925-10-24,Bradford City,Oldham Athletic,1 - 1
+25249,14,1925-10-24,Chelsea,Preston North End,5 - 0
+25250,14,1925-10-24,Darlington,Portsmouth,7 - 1
+25251,14,1925-10-24,Derby County,Stoke City,7 - 3
+25252,14,1925-10-24,Hull City,Middlesbrough,1 - 2
+25253,14,1925-10-24,Leyton Orient,South Shields,1 - 2
+25254,14,1925-10-24,Nottingham Forest,Sheffield Wednesday,2 - 0
+25255,14,1925-10-24,Port Vale,Stockport County,2 - 0
+25256,14,1925-10-24,Southampton,Swansea City,4 - 1
+25280,14,1925-10-26,South Shields,Portsmouth,5 - 1
+25294,15,1925-10-31,Fulham,Darlington,4 - 0
+25295,15,1925-10-31,Middlesbrough,Nottingham Forest,1 - 0
+25296,15,1925-10-31,Oldham Athletic,Chelsea,1 - 1
+25297,15,1925-10-31,Portsmouth,Derby County,2 - 2
+25298,16,1925-10-31,Preston North End,Southampton,2 - 2
+25299,16,1925-10-31,Sheffield Wednesday,Barnsley,3 - 0
+25300,16,1925-10-31,South Shields,Blackpool,3 - 4
+25301,16,1925-10-31,Stockport County,Hull City,0 - 1
+25302,16,1925-10-31,Stoke City,Leyton Orient,0 - 0
+25303,16,1925-10-31,Swansea City,Port Vale,1 - 0
+25304,16,1925-10-31,Wolverhampton Wanderers,Bradford City,1 - 1
+25339,16,1925-11-07,Barnsley,Stoke City,2 - 1
+25340,17,1925-11-07,Blackpool,Preston North End,3 - 1
+25341,17,1925-11-07,Chelsea,Stockport County,3 - 2
+25342,17,1925-11-07,Darlington,South Shields,4 - 1
+25343,17,1925-11-07,Derby County,Wolverhampton Wanderers,2 - 0
+25344,17,1925-11-07,Hull City,Fulham,1 - 0
+25345,17,1925-11-07,Leyton Orient,Oldham Athletic,1 - 2
+25346,17,1925-11-07,Nottingham Forest,Portsmouth,3 - 1
+25347,17,1925-11-07,Port Vale,Sheffield Wednesday,4 - 3
+25348,17,1925-11-07,Southampton,Middlesbrough,3 - 1
+25384,17,1925-11-14,Fulham,Derby County,1 - 1
+25385,18,1925-11-14,Middlesbrough,Barnsley,5 - 0
+25386,18,1925-11-14,Oldham Athletic,Southampton,1 - 0
+25387,18,1925-11-14,Portsmouth,Leyton Orient,3 - 2
+25388,18,1925-11-14,Preston North End,Port Vale,4 - 0
+25389,18,1925-11-14,Sheffield Wednesday,Darlington,4 - 0
+25390,18,1925-11-14,South Shields,Bradford City,1 - 3
+25391,18,1925-11-14,Stockport County,Nottingham Forest,3 - 0
+25392,18,1925-11-14,Stoke City,Blackpool,1 - 3
+25393,18,1925-11-14,Swansea City,Hull City,2 - 0
+25394,18,1925-11-14,Wolverhampton Wanderers,Chelsea,0 - 0
+25427,18,1925-11-21,Barnsley,Portsmouth,2 - 2
+25428,19,1925-11-21,Bradford City,Preston North End,2 - 0
+25429,19,1925-11-21,Chelsea,Swansea City,1 - 3
+25430,19,1925-11-21,Darlington,Stoke City,1 - 2
+25431,19,1925-11-21,Derby County,South Shields,2 - 0
+25432,19,1925-11-21,Hull City,Sheffield Wednesday,0 - 1
+25433,19,1925-11-21,Leyton Orient,Wolverhampton Wanderers,2 - 1
+25434,19,1925-11-21,Nottingham Forest,Fulham,2 - 2
+25435,19,1925-11-21,Oldham Athletic,Blackpool,3 - 2
+25436,19,1925-11-21,Port Vale,Middlesbrough,4 - 0
+25437,19,1925-11-21,Southampton,Stockport County,3 - 0
+25469,19,1925-11-28,Fulham,Southampton,1 - 1
+25470,20,1925-11-28,Middlesbrough,Bradford City,2 - 5
+25471,20,1925-11-28,Portsmouth,Port Vale,3 - 2
+25472,20,1925-11-28,Preston North End,Derby County,2 - 1
+25473,20,1925-11-28,Sheffield Wednesday,Chelsea,4 - 1
+25474,20,1925-11-28,South Shields,Nottingham Forest,3 - 1
+25475,20,1925-11-28,Stockport County,Blackpool,4 - 3
+25476,20,1925-11-28,Stoke City,Hull City,3 - 1
+25488,20,1925-12-05,Barnsley,Swansea City,2 - 0
+25489,20,1925-12-05,Blackpool,Fulham,2 - 0
+25490,21,1925-12-05,Bradford City,Portsmouth,0 - 1
+25491,21,1925-12-05,Chelsea,Stoke City,1 - 1
+25492,21,1925-12-05,Derby County,Middlesbrough,2 - 0
+25493,21,1925-12-05,Hull City,Oldham Athletic,1 - 2
+25494,21,1925-12-05,Leyton Orient,Sheffield Wednesday,0 - 0
+25495,21,1925-12-05,Nottingham Forest,Preston North End,4 - 0
+25496,21,1925-12-05,Port Vale,Wolverhampton Wanderers,3 - 0
+25497,21,1925-12-05,Southampton,South Shields,0 - 1
+25498,21,1925-12-05,Stockport County,Darlington,1 - 1
+25521,21,1925-12-07,Portsmouth,South Shields,4 - 2
+25534,22,1925-12-12,Fulham,Port Vale,3 - 3
+25535,22,1925-12-12,Middlesbrough,Chelsea,1 - 2
+25536,22,1925-12-12,Portsmouth,Hull City,2 - 2
+25537,23,1925-12-12,Preston North End,Leyton Orient,4 - 1
+25538,23,1925-12-12,Sheffield Wednesday,Southampton,2 - 1
+25539,23,1925-12-12,South Shields,Barnsley,3 - 0
+25540,23,1925-12-12,Stockport County,Bradford City,1 - 1
+25541,23,1925-12-12,Stoke City,Nottingham Forest,1 - 1
+25542,23,1925-12-12,Wolverhampton Wanderers,Blackpool,0 - 0
+25548,23,1925-12-14,Oldham Athletic,Derby County,2 - 0
+25562,23,1925-12-19,Barnsley,Preston North End,2 - 0
+25563,24,1925-12-19,Blackpool,Sheffield Wednesday,1 - 0
+25564,24,1925-12-19,Bradford City,Fulham,0 - 0
+25565,24,1925-12-19,Chelsea,Portsmouth,0 - 0
+25566,24,1925-12-19,Darlington,Swansea City,3 - 3
+25567,24,1925-12-19,Derby County,Stockport County,4 - 0
+25568,24,1925-12-19,Hull City,Wolverhampton Wanderers,3 - 1
+25569,24,1925-12-19,Leyton Orient,Middlesbrough,1 - 0
+25570,24,1925-12-19,Nottingham Forest,Oldham Athletic,1 - 1
+25571,24,1925-12-19,Port Vale,South Shields,2 - 0
+25572,24,1925-12-19,Southampton,Stoke City,1 - 2
+25605,24,1925-12-25,Blackpool,Chelsea,0 - 0
+25606,25,1925-12-25,Bradford City,Sheffield Wednesday,1 - 4
+25607,25,1925-12-25,Darlington,Hull City,1 - 2
+25608,25,1925-12-25,Fulham,Middlesbrough,2 - 0
+25609,25,1925-12-25,Leyton Orient,Southampton,2 - 1
+25610,25,1925-12-25,Nottingham Forest,Barnsley,4 - 2
+25611,25,1925-12-25,Oldham Athletic,Wolverhampton Wanderers,1 - 2
+25612,25,1925-12-25,Port Vale,Derby County,0 - 1
+25613,25,1925-12-25,Stockport County,Portsmouth,3 - 3
+25614,25,1925-12-25,Swansea City,Stoke City,1 - 1
+25645,25,1925-12-26,Chelsea,Blackpool,2 - 3
+25646,26,1925-12-26,Derby County,Port Vale,2 - 0
+25647,26,1925-12-26,Hull City,Darlington,1 - 1
+25648,26,1925-12-26,Middlesbrough,Fulham,4 - 0
+25649,26,1925-12-26,Portsmouth,Stockport County,4 - 0
+25650,26,1925-12-26,Preston North End,South Shields,0 - 4
+25651,26,1925-12-26,Sheffield Wednesday,Bradford City,5 - 1
+25652,26,1925-12-26,Southampton,Leyton Orient,2 - 0
+25653,26,1925-12-26,Stoke City,Swansea City,1 - 1
+25654,26,1925-12-26,Wolverhampton Wanderers,Oldham Athletic,2 - 1
+25679,26,1925-12-28,Barnsley,Nottingham Forest,4 - 1
+25680,26,1925-12-28,Derby County,Chelsea,4 - 2
+25681,27,1925-12-28,Sheffield Wednesday,Oldham Athletic,5 - 1
+25696,27,1926-01-01,Barnsley,Port Vale,3 - 0
+25697,27,1926-01-01,Middlesbrough,South Shields,1 - 2
+25698,27,1926-01-01,Stockport County,Swansea City,1 - 3
+25718,27,1926-01-02,Barnsley,Oldham Athletic,3 - 4
+25719,28,1926-01-02,Bradford City,Chelsea,4 - 2
+25720,28,1926-01-02,Derby County,Hull City,3 - 1
+25721,28,1926-01-02,Fulham,Sheffield Wednesday,3 - 0
+25722,28,1926-01-02,Middlesbrough,Portsmouth,4 - 1
+25723,28,1926-01-02,Nottingham Forest,Darlington,2 - 0
+25724,28,1926-01-02,Port Vale,Leyton Orient,4 - 2
+25725,28,1926-01-02,Preston North End,Wolverhampton Wanderers,1 - 0
+25726,28,1926-01-02,South Shields,Swansea City,3 - 1
+25727,28,1926-01-02,Southampton,Blackpool,2 - 2
+25728,28,1926-01-02,Stockport County,Stoke City,2 - 1
+25769,28,1926-01-16,Blackpool,Nottingham Forest,3 - 0
+25770,29,1926-01-16,Chelsea,Port Vale,3 - 1
+25771,29,1926-01-16,Darlington,Derby County,3 - 0
+25772,29,1926-01-16,Hull City,Bradford City,5 - 0
+25773,29,1926-01-16,Leyton Orient,Barnsley,4 - 0
+25774,29,1926-01-16,Portsmouth,Southampton,1 - 2
+25775,29,1926-01-16,Sheffield Wednesday,South Shields,1 - 0
+25776,29,1926-01-16,Stoke City,Fulham,5 - 0
+25777,29,1926-01-16,Swansea City,Preston North End,4 - 1
+25778,29,1926-01-16,Wolverhampton Wanderers,Middlesbrough,3 - 1
+25802,29,1926-01-20,Bradford City,Swansea City,3 - 1
+25816,30,1926-01-23,Barnsley,Chelsea,2 - 3
+25817,30,1926-01-23,Bradford City,Darlington,2 - 0
+25818,31,1926-01-23,Derby County,Blackpool,5 - 2
+25819,31,1926-01-23,Fulham,Oldham Athletic,2 - 1
+25820,31,1926-01-23,Middlesbrough,Swansea City,0 - 3
+25821,31,1926-01-23,Nottingham Forest,Southampton,1 - 2
+25822,31,1926-01-23,Port Vale,Hull City,3 - 1
+25823,31,1926-01-23,Portsmouth,Wolverhampton Wanderers,3 - 0
+25824,31,1926-01-23,Preston North End,Sheffield Wednesday,0 - 3
+25825,31,1926-01-23,South Shields,Stoke City,5 - 1
+25826,31,1926-01-23,Stockport County,Leyton Orient,3 - 2
+25853,31,1926-01-30,Blackpool,Bradford City,3 - 0
+25854,32,1926-01-30,Darlington,Port Vale,4 - 0
+25855,32,1926-01-30,Hull City,Barnsley,2 - 2
+25856,32,1926-01-30,Oldham Athletic,Stockport County,3 - 0
+25887,32,1926-02-06,Barnsley,Darlington,1 - 1
+25888,33,1926-02-06,Bradford City,Southampton,0 - 5
+25889,33,1926-02-06,Derby County,Nottingham Forest,2 - 0
+25890,33,1926-02-06,Fulham,Chelsea,0 - 3
+25891,33,1926-02-06,Leyton Orient,Hull City,0 - 0
+25892,33,1926-02-06,Middlesbrough,Stoke City,3 - 0
+25893,33,1926-02-06,Port Vale,Blackpool,5 - 0
+25894,33,1926-02-06,Portsmouth,Sheffield Wednesday,1 - 2
+25895,33,1926-02-06,Preston North End,Oldham Athletic,2 - 1
+25896,33,1926-02-06,South Shields,Stockport County,4 - 2
+25897,33,1926-02-06,Wolverhampton Wanderers,Swansea City,2 - 3
+25920,33,1926-02-08,Oldham Athletic,Darlington,0 - 1
+25921,34,1926-02-08,Wolverhampton Wanderers,Nottingham Forest,4 - 0
+25922,34,1926-02-09,Stockport County,Fulham,1 - 2
+25924,34,1926-02-10,Chelsea,Leyton Orient,1 - 3
+25925,34,1926-02-10,Southampton,Derby County,2 - 1
+25939,34,1926-02-13,Blackpool,Barnsley,4 - 0
+25940,34,1926-02-13,Darlington,Leyton Orient,6 - 0
+25941,35,1926-02-13,Fulham,South Shields,2 - 1
+25942,35,1926-02-13,Hull City,Chelsea,0 - 1
+25943,35,1926-02-13,Nottingham Forest,Bradford City,0 - 0
+25944,35,1926-02-13,Oldham Athletic,Middlesbrough,4 - 1
+25945,35,1926-02-13,Sheffield Wednesday,Wolverhampton Wanderers,2 - 1
+25946,35,1926-02-13,Southampton,Port Vale,2 - 3
+25947,35,1926-02-13,Stockport County,Preston North End,1 - 1
+25948,35,1926-02-13,Stoke City,Portsmouth,2 - 1
+25949,35,1926-02-13,Swansea City,Derby County,2 - 0
+25978,35,1926-02-20,Barnsley,Southampton,2 - 0
+25979,35,1926-02-20,Bradford City,Derby County,0 - 0
+25980,36,1926-02-20,Chelsea,Darlington,5 - 2
+25981,36,1926-02-20,Middlesbrough,Stockport County,4 - 0
+25982,36,1926-02-20,Portsmouth,Oldham Athletic,0 - 2
+25983,36,1926-02-20,Wolverhampton Wanderers,Stoke City,5 - 1
+26003,36,1926-02-22,Sheffield Wednesday,Middlesbrough,2 - 0
+26004,36,1926-02-22,Stoke City,Preston North End,1 - 3
+26011,37,1926-02-25,Swansea City,Blackpool,6 - 1
+26027,37,1926-02-27,Barnsley,Stockport County,1 - 1
+26028,37,1926-02-27,Blackpool,Portsmouth,2 - 2
+26029,38,1926-02-27,Bradford City,Stoke City,2 - 1
+26030,38,1926-02-27,Chelsea,South Shields,0 - 0
+26031,38,1926-02-27,Darlington,Middlesbrough,0 - 2
+26032,38,1926-02-27,Derby County,Sheffield Wednesday,4 - 1
+26033,38,1926-02-27,Hull City,Preston North End,1 - 1
+26034,38,1926-02-27,Leyton Orient,Fulham,1 - 1
+26035,38,1926-02-27,Nottingham Forest,Swansea City,0 - 2
+26036,38,1926-02-27,Port Vale,Oldham Athletic,3 - 0
+26037,38,1926-02-27,Southampton,Wolverhampton Wanderers,4 - 2
+26061,38,1926-03-01,Wolverhampton Wanderers,Darlington,1 - 0
+26064,39,1926-03-03,South Shields,Hull City,1 - 3
+26073,39,1926-03-06,Barnsley,Wolverhampton Wanderers,1 - 1
+26074,39,1926-03-06,Middlesbrough,Hull City,3 - 3
+26075,39,1926-03-06,Oldham Athletic,Bradford City,3 - 0
+26076,39,1926-03-06,Portsmouth,Darlington,2 - 0
+26077,39,1926-03-06,Preston North End,Chelsea,3 - 1
+26078,39,1926-03-06,South Shields,Southampton,2 - 0
+26079,40,1926-03-06,Stockport County,Port Vale,2 - 2
+26080,40,1926-03-06,Stoke City,Derby County,0 - 1
+26103,40,1926-03-08,Leyton Orient,Blackpool,2 - 2
+26107,40,1926-03-11,Swansea City,Sheffield Wednesday,2 - 2
+26119,40,1926-03-13,Barnsley,Sheffield Wednesday,1 - 1
+26120,40,1926-03-13,Blackpool,South Shields,1 - 0
+26121,41,1926-03-13,Bradford City,Wolverhampton Wanderers,1 - 2
+26122,41,1926-03-13,Chelsea,Oldham Athletic,3 - 0
+26123,41,1926-03-13,Darlington,Fulham,1 - 2
+26124,41,1926-03-13,Derby County,Portsmouth,0 - 2
+26125,41,1926-03-13,Hull City,Stockport County,4 - 0
+26126,41,1926-03-13,Leyton Orient,Stoke City,4 - 0
+26127,41,1926-03-13,Nottingham Forest,Middlesbrough,1 - 0
+26128,41,1926-03-13,Port Vale,Swansea City,3 - 0
+26129,41,1926-03-13,Southampton,Preston North End,2 - 0
+26153,41,1926-03-16,Oldham Athletic,South Shields,2 - 1
+26160,42,1926-03-18,Swansea City,Portsmouth,1 - 0
+26172,42,1926-03-20,Fulham,Hull City,1 - 1
+26173,42,1926-03-20,Middlesbrough,Southampton,3 - 0
+26174,42,1926-03-20,Oldham Athletic,Leyton Orient,1 - 1
+26175,43,1926-03-20,Portsmouth,Nottingham Forest,5 - 1
+26176,43,1926-03-20,Preston North End,Blackpool,6 - 4
+26177,43,1926-03-20,Sheffield Wednesday,Port Vale,0 - 2
+26178,43,1926-03-20,South Shields,Darlington,2 - 4
+26179,43,1926-03-20,Stockport County,Chelsea,0 - 0
+26180,43,1926-03-20,Stoke City,Barnsley,1 - 2
+26181,43,1926-03-20,Swansea City,Bradford City,1 - 0
+26182,43,1926-03-20,Wolverhampton Wanderers,Derby County,2 - 0
+26205,43,1926-03-22,Sheffield Wednesday,Nottingham Forest,2 - 0
+26208,44,1926-03-24,South Shields,Leyton Orient,1 - 0
+26212,44,1926-03-25,Preston North End,Fulham,2 - 1
+26222,44,1926-03-27,Barnsley,Middlesbrough,0 - 1
+26223,44,1926-03-27,Blackpool,Stoke City,0 - 0
+26224,44,1926-03-27,Bradford City,South Shields,1 - 1
+26225,44,1926-03-27,Chelsea,Wolverhampton Wanderers,3 - 3
+26226,44,1926-03-27,Darlington,Sheffield Wednesday,5 - 1
+26227,44,1926-03-27,Derby County,Fulham,3 - 1
+26228,44,1926-03-27,Leyton Orient,Portsmouth,1 - 1
+26229,45,1926-03-27,Nottingham Forest,Stockport County,2 - 0
+26230,45,1926-03-27,Port Vale,Preston North End,3 - 0
+26231,45,1926-03-27,Southampton,Oldham Athletic,3 - 1
+26255,45,1926-03-29,Swansea City,Southampton,3 - 1
+26265,45,1926-04-02,Blackpool,Hull City,2 - 2
+26266,45,1926-04-02,Chelsea,Southampton,0 - 0
+26267,45,1926-04-02,Leyton Orient,Nottingham Forest,0 - 1
+26268,46,1926-04-02,Oldham Athletic,Swansea City,0 - 0
+26269,46,1926-04-02,Port Vale,Bradford City,2 - 0
+26270,46,1926-04-02,Portsmouth,Fulham,0 - 0
+26271,46,1926-04-02,Preston North End,Darlington,0 - 0
+26272,46,1926-04-02,South Shields,Middlesbrough,2 - 2
+26273,46,1926-04-02,Stockport County,Wolverhampton Wanderers,1 - 0
+26304,46,1926-04-03,Blackpool,Oldham Athletic,2 - 1
+26305,46,1926-04-03,Fulham,Nottingham Forest,0 - 2
+26306,47,1926-04-03,Middlesbrough,Port Vale,3 - 1
+26307,47,1926-04-03,Portsmouth,Barnsley,1 - 2
+26308,47,1926-04-03,Preston North End,Bradford City,3 - 1
+26309,47,1926-04-03,Sheffield Wednesday,Hull City,2 - 0
+26310,47,1926-04-03,South Shields,Derby County,0 - 0
+26311,47,1926-04-03,Stockport County,Southampton,1 - 2
+26312,47,1926-04-03,Stoke City,Darlington,6 - 1
+26313,47,1926-04-03,Swansea City,Chelsea,0 - 0
+26314,47,1926-04-03,Wolverhampton Wanderers,Leyton Orient,3 - 0
+26345,47,1926-04-05,Barnsley,Derby County,0 - 1
+26346,48,1926-04-05,Bradford City,Port Vale,2 - 0
+26347,48,1926-04-05,Fulham,Portsmouth,2 - 3
+26348,48,1926-04-05,Hull City,Blackpool,1 - 2
+26349,48,1926-04-05,Nottingham Forest,Leyton Orient,1 - 0
+26350,48,1926-04-05,South Shields,Preston North End,1 - 1
+26351,48,1926-04-05,Southampton,Chelsea,0 - 1
+26352,48,1926-04-05,Stoke City,Sheffield Wednesday,0 - 1
+26353,48,1926-04-05,Swansea City,Oldham Athletic,3 - 3
+26354,48,1926-04-05,Wolverhampton Wanderers,Stockport County,5 - 1
+26378,48,1926-04-06,Derby County,Barnsley,4 - 0
+26379,49,1926-04-06,Sheffield Wednesday,Stoke City,2 - 0
+26399,49,1926-04-10,Blackpool,Stockport County,4 - 1
+26400,49,1926-04-10,Bradford City,Middlesbrough,2 - 0
+26401,49,1926-04-10,Chelsea,Sheffield Wednesday,0 - 0
+26402,49,1926-04-10,Darlington,Oldham Athletic,1 - 0
+26403,49,1926-04-10,Derby County,Preston North End,2 - 0
+26404,50,1926-04-10,Hull City,Stoke City,1 - 0
+26405,50,1926-04-10,Leyton Orient,Swansea City,2 - 0
+26406,50,1926-04-10,Nottingham Forest,South Shields,4 - 1
+26407,50,1926-04-10,Port Vale,Portsmouth,1 - 1
+26408,50,1926-04-10,Southampton,Fulham,2 - 0
+26432,50,1926-04-12,Port Vale,Nottingham Forest,1 - 1
+26433,51,1926-04-12,Swansea City,Leyton Orient,0 - 0
+26434,51,1926-04-12,Wolverhampton Wanderers,Fulham,0 - 0
+26450,51,1926-04-17,Darlington,Stockport County,3 - 2
+26451,51,1926-04-17,Fulham,Blackpool,1 - 1
+26452,52,1926-04-17,Middlesbrough,Derby County,1 - 2
+26453,52,1926-04-17,Oldham Athletic,Hull City,2 - 1
+26454,52,1926-04-17,Portsmouth,Bradford City,3 - 1
+26455,52,1926-04-17,Preston North End,Nottingham Forest,2 - 0
+26456,52,1926-04-17,Sheffield Wednesday,Leyton Orient,3 - 0
+26457,52,1926-04-17,Stoke City,Chelsea,1 - 3
+26458,52,1926-04-17,Swansea City,Barnsley,3 - 0
+26459,52,1926-04-17,Wolverhampton Wanderers,Port Vale,3 - 1
+26483,52,1926-04-19,Fulham,Barnsley,2 - 2
+26484,53,1926-04-19,Leyton Orient,Bradford City,3 - 1
+26489,53,1926-04-21,Nottingham Forest,Hull City,4 - 0
+26504,53,1926-04-24,Barnsley,South Shields,3 - 1
+26505,54,1926-04-24,Blackpool,Swansea City,0 - 0
+26506,54,1926-04-24,Bradford City,Stockport County,2 - 2
+26507,54,1926-04-24,Chelsea,Middlesbrough,0 - 1
+26508,54,1926-04-24,Darlington,Wolverhampton Wanderers,3 - 4
+26509,54,1926-04-24,Derby County,Oldham Athletic,1 - 0
+26510,54,1926-04-24,Hull City,Portsmouth,1 - 0
+26511,54,1926-04-24,Leyton Orient,Preston North End,1 - 1
+26512,54,1926-04-24,Nottingham Forest,Stoke City,1 - 2
+26513,54,1926-04-24,Port Vale,Fulham,0 - 1
+26514,54,1926-04-24,Southampton,Sheffield Wednesday,1 - 2
+26538,54,1926-04-26,Chelsea,Derby County,2 - 1
+26539,55,1926-04-26,Hull City,Swansea City,4 - 2
+26540,55,1926-04-26,Stoke City,Oldham Athletic,1 - 0
+26541,55,1926-04-26,Wolverhampton Wanderers,Barnsley,7 - 1
+26557,55,1926-05-01,Fulham,Bradford City,2 - 0
+26558,55,1926-05-01,Middlesbrough,Leyton Orient,1 - 2
+26559,55,1926-05-01,Oldham Athletic,Nottingham Forest,8 - 3
+26560,56,1926-05-01,Portsmouth,Chelsea,4 - 0
+26561,56,1926-05-01,Preston North End,Barnsley,4 - 2
+26562,56,1926-05-01,Sheffield Wednesday,Blackpool,2 - 0
+26563,56,1926-05-01,South Shields,Port Vale,5 - 2
+26564,56,1926-05-01,Stockport County,Derby County,3 - 0
+26565,56,1926-05-01,Stoke City,Southampton,1 - 1
+26566,56,1926-05-01,Swansea City,Darlington,1 - 1
+26567,56,1926-05-01,Wolverhampton Wanderers,Hull City,3 - 1

@@ -1,0 +1,553 @@
+,Round Number,Date,Home Team,Away Team,Result
+78290,0,1960-08-20,Aldershot,Mansfield Town,2 - 0
+78291,0,1960-08-20,Chester,Gillingham,2 - 2
+78292,0,1960-08-20,Crewe Alexandra,Barrow,0 - 1
+78293,0,1960-08-20,Crystal Palace,Accrington Stanley,9 - 2
+78294,0,1960-08-20,Darlington,Doncaster Rovers,1 - 0
+78295,0,1960-08-20,Exeter City,Carlisle United,0 - 0
+78296,0,1960-08-20,Oldham Athletic,Northampton Town,1 - 2
+78297,0,1960-08-20,Peterborough United,Wrexham,3 - 0
+78298,0,1960-08-20,Southport,Hartlepool United,2 - 0
+78299,0,1960-08-20,Stockport County,Rochdale,1 - 0
+78300,0,1960-08-20,Workington,Bradford Park Avenue,1 - 3
+78301,0,1960-08-20,York City,Millwall,3 - 2
+78311,0,1960-08-22,Barrow,York City,1 - 1
+78312,1,1960-08-22,Bradford Park Avenue,Chester,1 - 0
+78313,1,1960-08-22,Hartlepool United,Peterborough United,0 - 2
+78314,1,1960-08-22,Mansfield Town,Rochdale,0 - 2
+78315,1,1960-08-22,Millwall,Accrington Stanley,2 - 2
+78322,1,1960-08-23,Carlisle United,Stockport County,1 - 4
+78323,1,1960-08-23,Doncaster Rovers,Southport,0 - 1
+78324,1,1960-08-23,Oldham Athletic,Aldershot,0 - 2
+78342,1,1960-08-24,Crystal Palace,Darlington,3 - 2
+78343,1,1960-08-24,Gillingham,Crewe Alexandra,0 - 0
+78344,1,1960-08-24,Workington,Northampton Town,3 - 0
+78347,1,1960-08-25,Wrexham,Exeter City,3 - 1
+78381,1,1960-08-27,Barrow,Chester,3 - 0
+78382,2,1960-08-27,Bradford Park Avenue,Oldham Athletic,5 - 1
+78383,2,1960-08-27,Carlisle United,Peterborough United,3 - 3
+78384,2,1960-08-27,Doncaster Rovers,Crystal Palace,1 - 5
+78385,2,1960-08-27,Gillingham,Workington,4 - 2
+78386,2,1960-08-27,Hartlepool United,Darlington,5 - 0
+78387,2,1960-08-27,Mansfield Town,Stockport County,2 - 2
+78388,2,1960-08-27,Millwall,Crewe Alexandra,2 - 3
+78389,2,1960-08-27,Northampton Town,Aldershot,2 - 1
+78390,2,1960-08-27,Rochdale,Exeter City,3 - 1
+78391,2,1960-08-27,Wrexham,Southport,3 - 0
+78399,2,1960-08-29,Accrington Stanley,Millwall,3 - 3
+78400,2,1960-08-29,Northampton Town,Workington,3 - 2
+78401,3,1960-08-29,Peterborough United,Hartlepool United,3 - 2
+78402,3,1960-08-29,Stockport County,Carlisle United,2 - 0
+78403,3,1960-08-29,York City,Barrow,2 - 0
+78411,3,1960-08-30,Rochdale,Mansfield Town,1 - 2
+78412,3,1960-08-30,Southport,Doncaster Rovers,1 - 1
+78432,3,1960-08-31,Aldershot,Oldham Athletic,4 - 0
+78433,3,1960-08-31,Chester,Bradford Park Avenue,3 - 1
+78434,3,1960-08-31,Crewe Alexandra,Gillingham,2 - 1
+78435,3,1960-08-31,Darlington,Crystal Palace,0 - 1
+78436,3,1960-08-31,Exeter City,Wrexham,1 - 0
+78472,3,1960-09-03,Aldershot,Bradford Park Avenue,3 - 0
+78473,4,1960-09-03,Chester,Millwall,1 - 4
+78474,4,1960-09-03,Crewe Alexandra,Accrington Stanley,0 - 1
+78475,4,1960-09-03,Crystal Palace,Hartlepool United,2 - 2
+78476,4,1960-09-03,Darlington,Wrexham,1 - 2
+78477,4,1960-09-03,Exeter City,Mansfield Town,0 - 2
+78478,4,1960-09-03,Northampton Town,Stockport County,4 - 2
+78479,4,1960-09-03,Oldham Athletic,Gillingham,1 - 1
+78480,4,1960-09-03,Peterborough United,Rochdale,4 - 3
+78481,4,1960-09-03,Southport,Carlisle United,3 - 0
+78482,4,1960-09-03,Workington,Barrow,3 - 1
+78483,4,1960-09-03,York City,Doncaster Rovers,1 - 1
+78493,4,1960-09-05,Barrow,Millwall,2 - 1
+78494,5,1960-09-05,Bradford Park Avenue,York City,3 - 3
+78495,5,1960-09-05,Hartlepool United,Stockport County,0 - 2
+78504,5,1960-09-06,Carlisle United,Rochdale,1 - 2
+78505,5,1960-09-06,Doncaster Rovers,Exeter City,2 - 1
+78506,5,1960-09-06,Southport,Darlington,1 - 4
+78521,5,1960-09-07,Aldershot,Chester,3 - 2
+78522,5,1960-09-07,Crewe Alexandra,Northampton Town,0 - 2
+78523,5,1960-09-07,Crystal Palace,Peterborough United,0 - 2
+78524,5,1960-09-07,Gillingham,Accrington Stanley,2 - 1
+78525,5,1960-09-07,Workington,Oldham Athletic,1 - 1
+78526,5,1960-09-07,Wrexham,Mansfield Town,2 - 0
+78562,5,1960-09-10,Accrington Stanley,Chester,2 - 0
+78563,6,1960-09-10,Barrow,Oldham Athletic,1 - 2
+78564,6,1960-09-10,Bradford Park Avenue,Northampton Town,1 - 3
+78565,6,1960-09-10,Carlisle United,Darlington,4 - 4
+78566,6,1960-09-10,Gillingham,Aldershot,5 - 2
+78567,6,1960-09-10,Hartlepool United,Doncaster Rovers,2 - 1
+78568,6,1960-09-10,Mansfield Town,Peterborough United,1 - 0
+78569,6,1960-09-10,Millwall,Workington,0 - 3
+78570,6,1960-09-10,Rochdale,Southport,0 - 1
+78571,6,1960-09-10,Stockport County,Exeter City,0 - 0
+78572,6,1960-09-10,Wrexham,Crystal Palace,1 - 2
+78573,6,1960-09-10,York City,Crewe Alexandra,3 - 1
+78581,6,1960-09-12,Accrington Stanley,Gillingham,3 - 0
+78582,7,1960-09-12,Mansfield Town,Wrexham,0 - 3
+78583,7,1960-09-12,Millwall,Barrow,3 - 0
+78584,7,1960-09-12,Oldham Athletic,Workington,3 - 5
+78585,7,1960-09-12,Peterborough United,Crystal Palace,4 - 1
+78586,7,1960-09-12,Stockport County,Hartlepool United,1 - 1
+78587,7,1960-09-12,York City,Bradford Park Avenue,2 - 0
+78593,7,1960-09-13,Northampton Town,Crewe Alexandra,4 - 1
+78594,7,1960-09-13,Rochdale,Carlisle United,2 - 1
+78612,7,1960-09-14,Chester,Aldershot,2 - 0
+78613,7,1960-09-14,Darlington,Southport,1 - 0
+78614,7,1960-09-14,Exeter City,Doncaster Rovers,2 - 0
+78651,7,1960-09-17,Aldershot,Barrow,2 - 1
+78652,8,1960-09-17,Bradford Park Avenue,Exeter City,5 - 2
+78653,8,1960-09-17,Chester,York City,2 - 1
+78654,8,1960-09-17,Crewe Alexandra,Hartlepool United,3 - 0
+78655,8,1960-09-17,Crystal Palace,Carlisle United,1 - 1
+78656,8,1960-09-17,Darlington,Rochdale,1 - 0
+78657,8,1960-09-17,Doncaster Rovers,Wrexham,3 - 1
+78658,8,1960-09-17,Northampton Town,Gillingham,3 - 1
+78659,8,1960-09-17,Oldham Athletic,Millwall,2 - 3
+78660,8,1960-09-17,Peterborough United,Stockport County,0 - 1
+78661,8,1960-09-17,Southport,Mansfield Town,2 - 1
+78662,8,1960-09-17,Workington,Accrington Stanley,2 - 1
+78668,8,1960-09-19,Barrow,Accrington Stanley,1 - 1
+78669,9,1960-09-19,Bradford Park Avenue,Crewe Alexandra,2 - 0
+78670,9,1960-09-19,Darlington,Millwall,5 - 2
+78671,9,1960-09-19,Hartlepool United,Exeter City,0 - 0
+78672,9,1960-09-19,Mansfield Town,Carlisle United,1 - 3
+78673,9,1960-09-19,Northampton Town,Chester,3 - 2
+78680,9,1960-09-20,Doncaster Rovers,Peterborough United,1 - 2
+78681,9,1960-09-20,Rochdale,Oldham Athletic,3 - 0
+78682,9,1960-09-20,Southport,Crystal Palace,3 - 3
+78687,9,1960-09-21,Gillingham,York City,3 - 2
+78688,9,1960-09-21,Workington,Aldershot,0 - 4
+78689,9,1960-09-21,Wrexham,Stockport County,1 - 3
+78725,9,1960-09-24,Accrington Stanley,Oldham Athletic,5 - 1
+78726,10,1960-09-24,Barrow,Northampton Town,1 - 0
+78727,10,1960-09-24,Carlisle United,Doncaster Rovers,2 - 1
+78728,10,1960-09-24,Crewe Alexandra,Chester,5 - 2
+78729,10,1960-09-24,Exeter City,Peterborough United,3 - 4
+78730,10,1960-09-24,Gillingham,Bradford Park Avenue,3 - 4
+78731,10,1960-09-24,Mansfield Town,Darlington,2 - 1
+78732,10,1960-09-24,Millwall,Aldershot,2 - 2
+78733,10,1960-09-24,Rochdale,Crystal Palace,2 - 2
+78734,10,1960-09-24,Stockport County,Southport,2 - 0
+78735,10,1960-09-24,Wrexham,Hartlepool United,1 - 0
+78736,10,1960-09-24,York City,Workington,4 - 0
+78743,10,1960-09-26,Accrington Stanley,Barrow,0 - 0
+78744,11,1960-09-26,Exeter City,Hartlepool United,2 - 1
+78745,11,1960-09-26,Millwall,Darlington,0 - 1
+78746,11,1960-09-26,Peterborough United,Doncaster Rovers,6 - 2
+78747,11,1960-09-26,Stockport County,Wrexham,1 - 0
+78748,11,1960-09-26,York City,Gillingham,0 - 0
+78750,11,1960-09-27,Carlisle United,Mansfield Town,3 - 1
+78751,11,1960-09-27,Oldham Athletic,Rochdale,0 - 2
+78755,11,1960-09-28,Aldershot,Workington,0 - 0
+78756,11,1960-09-28,Crewe Alexandra,Bradford Park Avenue,1 - 1
+78757,11,1960-09-28,Crystal Palace,Southport,5 - 0
+78793,11,1960-10-01,Aldershot,Accrington Stanley,3 - 1
+78794,12,1960-10-01,Bradford Park Avenue,Barrow,4 - 0
+78795,12,1960-10-01,Chester,Wrexham,1 - 0
+78796,12,1960-10-01,Crystal Palace,Mansfield Town,4 - 1
+78797,12,1960-10-01,Darlington,Stockport County,2 - 0
+78798,12,1960-10-01,Doncaster Rovers,Rochdale,3 - 2
+78799,12,1960-10-01,Gillingham,Peterborough United,4 - 4
+78800,12,1960-10-01,Hartlepool United,Carlisle United,0 - 1
+78801,12,1960-10-01,Northampton Town,Millwall,2 - 2
+78802,12,1960-10-01,Oldham Athletic,York City,3 - 1
+78803,12,1960-10-01,Southport,Exeter City,2 - 0
+78804,12,1960-10-01,Workington,Crewe Alexandra,0 - 0
+78810,12,1960-10-03,Accrington Stanley,Northampton Town,3 - 2
+78811,13,1960-10-03,Millwall,Bradford Park Avenue,5 - 1
+78812,13,1960-10-03,Peterborough United,Southport,3 - 4
+78813,13,1960-10-03,Rochdale,Hartlepool United,4 - 0
+78814,13,1960-10-03,Stockport County,Crystal Palace,5 - 2
+78815,13,1960-10-03,York City,Aldershot,4 - 1
+78820,13,1960-10-05,Crewe Alexandra,Oldham Athletic,2 - 1
+78821,13,1960-10-05,Exeter City,Darlington,1 - 3
+78822,13,1960-10-05,Workington,Chester,1 - 0
+78823,13,1960-10-05,Wrexham,Carlisle United,2 - 1
+78855,13,1960-10-08,Carlisle United,Crewe Alexandra,0 - 1
+78856,14,1960-10-08,Crystal Palace,Barrow,4 - 2
+78857,14,1960-10-08,Darlington,Gillingham,2 - 2
+78858,14,1960-10-08,Doncaster Rovers,Millwall,3 - 0
+78859,14,1960-10-08,Exeter City,Aldershot,1 - 0
+78860,14,1960-10-08,Hartlepool United,Accrington Stanley,4 - 1
+78861,14,1960-10-08,Mansfield Town,Workington,2 - 0
+78862,14,1960-10-08,Peterborough United,Northampton Town,3 - 3
+78863,14,1960-10-08,Rochdale,Chester,2 - 0
+78864,14,1960-10-08,Southport,Bradford Park Avenue,2 - 3
+78865,14,1960-10-08,Stockport County,Oldham Athletic,0 - 1
+78866,14,1960-10-08,Wrexham,York City,4 - 0
+78868,14,1960-10-14,Accrington Stanley,Wrexham,0 - 3
+78903,15,1960-10-15,Aldershot,Peterborough United,1 - 1
+78904,15,1960-10-15,Barrow,Doncaster Rovers,2 - 1
+78905,15,1960-10-15,Bradford Park Avenue,Darlington,1 - 0
+78906,15,1960-10-15,Chester,Mansfield Town,3 - 3
+78907,15,1960-10-15,Crewe Alexandra,Rochdale,3 - 0
+78908,15,1960-10-15,Gillingham,Crystal Palace,1 - 2
+78909,15,1960-10-15,Millwall,Hartlepool United,5 - 2
+78910,15,1960-10-15,Northampton Town,Southport,3 - 1
+78911,15,1960-10-15,Oldham Athletic,Exeter City,5 - 2
+78912,15,1960-10-15,Workington,Stockport County,1 - 0
+78913,15,1960-10-15,York City,Carlisle United,4 - 0
+78944,15,1960-10-22,Carlisle United,Accrington Stanley,3 - 1
+78945,16,1960-10-22,Crystal Palace,Bradford Park Avenue,4 - 1
+78946,16,1960-10-22,Darlington,Northampton Town,1 - 1
+78947,16,1960-10-22,Doncaster Rovers,Gillingham,2 - 3
+78948,16,1960-10-22,Exeter City,Workington,0 - 0
+78949,16,1960-10-22,Hartlepool United,Barrow,0 - 2
+78950,16,1960-10-22,Mansfield Town,Crewe Alexandra,1 - 1
+78951,16,1960-10-22,Peterborough United,Oldham Athletic,2 - 2
+78952,16,1960-10-22,Rochdale,York City,0 - 0
+78953,16,1960-10-22,Southport,Aldershot,1 - 1
+78954,16,1960-10-22,Stockport County,Chester,1 - 1
+78955,16,1960-10-22,Wrexham,Millwall,0 - 1
+78992,16,1960-10-29,Accrington Stanley,Rochdale,2 - 0
+78993,17,1960-10-29,Aldershot,Darlington,1 - 3
+78994,17,1960-10-29,Barrow,Wrexham,1 - 1
+78995,17,1960-10-29,Bradford Park Avenue,Doncaster Rovers,1 - 1
+78996,17,1960-10-29,Chester,Exeter City,4 - 4
+78997,17,1960-10-29,Crewe Alexandra,Stockport County,4 - 1
+78998,17,1960-10-29,Gillingham,Hartlepool United,5 - 1
+78999,17,1960-10-29,Millwall,Carlisle United,4 - 2
+79000,17,1960-10-29,Northampton Town,Crystal Palace,1 - 2
+79001,17,1960-10-29,Oldham Athletic,Southport,3 - 2
+79002,17,1960-10-29,Workington,Peterborough United,0 - 3
+79003,17,1960-10-29,York City,Mansfield Town,3 - 2
+79060,17,1960-11-12,Accrington Stanley,Stockport County,4 - 1
+79061,18,1960-11-12,Aldershot,Doncaster Rovers,5 - 0
+79062,18,1960-11-12,Barrow,Rochdale,1 - 0
+79063,18,1960-11-12,Bradford Park Avenue,Wrexham,3 - 1
+79064,18,1960-11-12,Chester,Southport,1 - 0
+79065,18,1960-11-12,Crewe Alexandra,Peterborough United,3 - 1
+79066,18,1960-11-12,Gillingham,Carlisle United,1 - 1
+79067,18,1960-11-12,Millwall,Mansfield Town,3 - 0
+79068,18,1960-11-12,Northampton Town,Hartlepool United,3 - 3
+79069,18,1960-11-12,Oldham Athletic,Crystal Palace,4 - 3
+79070,18,1960-11-12,Workington,Darlington,1 - 3
+79071,18,1960-11-12,York City,Exeter City,6 - 1
+79104,18,1960-11-19,Carlisle United,Bradford Park Avenue,2 - 2
+79105,19,1960-11-19,Crystal Palace,Workington,4 - 2
+79106,19,1960-11-19,Darlington,Chester,5 - 1
+79107,19,1960-11-19,Doncaster Rovers,Oldham Athletic,2 - 1
+79108,19,1960-11-19,Exeter City,Accrington Stanley,2 - 4
+79109,19,1960-11-19,Hartlepool United,Aldershot,3 - 1
+79110,19,1960-11-19,Mansfield Town,Barrow,5 - 1
+79111,19,1960-11-19,Peterborough United,York City,1 - 1
+79112,19,1960-11-19,Rochdale,Gillingham,2 - 0
+79113,19,1960-11-19,Southport,Crewe Alexandra,2 - 0
+79114,19,1960-11-19,Stockport County,Millwall,3 - 1
+79115,19,1960-11-19,Wrexham,Northampton Town,2 - 2
+79133,19,1960-11-26,Barrow,Bradford Park Avenue,5 - 0
+79134,20,1960-11-26,Chester,Workington,2 - 2
+79163,20,1960-12-03,Carlisle United,Aldershot,2 - 2
+79164,20,1960-12-03,Crystal Palace,Crewe Alexandra,0 - 0
+79165,20,1960-12-03,Darlington,York City,2 - 1
+79166,20,1960-12-03,Doncaster Rovers,Chester,2 - 1
+79167,20,1960-12-03,Exeter City,Barrow,2 - 2
+79168,20,1960-12-03,Hartlepool United,Workington,4 - 1
+79169,20,1960-12-03,Peterborough United,Millwall,4 - 2
+79170,20,1960-12-03,Rochdale,Northampton Town,1 - 1
+79171,20,1960-12-03,Southport,Accrington Stanley,3 - 0
+79172,20,1960-12-03,Wrexham,Oldham Athletic,2 - 2
+79207,20,1960-12-10,Accrington Stanley,Darlington,2 - 2
+79208,21,1960-12-10,Aldershot,Rochdale,3 - 0
+79209,21,1960-12-10,Barrow,Peterborough United,2 - 1
+79210,21,1960-12-10,Bradford Park Avenue,Stockport County,4 - 2
+79211,21,1960-12-10,Chester,Hartlepool United,1 - 2
+79212,21,1960-12-10,Crewe Alexandra,Doncaster Rovers,1 - 1
+79213,21,1960-12-10,Gillingham,Exeter City,4 - 2
+79214,21,1960-12-10,Millwall,Southport,3 - 1
+79215,21,1960-12-10,Northampton Town,Mansfield Town,1 - 0
+79216,21,1960-12-10,Oldham Athletic,Carlisle United,5 - 2
+79217,21,1960-12-10,Workington,Wrexham,3 - 1
+79218,21,1960-12-10,York City,Crystal Palace,0 - 2
+79250,21,1960-12-17,Accrington Stanley,Crystal Palace,2 - 3
+79251,22,1960-12-17,Barrow,Crewe Alexandra,3 - 4
+79252,22,1960-12-17,Bradford Park Avenue,Workington,4 - 0
+79253,22,1960-12-17,Carlisle United,Exeter City,2 - 2
+79254,22,1960-12-17,Doncaster Rovers,Darlington,4 - 0
+79255,22,1960-12-17,Gillingham,Chester,3 - 0
+79256,22,1960-12-17,Hartlepool United,Southport,1 - 5
+79257,22,1960-12-17,Mansfield Town,Aldershot,2 - 0
+79258,22,1960-12-17,Millwall,York City,3 - 2
+79259,22,1960-12-17,Northampton Town,Oldham Athletic,1 - 0
+79260,22,1960-12-17,Wrexham,Peterborough United,0 - 1
+79280,22,1960-12-24,Accrington Stanley,Bradford Park Avenue,1 - 2
+79281,23,1960-12-24,Peterborough United,Darlington,5 - 1
+79311,23,1960-12-26,Chester,Oldham Athletic,3 - 1
+79312,23,1960-12-26,Crewe Alexandra,Aldershot,2 - 1
+79313,23,1960-12-26,Darlington,Peterborough United,2 - 2
+79314,24,1960-12-26,Doncaster Rovers,Stockport County,3 - 1
+79315,24,1960-12-26,Exeter City,Crystal Palace,2 - 3
+79316,24,1960-12-26,Mansfield Town,Hartlepool United,2 - 1
+79317,24,1960-12-26,Millwall,Gillingham,1 - 2
+79318,24,1960-12-26,Rochdale,Wrexham,2 - 1
+79319,24,1960-12-26,Southport,Barrow,4 - 1
+79320,24,1960-12-26,Workington,Carlisle United,2 - 1
+79321,24,1960-12-26,York City,Northampton Town,0 - 1
+79340,24,1960-12-27,Aldershot,Crewe Alexandra,5 - 0
+79341,24,1960-12-27,Barrow,Southport,0 - 1
+79342,25,1960-12-27,Carlisle United,Workington,2 - 4
+79343,25,1960-12-27,Crystal Palace,Exeter City,0 - 0
+79344,25,1960-12-27,Gillingham,Millwall,1 - 2
+79345,25,1960-12-27,Hartlepool United,Mansfield Town,3 - 2
+79346,25,1960-12-27,Northampton Town,York City,3 - 0
+79347,25,1960-12-27,Oldham Athletic,Chester,4 - 1
+79348,25,1960-12-27,Stockport County,Doncaster Rovers,1 - 0
+79349,25,1960-12-27,Wrexham,Rochdale,2 - 0
+79382,25,1960-12-31,Aldershot,Northampton Town,2 - 2
+79383,25,1960-12-31,Chester,Barrow,0 - 0
+79384,26,1960-12-31,Crewe Alexandra,Millwall,2 - 2
+79385,26,1960-12-31,Crystal Palace,Doncaster Rovers,5 - 1
+79386,26,1960-12-31,Darlington,Hartlepool United,4 - 0
+79387,26,1960-12-31,Exeter City,Rochdale,1 - 0
+79388,26,1960-12-31,Oldham Athletic,Bradford Park Avenue,4 - 0
+79389,26,1960-12-31,Peterborough United,Carlisle United,5 - 0
+79390,26,1960-12-31,Southport,Wrexham,2 - 2
+79391,26,1960-12-31,Stockport County,Mansfield Town,1 - 0
+79392,26,1960-12-31,Workington,Gillingham,2 - 0
+79393,26,1960-12-31,York City,Accrington Stanley,1 - 0
+79396,26,1961-01-02,Carlisle United,Gillingham,1 - 3
+79397,27,1961-01-02,Hartlepool United,York City,1 - 3
+79401,27,1961-01-07,Barrow,Mansfield Town,1 - 1
+79402,27,1961-01-07,Bradford Park Avenue,Rochdale,2 - 1
+79403,27,1961-01-07,Chester,Crystal Palace,3 - 0
+79404,27,1961-01-07,Millwall,Exeter City,2 - 2
+79405,27,1961-01-07,Oldham Athletic,Hartlepool United,2 - 1
+79406,27,1961-01-07,Workington,Doncaster Rovers,1 - 3
+79436,27,1961-01-14,Accrington Stanley,Crewe Alexandra,1 - 3
+79437,27,1961-01-14,Barrow,Workington,0 - 4
+79438,28,1961-01-14,Bradford Park Avenue,Aldershot,1 - 0
+79439,28,1961-01-14,Carlisle United,Southport,1 - 0
+79440,28,1961-01-14,Doncaster Rovers,York City,0 - 2
+79441,28,1961-01-14,Gillingham,Oldham Athletic,2 - 3
+79442,28,1961-01-14,Hartlepool United,Crystal Palace,2 - 4
+79443,28,1961-01-14,Mansfield Town,Exeter City,2 - 3
+79444,28,1961-01-14,Millwall,Chester,5 - 1
+79476,28,1961-01-21,Aldershot,Gillingham,0 - 1
+79477,29,1961-01-21,Chester,Accrington Stanley,2 - 3
+79478,29,1961-01-21,Crewe Alexandra,York City,1 - 5
+79479,29,1961-01-21,Crystal Palace,Wrexham,3 - 2
+79480,29,1961-01-21,Darlington,Carlisle United,0 - 0
+79481,29,1961-01-21,Doncaster Rovers,Hartlepool United,5 - 3
+79482,29,1961-01-21,Exeter City,Stockport County,2 - 1
+79483,29,1961-01-21,Northampton Town,Bradford Park Avenue,0 - 1
+79484,29,1961-01-21,Oldham Athletic,Barrow,3 - 1
+79485,29,1961-01-21,Peterborough United,Mansfield Town,2 - 1
+79486,29,1961-01-21,Southport,Rochdale,0 - 1
+79487,29,1961-01-21,Workington,Millwall,2 - 2
+79499,29,1961-01-28,Carlisle United,Barrow,1 - 0
+79500,30,1961-01-28,Crystal Palace,Chester,5 - 1
+79501,30,1961-01-28,Darlington,Oldham Athletic,0 - 1
+79502,30,1961-01-28,Doncaster Rovers,Northampton Town,0 - 2
+79503,30,1961-01-28,Hartlepool United,Bradford Park Avenue,2 - 4
+79504,30,1961-01-28,Rochdale,Millwall,4 - 0
+79505,30,1961-01-28,Southport,Workington,3 - 0
+79538,30,1961-02-04,Accrington Stanley,Workington,1 - 2
+79539,30,1961-02-04,Barrow,Aldershot,2 - 0
+79540,31,1961-02-04,Carlisle United,Crystal Palace,2 - 0
+79541,31,1961-02-04,Exeter City,Bradford Park Avenue,4 - 2
+79542,31,1961-02-04,Hartlepool United,Crewe Alexandra,1 - 2
+79543,31,1961-02-04,Mansfield Town,Southport,1 - 2
+79544,31,1961-02-04,Millwall,Oldham Athletic,0 - 1
+79545,31,1961-02-04,Rochdale,Darlington,1 - 0
+79546,31,1961-02-04,Stockport County,Peterborough United,0 - 6
+79547,31,1961-02-04,Wrexham,Doncaster Rovers,2 - 2
+79548,31,1961-02-04,York City,Chester,2 - 0
+79552,31,1961-02-10,Workington,York City,2 - 0
+79585,31,1961-02-11,Aldershot,Millwall,0 - 2
+79586,32,1961-02-11,Bradford Park Avenue,Gillingham,0 - 0
+79587,32,1961-02-11,Chester,Crewe Alexandra,0 - 0
+79588,32,1961-02-11,Crystal Palace,Rochdale,4 - 1
+79589,32,1961-02-11,Darlington,Mansfield Town,3 - 2
+79590,32,1961-02-11,Doncaster Rovers,Carlisle United,1 - 0
+79591,32,1961-02-11,Hartlepool United,Wrexham,0 - 0
+79592,32,1961-02-11,Northampton Town,Barrow,3 - 0
+79593,32,1961-02-11,Oldham Athletic,Accrington Stanley,5 - 2
+79594,32,1961-02-11,Peterborough United,Exeter City,7 - 1
+79595,32,1961-02-11,Southport,Stockport County,1 - 0
+79619,32,1961-02-18,Accrington Stanley,Aldershot,1 - 0
+79620,33,1961-02-18,Carlisle United,Hartlepool United,2 - 2
+79621,33,1961-02-18,Crewe Alexandra,Workington,1 - 2
+79622,33,1961-02-18,Exeter City,Southport,2 - 1
+79623,33,1961-02-18,Mansfield Town,Crystal Palace,1 - 2
+79624,33,1961-02-18,Millwall,Northampton Town,3 - 1
+79625,33,1961-02-18,Peterborough United,Gillingham,2 - 0
+79626,33,1961-02-18,Rochdale,Doncaster Rovers,2 - 1
+79627,33,1961-02-18,Stockport County,Darlington,2 - 1
+79628,33,1961-02-18,Wrexham,Chester,1 - 2
+79629,33,1961-02-18,York City,Oldham Athletic,1 - 0
+79641,33,1961-02-24,Workington,Mansfield Town,1 - 3
+79675,34,1961-02-25,Accrington Stanley,Hartlepool United,3 - 0
+79676,34,1961-02-25,Aldershot,Exeter City,3 - 1
+79677,34,1961-02-25,Barrow,Crystal Palace,0 - 3
+79678,34,1961-02-25,Bradford Park Avenue,Southport,1 - 0
+79679,34,1961-02-25,Chester,Rochdale,3 - 1
+79680,34,1961-02-25,Crewe Alexandra,Carlisle United,3 - 0
+79681,34,1961-02-25,Gillingham,Darlington,0 - 1
+79682,34,1961-02-25,Millwall,Doncaster Rovers,0 - 1
+79683,34,1961-02-25,Northampton Town,Peterborough United,0 - 3
+79684,34,1961-02-25,Oldham Athletic,Stockport County,3 - 0
+79685,34,1961-02-25,York City,Wrexham,2 - 1
+79717,34,1961-03-04,Carlisle United,York City,1 - 1
+79718,35,1961-03-04,Crystal Palace,Gillingham,2 - 0
+79719,35,1961-03-04,Darlington,Bradford Park Avenue,0 - 0
+79720,35,1961-03-04,Doncaster Rovers,Barrow,3 - 0
+79721,35,1961-03-04,Exeter City,Oldham Athletic,3 - 0
+79722,35,1961-03-04,Hartlepool United,Millwall,2 - 2
+79723,35,1961-03-04,Mansfield Town,Chester,3 - 1
+79724,35,1961-03-04,Peterborough United,Aldershot,7 - 1
+79725,35,1961-03-04,Rochdale,Crewe Alexandra,3 - 0
+79726,35,1961-03-04,Southport,Northampton Town,2 - 0
+79727,35,1961-03-04,Stockport County,Workington,1 - 0
+79728,35,1961-03-04,Wrexham,Accrington Stanley,3 - 0
+79730,35,1961-03-06,Stockport County,Gillingham,2 - 0
+79737,36,1961-03-08,Chester,Northampton Town,0 - 2
+79738,36,1961-03-08,Wrexham,Gillingham,0 - 0
+79773,36,1961-03-11,Accrington Stanley,Carlisle United,1 - 0
+79774,36,1961-03-11,Aldershot,Southport,1 - 0
+79775,36,1961-03-11,Barrow,Hartlepool United,2 - 1
+79776,36,1961-03-11,Bradford Park Avenue,Crystal Palace,3 - 1
+79777,36,1961-03-11,Chester,Stockport County,0 - 0
+79778,37,1961-03-11,Crewe Alexandra,Mansfield Town,1 - 2
+79779,37,1961-03-11,Gillingham,Doncaster Rovers,2 - 0
+79780,37,1961-03-11,Millwall,Wrexham,2 - 0
+79781,37,1961-03-11,Northampton Town,Darlington,1 - 1
+79782,37,1961-03-11,Oldham Athletic,Peterborough United,1 - 1
+79783,37,1961-03-11,Workington,Exeter City,3 - 1
+79784,37,1961-03-11,York City,Rochdale,2 - 0
+79786,37,1961-03-13,Peterborough United,Chester,6 - 0
+79787,38,1961-03-13,Stockport County,York City,2 - 0
+79793,38,1961-03-15,Wrexham,Darlington,3 - 1
+79794,38,1961-03-16,Exeter City,Crewe Alexandra,0 - 1
+79824,38,1961-03-18,Carlisle United,Millwall,1 - 2
+79825,38,1961-03-18,Crystal Palace,Northampton Town,2 - 3
+79826,38,1961-03-18,Darlington,Aldershot,2 - 2
+79827,39,1961-03-18,Doncaster Rovers,Bradford Park Avenue,2 - 0
+79828,39,1961-03-18,Exeter City,Chester,4 - 1
+79829,39,1961-03-18,Hartlepool United,Gillingham,1 - 0
+79830,39,1961-03-18,Mansfield Town,York City,1 - 3
+79831,39,1961-03-18,Peterborough United,Workington,2 - 1
+79832,39,1961-03-18,Rochdale,Accrington Stanley,3 - 2
+79833,39,1961-03-18,Southport,Oldham Athletic,2 - 0
+79834,39,1961-03-18,Stockport County,Crewe Alexandra,0 - 1
+79835,39,1961-03-18,Wrexham,Barrow,1 - 0
+79840,39,1961-03-20,York City,Southport,2 - 0
+79845,40,1961-03-21,Northampton Town,Carlisle United,0 - 0
+79850,40,1961-03-22,Mansfield Town,Accrington Stanley,0 - 0
+79887,40,1961-03-25,Accrington Stanley,Mansfield Town,1 - 4
+79888,41,1961-03-25,Aldershot,Crystal Palace,2 - 1
+79889,41,1961-03-25,Barrow,Carlisle United,0 - 2
+79890,41,1961-03-25,Bradford Park Avenue,Hartlepool United,1 - 3
+79891,41,1961-03-25,Chester,Peterborough United,1 - 2
+79892,41,1961-03-25,Crewe Alexandra,Exeter City,2 - 0
+79893,41,1961-03-25,Gillingham,Wrexham,0 - 3
+79894,41,1961-03-25,Millwall,Rochdale,4 - 1
+79895,41,1961-03-25,Northampton Town,Doncaster Rovers,3 - 0
+79896,41,1961-03-25,Oldham Athletic,Darlington,3 - 3
+79897,41,1961-03-25,Workington,Southport,3 - 1
+79898,41,1961-03-25,York City,Stockport County,0 - 0
+79900,41,1961-03-27,Aldershot,Wrexham,0 - 0
+79927,42,1961-03-31,Carlisle United,Chester,3 - 1
+79928,42,1961-03-31,Crewe Alexandra,Wrexham,2 - 1
+79929,42,1961-03-31,Crystal Palace,Millwall,0 - 2
+79930,42,1961-03-31,Darlington,Barrow,2 - 3
+79931,42,1961-03-31,Doncaster Rovers,Accrington Stanley,1 - 0
+79932,42,1961-03-31,Oldham Athletic,Mansfield Town,3 - 1
+79933,42,1961-03-31,Southport,Gillingham,1 - 2
+79934,42,1961-03-31,Stockport County,Aldershot,2 - 0
+79935,42,1961-03-31,Workington,Rochdale,3 - 0
+79936,42,1961-03-31,York City,Hartlepool United,4 - 0
+79971,42,1961-04-01,Crystal Palace,Oldham Athletic,2 - 1
+79972,43,1961-04-01,Darlington,Workington,1 - 1
+79973,43,1961-04-01,Doncaster Rovers,Aldershot,3 - 1
+79974,43,1961-04-01,Exeter City,York City,2 - 1
+79975,43,1961-04-01,Hartlepool United,Northampton Town,4 - 2
+79976,43,1961-04-01,Mansfield Town,Millwall,5 - 1
+79977,43,1961-04-01,Peterborough United,Crewe Alexandra,4 - 1
+79978,43,1961-04-01,Rochdale,Barrow,0 - 0
+79979,43,1961-04-01,Southport,Chester,1 - 2
+79980,43,1961-04-01,Stockport County,Accrington Stanley,0 - 3
+79981,43,1961-04-01,Wrexham,Bradford Park Avenue,0 - 1
+80013,43,1961-04-03,Accrington Stanley,Doncaster Rovers,2 - 2
+80014,44,1961-04-03,Aldershot,Stockport County,3 - 2
+80015,44,1961-04-03,Barrow,Darlington,1 - 1
+80016,44,1961-04-03,Chester,Carlisle United,3 - 2
+80017,44,1961-04-03,Exeter City,Northampton Town,1 - 3
+80018,44,1961-04-03,Gillingham,Southport,2 - 0
+80019,44,1961-04-03,Mansfield Town,Oldham Athletic,1 - 2
+80020,44,1961-04-03,Millwall,Crystal Palace,0 - 2
+80021,44,1961-04-03,Peterborough United,Bradford Park Avenue,3 - 1
+80022,44,1961-04-03,Rochdale,Workington,2 - 0
+80023,44,1961-04-03,Wrexham,Crewe Alexandra,0 - 1
+80031,44,1961-04-04,Northampton Town,Exeter City,3 - 1
+80066,45,1961-04-08,Accrington Stanley,Exeter City,0 - 1
+80067,45,1961-04-08,Aldershot,Hartlepool United,4 - 0
+80068,45,1961-04-08,Bradford Park Avenue,Carlisle United,0 - 0
+80069,45,1961-04-08,Chester,Darlington,0 - 3
+80070,45,1961-04-08,Crewe Alexandra,Southport,0 - 1
+80071,45,1961-04-08,Gillingham,Rochdale,0 - 0
+80072,45,1961-04-08,Millwall,Stockport County,3 - 0
+80073,45,1961-04-08,Northampton Town,Wrexham,3 - 0
+80074,46,1961-04-08,Oldham Athletic,Doncaster Rovers,1 - 1
+80075,46,1961-04-08,Workington,Crystal Palace,1 - 0
+80076,46,1961-04-08,York City,Peterborough United,0 - 1
+80080,46,1961-04-10,Rochdale,Stockport County,1 - 1
+80083,46,1961-04-11,Accrington Stanley,Peterborough United,3 - 2
+80084,46,1961-04-11,Carlisle United,Wrexham,1 - 0
+80089,46,1961-04-12,Gillingham,Northampton Town,0 - 1
+80090,46,1961-04-12,Mansfield Town,Bradford Park Avenue,1 - 2
+80124,46,1961-04-15,Carlisle United,Northampton Town,2 - 1
+80125,47,1961-04-15,Darlington,Crewe Alexandra,0 - 1
+80126,47,1961-04-15,Doncaster Rovers,Workington,3 - 4
+80127,47,1961-04-15,Exeter City,Millwall,2 - 3
+80128,47,1961-04-15,Hartlepool United,Oldham Athletic,5 - 1
+80129,47,1961-04-15,Mansfield Town,Gillingham,1 - 0
+80130,47,1961-04-15,Peterborough United,Accrington Stanley,3 - 0
+80131,47,1961-04-15,Rochdale,Bradford Park Avenue,2 - 3
+80132,47,1961-04-15,Southport,York City,2 - 2
+80133,47,1961-04-15,Stockport County,Barrow,1 - 0
+80134,47,1961-04-15,Wrexham,Aldershot,3 - 1
+80139,47,1961-04-17,Barrow,Gillingham,0 - 1
+80140,48,1961-04-17,Mansfield Town,Doncaster Rovers,1 - 2
+80141,48,1961-04-17,Stockport County,Northampton Town,1 - 1
+80146,48,1961-04-18,Rochdale,Peterborough United,2 - 2
+80152,48,1961-04-19,Accrington Stanley,York City,2 - 0
+80153,48,1961-04-19,Crewe Alexandra,Darlington,1 - 1
+80154,48,1961-04-19,Crystal Palace,Aldershot,2 - 1
+80156,48,1961-04-20,Bradford Park Avenue,Peterborough United,1 - 0
+80191,48,1961-04-22,Accrington Stanley,Southport,2 - 1
+80192,49,1961-04-22,Aldershot,Carlisle United,2 - 1
+80193,49,1961-04-22,Barrow,Exeter City,1 - 1
+80194,49,1961-04-22,Bradford Park Avenue,Mansfield Town,2 - 1
+80195,49,1961-04-22,Chester,Doncaster Rovers,1 - 2
+80196,49,1961-04-22,Crewe Alexandra,Crystal Palace,1 - 2
+80197,49,1961-04-22,Gillingham,Stockport County,1 - 1
+80198,49,1961-04-22,Millwall,Peterborough United,4 - 3
+80199,49,1961-04-22,Northampton Town,Rochdale,5 - 1
+80200,49,1961-04-22,Oldham Athletic,Wrexham,0 - 2
+80201,49,1961-04-22,Workington,Hartlepool United,2 - 0
+80202,49,1961-04-22,York City,Darlington,4 - 1
+80209,49,1961-04-24,Bradford Park Avenue,Millwall,2 - 1
+80210,50,1961-04-24,Darlington,Exeter City,3 - 0
+80211,50,1961-04-24,Hartlepool United,Rochdale,2 - 0
+80216,50,1961-04-25,Doncaster Rovers,Mansfield Town,2 - 3
+80217,50,1961-04-25,Northampton Town,Accrington Stanley,2 - 1
+80218,50,1961-04-25,Oldham Athletic,Crewe Alexandra,1 - 0
+80219,50,1961-04-25,Southport,Peterborough United,3 - 3
+80227,50,1961-04-26,Aldershot,York City,6 - 1
+80228,50,1961-04-26,Crystal Palace,Stockport County,2 - 1
+80231,50,1961-04-27,Gillingham,Barrow,2 - 2
+80266,50,1961-04-29,Carlisle United,Oldham Athletic,3 - 0
+80267,50,1961-04-29,Crystal Palace,York City,1 - 0
+80268,51,1961-04-29,Darlington,Accrington Stanley,3 - 2
+80269,51,1961-04-29,Doncaster Rovers,Crewe Alexandra,6 - 0
+80270,51,1961-04-29,Exeter City,Gillingham,2 - 0
+80271,51,1961-04-29,Hartlepool United,Chester,4 - 4
+80272,51,1961-04-29,Mansfield Town,Northampton Town,4 - 2
+80273,51,1961-04-29,Peterborough United,Barrow,6 - 2
+80274,51,1961-04-29,Rochdale,Aldershot,1 - 1
+80275,51,1961-04-29,Southport,Millwall,4 - 1
+80276,51,1961-04-29,Stockport County,Bradford Park Avenue,2 - 3
+80277,51,1961-04-29,Wrexham,Workington,2 - 1
+80278,51,1961-05-01,Barrow,Stockport County,3 - 1
+80279,52,1961-05-01,Bradford Park Avenue,Accrington Stanley,2 - 2
+80283,52,1961-05-03,Gillingham,Mansfield Town,0 - 0

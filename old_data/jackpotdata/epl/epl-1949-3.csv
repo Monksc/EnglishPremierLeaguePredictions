@@ -1,0 +1,925 @@
+,Round Number,Date,Home Team,Away Team,Result
+56150,0,1949-08-20,Barrow,York City,3 - 2
+56151,0,1949-08-20,Bradford City,Doncaster Rovers,1 - 2
+56152,0,1949-08-20,Carlisle United,Accrington Stanley,2 - 1
+56153,0,1949-08-20,Chester,Stockport County,0 - 4
+56154,0,1949-08-20,Crewe Alexandra,Tranmere Rovers,2 - 0
+56155,0,1949-08-20,Halifax Town,Hartlepool United,1 - 2
+56156,0,1949-08-20,Lincoln City,Oldham Athletic,1 - 2
+56157,0,1949-08-20,New Brighton,Darlington,1 - 0
+56158,0,1949-08-20,Rochdale,Gateshead,1 - 3
+56159,0,1949-08-20,Rotherham United,Wrexham,2 - 2
+56160,0,1949-08-20,Southport,Mansfield Town,1 - 1
+56161,0,1949-08-20,Brighton & Hove Albion,Nottingham Forest,2 - 2
+56162,0,1949-08-20,Bristol City,Northampton Town,3 - 1
+56163,0,1949-08-20,Exeter City,Crystal Palace,2 - 1
+56164,0,1949-08-20,Ipswich Town,AFC Bournemouth,1 - 2
+56165,0,1949-08-20,Leyton Orient,Watford,0 - 0
+56166,0,1949-08-20,Millwall,Torquay United,1 - 3
+56167,0,1949-08-20,Newport County,Norwich City,3 - 2
+56168,0,1949-08-20,Notts County,Southend United,2 - 0
+56169,0,1949-08-20,Port Vale,Bristol Rovers,1 - 0
+56170,0,1949-08-20,Swindon Town,Reading,2 - 0
+56171,0,1949-08-20,Walsall,Aldershot,0 - 0
+56179,0,1949-08-22,Gateshead,Halifax Town,7 - 1
+56180,1,1949-08-22,Hartlepool United,New Brighton,2 - 0
+56181,1,1949-08-22,Southport,Chester,1 - 1
+56182,1,1949-08-22,Bristol Rovers,Ipswich Town,2 - 0
+56185,1,1949-08-23,Oldham Athletic,Rotherham United,2 - 2
+56186,1,1949-08-23,Tranmere Rovers,Barrow,2 - 1
+56187,1,1949-08-23,Southend United,Port Vale,1 - 0
+56201,1,1949-08-24,Accrington Stanley,Mansfield Town,2 - 2
+56202,1,1949-08-24,Darlington,Crewe Alexandra,1 - 1
+56203,1,1949-08-24,Lincoln City,York City,1 - 0
+56204,1,1949-08-24,Stockport County,Bradford City,1 - 0
+56205,1,1949-08-24,Wrexham,Carlisle United,1 - 1
+56206,1,1949-08-24,AFC Bournemouth,Exeter City,2 - 0
+56207,1,1949-08-24,Aldershot,Brighton & Hove Albion,0 - 1
+56208,1,1949-08-24,Crystal Palace,Leyton Orient,1 - 1
+56209,1,1949-08-24,Norwich City,Notts County,4 - 3
+56210,1,1949-08-24,Nottingham Forest,Bristol City,3 - 0
+56211,1,1949-08-24,Swindon Town,Millwall,1 - 1
+56212,1,1949-08-24,Torquay United,Walsall,2 - 1
+56213,1,1949-08-25,Doncaster Rovers,Rochdale,0 - 0
+56214,1,1949-08-25,Northampton Town,Newport County,4 - 3
+56215,1,1949-08-25,Watford,Reading,1 - 1
+56238,1,1949-08-27,Accrington Stanley,Rotherham United,1 - 4
+56239,2,1949-08-27,Darlington,Halifax Town,5 - 1
+56240,2,1949-08-27,Doncaster Rovers,Chester,2 - 0
+56241,2,1949-08-27,Gateshead,Bradford City,4 - 2
+56242,2,1949-08-27,Hartlepool United,Rochdale,1 - 2
+56243,2,1949-08-27,Mansfield Town,Carlisle United,4 - 1
+56244,2,1949-08-27,Oldham Athletic,Barrow,1 - 3
+56245,2,1949-08-27,Stockport County,Southport,3 - 2
+56246,2,1949-08-27,Tranmere Rovers,New Brighton,2 - 1
+56247,2,1949-08-27,Wrexham,Lincoln City,4 - 0
+56248,2,1949-08-27,York City,Crewe Alexandra,1 - 1
+56249,2,1949-08-27,AFC Bournemouth,Port Vale,2 - 2
+56250,2,1949-08-27,Aldershot,Millwall,2 - 1
+56251,2,1949-08-27,Brighton & Hove Albion,Northampton Town,1 - 1
+56252,2,1949-08-27,Bristol Rovers,Notts County,0 - 3
+56253,2,1949-08-27,Crystal Palace,Ipswich Town,2 - 0
+56254,2,1949-08-27,Norwich City,Bristol City,3 - 0
+56255,2,1949-08-27,Nottingham Forest,Walsall,1 - 0
+56256,2,1949-08-27,Reading,Leyton Orient,5 - 1
+56257,2,1949-08-27,Southend United,Newport County,6 - 0
+56258,2,1949-08-27,Torquay United,Swindon Town,1 - 0
+56259,2,1949-08-27,Watford,Exeter City,1 - 2
+56264,2,1949-08-29,Halifax Town,Gateshead,5 - 2
+56265,3,1949-08-29,Mansfield Town,Accrington Stanley,2 - 0
+56266,3,1949-08-29,Rotherham United,Oldham Athletic,0 - 1
+56267,3,1949-08-29,York City,Lincoln City,1 - 2
+56268,3,1949-08-29,Millwall,Swindon Town,1 - 0
+56269,3,1949-08-29,Port Vale,Southend United,0 - 0
+56270,3,1949-08-30,Barrow,Tranmere Rovers,1 - 2
+56271,3,1949-08-30,Rochdale,Doncaster Rovers,0 - 1
+56272,3,1949-08-30,Bristol City,Nottingham Forest,0 - 2
+56288,3,1949-08-31,Bradford City,Stockport County,0 - 1
+56289,3,1949-08-31,Chester,Southport,4 - 1
+56290,3,1949-08-31,Crewe Alexandra,Darlington,2 - 0
+56291,3,1949-08-31,New Brighton,Hartlepool United,1 - 0
+56292,3,1949-08-31,Brighton & Hove Albion,Aldershot,1 - 1
+56293,3,1949-08-31,Exeter City,AFC Bournemouth,1 - 2
+56294,3,1949-08-31,Ipswich Town,Bristol Rovers,3 - 1
+56295,3,1949-08-31,Reading,Watford,1 - 0
+56298,3,1949-09-01,Carlisle United,Wrexham,1 - 0
+56299,3,1949-09-01,Leyton Orient,Crystal Palace,2 - 2
+56300,3,1949-09-01,Newport County,Northampton Town,1 - 4
+56301,3,1949-09-01,Notts County,Norwich City,5 - 0
+56302,3,1949-09-01,Walsall,Torquay United,7 - 1
+56325,3,1949-09-03,Barrow,Wrexham,2 - 1
+56326,4,1949-09-03,Bradford City,Hartlepool United,1 - 3
+56327,4,1949-09-03,Carlisle United,Stockport County,2 - 0
+56328,4,1949-09-03,Chester,Gateshead,0 - 3
+56329,4,1949-09-03,Crewe Alexandra,Oldham Athletic,1 - 1
+56330,4,1949-09-03,Halifax Town,New Brighton,3 - 0
+56331,4,1949-09-03,Lincoln City,Accrington Stanley,1 - 0
+56332,4,1949-09-03,Rochdale,Darlington,2 - 0
+56333,4,1949-09-03,Rotherham United,Mansfield Town,2 - 2
+56334,4,1949-09-03,Southport,Doncaster Rovers,3 - 3
+56335,4,1949-09-03,Tranmere Rovers,York City,1 - 0
+56336,4,1949-09-03,Brighton & Hove Albion,Norwich City,1 - 3
+56337,4,1949-09-03,Bristol City,Newport County,6 - 0
+56338,4,1949-09-03,Exeter City,Reading,3 - 4
+56339,4,1949-09-03,Ipswich Town,Watford,1 - 1
+56340,4,1949-09-03,Leyton Orient,Torquay United,2 - 1
+56341,4,1949-09-03,Millwall,Nottingham Forest,2 - 1
+56342,4,1949-09-03,Notts County,AFC Bournemouth,2 - 0
+56343,4,1949-09-03,Port Vale,Crystal Palace,2 - 0
+56344,4,1949-09-03,Southend United,Bristol Rovers,3 - 1
+56345,4,1949-09-03,Swindon Town,Aldershot,2 - 1
+56346,4,1949-09-03,Walsall,Northampton Town,1 - 3
+56355,4,1949-09-05,Crewe Alexandra,Rotherham United,4 - 1
+56356,5,1949-09-05,Hartlepool United,Gateshead,3 - 5
+56357,5,1949-09-05,Rochdale,Chester,0 - 1
+56358,5,1949-09-05,Southport,Halifax Town,1 - 1
+56359,5,1949-09-05,York City,Mansfield Town,3 - 3
+56360,5,1949-09-05,Bristol Rovers,Reading,2 - 1
+56361,5,1949-09-05,Millwall,Brighton & Hove Albion,5 - 1
+56362,5,1949-09-05,Port Vale,Ipswich Town,2 - 2
+56363,5,1949-09-06,Barrow,Lincoln City,0 - 0
+56364,5,1949-09-06,Oldham Athletic,Accrington Stanley,0 - 1
+56365,5,1949-09-06,Tranmere Rovers,Carlisle United,0 - 0
+56366,5,1949-09-06,Southend United,Leyton Orient,2 - 0
+56378,5,1949-09-07,New Brighton,Stockport County,1 - 3
+56379,5,1949-09-07,Wrexham,Bradford City,0 - 0
+56380,5,1949-09-07,AFC Bournemouth,Watford,0 - 0
+56381,5,1949-09-07,Crystal Palace,Walsall,2 - 0
+56382,5,1949-09-07,Norwich City,Aldershot,4 - 0
+56383,5,1949-09-07,Torquay United,Newport County,5 - 3
+56384,5,1949-09-08,Doncaster Rovers,Darlington,2 - 1
+56385,5,1949-09-08,Northampton Town,Nottingham Forest,0 - 0
+56386,5,1949-09-08,Notts County,Exeter City,3 - 3
+56409,5,1949-09-10,Accrington Stanley,Barrow,1 - 0
+56410,6,1949-09-10,Carlisle United,Rotherham United,3 - 1
+56411,6,1949-09-10,Darlington,Bradford City,4 - 3
+56412,6,1949-09-10,Gateshead,Southport,3 - 2
+56413,6,1949-09-10,Hartlepool United,Chester,5 - 1
+56414,6,1949-09-10,Mansfield Town,Lincoln City,2 - 1
+56415,6,1949-09-10,New Brighton,Rochdale,0 - 4
+56416,6,1949-09-10,Oldham Athletic,Tranmere Rovers,2 - 1
+56417,6,1949-09-10,Stockport County,Doncaster Rovers,0 - 1
+56418,6,1949-09-10,Wrexham,Crewe Alexandra,1 - 2
+56419,6,1949-09-10,York City,Halifax Town,3 - 1
+56420,6,1949-09-10,AFC Bournemouth,Southend United,3 - 0
+56421,6,1949-09-10,Aldershot,Torquay United,3 - 5
+56422,6,1949-09-10,Bristol Rovers,Bristol City,2 - 3
+56423,6,1949-09-10,Crystal Palace,Notts County,1 - 2
+56424,6,1949-09-10,Leyton Orient,Exeter City,4 - 1
+56425,6,1949-09-10,Newport County,Brighton & Hove Albion,0 - 1
+56426,6,1949-09-10,Northampton Town,Millwall,1 - 0
+56427,6,1949-09-10,Norwich City,Walsall,3 - 2
+56428,6,1949-09-10,Nottingham Forest,Swindon Town,2 - 1
+56429,6,1949-09-10,Reading,Ipswich Town,3 - 1
+56430,6,1949-09-10,Watford,Port Vale,0 - 2
+56433,6,1949-09-12,Halifax Town,Southport,0 - 0
+56434,7,1949-09-12,Mansfield Town,York City,1 - 0
+56435,7,1949-09-13,Bristol City,Swindon Town,1 - 0
+56443,7,1949-09-14,Bradford City,Wrexham,1 - 0
+56444,7,1949-09-14,Chester,Rochdale,0 - 2
+56445,7,1949-09-14,Darlington,Doncaster Rovers,2 - 1
+56446,7,1949-09-14,Stockport County,New Brighton,0 - 2
+56447,7,1949-09-14,Aldershot,Norwich City,2 - 0
+56448,7,1949-09-14,Nottingham Forest,Northampton Town,0 - 1
+56449,7,1949-09-14,Reading,Brighton & Hove Albion,3 - 0
+56450,7,1949-09-15,Newport County,Torquay United,1 - 0
+56451,7,1949-09-15,Watford,AFC Bournemouth,4 - 1
+56474,7,1949-09-17,Barrow,Mansfield Town,0 - 1
+56475,7,1949-09-17,Bradford City,New Brighton,2 - 1
+56476,8,1949-09-17,Crewe Alexandra,Accrington Stanley,2 - 1
+56477,8,1949-09-17,Darlington,Chester,2 - 1
+56478,8,1949-09-17,Lincoln City,Carlisle United,2 - 1
+56479,8,1949-09-17,Rochdale,Halifax Town,1 - 0
+56480,8,1949-09-17,Rotherham United,Doncaster Rovers,0 - 2
+56481,8,1949-09-17,Southport,Hartlepool United,2 - 1
+56482,8,1949-09-17,Stockport County,Gateshead,2 - 1
+56483,8,1949-09-17,Tranmere Rovers,Wrexham,2 - 1
+56484,8,1949-09-17,York City,Oldham Athletic,0 - 1
+56485,8,1949-09-17,Brighton & Hove Albion,Bristol City,2 - 1
+56486,8,1949-09-17,Bristol Rovers,AFC Bournemouth,0 - 0
+56487,8,1949-09-17,Exeter City,Aldershot,1 - 0
+56488,8,1949-09-17,Ipswich Town,Leyton Orient,4 - 4
+56489,8,1949-09-17,Millwall,Norwich City,1 - 2
+56490,8,1949-09-17,Notts County,Watford,1 - 0
+56491,8,1949-09-17,Port Vale,Reading,1 - 1
+56492,8,1949-09-17,Southend United,Crystal Palace,0 - 0
+56493,8,1949-09-17,Swindon Town,Northampton Town,6 - 1
+56494,8,1949-09-17,Torquay United,Nottingham Forest,2 - 0
+56495,8,1949-09-17,Walsall,Newport County,2 - 0
+56498,8,1949-09-19,Rotherham United,Chester,3 - 2
+56499,9,1949-09-21,AFC Bournemouth,Bristol City,3 - 1
+56500,9,1949-09-21,Reading,Millwall,2 - 0
+56523,9,1949-09-24,Accrington Stanley,Tranmere Rovers,2 - 0
+56524,9,1949-09-24,Carlisle United,Barrow,2 - 0
+56525,9,1949-09-24,Darlington,Southport,0 - 2
+56526,9,1949-09-24,Gateshead,Doncaster Rovers,1 - 1
+56527,9,1949-09-24,Halifax Town,Bradford City,3 - 1
+56528,9,1949-09-24,Hartlepool United,Stockport County,1 - 0
+56529,9,1949-09-24,Mansfield Town,Crewe Alexandra,3 - 0
+56530,9,1949-09-24,New Brighton,Chester,3 - 3
+56531,9,1949-09-24,Oldham Athletic,Rochdale,0 - 0
+56532,9,1949-09-24,Rotherham United,Lincoln City,1 - 3
+56533,10,1949-09-24,Wrexham,York City,2 - 0
+56534,10,1949-09-24,AFC Bournemouth,Brighton & Hove Albion,2 - 2
+56535,10,1949-09-24,Bristol City,Walsall,2 - 1
+56536,10,1949-09-24,Crystal Palace,Bristol Rovers,1 - 0
+56537,10,1949-09-24,Exeter City,Ipswich Town,1 - 1
+56538,10,1949-09-24,Leyton Orient,Port Vale,1 - 0
+56539,10,1949-09-24,Newport County,Millwall,4 - 3
+56540,10,1949-09-24,Northampton Town,Torquay United,3 - 0
+56541,10,1949-09-24,Norwich City,Swindon Town,4 - 0
+56542,10,1949-09-24,Nottingham Forest,Aldershot,3 - 0
+56543,10,1949-09-24,Reading,Notts County,0 - 1
+56544,10,1949-09-24,Watford,Southend United,1 - 0
+56545,10,1949-09-26,Rotherham United,Stockport County,2 - 1
+56546,11,1949-09-27,Accrington Stanley,Oldham Athletic,3 - 4
+56569,11,1949-10-01,Barrow,Rotherham United,1 - 1
+56570,11,1949-10-01,Bradford City,Rochdale,2 - 1
+56571,11,1949-10-01,Chester,Halifax Town,5 - 1
+56572,11,1949-10-01,Crewe Alexandra,Carlisle United,2 - 1
+56573,11,1949-10-01,Doncaster Rovers,Hartlepool United,0 - 0
+56574,11,1949-10-01,Lincoln City,Gateshead,2 - 0
+56575,11,1949-10-01,Oldham Athletic,Wrexham,2 - 3
+56576,12,1949-10-01,Southport,New Brighton,0 - 2
+56577,12,1949-10-01,Stockport County,Darlington,2 - 1
+56578,12,1949-10-01,Tranmere Rovers,Mansfield Town,2 - 1
+56579,12,1949-10-01,York City,Accrington Stanley,2 - 1
+56580,12,1949-10-01,AFC Bournemouth,Crystal Palace,2 - 0
+56581,12,1949-10-01,Aldershot,Northampton Town,0 - 0
+56582,12,1949-10-01,Bristol Rovers,Watford,0 - 2
+56583,12,1949-10-01,Ipswich Town,Nottingham Forest,1 - 2
+56584,12,1949-10-01,Millwall,Bristol City,3 - 1
+56585,12,1949-10-01,Notts County,Leyton Orient,7 - 1
+56586,12,1949-10-01,Port Vale,Exeter City,1 - 0
+56587,12,1949-10-01,Southend United,Reading,3 - 2
+56588,12,1949-10-01,Swindon Town,Newport County,1 - 1
+56589,12,1949-10-01,Torquay United,Norwich City,1 - 1
+56590,12,1949-10-01,Walsall,Brighton & Hove Albion,4 - 2
+56613,12,1949-10-08,Bradford City,Oldham Athletic,1 - 1
+56614,12,1949-10-08,Chester,Wrexham,2 - 1
+56615,12,1949-10-08,Darlington,Barrow,1 - 1
+56616,13,1949-10-08,Doncaster Rovers,Carlisle United,0 - 0
+56617,13,1949-10-08,Gateshead,Rotherham United,2 - 2
+56618,13,1949-10-08,Halifax Town,Tranmere Rovers,0 - 1
+56619,13,1949-10-08,Hartlepool United,Lincoln City,2 - 1
+56620,13,1949-10-08,New Brighton,Crewe Alexandra,0 - 2
+56621,13,1949-10-08,Rochdale,York City,3 - 1
+56622,13,1949-10-08,Southport,Accrington Stanley,1 - 0
+56623,13,1949-10-08,Stockport County,Mansfield Town,1 - 0
+56624,13,1949-10-08,Aldershot,Leyton Orient,2 - 0
+56625,13,1949-10-08,Brighton & Hove Albion,Bristol Rovers,1 - 2
+56626,13,1949-10-08,Bristol City,Southend United,1 - 1
+56627,13,1949-10-08,Millwall,Crystal Palace,2 - 3
+56628,13,1949-10-08,Newport County,Notts County,1 - 1
+56629,13,1949-10-08,Northampton Town,Ipswich Town,1 - 2
+56630,13,1949-10-08,Norwich City,Port Vale,0 - 1
+56631,13,1949-10-08,Nottingham Forest,Exeter City,5 - 0
+56632,13,1949-10-08,Swindon Town,Watford,0 - 1
+56633,13,1949-10-08,Torquay United,Reading,4 - 2
+56634,13,1949-10-08,Walsall,AFC Bournemouth,1 - 1
+56656,13,1949-10-15,Accrington Stanley,Stockport County,4 - 2
+56657,14,1949-10-15,Barrow,New Brighton,1 - 1
+56658,14,1949-10-15,Carlisle United,Gateshead,4 - 2
+56659,14,1949-10-15,Crewe Alexandra,Halifax Town,6 - 3
+56660,14,1949-10-15,Lincoln City,Darlington,2 - 0
+56661,14,1949-10-15,Mansfield Town,Doncaster Rovers,1 - 2
+56662,14,1949-10-15,Oldham Athletic,Chester,0 - 2
+56663,14,1949-10-15,Rotherham United,Hartlepool United,5 - 1
+56664,14,1949-10-15,Tranmere Rovers,Rochdale,1 - 0
+56665,14,1949-10-15,Wrexham,Southport,1 - 0
+56666,14,1949-10-15,York City,Bradford City,1 - 1
+56667,14,1949-10-15,AFC Bournemouth,Millwall,1 - 0
+56668,14,1949-10-15,Bristol Rovers,Walsall,1 - 1
+56669,14,1949-10-15,Crystal Palace,Swindon Town,2 - 2
+56670,14,1949-10-15,Exeter City,Northampton Town,1 - 3
+56671,14,1949-10-15,Ipswich Town,Norwich City,3 - 0
+56672,14,1949-10-15,Leyton Orient,Nottingham Forest,1 - 1
+56673,14,1949-10-15,Notts County,Bristol City,4 - 1
+56674,14,1949-10-15,Port Vale,Newport County,1 - 0
+56675,14,1949-10-15,Reading,Aldershot,1 - 3
+56676,14,1949-10-15,Southend United,Brighton & Hove Albion,3 - 2
+56677,14,1949-10-15,Watford,Torquay United,1 - 0
+56700,14,1949-10-22,Bradford City,Tranmere Rovers,2 - 4
+56701,15,1949-10-22,Chester,York City,2 - 3
+56702,15,1949-10-22,Darlington,Rotherham United,2 - 1
+56703,15,1949-10-22,Doncaster Rovers,Accrington Stanley,4 - 1
+56704,15,1949-10-22,Gateshead,Mansfield Town,0 - 1
+56705,15,1949-10-22,Halifax Town,Barrow,1 - 0
+56706,15,1949-10-22,Hartlepool United,Carlisle United,1 - 5
+56707,15,1949-10-22,New Brighton,Lincoln City,1 - 0
+56708,15,1949-10-22,Rochdale,Crewe Alexandra,2 - 1
+56709,15,1949-10-22,Southport,Oldham Athletic,3 - 2
+56710,15,1949-10-22,Stockport County,Wrexham,2 - 1
+56711,15,1949-10-22,Aldershot,Watford,0 - 1
+56712,15,1949-10-22,Brighton & Hove Albion,Notts County,2 - 3
+56713,15,1949-10-22,Bristol City,Port Vale,2 - 0
+56714,15,1949-10-22,Millwall,Bristol Rovers,0 - 1
+56715,15,1949-10-22,Newport County,Ipswich Town,1 - 0
+56716,15,1949-10-22,Northampton Town,Leyton Orient,3 - 0
+56717,15,1949-10-22,Norwich City,Exeter City,1 - 2
+56718,15,1949-10-22,Nottingham Forest,Reading,1 - 2
+56719,15,1949-10-22,Swindon Town,AFC Bournemouth,3 - 1
+56720,15,1949-10-22,Torquay United,Crystal Palace,1 - 0
+56721,15,1949-10-22,Walsall,Southend United,1 - 1
+56744,15,1949-10-29,Accrington Stanley,Gateshead,0 - 1
+56745,16,1949-10-29,Barrow,Rochdale,0 - 1
+56746,16,1949-10-29,Carlisle United,Darlington,0 - 1
+56747,16,1949-10-29,Crewe Alexandra,Bradford City,2 - 2
+56748,16,1949-10-29,Lincoln City,Halifax Town,1 - 0
+56749,16,1949-10-29,Mansfield Town,Hartlepool United,7 - 1
+56750,16,1949-10-29,Oldham Athletic,Stockport County,3 - 3
+56751,16,1949-10-29,Rotherham United,New Brighton,3 - 0
+56752,16,1949-10-29,Tranmere Rovers,Chester,2 - 1
+56753,16,1949-10-29,Wrexham,Doncaster Rovers,0 - 1
+56754,16,1949-10-29,York City,Southport,0 - 1
+56755,16,1949-10-29,AFC Bournemouth,Torquay United,1 - 2
+56756,16,1949-10-29,Bristol Rovers,Swindon Town,2 - 0
+56757,16,1949-10-29,Crystal Palace,Aldershot,2 - 1
+56758,16,1949-10-29,Exeter City,Newport County,3 - 3
+56759,16,1949-10-29,Ipswich Town,Bristol City,0 - 0
+56760,16,1949-10-29,Leyton Orient,Norwich City,1 - 2
+56761,16,1949-10-29,Notts County,Walsall,1 - 1
+56762,16,1949-10-29,Port Vale,Brighton & Hove Albion,3 - 0
+56763,16,1949-10-29,Reading,Northampton Town,3 - 1
+56764,16,1949-10-29,Southend United,Millwall,3 - 0
+56765,16,1949-10-29,Watford,Nottingham Forest,1 - 0
+56788,16,1949-11-05,Bradford City,Barrow,3 - 2
+56789,17,1949-11-05,Chester,Crewe Alexandra,0 - 1
+56790,17,1949-11-05,Darlington,Mansfield Town,2 - 2
+56791,17,1949-11-05,Doncaster Rovers,Oldham Athletic,1 - 1
+56792,17,1949-11-05,Gateshead,Wrexham,0 - 1
+56793,17,1949-11-05,Halifax Town,Rotherham United,4 - 3
+56794,17,1949-11-05,Hartlepool United,Accrington Stanley,0 - 0
+56795,17,1949-11-05,New Brighton,Carlisle United,3 - 2
+56796,17,1949-11-05,Rochdale,Lincoln City,2 - 0
+56797,17,1949-11-05,Southport,Tranmere Rovers,2 - 1
+56798,17,1949-11-05,Stockport County,York City,3 - 1
+56799,17,1949-11-05,Aldershot,AFC Bournemouth,0 - 1
+56800,17,1949-11-05,Brighton & Hove Albion,Ipswich Town,2 - 1
+56801,17,1949-11-05,Bristol City,Exeter City,1 - 0
+56802,17,1949-11-05,Millwall,Notts County,1 - 3
+56803,17,1949-11-05,Newport County,Leyton Orient,3 - 2
+56804,17,1949-11-05,Northampton Town,Watford,0 - 0
+56805,17,1949-11-05,Norwich City,Reading,1 - 1
+56806,17,1949-11-05,Nottingham Forest,Crystal Palace,2 - 0
+56807,17,1949-11-05,Swindon Town,Southend United,2 - 2
+56808,17,1949-11-05,Torquay United,Bristol Rovers,1 - 0
+56809,17,1949-11-05,Walsall,Port Vale,1 - 0
+56832,17,1949-11-12,Accrington Stanley,Darlington,3 - 0
+56833,18,1949-11-12,Barrow,Chester,3 - 1
+56834,18,1949-11-12,Carlisle United,Halifax Town,0 - 2
+56835,18,1949-11-12,Crewe Alexandra,Southport,1 - 2
+56836,18,1949-11-12,Lincoln City,Bradford City,2 - 2
+56837,18,1949-11-12,Mansfield Town,New Brighton,2 - 2
+56838,18,1949-11-12,Oldham Athletic,Gateshead,1 - 0
+56839,18,1949-11-12,Rotherham United,Rochdale,4 - 3
+56840,18,1949-11-12,Tranmere Rovers,Stockport County,2 - 0
+56841,18,1949-11-12,Wrexham,Hartlepool United,1 - 0
+56842,18,1949-11-12,York City,Doncaster Rovers,0 - 3
+56843,18,1949-11-12,AFC Bournemouth,Nottingham Forest,1 - 2
+56844,18,1949-11-12,Bristol Rovers,Aldershot,2 - 1
+56845,18,1949-11-12,Crystal Palace,Northampton Town,0 - 4
+56846,18,1949-11-12,Exeter City,Brighton & Hove Albion,2 - 3
+56847,18,1949-11-12,Ipswich Town,Walsall,1 - 5
+56848,18,1949-11-12,Leyton Orient,Bristol City,1 - 0
+56849,18,1949-11-12,Notts County,Swindon Town,3 - 0
+56850,18,1949-11-12,Port Vale,Millwall,4 - 0
+56851,18,1949-11-12,Reading,Newport County,4 - 1
+56852,18,1949-11-12,Southend United,Torquay United,2 - 0
+56853,18,1949-11-12,Watford,Norwich City,0 - 0
+56873,18,1949-11-19,Bradford City,Rotherham United,1 - 2
+56874,19,1949-11-19,Chester,Lincoln City,3 - 1
+56875,19,1949-11-19,Darlington,Wrexham,3 - 1
+56876,19,1949-11-19,Gateshead,York City,1 - 1
+56877,19,1949-11-19,Halifax Town,Mansfield Town,0 - 3
+56878,19,1949-11-19,Hartlepool United,Oldham Athletic,0 - 2
+56879,19,1949-11-19,New Brighton,Accrington Stanley,3 - 0
+56880,19,1949-11-19,Rochdale,Carlisle United,1 - 0
+56881,19,1949-11-19,Southport,Barrow,0 - 1
+56882,19,1949-11-19,Stockport County,Crewe Alexandra,4 - 1
+56883,19,1949-11-19,Brighton & Hove Albion,Leyton Orient,2 - 2
+56884,19,1949-11-19,Bristol City,Reading,2 - 2
+56885,19,1949-11-19,Millwall,Ipswich Town,3 - 1
+56886,19,1949-11-19,Newport County,Watford,3 - 3
+56887,19,1949-11-19,Northampton Town,AFC Bournemouth,2 - 3
+56888,19,1949-11-19,Norwich City,Crystal Palace,2 - 0
+56889,19,1949-11-19,Nottingham Forest,Bristol Rovers,2 - 0
+56890,19,1949-11-19,Swindon Town,Port Vale,0 - 0
+56891,19,1949-11-19,Torquay United,Notts County,0 - 0
+56892,19,1949-11-19,Walsall,Exeter City,3 - 0
+56937,19,1949-12-03,Bradford City,Mansfield Town,2 - 1
+56938,20,1949-12-03,Chester,Carlisle United,2 - 4
+56939,20,1949-12-03,Darlington,York City,1 - 1
+56940,20,1949-12-03,Doncaster Rovers,Barrow,1 - 0
+56941,20,1949-12-03,Gateshead,Crewe Alexandra,1 - 1
+56942,20,1949-12-03,Halifax Town,Wrexham,0 - 0
+56943,20,1949-12-03,Hartlepool United,Tranmere Rovers,2 - 0
+56944,20,1949-12-03,New Brighton,Oldham Athletic,0 - 0
+56945,20,1949-12-03,Rochdale,Accrington Stanley,2 - 0
+56946,20,1949-12-03,Southport,Rotherham United,4 - 0
+56947,20,1949-12-03,Stockport County,Lincoln City,1 - 1
+56948,20,1949-12-03,Aldershot,Port Vale,1 - 0
+56949,20,1949-12-03,Brighton & Hove Albion,Watford,2 - 1
+56950,20,1949-12-03,Bristol City,Crystal Palace,2 - 0
+56951,20,1949-12-03,Millwall,Leyton Orient,3 - 1
+56952,20,1949-12-03,Newport County,AFC Bournemouth,5 - 0
+56953,20,1949-12-03,Northampton Town,Southend United,2 - 0
+56954,20,1949-12-03,Norwich City,Bristol Rovers,4 - 0
+56955,20,1949-12-03,Nottingham Forest,Notts County,1 - 2
+56956,20,1949-12-03,Swindon Town,Exeter City,7 - 1
+56957,20,1949-12-03,Torquay United,Ipswich Town,2 - 2
+56958,20,1949-12-03,Walsall,Reading,2 - 0
+57003,20,1949-12-17,Accrington Stanley,Carlisle United,1 - 1
+57004,21,1949-12-17,Darlington,New Brighton,3 - 1
+57005,21,1949-12-17,Doncaster Rovers,Bradford City,1 - 1
+57006,21,1949-12-17,Gateshead,Rochdale,1 - 3
+57007,21,1949-12-17,Hartlepool United,Halifax Town,3 - 3
+57008,21,1949-12-17,Mansfield Town,Southport,1 - 2
+57009,21,1949-12-17,Oldham Athletic,Lincoln City,0 - 2
+57010,21,1949-12-17,Stockport County,Chester,3 - 0
+57011,21,1949-12-17,Tranmere Rovers,Crewe Alexandra,2 - 2
+57012,21,1949-12-17,Wrexham,Rotherham United,0 - 1
+57013,21,1949-12-17,York City,Barrow,2 - 0
+57014,21,1949-12-17,AFC Bournemouth,Ipswich Town,4 - 0
+57015,21,1949-12-17,Aldershot,Walsall,1 - 0
+57016,21,1949-12-17,Bristol Rovers,Port Vale,2 - 1
+57017,21,1949-12-17,Crystal Palace,Exeter City,5 - 3
+57018,21,1949-12-17,Northampton Town,Bristol City,4 - 2
+57019,21,1949-12-17,Norwich City,Newport County,4 - 0
+57020,21,1949-12-17,Nottingham Forest,Brighton & Hove Albion,0 - 1
+57021,21,1949-12-17,Reading,Swindon Town,4 - 3
+57022,21,1949-12-17,Southend United,Notts County,2 - 0
+57023,21,1949-12-17,Torquay United,Millwall,1 - 0
+57024,21,1949-12-17,Watford,Leyton Orient,2 - 1
+57047,21,1949-12-24,Barrow,Oldham Athletic,3 - 1
+57048,22,1949-12-24,Bradford City,Gateshead,2 - 1
+57049,22,1949-12-24,Carlisle United,Mansfield Town,1 - 1
+57050,22,1949-12-24,Chester,Doncaster Rovers,3 - 1
+57051,22,1949-12-24,Crewe Alexandra,York City,3 - 3
+57052,22,1949-12-24,Halifax Town,Darlington,1 - 3
+57053,22,1949-12-24,Lincoln City,Wrexham,2 - 0
+57054,22,1949-12-24,New Brighton,Tranmere Rovers,0 - 0
+57055,22,1949-12-24,Rochdale,Hartlepool United,4 - 0
+57056,22,1949-12-24,Rotherham United,Accrington Stanley,6 - 0
+57057,22,1949-12-24,Southport,Stockport County,1 - 0
+57058,22,1949-12-24,Bristol City,Norwich City,1 - 2
+57059,22,1949-12-24,Exeter City,Watford,3 - 1
+57060,22,1949-12-24,Ipswich Town,Crystal Palace,4 - 4
+57061,22,1949-12-24,Leyton Orient,Reading,2 - 1
+57062,22,1949-12-24,Millwall,Aldershot,3 - 0
+57063,22,1949-12-24,Northampton Town,Brighton & Hove Albion,2 - 1
+57064,22,1949-12-24,Notts County,Bristol Rovers,2 - 0
+57065,22,1949-12-24,Port Vale,AFC Bournemouth,1 - 1
+57066,22,1949-12-24,Swindon Town,Torquay United,1 - 2
+57067,22,1949-12-24,Walsall,Nottingham Forest,1 - 3
+57090,22,1949-12-26,Accrington Stanley,Wrexham,2 - 0
+57091,23,1949-12-26,Barrow,Hartlepool United,0 - 0
+57092,23,1949-12-26,Chester,Bradford City,4 - 1
+57093,23,1949-12-26,Crewe Alexandra,Lincoln City,3 - 2
+57094,23,1949-12-26,Darlington,Gateshead,2 - 3
+57095,23,1949-12-26,Mansfield Town,Oldham Athletic,3 - 1
+57096,23,1949-12-26,New Brighton,Doncaster Rovers,2 - 2
+57097,23,1949-12-26,Rochdale,Southport,2 - 0
+57098,23,1949-12-26,Rotherham United,Tranmere Rovers,1 - 1
+57099,23,1949-12-26,Stockport County,Halifax Town,2 - 0
+57100,23,1949-12-26,York City,Carlisle United,1 - 1
+57101,23,1949-12-26,AFC Bournemouth,Reading,2 - 1
+57102,23,1949-12-26,Brighton & Hove Albion,Swindon Town,0 - 1
+57103,23,1949-12-26,Bristol City,Torquay United,0 - 0
+57104,23,1949-12-26,Crystal Palace,Watford,2 - 0
+57105,23,1949-12-26,Exeter City,Southend United,1 - 1
+57106,23,1949-12-26,Leyton Orient,Bristol Rovers,1 - 0
+57107,23,1949-12-26,Newport County,Aldershot,6 - 0
+57108,23,1949-12-26,Norwich City,Nottingham Forest,1 - 1
+57109,23,1949-12-26,Notts County,Ipswich Town,2 - 0
+57110,23,1949-12-26,Port Vale,Northampton Town,3 - 1
+57111,23,1949-12-26,Walsall,Millwall,0 - 1
+57134,23,1949-12-27,Bradford City,Chester,1 - 0
+57135,24,1949-12-27,Carlisle United,York City,4 - 3
+57136,24,1949-12-27,Doncaster Rovers,New Brighton,0 - 0
+57137,24,1949-12-27,Gateshead,Darlington,3 - 3
+57138,24,1949-12-27,Halifax Town,Stockport County,3 - 1
+57139,24,1949-12-27,Hartlepool United,Barrow,2 - 3
+57140,24,1949-12-27,Lincoln City,Crewe Alexandra,2 - 0
+57141,24,1949-12-27,Oldham Athletic,Mansfield Town,1 - 0
+57142,24,1949-12-27,Southport,Rochdale,3 - 2
+57143,24,1949-12-27,Tranmere Rovers,Rotherham United,0 - 2
+57144,24,1949-12-27,Wrexham,Accrington Stanley,1 - 1
+57145,24,1949-12-27,Aldershot,Newport County,4 - 1
+57146,24,1949-12-27,Bristol Rovers,Leyton Orient,3 - 0
+57147,24,1949-12-27,Ipswich Town,Notts County,0 - 4
+57148,24,1949-12-27,Millwall,Walsall,1 - 1
+57149,24,1949-12-27,Northampton Town,Port Vale,1 - 1
+57150,24,1949-12-27,Nottingham Forest,Norwich City,0 - 1
+57151,24,1949-12-27,Reading,AFC Bournemouth,2 - 1
+57152,24,1949-12-27,Southend United,Exeter City,1 - 0
+57153,24,1949-12-27,Swindon Town,Brighton & Hove Albion,4 - 2
+57154,24,1949-12-27,Torquay United,Bristol City,3 - 3
+57155,24,1949-12-27,Watford,Crystal Palace,0 - 0
+57178,24,1949-12-31,Accrington Stanley,Lincoln City,2 - 0
+57179,25,1949-12-31,Darlington,Rochdale,1 - 1
+57180,25,1949-12-31,Doncaster Rovers,Southport,5 - 1
+57181,25,1949-12-31,Gateshead,Chester,4 - 0
+57182,25,1949-12-31,Hartlepool United,Bradford City,3 - 0
+57183,25,1949-12-31,Mansfield Town,Rotherham United,0 - 2
+57184,25,1949-12-31,New Brighton,Halifax Town,1 - 1
+57185,25,1949-12-31,Oldham Athletic,Crewe Alexandra,2 - 1
+57186,25,1949-12-31,Stockport County,Carlisle United,2 - 0
+57187,25,1949-12-31,Wrexham,Barrow,1 - 0
+57188,25,1949-12-31,York City,Tranmere Rovers,1 - 0
+57189,25,1949-12-31,AFC Bournemouth,Notts County,3 - 0
+57190,25,1949-12-31,Aldershot,Swindon Town,0 - 0
+57191,25,1949-12-31,Bristol Rovers,Southend United,1 - 1
+57192,25,1949-12-31,Crystal Palace,Port Vale,0 - 1
+57193,25,1949-12-31,Newport County,Bristol City,6 - 4
+57194,25,1949-12-31,Northampton Town,Walsall,2 - 0
+57195,25,1949-12-31,Norwich City,Brighton & Hove Albion,1 - 2
+57196,25,1949-12-31,Nottingham Forest,Millwall,3 - 1
+57197,25,1949-12-31,Reading,Exeter City,3 - 2
+57198,25,1949-12-31,Torquay United,Leyton Orient,4 - 1
+57199,25,1949-12-31,Watford,Ipswich Town,6 - 0
+57200,25,1950-01-02,Gateshead,Hartlepool United,2 - 0
+57201,26,1950-01-07,Brighton & Hove Albion,Crystal Palace,0 - 0
+57224,26,1950-01-14,Barrow,Accrington Stanley,2 - 1
+57225,26,1950-01-14,Bradford City,Darlington,4 - 1
+57226,26,1950-01-14,Chester,Hartlepool United,3 - 0
+57227,26,1950-01-14,Crewe Alexandra,Wrexham,1 - 1
+57228,26,1950-01-14,Doncaster Rovers,Stockport County,3 - 0
+57229,26,1950-01-14,Halifax Town,York City,1 - 2
+57230,26,1950-01-14,Lincoln City,Mansfield Town,1 - 0
+57231,26,1950-01-14,Rochdale,New Brighton,4 - 0
+57232,26,1950-01-14,Rotherham United,Carlisle United,1 - 1
+57233,26,1950-01-14,Southport,Gateshead,0 - 3
+57234,26,1950-01-14,Tranmere Rovers,Oldham Athletic,4 - 2
+57235,26,1950-01-14,Brighton & Hove Albion,Newport County,5 - 0
+57236,27,1950-01-14,Bristol City,Bristol Rovers,1 - 2
+57237,27,1950-01-14,Exeter City,Leyton Orient,1 - 1
+57238,27,1950-01-14,Ipswich Town,Reading,2 - 0
+57239,27,1950-01-14,Millwall,Northampton Town,0 - 2
+57240,27,1950-01-14,Notts County,Crystal Palace,0 - 1
+57241,27,1950-01-14,Port Vale,Watford,2 - 0
+57242,27,1950-01-14,Southend United,AFC Bournemouth,1 - 0
+57243,27,1950-01-14,Swindon Town,Nottingham Forest,0 - 5
+57244,27,1950-01-14,Torquay United,Aldershot,4 - 0
+57245,27,1950-01-14,Walsall,Norwich City,1 - 1
+57268,27,1950-01-21,Accrington Stanley,Crewe Alexandra,1 - 1
+57269,27,1950-01-21,Carlisle United,Lincoln City,0 - 2
+57270,27,1950-01-21,Chester,Darlington,4 - 4
+57271,27,1950-01-21,Doncaster Rovers,Rotherham United,1 - 0
+57272,27,1950-01-21,Gateshead,Stockport County,1 - 0
+57273,27,1950-01-21,Halifax Town,Rochdale,3 - 2
+57274,27,1950-01-21,Hartlepool United,Southport,1 - 0
+57275,27,1950-01-21,Mansfield Town,Barrow,1 - 1
+57276,27,1950-01-21,New Brighton,Bradford City,1 - 0
+57277,27,1950-01-21,Oldham Athletic,York City,2 - 0
+57278,27,1950-01-21,Wrexham,Tranmere Rovers,0 - 0
+57279,27,1950-01-21,AFC Bournemouth,Bristol Rovers,0 - 2
+57280,28,1950-01-21,Aldershot,Exeter City,1 - 2
+57281,28,1950-01-21,Bristol City,Brighton & Hove Albion,1 - 2
+57282,28,1950-01-21,Crystal Palace,Southend United,2 - 1
+57283,28,1950-01-21,Leyton Orient,Ipswich Town,4 - 0
+57284,28,1950-01-21,Newport County,Walsall,2 - 1
+57285,28,1950-01-21,Northampton Town,Swindon Town,0 - 1
+57286,28,1950-01-21,Norwich City,Millwall,0 - 2
+57287,28,1950-01-21,Nottingham Forest,Torquay United,1 - 2
+57288,28,1950-01-21,Reading,Port Vale,2 - 1
+57289,28,1950-01-21,Watford,Notts County,2 - 1
+57290,28,1950-01-28,Accrington Stanley,Halifax Town,1 - 0
+57291,28,1950-01-28,Carlisle United,Bradford City,3 - 0
+57292,28,1950-01-28,Lincoln City,Southport,1 - 1
+57293,28,1950-01-28,Mansfield Town,Rochdale,1 - 1
+57294,28,1950-01-28,Oldham Athletic,Darlington,2 - 0
+57295,28,1950-01-28,Tranmere Rovers,Gateshead,1 - 0
+57296,28,1950-01-28,Wrexham,New Brighton,2 - 2
+57297,28,1950-01-28,York City,Hartlepool United,0 - 2
+57298,28,1950-01-28,Crystal Palace,Newport County,1 - 0
+57299,29,1950-01-28,Ipswich Town,Swindon Town,3 - 1
+57300,29,1950-01-28,Leyton Orient,Walsall,2 - 2
+57301,29,1950-01-28,Notts County,Aldershot,3 - 1
+57302,29,1950-01-28,Southend United,Nottingham Forest,2 - 3
+57325,29,1950-02-04,Barrow,Carlisle United,1 - 3
+57326,29,1950-02-04,Bradford City,Halifax Town,1 - 3
+57327,29,1950-02-04,Chester,New Brighton,2 - 0
+57328,29,1950-02-04,Crewe Alexandra,Mansfield Town,1 - 1
+57329,29,1950-02-04,Doncaster Rovers,Gateshead,1 - 1
+57330,29,1950-02-04,Lincoln City,Rotherham United,0 - 0
+57331,29,1950-02-04,Rochdale,Oldham Athletic,1 - 0
+57332,29,1950-02-04,Southport,Darlington,1 - 1
+57333,29,1950-02-04,Stockport County,Hartlepool United,1 - 0
+57334,29,1950-02-04,Tranmere Rovers,Accrington Stanley,0 - 1
+57335,29,1950-02-04,York City,Wrexham,5 - 0
+57336,29,1950-02-04,Aldershot,Nottingham Forest,1 - 1
+57337,30,1950-02-04,Brighton & Hove Albion,AFC Bournemouth,1 - 1
+57338,30,1950-02-04,Bristol Rovers,Crystal Palace,0 - 0
+57339,30,1950-02-04,Ipswich Town,Exeter City,1 - 0
+57340,30,1950-02-04,Notts County,Reading,4 - 0
+57341,30,1950-02-04,Port Vale,Leyton Orient,2 - 0
+57342,30,1950-02-04,Southend United,Watford,1 - 1
+57343,30,1950-02-04,Swindon Town,Norwich City,1 - 1
+57344,30,1950-02-04,Torquay United,Northampton Town,1 - 0
+57345,30,1950-02-04,Walsall,Bristol City,1 - 1
+57349,30,1950-02-11,Accrington Stanley,Bradford City,3 - 2
+57350,30,1950-02-11,Barrow,Gateshead,1 - 1
+57351,30,1950-02-11,Carlisle United,Southport,3 - 3
+57352,30,1950-02-11,Crewe Alexandra,Hartlepool United,1 - 0
+57353,30,1950-02-11,Lincoln City,Doncaster Rovers,1 - 0
+57354,30,1950-02-11,Mansfield Town,Chester,0 - 2
+57355,30,1950-02-11,Oldham Athletic,Halifax Town,2 - 1
+57356,30,1950-02-11,Tranmere Rovers,Darlington,3 - 1
+57357,30,1950-02-11,Wrexham,Rochdale,3 - 0
+57358,30,1950-02-11,York City,New Brighton,2 - 1
+57359,30,1950-02-11,Crystal Palace,Brighton & Hove Albion,6 - 0
+57360,31,1950-02-11,Exeter City,Torquay United,1 - 1
+57361,31,1950-02-11,Ipswich Town,Aldershot,1 - 0
+57362,31,1950-02-11,Leyton Orient,Swindon Town,1 - 3
+57363,31,1950-02-11,Port Vale,Nottingham Forest,1 - 1
+57364,31,1950-02-11,Southend United,Norwich City,1 - 0
+57365,31,1950-02-11,Watford,Walsall,3 - 0
+57388,31,1950-02-18,Accrington Stanley,York City,0 - 0
+57389,31,1950-02-18,Carlisle United,Crewe Alexandra,2 - 2
+57390,31,1950-02-18,Darlington,Stockport County,1 - 1
+57391,31,1950-02-18,Gateshead,Lincoln City,2 - 1
+57392,31,1950-02-18,Halifax Town,Chester,2 - 1
+57393,31,1950-02-18,Hartlepool United,Doncaster Rovers,1 - 1
+57394,31,1950-02-18,Mansfield Town,Tranmere Rovers,1 - 1
+57395,31,1950-02-18,New Brighton,Southport,1 - 0
+57396,31,1950-02-18,Rochdale,Bradford City,2 - 2
+57397,31,1950-02-18,Rotherham United,Barrow,1 - 2
+57398,31,1950-02-18,Wrexham,Oldham Athletic,2 - 1
+57399,31,1950-02-18,Brighton & Hove Albion,Walsall,1 - 1
+57400,32,1950-02-18,Bristol City,Millwall,2 - 1
+57401,32,1950-02-18,Crystal Palace,AFC Bournemouth,1 - 0
+57402,32,1950-02-18,Exeter City,Port Vale,3 - 1
+57403,32,1950-02-18,Leyton Orient,Notts County,1 - 4
+57404,32,1950-02-18,Newport County,Swindon Town,1 - 2
+57405,32,1950-02-18,Northampton Town,Aldershot,1 - 1
+57406,32,1950-02-18,Norwich City,Torquay United,3 - 3
+57407,32,1950-02-18,Nottingham Forest,Ipswich Town,2 - 0
+57408,32,1950-02-18,Reading,Southend United,5 - 0
+57409,32,1950-02-18,Watford,Bristol Rovers,0 - 2
+57431,32,1950-02-25,Accrington Stanley,New Brighton,3 - 0
+57432,32,1950-02-25,Barrow,Southport,1 - 0
+57433,32,1950-02-25,Carlisle United,Rochdale,2 - 0
+57434,32,1950-02-25,Crewe Alexandra,Stockport County,1 - 0
+57435,32,1950-02-25,Lincoln City,Chester,2 - 0
+57436,32,1950-02-25,Mansfield Town,Halifax Town,1 - 0
+57437,32,1950-02-25,Oldham Athletic,Hartlepool United,3 - 1
+57438,32,1950-02-25,Rotherham United,Bradford City,5 - 2
+57439,32,1950-02-25,Tranmere Rovers,Doncaster Rovers,2 - 4
+57440,32,1950-02-25,Wrexham,Darlington,2 - 1
+57441,32,1950-02-25,York City,Gateshead,1 - 5
+57442,32,1950-02-25,AFC Bournemouth,Walsall,1 - 1
+57443,33,1950-02-25,Bristol Rovers,Brighton & Hove Albion,3 - 0
+57444,33,1950-02-25,Crystal Palace,Millwall,1 - 0
+57445,33,1950-02-25,Exeter City,Nottingham Forest,0 - 0
+57446,33,1950-02-25,Ipswich Town,Northampton Town,2 - 2
+57447,33,1950-02-25,Leyton Orient,Aldershot,2 - 7
+57448,33,1950-02-25,Notts County,Newport County,7 - 0
+57449,33,1950-02-25,Port Vale,Norwich City,2 - 2
+57450,33,1950-02-25,Reading,Torquay United,2 - 0
+57451,33,1950-02-25,Southend United,Bristol City,2 - 0
+57452,33,1950-02-25,Watford,Swindon Town,1 - 2
+57468,33,1950-03-04,Bradford City,Carlisle United,3 - 2
+57469,33,1950-03-04,Chester,Rotherham United,4 - 2
+57470,33,1950-03-04,Darlington,Oldham Athletic,1 - 1
+57471,33,1950-03-04,Doncaster Rovers,Crewe Alexandra,0 - 2
+57472,33,1950-03-04,Gateshead,Tranmere Rovers,5 - 1
+57473,33,1950-03-04,Halifax Town,Accrington Stanley,1 - 4
+57474,33,1950-03-04,Hartlepool United,York City,2 - 0
+57475,33,1950-03-04,New Brighton,Wrexham,3 - 1
+57476,33,1950-03-04,Rochdale,Mansfield Town,7 - 1
+57477,33,1950-03-04,Southport,Lincoln City,1 - 1
+57478,33,1950-03-04,Stockport County,Barrow,1 - 3
+57479,33,1950-03-04,Aldershot,Reading,2 - 0
+57480,34,1950-03-04,Brighton & Hove Albion,Southend United,2 - 1
+57481,34,1950-03-04,Bristol City,Notts County,4 - 0
+57482,34,1950-03-04,Millwall,AFC Bournemouth,1 - 0
+57483,34,1950-03-04,Newport County,Port Vale,1 - 1
+57484,34,1950-03-04,Northampton Town,Exeter City,3 - 3
+57485,34,1950-03-04,Norwich City,Ipswich Town,1 - 1
+57486,34,1950-03-04,Nottingham Forest,Leyton Orient,2 - 1
+57487,34,1950-03-04,Swindon Town,Crystal Palace,4 - 2
+57488,34,1950-03-04,Torquay United,Watford,2 - 1
+57489,34,1950-03-04,Walsall,Bristol Rovers,3 - 1
+57518,34,1950-03-11,Accrington Stanley,Doncaster Rovers,2 - 2
+57519,34,1950-03-11,Barrow,Halifax Town,4 - 0
+57520,34,1950-03-11,Carlisle United,Hartlepool United,2 - 1
+57521,34,1950-03-11,Crewe Alexandra,Rochdale,0 - 1
+57522,34,1950-03-11,Lincoln City,New Brighton,1 - 2
+57523,34,1950-03-11,Mansfield Town,Gateshead,1 - 0
+57524,34,1950-03-11,Oldham Athletic,Southport,2 - 5
+57525,34,1950-03-11,Rotherham United,Darlington,1 - 1
+57526,34,1950-03-11,Tranmere Rovers,Bradford City,1 - 0
+57527,34,1950-03-11,Wrexham,Stockport County,0 - 2
+57528,34,1950-03-11,York City,Chester,2 - 3
+57529,34,1950-03-11,AFC Bournemouth,Swindon Town,1 - 1
+57530,35,1950-03-11,Bristol Rovers,Millwall,3 - 1
+57531,35,1950-03-11,Crystal Palace,Torquay United,1 - 3
+57532,35,1950-03-11,Exeter City,Norwich City,3 - 1
+57533,35,1950-03-11,Ipswich Town,Newport County,1 - 0
+57534,35,1950-03-11,Leyton Orient,Northampton Town,1 - 0
+57535,35,1950-03-11,Notts County,Brighton & Hove Albion,4 - 2
+57536,35,1950-03-11,Port Vale,Bristol City,0 - 2
+57537,35,1950-03-11,Reading,Nottingham Forest,1 - 1
+57538,35,1950-03-11,Southend United,Walsall,2 - 2
+57539,35,1950-03-11,Watford,Aldershot,1 - 0
+57561,35,1950-03-18,Bradford City,Crewe Alexandra,0 - 2
+57562,35,1950-03-18,Chester,Tranmere Rovers,0 - 0
+57563,35,1950-03-18,Darlington,Carlisle United,1 - 1
+57564,35,1950-03-18,Doncaster Rovers,Wrexham,2 - 0
+57565,35,1950-03-18,Gateshead,Accrington Stanley,5 - 0
+57566,35,1950-03-18,Halifax Town,Lincoln City,0 - 1
+57567,35,1950-03-18,Hartlepool United,Mansfield Town,1 - 3
+57568,35,1950-03-18,New Brighton,Rotherham United,0 - 3
+57569,35,1950-03-18,Rochdale,Barrow,2 - 1
+57570,35,1950-03-18,Southport,York City,1 - 1
+57571,35,1950-03-18,Stockport County,Oldham Athletic,1 - 3
+57572,35,1950-03-18,Aldershot,Crystal Palace,0 - 0
+57573,36,1950-03-18,Brighton & Hove Albion,Port Vale,2 - 1
+57574,36,1950-03-18,Bristol City,Ipswich Town,4 - 2
+57575,36,1950-03-18,Millwall,Southend United,1 - 2
+57576,36,1950-03-18,Newport County,Exeter City,1 - 2
+57577,36,1950-03-18,Northampton Town,Reading,2 - 0
+57578,36,1950-03-18,Norwich City,Leyton Orient,4 - 0
+57579,36,1950-03-18,Nottingham Forest,Watford,0 - 1
+57580,36,1950-03-18,Swindon Town,Bristol Rovers,1 - 0
+57581,36,1950-03-18,Torquay United,AFC Bournemouth,3 - 1
+57582,36,1950-03-18,Walsall,Notts County,3 - 3
+57603,36,1950-03-25,Accrington Stanley,Hartlepool United,1 - 2
+57604,36,1950-03-25,Barrow,Bradford City,1 - 0
+57605,36,1950-03-25,Carlisle United,New Brighton,0 - 0
+57606,36,1950-03-25,Crewe Alexandra,Chester,1 - 2
+57607,36,1950-03-25,Lincoln City,Rochdale,2 - 0
+57608,36,1950-03-25,Mansfield Town,Darlington,2 - 1
+57609,36,1950-03-25,Oldham Athletic,Doncaster Rovers,1 - 4
+57610,36,1950-03-25,Rotherham United,Halifax Town,2 - 1
+57611,36,1950-03-25,Tranmere Rovers,Southport,2 - 0
+57612,36,1950-03-25,Wrexham,Gateshead,0 - 1
+57613,36,1950-03-25,York City,Stockport County,1 - 1
+57614,36,1950-03-25,AFC Bournemouth,Aldershot,2 - 1
+57615,37,1950-03-25,Bristol Rovers,Torquay United,2 - 0
+57616,37,1950-03-25,Crystal Palace,Nottingham Forest,1 - 1
+57617,37,1950-03-25,Exeter City,Bristol City,0 - 0
+57618,37,1950-03-25,Ipswich Town,Brighton & Hove Albion,2 - 2
+57619,37,1950-03-25,Leyton Orient,Newport County,2 - 1
+57620,37,1950-03-25,Notts County,Millwall,2 - 0
+57621,37,1950-03-25,Port Vale,Walsall,2 - 0
+57622,37,1950-03-25,Reading,Norwich City,4 - 1
+57623,37,1950-03-25,Southend United,Swindon Town,2 - 0
+57624,37,1950-03-25,Watford,Northampton Town,0 - 0
+57625,37,1950-03-27,Port Vale,Torquay United,2 - 0
+57631,38,1950-03-30,Newport County,Southend United,2 - 1
+57654,38,1950-04-01,Bradford City,Lincoln City,0 - 1
+57655,38,1950-04-01,Chester,Barrow,1 - 0
+57656,38,1950-04-01,Darlington,Accrington Stanley,0 - 2
+57657,38,1950-04-01,Doncaster Rovers,York City,1 - 1
+57658,38,1950-04-01,Gateshead,Oldham Athletic,2 - 0
+57659,38,1950-04-01,Halifax Town,Carlisle United,1 - 1
+57660,38,1950-04-01,Hartlepool United,Wrexham,3 - 1
+57661,38,1950-04-01,New Brighton,Mansfield Town,1 - 2
+57662,38,1950-04-01,Rochdale,Rotherham United,1 - 0
+57663,38,1950-04-01,Southport,Crewe Alexandra,2 - 2
+57664,38,1950-04-01,Stockport County,Tranmere Rovers,2 - 1
+57665,38,1950-04-01,Aldershot,Bristol Rovers,3 - 1
+57666,38,1950-04-01,Brighton & Hove Albion,Exeter City,0 - 0
+57667,38,1950-04-01,Bristol City,Leyton Orient,0 - 0
+57668,38,1950-04-01,Millwall,Port Vale,3 - 0
+57669,38,1950-04-01,Newport County,Reading,1 - 1
+57670,39,1950-04-01,Northampton Town,Crystal Palace,2 - 2
+57671,39,1950-04-01,Norwich City,Watford,2 - 1
+57672,39,1950-04-01,Nottingham Forest,AFC Bournemouth,3 - 0
+57673,39,1950-04-01,Swindon Town,Notts County,1 - 1
+57674,39,1950-04-01,Torquay United,Southend United,2 - 4
+57675,39,1950-04-01,Walsall,Ipswich Town,1 - 3
+57693,39,1950-04-07,Barrow,Crewe Alexandra,0 - 1
+57694,39,1950-04-07,Carlisle United,Oldham Athletic,3 - 0
+57695,39,1950-04-07,Chester,Accrington Stanley,1 - 0
+57696,39,1950-04-07,Doncaster Rovers,Halifax Town,4 - 0
+57697,39,1950-04-07,Hartlepool United,Darlington,2 - 0
+57698,39,1950-04-07,Lincoln City,Tranmere Rovers,0 - 0
+57699,39,1950-04-07,Mansfield Town,Wrexham,1 - 0
+57700,39,1950-04-07,New Brighton,Gateshead,0 - 1
+57701,39,1950-04-07,Southport,Bradford City,1 - 1
+57702,39,1950-04-07,Stockport County,Rochdale,1 - 1
+57703,39,1950-04-07,York City,Rotherham United,0 - 3
+57704,39,1950-04-07,Brighton & Hove Albion,Torquay United,2 - 1
+57705,39,1950-04-07,Bristol City,Aldershot,2 - 0
+57706,39,1950-04-07,Crystal Palace,Reading,1 - 1
+57707,40,1950-04-07,Exeter City,Bristol Rovers,2 - 0
+57708,40,1950-04-07,Leyton Orient,AFC Bournemouth,2 - 1
+57709,40,1950-04-07,Millwall,Watford,1 - 3
+57710,40,1950-04-07,Newport County,Nottingham Forest,4 - 1
+57711,40,1950-04-07,Notts County,Port Vale,3 - 1
+57712,40,1950-04-07,Southend United,Ipswich Town,2 - 2
+57713,40,1950-04-07,Walsall,Swindon Town,0 - 0
+57736,40,1950-04-08,Accrington Stanley,Southport,4 - 0
+57737,40,1950-04-08,Barrow,Darlington,2 - 1
+57738,40,1950-04-08,Carlisle United,Doncaster Rovers,0 - 0
+57739,40,1950-04-08,Crewe Alexandra,New Brighton,1 - 2
+57740,40,1950-04-08,Lincoln City,Hartlepool United,6 - 0
+57741,40,1950-04-08,Mansfield Town,Stockport County,3 - 0
+57742,40,1950-04-08,Oldham Athletic,Bradford City,2 - 1
+57743,40,1950-04-08,Rotherham United,Gateshead,1 - 2
+57744,40,1950-04-08,Tranmere Rovers,Halifax Town,2 - 1
+57745,40,1950-04-08,Wrexham,Chester,1 - 1
+57746,40,1950-04-08,York City,Rochdale,2 - 2
+57747,40,1950-04-08,AFC Bournemouth,Northampton Town,1 - 2
+57748,41,1950-04-08,Bristol Rovers,Nottingham Forest,0 - 3
+57749,41,1950-04-08,Crystal Palace,Norwich City,2 - 0
+57750,41,1950-04-08,Exeter City,Walsall,2 - 1
+57751,41,1950-04-08,Ipswich Town,Millwall,0 - 3
+57752,41,1950-04-08,Leyton Orient,Brighton & Hove Albion,0 - 1
+57753,41,1950-04-08,Notts County,Torquay United,1 - 1
+57754,41,1950-04-08,Port Vale,Swindon Town,0 - 1
+57755,41,1950-04-08,Reading,Bristol City,1 - 0
+57756,41,1950-04-08,Southend United,Aldershot,3 - 0
+57757,41,1950-04-08,Watford,Newport County,0 - 1
+57777,41,1950-04-10,Accrington Stanley,Chester,4 - 0
+57778,41,1950-04-10,Bradford City,Southport,6 - 0
+57779,41,1950-04-10,Crewe Alexandra,Barrow,1 - 1
+57780,41,1950-04-10,Darlington,Hartlepool United,1 - 0
+57781,41,1950-04-10,Gateshead,New Brighton,2 - 1
+57782,41,1950-04-10,Halifax Town,Doncaster Rovers,2 - 2
+57783,41,1950-04-10,Oldham Athletic,Carlisle United,1 - 1
+57784,41,1950-04-10,Rochdale,Stockport County,1 - 1
+57785,41,1950-04-10,Rotherham United,York City,2 - 1
+57786,41,1950-04-10,Tranmere Rovers,Lincoln City,2 - 2
+57787,41,1950-04-10,Wrexham,Mansfield Town,0 - 0
+57788,41,1950-04-10,AFC Bournemouth,Leyton Orient,4 - 1
+57789,42,1950-04-10,Aldershot,Bristol City,0 - 1
+57790,42,1950-04-10,Bristol Rovers,Exeter City,1 - 0
+57791,42,1950-04-10,Ipswich Town,Southend United,1 - 3
+57792,42,1950-04-10,Norwich City,Northampton Town,2 - 1
+57793,42,1950-04-10,Nottingham Forest,Newport County,3 - 0
+57794,42,1950-04-10,Port Vale,Notts County,3 - 1
+57795,42,1950-04-10,Reading,Crystal Palace,1 - 2
+57796,42,1950-04-10,Swindon Town,Walsall,4 - 3
+57797,42,1950-04-10,Torquay United,Brighton & Hove Albion,0 - 0
+57798,42,1950-04-10,Watford,Millwall,0 - 0
+57804,42,1950-04-11,Northampton Town,Norwich City,3 - 1
+57827,43,1950-04-15,Bradford City,York City,0 - 2
+57828,43,1950-04-15,Chester,Oldham Athletic,1 - 1
+57829,43,1950-04-15,Darlington,Lincoln City,2 - 0
+57830,43,1950-04-15,Doncaster Rovers,Mansfield Town,0 - 1
+57831,43,1950-04-15,Gateshead,Carlisle United,2 - 1
+57832,43,1950-04-15,Halifax Town,Crewe Alexandra,3 - 1
+57833,43,1950-04-15,Hartlepool United,Rotherham United,1 - 2
+57834,43,1950-04-15,New Brighton,Barrow,2 - 0
+57835,43,1950-04-15,Rochdale,Tranmere Rovers,3 - 0
+57836,43,1950-04-15,Southport,Wrexham,0 - 0
+57837,43,1950-04-15,Stockport County,Accrington Stanley,1 - 0
+57838,43,1950-04-15,Aldershot,Notts County,2 - 0
+57839,43,1950-04-15,Brighton & Hove Albion,Reading,2 - 1
+57840,43,1950-04-15,Bristol City,Watford,0 - 1
+57841,43,1950-04-15,Millwall,Exeter City,3 - 1
+57842,43,1950-04-15,Newport County,Crystal Palace,2 - 2
+57843,43,1950-04-15,Northampton Town,Bristol Rovers,2 - 0
+57844,44,1950-04-15,Norwich City,AFC Bournemouth,0 - 1
+57845,44,1950-04-15,Nottingham Forest,Southend United,1 - 2
+57846,44,1950-04-15,Swindon Town,Ipswich Town,0 - 3
+57847,44,1950-04-15,Torquay United,Port Vale,0 - 0
+57848,44,1950-04-15,Walsall,Leyton Orient,1 - 2
+57850,44,1950-04-19,Crewe Alexandra,Doncaster Rovers,0 - 2
+57851,44,1950-04-20,Watford,Bristol City,2 - 0
+57874,44,1950-04-22,Accrington Stanley,Rochdale,1 - 0
+57875,44,1950-04-22,Barrow,Doncaster Rovers,1 - 1
+57876,44,1950-04-22,Carlisle United,Chester,5 - 1
+57877,44,1950-04-22,Crewe Alexandra,Gateshead,3 - 1
+57878,45,1950-04-22,Lincoln City,Stockport County,1 - 1
+57879,45,1950-04-22,Mansfield Town,Bradford City,0 - 2
+57880,45,1950-04-22,Oldham Athletic,New Brighton,3 - 0
+57881,45,1950-04-22,Rotherham United,Southport,4 - 0
+57882,45,1950-04-22,Tranmere Rovers,Hartlepool United,2 - 1
+57883,45,1950-04-22,Wrexham,Halifax Town,2 - 3
+57884,45,1950-04-22,York City,Darlington,1 - 1
+57885,45,1950-04-22,AFC Bournemouth,Newport County,1 - 1
+57886,45,1950-04-22,Bristol Rovers,Norwich City,5 - 1
+57887,45,1950-04-22,Crystal Palace,Bristol City,1 - 1
+57888,45,1950-04-22,Exeter City,Swindon Town,3 - 0
+57889,45,1950-04-22,Ipswich Town,Torquay United,3 - 1
+57890,45,1950-04-22,Leyton Orient,Millwall,1 - 1
+57891,45,1950-04-22,Notts County,Nottingham Forest,2 - 0
+57892,45,1950-04-22,Port Vale,Aldershot,0 - 1
+57893,45,1950-04-22,Reading,Walsall,1 - 1
+57894,45,1950-04-22,Southend United,Northampton Town,1 - 2
+57895,45,1950-04-22,Watford,Brighton & Hove Albion,0 - 0
+57896,45,1950-04-24,Bristol Rovers,Newport County,3 - 0
+57900,46,1950-04-26,Darlington,Tranmere Rovers,0 - 2
+57901,46,1950-04-26,Exeter City,Millwall,2 - 1
+57902,46,1950-04-27,Barrow,Stockport County,0 - 1
+57903,46,1950-04-27,Notts County,Northampton Town,2 - 0
+57924,46,1950-04-29,Bradford City,Accrington Stanley,5 - 2
+57925,46,1950-04-29,Chester,Mansfield Town,6 - 3
+57926,46,1950-04-29,Doncaster Rovers,Lincoln City,1 - 4
+57927,46,1950-04-29,Gateshead,Barrow,3 - 1
+57928,46,1950-04-29,Halifax Town,Oldham Athletic,1 - 1
+57929,46,1950-04-29,Hartlepool United,Crewe Alexandra,1 - 6
+57930,46,1950-04-29,Rochdale,Wrexham,1 - 1
+57931,46,1950-04-29,Southport,Carlisle United,1 - 2
+57932,46,1950-04-29,Stockport County,Rotherham United,0 - 2
+57933,47,1950-04-29,Aldershot,Ipswich Town,5 - 0
+57934,47,1950-04-29,Bristol City,AFC Bournemouth,3 - 2
+57935,47,1950-04-29,Millwall,Reading,3 - 1
+57936,47,1950-04-29,Newport County,Bristol Rovers,2 - 3
+57937,47,1950-04-29,Northampton Town,Notts County,5 - 1
+57938,47,1950-04-29,Norwich City,Southend United,0 - 0
+57939,47,1950-04-29,Nottingham Forest,Port Vale,2 - 0
+57940,47,1950-04-29,Swindon Town,Leyton Orient,0 - 1
+57941,47,1950-04-29,Torquay United,Exeter City,1 - 4
+57942,47,1950-04-29,Walsall,Watford,1 - 1
+57943,47,1950-05-01,Bristol Rovers,Northampton Town,0 - 0
+57944,48,1950-05-01,Millwall,Newport County,1 - 2
+57945,48,1950-05-02,Aldershot,Southend United,1 - 1
+57948,48,1950-05-03,Doncaster Rovers,Tranmere Rovers,1 - 1
+57964,48,1950-05-06,Carlisle United,Tranmere Rovers,0 - 0
+57965,48,1950-05-06,Lincoln City,Barrow,4 - 0
+57966,48,1950-05-06,New Brighton,York City,3 - 1
+57967,48,1950-05-06,Rotherham United,Crewe Alexandra,0 - 0
+57968,48,1950-05-06,AFC Bournemouth,Norwich City,2 - 0
+57969,48,1950-05-06,Brighton & Hove Albion,Millwall,1 - 0
+57970,48,1950-05-06,Exeter City,Notts County,2 - 2
+57971,48,1950-05-06,Ipswich Town,Port Vale,2 - 1
+57972,48,1950-05-06,Leyton Orient,Southend United,2 - 2
+57973,48,1950-05-06,Reading,Bristol Rovers,0 - 1
+57974,48,1950-05-06,Swindon Town,Bristol City,1 - 1
+57975,48,1950-05-06,Walsall,Crystal Palace,3 - 1

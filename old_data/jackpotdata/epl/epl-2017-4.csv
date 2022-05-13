@@ -1,0 +1,553 @@
+,Round Number,Date,Home Team,Away Team,Result
+194063,0,2017-08-05,Accrington,Colchester United,3 - 1
+194064,0,2017-08-05,Carlisle United,Swindon Town,1 - 2
+194065,0,2017-08-05,Chesterfield,Grimsby Town,1 - 3
+194066,0,2017-08-05,Coventry City,Notts County,3 - 0
+194067,0,2017-08-05,Crawley Town,Port Vale,1 - 3
+194068,0,2017-08-05,Crewe Alexandra,Mansfield Town,2 - 2
+194069,0,2017-08-05,Exeter City,Cambridge United,1 - 0
+194070,0,2017-08-05,Forest Green Rovers,Barnet,2 - 2
+194071,0,2017-08-05,Luton Town,Yeovil,8 - 2
+194072,0,2017-08-05,Morecambe,Cheltenham,2 - 1
+194073,0,2017-08-05,Stevenage Borough,Newport County,3 - 3
+194074,0,2017-08-05,Wycombe Wanderers,Lincoln City,2 - 2
+194099,0,2017-08-12,Barnet,Luton Town,1 - 0
+194100,1,2017-08-12,Cambridge United,Carlisle United,1 - 2
+194101,1,2017-08-12,Cheltenham,Crawley Town,1 - 0
+194102,1,2017-08-12,Colchester United,Stevenage Borough,1 - 1
+194103,1,2017-08-12,Crewe Alexandra,Newport County,1 - 1
+194104,1,2017-08-12,Grimsby Town,Coventry City,0 - 2
+194105,1,2017-08-12,Lincoln City,Morecambe,1 - 1
+194106,1,2017-08-12,Mansfield Town,Forest Green Rovers,2 - 0
+194107,1,2017-08-12,Notts County,Chesterfield,2 - 0
+194108,1,2017-08-12,Port Vale,Wycombe Wanderers,2 - 3
+194109,1,2017-08-12,Swindon Town,Exeter City,1 - 1
+194110,1,2017-08-12,Yeovil,Accrington,3 - 2
+194158,1,2017-08-19,Accrington,Mansfield Town,2 - 1
+194159,2,2017-08-19,Carlisle United,Cheltenham,3 - 0
+194160,2,2017-08-19,Chesterfield,Port Vale,2 - 0
+194161,2,2017-08-19,Coventry City,Newport County,0 - 1
+194162,2,2017-08-19,Crawley Town,Cambridge United,0 - 1
+194163,2,2017-08-19,Crewe Alexandra,Barnet,1 - 0
+194164,2,2017-08-19,Exeter City,Lincoln City,1 - 0
+194165,2,2017-08-19,Forest Green Rovers,Yeovil,4 - 3
+194166,2,2017-08-19,Luton Town,Colchester United,3 - 0
+194167,2,2017-08-19,Morecambe,Swindon Town,0 - 1
+194168,2,2017-08-19,Stevenage Borough,Grimsby Town,3 - 1
+194169,2,2017-08-19,Wycombe Wanderers,Notts County,2 - 4
+194182,2,2017-08-25,Notts County,Accrington,2 - 2
+194205,3,2017-08-26,Barnet,Stevenage Borough,0 - 1
+194206,3,2017-08-26,Cambridge United,Morecambe,0 - 0
+194207,3,2017-08-26,Cheltenham,Exeter City,3 - 4
+194208,3,2017-08-26,Colchester United,Forest Green Rovers,5 - 1
+194209,3,2017-08-26,Grimsby Town,Wycombe Wanderers,2 - 3
+194210,3,2017-08-26,Lincoln City,Carlisle United,4 - 1
+194211,3,2017-08-26,Mansfield Town,Luton Town,2 - 2
+194212,3,2017-08-26,Newport County,Chesterfield,4 - 1
+194213,3,2017-08-26,Port Vale,Crewe Alexandra,0 - 1
+194214,3,2017-08-26,Swindon Town,Crawley Town,0 - 3
+194215,3,2017-08-26,Yeovil,Coventry City,2 - 0
+194235,3,2017-09-02,Cambridge United,Colchester United,1 - 0
+194236,4,2017-09-02,Carlisle United,Mansfield Town,1 - 1
+194237,4,2017-09-02,Cheltenham,Stevenage Borough,0 - 1
+194238,4,2017-09-02,Chesterfield,Coventry City,0 - 0
+194239,4,2017-09-02,Crawley Town,Yeovil,2 - 0
+194240,4,2017-09-02,Exeter City,Newport County,1 - 0
+194241,4,2017-09-02,Grimsby Town,Crewe Alexandra,1 - 0
+194242,4,2017-09-02,Lincoln City,Luton Town,0 - 0
+194243,4,2017-09-02,Morecambe,Accrington,1 - 2
+194244,4,2017-09-02,Port Vale,Notts County,0 - 1
+194245,4,2017-09-02,Swindon Town,Barnet,1 - 4
+194246,4,2017-09-02,Wycombe Wanderers,Forest Green Rovers,3 - 1
+194272,4,2017-09-09,Accrington,Carlisle United,3 - 0
+194273,5,2017-09-09,Barnet,Cambridge United,3 - 1
+194274,5,2017-09-09,Colchester United,Crawley Town,3 - 1
+194275,5,2017-09-09,Coventry City,Port Vale,1 - 0
+194276,5,2017-09-09,Crewe Alexandra,Chesterfield,5 - 1
+194277,5,2017-09-09,Forest Green Rovers,Exeter City,1 - 3
+194278,5,2017-09-09,Luton Town,Swindon Town,0 - 3
+194279,5,2017-09-09,Mansfield Town,Grimsby Town,4 - 1
+194280,5,2017-09-09,Newport County,Wycombe Wanderers,0 - 0
+194281,5,2017-09-09,Notts County,Morecambe,2 - 0
+194282,5,2017-09-09,Stevenage Borough,Lincoln City,1 - 2
+194283,5,2017-09-09,Yeovil,Cheltenham,0 - 0
+194315,5,2017-09-12,Accrington,Grimsby Town,1 - 2
+194316,6,2017-09-12,Barnet,Exeter City,1 - 2
+194317,6,2017-09-12,Colchester United,Chesterfield,1 - 1
+194318,6,2017-09-12,Coventry City,Carlisle United,2 - 0
+194319,6,2017-09-12,Crewe Alexandra,Cambridge United,0 - 1
+194320,6,2017-09-12,Forest Green Rovers,Lincoln City,0 - 1
+194321,6,2017-09-12,Luton Town,Port Vale,2 - 0
+194322,6,2017-09-12,Mansfield Town,Wycombe Wanderers,0 - 0
+194323,6,2017-09-12,Newport County,Cheltenham,1 - 0
+194324,6,2017-09-12,Notts County,Swindon Town,1 - 0
+194325,6,2017-09-12,Stevenage Borough,Crawley Town,1 - 1
+194326,6,2017-09-12,Yeovil,Morecambe,2 - 2
+194352,6,2017-09-16,Cambridge United,Coventry City,2 - 1
+194353,7,2017-09-16,Carlisle United,Barnet,1 - 1
+194354,7,2017-09-16,Cheltenham,Colchester United,3 - 1
+194355,7,2017-09-16,Chesterfield,Accrington,1 - 2
+194356,7,2017-09-16,Crawley Town,Notts County,0 - 1
+194357,7,2017-09-16,Exeter City,Crewe Alexandra,3 - 0
+194358,7,2017-09-16,Grimsby Town,Yeovil,2 - 1
+194359,7,2017-09-16,Lincoln City,Mansfield Town,0 - 1
+194360,7,2017-09-16,Morecambe,Newport County,2 - 1
+194361,7,2017-09-16,Port Vale,Forest Green Rovers,1 - 1
+194362,7,2017-09-16,Swindon Town,Stevenage Borough,3 - 2
+194363,7,2017-09-16,Wycombe Wanderers,Luton Town,1 - 2
+194376,7,2017-09-22,Forest Green Rovers,Swindon Town,0 - 2
+194399,8,2017-09-23,Accrington,Cheltenham,1 - 1
+194400,8,2017-09-23,Barnet,Crawley Town,1 - 2
+194401,8,2017-09-23,Colchester United,Wycombe Wanderers,1 - 2
+194402,8,2017-09-23,Coventry City,Exeter City,2 - 0
+194403,8,2017-09-23,Crewe Alexandra,Carlisle United,0 - 5
+194404,8,2017-09-23,Luton Town,Chesterfield,1 - 0
+194405,8,2017-09-23,Mansfield Town,Cambridge United,2 - 1
+194406,8,2017-09-23,Newport County,Grimsby Town,1 - 0
+194407,8,2017-09-23,Notts County,Lincoln City,4 - 1
+194408,8,2017-09-23,Stevenage Borough,Morecambe,2 - 1
+194409,8,2017-09-23,Yeovil,Port Vale,1 - 1
+194443,8,2017-09-26,Cambridge United,Forest Green Rovers,3 - 0
+194444,9,2017-09-26,Carlisle United,Stevenage Borough,0 - 2
+194445,9,2017-09-26,Cheltenham,Mansfield Town,3 - 0
+194446,9,2017-09-26,Chesterfield,Yeovil,2 - 3
+194447,9,2017-09-26,Crawley Town,Newport County,1 - 2
+194448,9,2017-09-26,Exeter City,Notts County,0 - 3
+194449,9,2017-09-26,Grimsby Town,Colchester United,2 - 2
+194450,9,2017-09-26,Lincoln City,Barnet,2 - 1
+194451,9,2017-09-26,Morecambe,Luton Town,0 - 0
+194452,9,2017-09-26,Port Vale,Accrington,1 - 2
+194453,9,2017-09-26,Swindon Town,Coventry City,1 - 2
+194454,9,2017-09-26,Wycombe Wanderers,Crewe Alexandra,3 - 2
+194480,9,2017-09-30,Chesterfield,Cheltenham,0 - 2
+194481,10,2017-09-30,Coventry City,Crewe Alexandra,1 - 0
+194482,10,2017-09-30,Crawley Town,Carlisle United,0 - 1
+194483,10,2017-09-30,Exeter City,Morecambe,4 - 1
+194484,10,2017-09-30,Forest Green Rovers,Accrington,0 - 1
+194485,10,2017-09-30,Grimsby Town,Lincoln City,0 - 0
+194486,10,2017-09-30,Luton Town,Newport County,3 - 1
+194487,10,2017-09-30,Mansfield Town,Notts County,3 - 1
+194488,10,2017-09-30,Stevenage Borough,Port Vale,2 - 0
+194489,10,2017-09-30,Swindon Town,Cambridge United,2 - 0
+194490,10,2017-09-30,Wycombe Wanderers,Barnet,3 - 1
+194491,10,2017-09-30,Yeovil,Colchester United,0 - 1
+194511,10,2017-10-07,Accrington,Luton Town,0 - 2
+194512,11,2017-10-07,Barnet,Coventry City,0 - 0
+194513,11,2017-10-07,Cambridge United,Wycombe Wanderers,1 - 3
+194514,11,2017-10-07,Carlisle United,Exeter City,0 - 1
+194515,11,2017-10-07,Cheltenham,Swindon Town,2 - 1
+194516,11,2017-10-07,Colchester United,Mansfield Town,2 - 0
+194517,11,2017-10-07,Crewe Alexandra,Stevenage Borough,1 - 0
+194518,11,2017-10-07,Lincoln City,Chesterfield,2 - 1
+194519,11,2017-10-07,Morecambe,Crawley Town,0 - 1
+194520,11,2017-10-07,Newport County,Yeovil,2 - 0
+194521,11,2017-10-07,Notts County,Forest Green Rovers,1 - 1
+194522,11,2017-10-07,Port Vale,Grimsby Town,1 - 2
+194547,11,2017-10-14,Accrington,Coventry City,1 - 0
+194548,12,2017-10-14,Chesterfield,Morecambe,0 - 2
+194549,12,2017-10-14,Colchester United,Carlisle United,0 - 1
+194550,12,2017-10-14,Forest Green Rovers,Newport County,0 - 4
+194551,12,2017-10-14,Grimsby Town,Crawley Town,0 - 0
+194552,12,2017-10-14,Lincoln City,Cambridge United,0 - 0
+194553,12,2017-10-14,Luton Town,Stevenage Borough,7 - 1
+194554,12,2017-10-14,Mansfield Town,Swindon Town,1 - 3
+194555,12,2017-10-14,Notts County,Barnet,2 - 1
+194556,12,2017-10-14,Port Vale,Cheltenham,3 - 1
+194557,12,2017-10-14,Wycombe Wanderers,Exeter City,0 - 0
+194558,12,2017-10-14,Yeovil,Crewe Alexandra,2 - 0
+194582,12,2017-10-17,Barnet,Mansfield Town,1 - 1
+194583,13,2017-10-17,Cambridge United,Yeovil,2 - 1
+194584,13,2017-10-17,Carlisle United,Wycombe Wanderers,3 - 3
+194585,13,2017-10-17,Cheltenham,Grimsby Town,2 - 3
+194586,13,2017-10-17,Coventry City,Forest Green Rovers,0 - 1
+194587,13,2017-10-17,Crawley Town,Chesterfield,0 - 2
+194588,13,2017-10-17,Crewe Alexandra,Notts County,2 - 0
+194589,13,2017-10-17,Exeter City,Luton Town,1 - 4
+194590,13,2017-10-17,Morecambe,Port Vale,0 - 3
+194591,13,2017-10-17,Newport County,Colchester United,1 - 2
+194592,13,2017-10-17,Stevenage Borough,Accrington,3 - 2
+194593,13,2017-10-17,Swindon Town,Lincoln City,0 - 1
+194618,13,2017-10-21,Barnet,Yeovil,1 - 1
+194619,14,2017-10-21,Cambridge United,Chesterfield,2 - 1
+194620,14,2017-10-21,Carlisle United,Notts County,1 - 1
+194621,14,2017-10-21,Cheltenham,Lincoln City,1 - 0
+194622,14,2017-10-21,Coventry City,Colchester United,0 - 0
+194623,14,2017-10-21,Crawley Town,Luton Town,0 - 0
+194624,14,2017-10-21,Crewe Alexandra,Accrington,0 - 2
+194625,14,2017-10-21,Exeter City,Port Vale,0 - 1
+194626,14,2017-10-21,Morecambe,Grimsby Town,0 - 0
+194627,14,2017-10-21,Newport County,Mansfield Town,1 - 1
+194628,14,2017-10-21,Stevenage Borough,Forest Green Rovers,1 - 2
+194629,14,2017-10-21,Swindon Town,Wycombe Wanderers,1 - 0
+194664,14,2017-10-28,Accrington,Barnet,4 - 1
+194665,15,2017-10-28,Chesterfield,Carlisle United,2 - 2
+194666,15,2017-10-28,Colchester United,Crewe Alexandra,3 - 1
+194667,15,2017-10-28,Forest Green Rovers,Morecambe,2 - 0
+194668,15,2017-10-28,Grimsby Town,Cambridge United,0 - 0
+194669,15,2017-10-28,Lincoln City,Crawley Town,0 - 0
+194670,15,2017-10-28,Luton Town,Coventry City,0 - 3
+194671,15,2017-10-28,Mansfield Town,Exeter City,1 - 1
+194672,15,2017-10-28,Notts County,Newport County,3 - 0
+194673,15,2017-10-28,Port Vale,Swindon Town,0 - 3
+194674,15,2017-10-28,Wycombe Wanderers,Cheltenham,3 - 3
+194675,15,2017-10-28,Yeovil,Stevenage Borough,3 - 0
+194722,15,2017-11-10,Newport County,Port Vale,1 - 1
+194730,16,2017-11-11,Barnet,Colchester United,0 - 1
+194731,16,2017-11-11,Cambridge United,Accrington,0 - 0
+194732,16,2017-11-11,Carlisle United,Yeovil,4 - 0
+194733,16,2017-11-11,Cheltenham,Luton Town,2 - 2
+194734,16,2017-11-11,Coventry City,Mansfield Town,0 - 1
+194735,16,2017-11-11,Crawley Town,Forest Green Rovers,1 - 1
+194736,16,2017-11-11,Crewe Alexandra,Lincoln City,1 - 4
+194737,16,2017-11-11,Exeter City,Grimsby Town,2 - 0
+194738,16,2017-11-11,Morecambe,Wycombe Wanderers,2 - 1
+194739,16,2017-11-11,Stevenage Borough,Notts County,1 - 1
+194740,16,2017-11-11,Swindon Town,Chesterfield,2 - 2
+194765,16,2017-11-18,Accrington,Newport County,1 - 1
+194766,17,2017-11-18,Chesterfield,Exeter City,1 - 0
+194767,17,2017-11-18,Colchester United,Morecambe,0 - 0
+194768,17,2017-11-18,Forest Green Rovers,Crewe Alexandra,3 - 2
+194769,17,2017-11-18,Grimsby Town,Carlisle United,0 - 1
+194770,17,2017-11-18,Lincoln City,Coventry City,1 - 2
+194771,17,2017-11-18,Luton Town,Cambridge United,7 - 0
+194772,17,2017-11-18,Mansfield Town,Stevenage Borough,1 - 0
+194773,17,2017-11-18,Notts County,Cheltenham,3 - 1
+194774,17,2017-11-18,Port Vale,Barnet,1 - 0
+194775,17,2017-11-18,Wycombe Wanderers,Crawley Town,4 - 0
+194776,17,2017-11-18,Yeovil,Swindon Town,1 - 2
+194808,17,2017-11-21,Accrington,Wycombe Wanderers,1 - 0
+194809,18,2017-11-21,Cheltenham,Cambridge United,0 - 0
+194810,18,2017-11-21,Chesterfield,Forest Green Rovers,3 - 2
+194811,18,2017-11-21,Colchester United,Lincoln City,1 - 0
+194812,18,2017-11-21,Crawley Town,Exeter City,3 - 1
+194813,18,2017-11-21,Grimsby Town,Swindon Town,3 - 2
+194814,18,2017-11-21,Luton Town,Carlisle United,3 - 0
+194815,18,2017-11-21,Morecambe,Crewe Alexandra,0 - 1
+194816,18,2017-11-21,Newport County,Barnet,1 - 2
+194817,18,2017-11-21,Port Vale,Mansfield Town,0 - 4
+194818,18,2017-11-21,Stevenage Borough,Coventry City,1 - 1
+194819,18,2017-11-21,Yeovil,Notts County,1 - 1
+194846,18,2017-11-25,Barnet,Grimsby Town,0 - 2
+194847,19,2017-11-25,Cambridge United,Stevenage Borough,1 - 0
+194848,19,2017-11-25,Carlisle United,Morecambe,1 - 1
+194849,19,2017-11-25,Coventry City,Crawley Town,1 - 1
+194850,19,2017-11-25,Crewe Alexandra,Luton Town,1 - 2
+194851,19,2017-11-25,Exeter City,Accrington,2 - 0
+194852,19,2017-11-25,Forest Green Rovers,Cheltenham,1 - 1
+194853,19,2017-11-25,Lincoln City,Port Vale,3 - 1
+194854,19,2017-11-25,Mansfield Town,Chesterfield,2 - 2
+194855,19,2017-11-25,Notts County,Colchester United,2 - 1
+194856,19,2017-11-25,Swindon Town,Newport County,0 - 1
+194857,19,2017-11-25,Wycombe Wanderers,Yeovil,2 - 1
+194929,19,2017-12-09,Cheltenham,Crewe Alexandra,1 - 0
+194930,20,2017-12-09,Chesterfield,Barnet,2 - 1
+194931,20,2017-12-09,Colchester United,Exeter City,3 - 1
+194932,20,2017-12-09,Crawley Town,Mansfield Town,2 - 0
+194933,20,2017-12-09,Grimsby Town,Forest Green Rovers,1 - 0
+194934,20,2017-12-09,Luton Town,Notts County,1 - 1
+194935,20,2017-12-09,Morecambe,Coventry City,2 - 0
+194936,20,2017-12-09,Newport County,Carlisle United,3 - 3
+194937,20,2017-12-09,Port Vale,Cambridge United,2 - 0
+194938,20,2017-12-09,Stevenage Borough,Wycombe Wanderers,0 - 0
+194939,20,2017-12-09,Yeovil,Lincoln City,0 - 2
+194962,20,2017-12-15,Swindon Town,Colchester United,2 - 3
+194985,20,2017-12-16,Barnet,Morecambe,2 - 1
+194986,21,2017-12-16,Cambridge United,Newport County,1 - 2
+194987,21,2017-12-16,Carlisle United,Port Vale,1 - 2
+194988,21,2017-12-16,Coventry City,Cheltenham,2 - 1
+194989,21,2017-12-16,Crewe Alexandra,Crawley Town,3 - 0
+194990,21,2017-12-16,Exeter City,Stevenage Borough,2 - 1
+194991,21,2017-12-16,Forest Green Rovers,Luton Town,0 - 2
+194992,21,2017-12-16,Lincoln City,Accrington,2 - 0
+194993,21,2017-12-16,Mansfield Town,Yeovil,0 - 0
+194994,21,2017-12-16,Notts County,Grimsby Town,0 - 0
+194995,21,2017-12-16,Wycombe Wanderers,Chesterfield,1 - 0
+195009,21,2017-12-22,Coventry City,Wycombe Wanderers,3 - 2
+195033,22,2017-12-23,Accrington,Crawley Town,2 - 3
+195034,22,2017-12-23,Barnet,Cheltenham,0 - 2
+195035,22,2017-12-23,Colchester United,Port Vale,1 - 1
+195036,22,2017-12-23,Crewe Alexandra,Swindon Town,0 - 3
+195037,22,2017-12-23,Forest Green Rovers,Carlisle United,0 - 1
+195038,22,2017-12-23,Luton Town,Grimsby Town,2 - 0
+195039,22,2017-12-23,Mansfield Town,Morecambe,2 - 1
+195040,22,2017-12-23,Newport County,Lincoln City,0 - 0
+195041,22,2017-12-23,Notts County,Cambridge United,3 - 3
+195042,22,2017-12-23,Stevenage Borough,Chesterfield,5 - 1
+195043,22,2017-12-23,Yeovil,Exeter City,3 - 1
+195077,22,2017-12-26,Cambridge United,Barnet,1 - 0
+195078,23,2017-12-26,Carlisle United,Accrington,3 - 1
+195079,23,2017-12-26,Cheltenham,Yeovil,0 - 2
+195080,23,2017-12-26,Chesterfield,Crewe Alexandra,0 - 2
+195081,23,2017-12-26,Crawley Town,Colchester United,0 - 2
+195082,23,2017-12-26,Grimsby Town,Mansfield Town,1 - 1
+195083,23,2017-12-26,Lincoln City,Stevenage Borough,3 - 0
+195084,23,2017-12-26,Morecambe,Notts County,1 - 4
+195085,23,2017-12-26,Port Vale,Coventry City,1 - 0
+195086,23,2017-12-26,Swindon Town,Luton Town,0 - 5
+195087,23,2017-12-26,Wycombe Wanderers,Newport County,2 - 0
+195102,23,2017-12-29,Morecambe,Yeovil,4 - 3
+195123,24,2017-12-30,Cambridge United,Crewe Alexandra,3 - 1
+195124,24,2017-12-30,Carlisle United,Coventry City,0 - 1
+195125,24,2017-12-30,Cheltenham,Newport County,1 - 1
+195126,24,2017-12-30,Chesterfield,Colchester United,0 - 0
+195127,24,2017-12-30,Crawley Town,Stevenage Borough,1 - 0
+195128,24,2017-12-30,Exeter City,Barnet,2 - 1
+195129,24,2017-12-30,Grimsby Town,Accrington,0 - 3
+195130,24,2017-12-30,Lincoln City,Forest Green Rovers,2 - 1
+195131,24,2017-12-30,Port Vale,Luton Town,4 - 0
+195132,24,2017-12-30,Swindon Town,Notts County,1 - 0
+195133,24,2017-12-30,Wycombe Wanderers,Mansfield Town,1 - 2
+195164,24,2018-01-01,Barnet,Swindon Town,1 - 2
+195165,25,2018-01-01,Colchester United,Cambridge United,0 - 0
+195166,25,2018-01-01,Coventry City,Chesterfield,1 - 0
+195167,25,2018-01-01,Crewe Alexandra,Grimsby Town,2 - 0
+195168,25,2018-01-01,Forest Green Rovers,Wycombe Wanderers,1 - 2
+195169,25,2018-01-01,Luton Town,Lincoln City,4 - 2
+195170,25,2018-01-01,Mansfield Town,Carlisle United,3 - 1
+195171,25,2018-01-01,Newport County,Exeter City,2 - 1
+195172,25,2018-01-01,Notts County,Port Vale,1 - 0
+195173,25,2018-01-01,Stevenage Borough,Cheltenham,4 - 1
+195174,25,2018-01-01,Yeovil,Crawley Town,1 - 2
+195193,25,2018-01-06,Accrington,Chesterfield,4 - 0
+195194,25,2018-01-06,Colchester United,Cheltenham,1 - 4
+195195,26,2018-01-06,Forest Green Rovers,Port Vale,1 - 0
+195196,26,2018-01-06,Grimsby Town,Morecambe,0 - 2
+195221,26,2018-01-13,Cambridge United,Mansfield Town,0 - 0
+195222,26,2018-01-13,Carlisle United,Crewe Alexandra,1 - 0
+195223,26,2018-01-13,Cheltenham,Accrington,0 - 2
+195224,27,2018-01-13,Chesterfield,Luton Town,2 - 0
+195225,27,2018-01-13,Crawley Town,Barnet,2 - 0
+195226,27,2018-01-13,Exeter City,Coventry City,1 - 0
+195227,27,2018-01-13,Grimsby Town,Newport County,1 - 2
+195228,27,2018-01-13,Lincoln City,Notts County,2 - 2
+195229,27,2018-01-13,Morecambe,Stevenage Borough,1 - 1
+195230,27,2018-01-13,Port Vale,Yeovil,1 - 1
+195231,27,2018-01-13,Swindon Town,Forest Green Rovers,1 - 0
+195232,27,2018-01-13,Wycombe Wanderers,Colchester United,3 - 1
+195244,27,2018-01-19,Newport County,Crawley Town,2 - 1
+195267,28,2018-01-20,Accrington,Port Vale,3 - 2
+195268,28,2018-01-20,Barnet,Lincoln City,1 - 1
+195269,28,2018-01-20,Colchester United,Grimsby Town,1 - 1
+195270,28,2018-01-20,Coventry City,Swindon Town,3 - 1
+195271,28,2018-01-20,Crewe Alexandra,Wycombe Wanderers,2 - 3
+195272,28,2018-01-20,Forest Green Rovers,Cambridge United,5 - 2
+195273,28,2018-01-20,Luton Town,Morecambe,1 - 0
+195274,28,2018-01-20,Mansfield Town,Cheltenham,3 - 2
+195275,28,2018-01-20,Notts County,Exeter City,1 - 2
+195276,28,2018-01-20,Stevenage Borough,Carlisle United,0 - 0
+195277,28,2018-01-20,Yeovil,Chesterfield,1 - 2
+195290,28,2018-01-23,Newport County,Morecambe,1 - 1
+195291,29,2018-01-23,Notts County,Crawley Town,1 - 2
+195303,29,2018-01-27,Carlisle United,Forest Green Rovers,1 - 0
+195304,29,2018-01-27,Cheltenham,Barnet,1 - 1
+195305,29,2018-01-27,Chesterfield,Stevenage Borough,0 - 1
+195306,29,2018-01-27,Crawley Town,Accrington,2 - 1
+195307,30,2018-01-27,Grimsby Town,Luton Town,0 - 1
+195308,30,2018-01-27,Morecambe,Mansfield Town,1 - 2
+195309,30,2018-01-27,Port Vale,Colchester United,2 - 2
+195310,30,2018-01-27,Swindon Town,Crewe Alexandra,4 - 3
+195319,30,2018-01-30,Coventry City,Cambridge United,3 - 1
+195320,30,2018-01-30,Lincoln City,Newport County,3 - 1
+195321,30,2018-01-30,Luton Town,Wycombe Wanderers,2 - 3
+195322,31,2018-01-30,Stevenage Borough,Swindon Town,0 - 1
+195323,31,2018-01-30,Yeovil,Grimsby Town,3 - 0
+195327,31,2018-01-31,Exeter City,Forest Green Rovers,2 - 0
+195359,31,2018-02-03,Accrington,Stevenage Borough,3 - 2
+195360,31,2018-02-03,Chesterfield,Crawley Town,1 - 2
+195361,31,2018-02-03,Colchester United,Newport County,2 - 0
+195362,31,2018-02-03,Forest Green Rovers,Coventry City,2 - 1
+195363,32,2018-02-03,Grimsby Town,Cheltenham,1 - 1
+195364,32,2018-02-03,Lincoln City,Swindon Town,2 - 2
+195365,32,2018-02-03,Luton Town,Exeter City,1 - 0
+195366,32,2018-02-03,Mansfield Town,Barnet,3 - 1
+195367,32,2018-02-03,Notts County,Crewe Alexandra,4 - 1
+195368,32,2018-02-03,Port Vale,Morecambe,0 - 0
+195369,32,2018-02-03,Wycombe Wanderers,Carlisle United,4 - 3
+195370,32,2018-02-03,Yeovil,Cambridge United,2 - 0
+195382,32,2018-02-06,Accrington,Swindon Town,2 - 1
+195384,32,2018-02-09,Cambridge United,Lincoln City,0 - 0
+195406,33,2018-02-10,Barnet,Notts County,1 - 0
+195407,33,2018-02-10,Carlisle United,Colchester United,1 - 1
+195408,33,2018-02-10,Cheltenham,Port Vale,5 - 1
+195409,33,2018-02-10,Coventry City,Accrington,0 - 2
+195410,33,2018-02-10,Crawley Town,Grimsby Town,3 - 0
+195411,33,2018-02-10,Crewe Alexandra,Yeovil,0 - 0
+195412,33,2018-02-10,Exeter City,Wycombe Wanderers,1 - 1
+195413,33,2018-02-10,Stevenage Borough,Luton Town,1 - 1
+195414,33,2018-02-10,Swindon Town,Mansfield Town,1 - 0
+195440,33,2018-02-13,Accrington,Crewe Alexandra,1 - 0
+195441,34,2018-02-13,Chesterfield,Cambridge United,2 - 3
+195442,34,2018-02-13,Colchester United,Coventry City,2 - 1
+195443,34,2018-02-13,Forest Green Rovers,Stevenage Borough,3 - 1
+195444,34,2018-02-13,Lincoln City,Cheltenham,1 - 0
+195445,34,2018-02-13,Luton Town,Crawley Town,4 - 1
+195446,34,2018-02-13,Mansfield Town,Newport County,5 - 0
+195447,34,2018-02-13,Notts County,Carlisle United,2 - 1
+195448,34,2018-02-13,Wycombe Wanderers,Swindon Town,3 - 2
+195449,34,2018-02-13,Yeovil,Barnet,2 - 0
+195465,34,2018-02-17,Barnet,Accrington,1 - 1
+195466,35,2018-02-17,Cambridge United,Grimsby Town,3 - 1
+195467,35,2018-02-17,Carlisle United,Chesterfield,2 - 0
+195468,35,2018-02-17,Cheltenham,Wycombe Wanderers,0 - 2
+195469,35,2018-02-17,Crawley Town,Lincoln City,3 - 1
+195470,35,2018-02-17,Crewe Alexandra,Colchester United,1 - 0
+195471,35,2018-02-17,Exeter City,Mansfield Town,0 - 1
+195472,35,2018-02-17,Morecambe,Forest Green Rovers,1 - 1
+195473,35,2018-02-17,Newport County,Notts County,0 - 0
+195474,35,2018-02-17,Stevenage Borough,Yeovil,4 - 1
+195475,35,2018-02-17,Swindon Town,Port Vale,3 - 2
+195490,35,2018-02-20,Barnet,Carlisle United,1 - 3
+195491,36,2018-02-20,Cambridge United,Notts County,1 - 0
+195492,36,2018-02-20,Crewe Alexandra,Exeter City,1 - 2
+195520,36,2018-02-24,Accrington,Cambridge United,1 - 0
+195521,36,2018-02-24,Chesterfield,Swindon Town,2 - 1
+195522,36,2018-02-24,Colchester United,Barnet,0 - 1
+195523,36,2018-02-24,Forest Green Rovers,Crawley Town,2 - 0
+195524,36,2018-02-24,Grimsby Town,Exeter City,0 - 1
+195525,36,2018-02-24,Lincoln City,Crewe Alexandra,1 - 4
+195526,36,2018-02-24,Luton Town,Cheltenham,2 - 2
+195527,36,2018-02-24,Mansfield Town,Coventry City,1 - 1
+195528,36,2018-02-24,Notts County,Stevenage Borough,2 - 0
+195529,37,2018-02-24,Port Vale,Newport County,0 - 0
+195530,37,2018-02-24,Wycombe Wanderers,Morecambe,2 - 4
+195531,37,2018-02-24,Yeovil,Carlisle United,0 - 1
+195546,37,2018-02-27,Wycombe Wanderers,Coventry City,0 - 1
+195557,38,2018-03-03,Cambridge United,Luton Town,1 - 1
+195558,38,2018-03-03,Carlisle United,Grimsby Town,2 - 0
+195582,38,2018-03-06,Accrington,Morecambe,1 - 0
+195583,38,2018-03-06,Cheltenham,Notts County,1 - 1
+195584,38,2018-03-06,Mansfield Town,Lincoln City,1 - 1
+195585,38,2018-03-06,Newport County,Forest Green Rovers,3 - 3
+195609,38,2018-03-10,Chesterfield,Lincoln City,1 - 3
+195610,38,2018-03-10,Coventry City,Barnet,1 - 0
+195611,39,2018-03-10,Crawley Town,Morecambe,1 - 1
+195612,39,2018-03-10,Exeter City,Carlisle United,1 - 1
+195613,39,2018-03-10,Forest Green Rovers,Notts County,1 - 2
+195614,39,2018-03-10,Grimsby Town,Port Vale,1 - 1
+195615,39,2018-03-10,Luton Town,Accrington,1 - 2
+195616,39,2018-03-10,Mansfield Town,Colchester United,1 - 1
+195617,39,2018-03-10,Stevenage Borough,Crewe Alexandra,2 - 2
+195618,39,2018-03-10,Swindon Town,Cheltenham,0 - 3
+195619,39,2018-03-10,Wycombe Wanderers,Cambridge United,1 - 1
+195620,39,2018-03-10,Yeovil,Newport County,0 - 2
+195642,39,2018-03-13,Barnet,Port Vale,1 - 1
+195643,40,2018-03-13,Coventry City,Luton Town,2 - 2
+195644,40,2018-03-13,Exeter City,Yeovil,0 - 0
+195666,40,2018-03-17,Accrington,Forest Green Rovers,3 - 1
+195667,40,2018-03-17,Barnet,Wycombe Wanderers,0 - 2
+195668,41,2018-03-17,Cambridge United,Swindon Town,1 - 3
+195669,41,2018-03-17,Carlisle United,Crawley Town,2 - 2
+195670,41,2018-03-17,Cheltenham,Chesterfield,1 - 1
+195671,41,2018-03-17,Colchester United,Yeovil,0 - 1
+195672,41,2018-03-17,Crewe Alexandra,Coventry City,1 - 2
+195673,41,2018-03-17,Lincoln City,Grimsby Town,3 - 1
+195674,41,2018-03-17,Morecambe,Exeter City,2 - 1
+195675,41,2018-03-17,Newport County,Luton Town,1 - 1
+195676,41,2018-03-17,Notts County,Mansfield Town,1 - 1
+195677,41,2018-03-17,Port Vale,Stevenage Borough,2 - 2
+195685,41,2018-03-20,Crewe Alexandra,Forest Green Rovers,3 - 1
+195686,42,2018-03-20,Morecambe,Colchester United,0 - 0
+195687,42,2018-03-20,Port Vale,Exeter City,0 - 1
+195689,42,2018-03-21,Crawley Town,Wycombe Wanderers,2 - 3
+195699,42,2018-03-24,Carlisle United,Cambridge United,1 - 1
+195700,42,2018-03-24,Coventry City,Grimsby Town,4 - 0
+195701,42,2018-03-24,Crawley Town,Cheltenham,3 - 5
+195702,43,2018-03-24,Exeter City,Swindon Town,3 - 1
+195703,43,2018-03-24,Forest Green Rovers,Mansfield Town,2 - 0
+195704,43,2018-03-24,Luton Town,Barnet,2 - 0
+195705,43,2018-03-24,Morecambe,Lincoln City,0 - 0
+195706,43,2018-03-24,Newport County,Crewe Alexandra,1 - 2
+195707,43,2018-03-24,Stevenage Borough,Colchester United,0 - 1
+195708,43,2018-03-24,Wycombe Wanderers,Port Vale,0 - 0
+195710,43,2018-03-25,Chesterfield,Notts County,3 - 1
+195732,43,2018-03-30,Barnet,Crewe Alexandra,2 - 1
+195733,44,2018-03-30,Cambridge United,Crawley Town,3 - 1
+195734,44,2018-03-30,Cheltenham,Carlisle United,0 - 1
+195735,44,2018-03-30,Colchester United,Luton Town,2 - 1
+195736,44,2018-03-30,Grimsby Town,Stevenage Borough,0 - 0
+195737,44,2018-03-30,Lincoln City,Exeter City,3 - 2
+195738,44,2018-03-30,Mansfield Town,Accrington,0 - 1
+195739,44,2018-03-30,Newport County,Coventry City,1 - 1
+195740,44,2018-03-30,Notts County,Wycombe Wanderers,0 - 0
+195741,44,2018-03-30,Port Vale,Chesterfield,2 - 1
+195742,44,2018-03-30,Swindon Town,Morecambe,1 - 1
+195771,44,2018-04-02,Accrington,Notts County,1 - 0
+195772,45,2018-04-02,Carlisle United,Lincoln City,0 - 1
+195773,45,2018-04-02,Coventry City,Yeovil,2 - 6
+195774,45,2018-04-02,Crawley Town,Swindon Town,1 - 1
+195775,45,2018-04-02,Crewe Alexandra,Port Vale,2 - 2
+195776,45,2018-04-02,Exeter City,Cheltenham,2 - 1
+195777,45,2018-04-02,Forest Green Rovers,Colchester United,1 - 2
+195778,45,2018-04-02,Luton Town,Mansfield Town,2 - 1
+195779,45,2018-04-02,Stevenage Borough,Barnet,4 - 1
+195780,45,2018-04-02,Wycombe Wanderers,Grimsby Town,2 - 1
+195809,45,2018-04-07,Barnet,Forest Green Rovers,1 - 0
+195810,46,2018-04-07,Cambridge United,Exeter City,2 - 3
+195811,46,2018-04-07,Cheltenham,Morecambe,3 - 0
+195812,46,2018-04-07,Colchester United,Accrington,0 - 1
+195813,46,2018-04-07,Grimsby Town,Chesterfield,1 - 0
+195814,46,2018-04-07,Mansfield Town,Crewe Alexandra,3 - 4
+195815,46,2018-04-07,Newport County,Stevenage Borough,0 - 1
+195816,46,2018-04-07,Notts County,Coventry City,2 - 1
+195817,46,2018-04-07,Port Vale,Crawley Town,1 - 2
+195818,46,2018-04-07,Swindon Town,Carlisle United,0 - 0
+195819,46,2018-04-07,Yeovil,Luton Town,0 - 3
+195846,46,2018-04-10,Morecambe,Chesterfield,2 - 2
+195847,47,2018-04-10,Stevenage Borough,Mansfield Town,1 - 1
+195848,47,2018-04-10,Swindon Town,Yeovil,2 - 2
+195874,47,2018-04-14,Accrington,Exeter City,1 - 1
+195875,47,2018-04-14,Cheltenham,Forest Green Rovers,0 - 1
+195876,47,2018-04-14,Chesterfield,Mansfield Town,0 - 1
+195877,48,2018-04-14,Colchester United,Notts County,1 - 3
+195878,48,2018-04-14,Crawley Town,Coventry City,1 - 2
+195879,48,2018-04-14,Grimsby Town,Barnet,2 - 2
+195880,48,2018-04-14,Luton Town,Crewe Alexandra,3 - 1
+195881,48,2018-04-14,Morecambe,Carlisle United,1 - 1
+195882,48,2018-04-14,Newport County,Swindon Town,2 - 1
+195883,48,2018-04-14,Port Vale,Lincoln City,1 - 0
+195884,48,2018-04-14,Stevenage Borough,Cambridge United,0 - 2
+195885,48,2018-04-14,Yeovil,Wycombe Wanderers,0 - 1
+195903,48,2018-04-17,Accrington,Yeovil,2 - 0
+195904,48,2018-04-17,Exeter City,Chesterfield,2 - 1
+195905,48,2018-04-17,Lincoln City,Wycombe Wanderers,0 - 0
+195912,49,2018-04-20,Coventry City,Stevenage Borough,3 - 1
+195935,49,2018-04-21,Barnet,Newport County,2 - 0
+195936,49,2018-04-21,Cambridge United,Cheltenham,4 - 3
+195937,49,2018-04-21,Carlisle United,Luton Town,1 - 1
+195938,49,2018-04-21,Crewe Alexandra,Morecambe,1 - 0
+195939,49,2018-04-21,Exeter City,Crawley Town,2 - 2
+195940,49,2018-04-21,Forest Green Rovers,Chesterfield,4 - 1
+195941,49,2018-04-21,Lincoln City,Colchester United,2 - 1
+195942,50,2018-04-21,Mansfield Town,Port Vale,1 - 1
+195943,50,2018-04-21,Notts County,Yeovil,4 - 1
+195944,50,2018-04-21,Swindon Town,Grimsby Town,0 - 1
+195945,50,2018-04-21,Wycombe Wanderers,Accrington,0 - 4
+195960,50,2018-04-24,Coventry City,Lincoln City,2 - 4
+195961,50,2018-04-24,Morecambe,Cambridge United,0 - 0
+195962,50,2018-04-24,Newport County,Accrington,2 - 1
+195963,50,2018-04-24,Yeovil,Forest Green Rovers,0 - 0
+195988,51,2018-04-28,Accrington,Lincoln City,1 - 0
+195989,51,2018-04-28,Cheltenham,Coventry City,1 - 6
+195990,51,2018-04-28,Chesterfield,Wycombe Wanderers,1 - 2
+195991,51,2018-04-28,Colchester United,Swindon Town,0 - 0
+195992,51,2018-04-28,Crawley Town,Crewe Alexandra,1 - 2
+195993,51,2018-04-28,Grimsby Town,Notts County,2 - 1
+195994,51,2018-04-28,Luton Town,Forest Green Rovers,3 - 1
+195995,51,2018-04-28,Morecambe,Barnet,0 - 1
+195996,51,2018-04-28,Newport County,Cambridge United,2 - 1
+195997,51,2018-04-28,Port Vale,Carlisle United,1 - 2
+195998,51,2018-04-28,Stevenage Borough,Exeter City,3 - 1
+195999,51,2018-04-28,Yeovil,Mansfield Town,2 - 3
+196013,52,2018-05-01,Chesterfield,Newport County,1 - 0
+196027,52,2018-05-05,Barnet,Chesterfield,3 - 0
+196028,52,2018-05-05,Cambridge United,Port Vale,5 - 0
+196029,52,2018-05-05,Carlisle United,Newport County,1 - 1
+196030,52,2018-05-05,Coventry City,Morecambe,0 - 0
+196031,52,2018-05-05,Crewe Alexandra,Cheltenham,2 - 1
+196032,52,2018-05-05,Exeter City,Colchester United,1 - 0
+196033,52,2018-05-05,Forest Green Rovers,Grimsby Town,0 - 3
+196034,52,2018-05-05,Lincoln City,Yeovil,1 - 1
+196035,52,2018-05-05,Mansfield Town,Crawley Town,1 - 1
+196036,53,2018-05-05,Notts County,Luton Town,0 - 0
+196037,53,2018-05-05,Swindon Town,Accrington,3 - 0
+196038,53,2018-05-05,Wycombe Wanderers,Stevenage Borough,1 - 0

@@ -1,0 +1,241 @@
+,Round Number,Date,Home Team,Away Team,Result
+0,0,1963-08-24,Werder Bremen,Borussia Dortmund,3 - 2
+1,0,1963-08-24,1. FC Saarbrucken,1. FC Koln,0 - 2
+2,0,1963-08-24,TSV 1860 Munchen,Eintracht Braunschweig,1 - 1
+3,0,1963-08-24,Frankfurter SG Eintracht,1. FC Kaiserslautern,1 - 1
+4,0,1963-08-24,FC Schalke 04,VfB Stuttgart,2 - 0
+5,0,1963-08-24,Preussen Munster,Hamburger SV,1 - 1
+6,0,1963-08-24,Karlsruher SC,Meidericher SV,1 - 4
+7,0,1963-08-24,Hertha BSC,1. FC Nurnberg,1 - 1
+8,0,1963-08-31,Borussia Dortmund,TSV 1860 Munchen,3 - 3
+9,1,1963-08-31,Hamburger SV,1. FC Saarbrucken,4 - 2
+10,1,1963-08-31,1. FC Nurnberg,Werder Bremen,3 - 0
+11,1,1963-08-31,1. FC Koln,Karlsruher SC,4 - 0
+12,1,1963-08-31,1. FC Kaiserslautern,FC Schalke 04,2 - 3
+13,1,1963-08-31,VfB Stuttgart,Hertha BSC,2 - 0
+14,1,1963-08-31,Meidericher SV,Frankfurter SG Eintracht,3 - 1
+15,1,1963-08-31,Eintracht Braunschweig,Preussen Munster,1 - 0
+16,1,1963-09-07,TSV 1860 Munchen,1. FC Koln,1 - 3
+17,2,1963-09-07,Karlsruher SC,Hamburger SV,0 - 4
+18,2,1963-09-07,Frankfurter SG Eintracht,1. FC Nurnberg,2 - 3
+19,2,1963-09-07,FC Schalke 04,Borussia Dortmund,3 - 1
+20,2,1963-09-07,Werder Bremen,VfB Stuttgart,2 - 2
+21,2,1963-09-07,Hertha BSC,1. FC Kaiserslautern,2 - 2
+22,2,1963-09-07,Preussen Munster,Meidericher SV,4 - 2
+23,2,1963-09-07,1. FC Saarbrucken,Eintracht Braunschweig,2 - 2
+24,2,1963-09-14,1. FC Koln,FC Schalke 04,2 - 2
+25,3,1963-09-14,1. FC Nurnberg,Preussen Munster,2 - 2
+26,3,1963-09-14,Borussia Dortmund,1. FC Saarbrucken,2 - 1
+27,3,1963-09-14,Hamburger SV,Frankfurter SG Eintracht,3 - 0
+28,3,1963-09-14,VfB Stuttgart,TSV 1860 Munchen,1 - 1
+29,3,1963-09-14,1. FC Kaiserslautern,Werder Bremen,3 - 0
+30,3,1963-09-14,Meidericher SV,Hertha BSC,1 - 3
+31,3,1963-09-14,Eintracht Braunschweig,Karlsruher SC,2 - 0
+32,3,1963-09-21,FC Schalke 04,Hamburger SV,1 - 0
+33,4,1963-09-21,1. FC Saarbrucken,1. FC Nurnberg,3 - 5
+34,4,1963-09-21,Hertha BSC,1. FC Koln,0 - 3
+35,4,1963-09-21,Karlsruher SC,Borussia Dortmund,1 - 3
+36,4,1963-09-21,TSV 1860 Munchen,1. FC Kaiserslautern,3 - 0
+37,4,1963-09-21,Frankfurter SG Eintracht,Eintracht Braunschweig,3 - 0
+38,4,1963-09-21,Preussen Munster,VfB Stuttgart,4 - 2
+39,4,1963-09-21,Werder Bremen,Meidericher SV,1 - 1
+40,4,1963-10-05,1. FC Koln,Werder Bremen,4 - 3
+41,5,1963-10-05,1. FC Kaiserslautern,Preussen Munster,0 - 0
+42,5,1963-10-05,Meidericher SV,TSV 1860 Munchen,3 - 0
+43,5,1963-10-05,VfB Stuttgart,1. FC Saarbrucken,3 - 1
+44,5,1963-10-05,1. FC Nurnberg,Karlsruher SC,2 - 4
+45,5,1963-10-05,Hamburger SV,Hertha BSC,5 - 1
+46,5,1963-10-05,Eintracht Braunschweig,FC Schalke 04,4 - 3
+47,5,1963-10-05,Borussia Dortmund,Frankfurter SG Eintracht,3 - 0
+48,5,1963-10-12,Frankfurter SG Eintracht,1. FC Koln,2 - 1
+49,6,1963-10-12,Hertha BSC,Eintracht Braunschweig,1 - 2
+50,6,1963-10-12,TSV 1860 Munchen,1. FC Nurnberg,5 - 0
+51,6,1963-10-12,Karlsruher SC,VfB Stuttgart,0 - 3
+52,6,1963-10-12,FC Schalke 04,Meidericher SV,2 - 2
+53,6,1963-10-12,1. FC Saarbrucken,1. FC Kaiserslautern,2 - 4
+54,6,1963-10-12,Werder Bremen,Hamburger SV,4 - 2
+55,6,1963-10-12,Preussen Munster,Borussia Dortmund,1 - 2
+56,6,1963-10-19,Hamburger SV,TSV 1860 Munchen,5 - 0
+57,7,1963-10-19,1. FC Koln,Preussen Munster,3 - 0
+58,7,1963-10-19,1. FC Nurnberg,FC Schalke 04,0 - 2
+59,7,1963-10-19,VfB Stuttgart,Frankfurter SG Eintracht,0 - 0
+60,7,1963-10-19,Meidericher SV,1. FC Saarbrucken,3 - 1
+61,7,1963-10-19,1. FC Kaiserslautern,Karlsruher SC,1 - 0
+62,7,1963-10-19,Eintracht Braunschweig,Werder Bremen,1 - 1
+63,7,1963-10-19,Borussia Dortmund,Hertha BSC,7 - 2
+64,7,1963-10-26,VfB Stuttgart,Borussia Dortmund,2 - 1
+65,8,1963-10-26,FC Schalke 04,Werder Bremen,2 - 3
+66,8,1963-10-26,Hamburger SV,Eintracht Braunschweig,2 - 1
+67,8,1963-10-26,1. FC Koln,Meidericher SV,3 - 3
+68,8,1963-10-26,1. FC Nurnberg,1. FC Kaiserslautern,0 - 5
+69,8,1963-10-26,Preussen Munster,TSV 1860 Munchen,0 - 0
+70,8,1963-10-26,Hertha BSC,Frankfurter SG Eintracht,1 - 3
+71,8,1963-10-26,1. FC Saarbrucken,Karlsruher SC,1 - 3
+72,8,1963-11-08,Eintracht Braunschweig,1. FC Koln,1 - 1
+73,9,1963-11-09,1. FC Kaiserslautern,VfB Stuttgart,1 - 3
+74,9,1963-11-09,Meidericher SV,Hamburger SV,4 - 0
+75,9,1963-11-09,Frankfurter SG Eintracht,FC Schalke 04,4 - 2
+76,9,1963-11-09,TSV 1860 Munchen,1. FC Saarbrucken,7 - 1
+77,9,1963-11-09,Karlsruher SC,Preussen Munster,4 - 2
+78,9,1963-11-09,Werder Bremen,Hertha BSC,2 - 2
+79,9,1963-11-09,Borussia Dortmund,1. FC Nurnberg,3 - 1
+80,9,1963-11-16,1. FC Koln,Hamburger SV,4 - 1
+81,10,1963-11-16,Eintracht Braunschweig,Meidericher SV,0 - 0
+82,10,1963-11-16,1. FC Saarbrucken,Preussen Munster,1 - 1
+83,10,1963-11-16,VfB Stuttgart,1. FC Nurnberg,1 - 0
+84,10,1963-11-16,TSV 1860 Munchen,Karlsruher SC,1 - 0
+85,10,1963-11-16,Werder Bremen,Frankfurter SG Eintracht,4 - 1
+86,10,1963-11-16,Borussia Dortmund,1. FC Kaiserslautern,9 - 3
+87,10,1963-11-16,FC Schalke 04,Hertha BSC,1 - 0
+88,10,1963-11-23,1. FC Nurnberg,1. FC Koln,2 - 2
+89,11,1963-11-23,Hamburger SV,VfB Stuttgart,1 - 1
+90,11,1963-11-23,Meidericher SV,Borussia Dortmund,3 - 3
+91,11,1963-11-23,Preussen Munster,FC Schalke 04,2 - 2
+92,11,1963-11-23,1. FC Kaiserslautern,Eintracht Braunschweig,2 - 1
+93,11,1963-11-23,Hertha BSC,1. FC Saarbrucken,3 - 2
+94,11,1963-11-23,Karlsruher SC,Werder Bremen,1 - 1
+95,11,1963-11-23,Frankfurter SG Eintracht,TSV 1860 Munchen,5 - 2
+96,11,1963-11-30,1. FC Nurnberg,Meidericher SV,2 - 0
+97,12,1963-11-30,Hertha BSC,Karlsruher SC,2 - 3
+98,12,1963-11-30,1. FC Kaiserslautern,Hamburger SV,3 - 2
+99,12,1963-11-30,VfB Stuttgart,Eintracht Braunschweig,5 - 0
+100,12,1963-11-30,Werder Bremen,1. FC Saarbrucken,0 - 3
+101,12,1963-11-30,Frankfurter SG Eintracht,Preussen Munster,3 - 0
+102,12,1963-11-30,FC Schalke 04,TSV 1860 Munchen,2 - 1
+103,12,1963-11-30,Borussia Dortmund,1. FC Koln,2 - 3
+104,12,1963-12-07,Meidericher SV,VfB Stuttgart,3 - 0
+105,13,1963-12-07,Preussen Munster,Werder Bremen,1 - 3
+106,13,1963-12-07,Karlsruher SC,FC Schalke 04,1 - 1
+107,13,1963-12-07,TSV 1860 Munchen,Hertha BSC,1 - 2
+108,13,1963-12-07,1. FC Saarbrucken,Frankfurter SG Eintracht,0 - 4
+109,13,1963-12-07,1. FC Koln,1. FC Kaiserslautern,5 - 1
+110,13,1963-12-07,Eintracht Braunschweig,1. FC Nurnberg,2 - 0
+111,13,1963-12-21,Hamburger SV,Borussia Dortmund,2 - 1
+112,13,1963-12-14,1. FC Nurnberg,Hamburger SV,3 - 2
+113,14,1963-12-14,Frankfurter SG Eintracht,Karlsruher SC,0 - 3
+114,14,1963-12-14,Werder Bremen,TSV 1860 Munchen,4 - 1
+115,14,1963-12-14,1. FC Kaiserslautern,Meidericher SV,1 - 1
+116,14,1963-12-14,FC Schalke 04,1. FC Saarbrucken,4 - 1
+117,14,1963-12-14,VfB Stuttgart,1. FC Koln,0 - 1
+118,14,1963-12-14,Hertha BSC,Preussen Munster,2 - 0
+119,14,1963-12-14,Borussia Dortmund,Eintracht Braunschweig,3 - 0
+120,14,1964-01-11,Borussia Dortmund,Werder Bremen,4 - 3
+121,15,1964-01-11,1. FC Koln,1. FC Saarbrucken,1 - 3
+122,15,1964-01-11,1. FC Kaiserslautern,Frankfurter SG Eintracht,1 - 1
+123,15,1964-01-11,Hamburger SV,Preussen Munster,5 - 0
+124,15,1964-01-11,Meidericher SV,Karlsruher SC,2 - 0
+125,15,1964-01-11,1. FC Nurnberg,Hertha BSC,2 - 3
+126,15,1964-01-11,Eintracht Braunschweig,TSV 1860 Munchen,0 - 1
+127,15,1964-02-08,VfB Stuttgart,FC Schalke 04,2 - 0
+128,15,1964-01-18,TSV 1860 Munchen,Borussia Dortmund,6 - 1
+129,16,1964-01-18,Karlsruher SC,1. FC Koln,2 - 2
+130,16,1964-01-18,FC Schalke 04,1. FC Kaiserslautern,4 - 0
+131,16,1964-01-18,Hertha BSC,VfB Stuttgart,0 - 2
+132,16,1964-01-18,Preussen Munster,Eintracht Braunschweig,0 - 2
+133,16,1964-01-18,Werder Bremen,1. FC Nurnberg,2 - 1
+134,16,1964-02-08,1. FC Saarbrucken,Hamburger SV,1 - 1
+135,16,1964-02-08,Frankfurter SG Eintracht,Meidericher SV,2 - 2
+136,16,1964-01-25,1. FC Koln,TSV 1860 Munchen,2 - 2
+137,17,1964-01-25,Hamburger SV,Karlsruher SC,1 - 1
+138,17,1964-01-25,1. FC Nurnberg,Frankfurter SG Eintracht,1 - 0
+139,17,1964-01-25,Borussia Dortmund,FC Schalke 04,3 - 0
+140,17,1964-01-25,Meidericher SV,Preussen Munster,0 - 0
+141,17,1964-01-25,VfB Stuttgart,Werder Bremen,2 - 0
+142,17,1964-01-25,Eintracht Braunschweig,1. FC Saarbrucken,3 - 1
+143,17,1964-02-08,1. FC Kaiserslautern,Hertha BSC,3 - 0
+144,17,1964-02-01,FC Schalke 04,1. FC Koln,2 - 3
+145,18,1964-02-01,Werder Bremen,1. FC Kaiserslautern,2 - 0
+146,18,1964-02-01,Karlsruher SC,Eintracht Braunschweig,3 - 1
+147,18,1964-02-08,Preussen Munster,1. FC Nurnberg,0 - 1
+148,18,1964-03-26,TSV 1860 Munchen,VfB Stuttgart,1 - 1
+149,18,1964-03-27,Hertha BSC,Meidericher SV,5 - 2
+150,18,1964-03-30,1. FC Saarbrucken,Borussia Dortmund,2 - 1
+151,18,1964-03-30,Frankfurter SG Eintracht,Hamburger SV,2 - 2
+152,18,1964-02-15,Hamburger SV,FC Schalke 04,3 - 1
+153,19,1964-02-15,1. FC Nurnberg,1. FC Saarbrucken,2 - 0
+154,19,1964-02-15,1. FC Koln,Hertha BSC,3 - 1
+155,19,1964-02-15,Borussia Dortmund,Karlsruher SC,3 - 2
+156,19,1964-02-15,1. FC Kaiserslautern,TSV 1860 Munchen,2 - 1
+157,19,1964-02-15,Eintracht Braunschweig,Frankfurter SG Eintracht,0 - 3
+158,19,1964-02-15,VfB Stuttgart,Preussen Munster,0 - 3
+159,19,1964-02-15,Meidericher SV,Werder Bremen,1 - 0
+160,19,1964-02-22,Werder Bremen,1. FC Koln,1 - 1
+161,20,1964-02-22,Preussen Munster,1. FC Kaiserslautern,1 - 0
+162,20,1964-02-22,Hertha BSC,Hamburger SV,1 - 2
+163,20,1964-02-22,Karlsruher SC,1. FC Nurnberg,1 - 3
+164,20,1964-02-22,FC Schalke 04,Eintracht Braunschweig,2 - 0
+165,20,1964-02-22,Frankfurter SG Eintracht,Borussia Dortmund,2 - 1
+166,20,1964-02-22,1. FC Saarbrucken,VfB Stuttgart,0 - 1
+167,20,1964-03-31,TSV 1860 Munchen,Meidericher SV,0 - 0
+168,20,1964-02-29,1. FC Koln,Frankfurter SG Eintracht,1 - 1
+169,21,1964-02-29,1. FC Nurnberg,TSV 1860 Munchen,2 - 2
+170,21,1964-02-29,VfB Stuttgart,Karlsruher SC,4 - 1
+171,21,1964-02-29,Meidericher SV,FC Schalke 04,3 - 0
+172,21,1964-02-29,Borussia Dortmund,Preussen Munster,0 - 0
+173,21,1964-02-29,1. FC Kaiserslautern,1. FC Saarbrucken,2 - 4
+174,21,1964-03-26,Hamburger SV,Werder Bremen,1 - 1
+175,21,1964-03-30,Eintracht Braunschweig,Hertha BSC,1 - 1
+176,21,1964-03-07,TSV 1860 Munchen,Hamburger SV,9 - 2
+177,22,1964-03-07,Preussen Munster,1. FC Koln,0 - 2
+178,22,1964-03-07,FC Schalke 04,1. FC Nurnberg,4 - 1
+179,22,1964-03-07,Frankfurter SG Eintracht,VfB Stuttgart,3 - 2
+180,22,1964-03-07,Hertha BSC,Borussia Dortmund,0 - 0
+181,22,1964-03-07,1. FC Saarbrucken,Meidericher SV,0 - 2
+182,22,1964-03-07,Karlsruher SC,1. FC Kaiserslautern,5 - 1
+183,22,1964-03-07,Werder Bremen,Eintracht Braunschweig,2 - 3
+184,22,1964-03-14,Borussia Dortmund,VfB Stuttgart,7 - 1
+185,23,1964-03-14,Werder Bremen,FC Schalke 04,1 - 0
+186,23,1964-03-14,Eintracht Braunschweig,Hamburger SV,2 - 1
+187,23,1964-03-14,Meidericher SV,1. FC Koln,2 - 2
+188,23,1964-03-14,1. FC Kaiserslautern,1. FC Nurnberg,3 - 1
+189,23,1964-03-14,TSV 1860 Munchen,Preussen Munster,3 - 1
+190,23,1964-03-14,Frankfurter SG Eintracht,Hertha BSC,4 - 0
+191,23,1964-03-14,Karlsruher SC,1. FC Saarbrucken,2 - 2
+192,23,1964-03-21,1. FC Koln,Eintracht Braunschweig,4 - 1
+193,24,1964-03-21,VfB Stuttgart,1. FC Kaiserslautern,4 - 0
+194,24,1964-03-21,Hamburger SV,Meidericher SV,3 - 3
+195,24,1964-03-21,FC Schalke 04,Frankfurter SG Eintracht,1 - 2
+196,24,1964-03-21,1. FC Saarbrucken,TSV 1860 Munchen,1 - 2
+197,24,1964-03-21,Preussen Munster,Karlsruher SC,0 - 0
+198,24,1964-03-21,1. FC Nurnberg,Borussia Dortmund,4 - 0
+199,24,1964-04-15,Hertha BSC,Werder Bremen,5 - 2
+200,24,1964-04-04,Hamburger SV,1. FC Koln,1 - 1
+201,25,1964-04-04,Meidericher SV,Eintracht Braunschweig,5 - 1
+202,25,1964-04-04,Preussen Munster,1. FC Saarbrucken,2 - 1
+203,25,1964-04-04,1. FC Kaiserslautern,Borussia Dortmund,0 - 1
+204,25,1964-04-04,Karlsruher SC,TSV 1860 Munchen,1 - 0
+205,25,1964-04-04,Hertha BSC,FC Schalke 04,1 - 0
+206,25,1964-04-04,1. FC Nurnberg,VfB Stuttgart,0 - 0
+207,25,1964-04-04,Frankfurter SG Eintracht,Werder Bremen,7 - 0
+208,25,1964-04-11,1. FC Koln,1. FC Nurnberg,5 - 0
+209,26,1964-04-11,VfB Stuttgart,Hamburger SV,2 - 2
+210,26,1964-04-11,Borussia Dortmund,Meidericher SV,0 - 0
+211,26,1964-04-11,TSV 1860 Munchen,Frankfurter SG Eintracht,1 - 1
+212,26,1964-04-11,FC Schalke 04,Preussen Munster,1 - 2
+213,26,1964-04-11,Eintracht Braunschweig,1. FC Kaiserslautern,0 - 1
+214,26,1964-04-11,1. FC Saarbrucken,Hertha BSC,3 - 0
+215,26,1964-04-11,Werder Bremen,Karlsruher SC,0 - 0
+216,26,1964-04-18,1. FC Koln,Borussia Dortmund,5 - 2
+217,27,1964-04-18,Meidericher SV,1. FC Nurnberg,0 - 0
+218,27,1964-04-18,Eintracht Braunschweig,VfB Stuttgart,2 - 0
+219,27,1964-04-18,Karlsruher SC,Hertha BSC,1 - 1
+220,27,1964-04-18,TSV 1860 Munchen,FC Schalke 04,7 - 1
+221,27,1964-04-18,Hamburger SV,1. FC Kaiserslautern,7 - 3
+222,27,1964-04-18,1. FC Saarbrucken,Werder Bremen,3 - 2
+223,27,1964-04-18,Preussen Munster,Frankfurter SG Eintracht,1 - 3
+224,27,1964-04-25,VfB Stuttgart,Meidericher SV,1 - 2
+225,28,1964-04-25,1. FC Kaiserslautern,1. FC Koln,3 - 3
+226,28,1964-04-25,Frankfurter SG Eintracht,1. FC Saarbrucken,3 - 1
+227,28,1964-04-25,Hertha BSC,TSV 1860 Munchen,3 - 1
+228,28,1964-04-25,1. FC Nurnberg,Eintracht Braunschweig,1 - 0
+229,28,1964-04-25,Werder Bremen,Preussen Munster,4 - 2
+230,28,1964-04-25,FC Schalke 04,Karlsruher SC,2 - 1
+231,28,1964-05-05,Borussia Dortmund,Hamburger SV,5 - 2
+232,28,1964-05-09,1. FC Koln,VfB Stuttgart,2 - 1
+233,29,1964-05-09,Hamburger SV,1. FC Nurnberg,2 - 2
+234,29,1964-05-09,Eintracht Braunschweig,Borussia Dortmund,2 - 0
+235,29,1964-05-09,Karlsruher SC,Frankfurter SG Eintracht,1 - 2
+236,29,1964-05-09,TSV 1860 Munchen,Werder Bremen,3 - 2
+237,29,1964-05-09,1. FC Saarbrucken,FC Schalke 04,1 - 1
+238,29,1964-05-09,Preussen Munster,Hertha BSC,4 - 2
+239,29,1964-05-09,Meidericher SV,1. FC Kaiserslautern,3 - 0

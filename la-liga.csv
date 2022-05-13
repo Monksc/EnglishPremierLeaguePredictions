@@ -1,0 +1,381 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+2,1,12/09/2020 14:00,Municipal de Ipurua,SD Eibar,RC Celta,0 - 0
+1,1,12/09/2020 16:30,Nuevo Los Cármenes,Granada CF,Athletic Club,2 - 0
+3,1,12/09/2020 19:00,Ramón de Carranza,Cádiz CF,CA Osasuna,0 - 2
+10,1,13/09/2020 12:00,Mendizorroza,Deportivo Alavés,Real Betis,0 - 1
+7,1,13/09/2020 14:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Sociedad,1 - 1
+8,1,13/09/2020 16:30,Estadio de la Cerámica,Villarreal CF,SD Huesca,1 - 1
+9,1,13/09/2020 19:00,Camp de Mestalla,Valencia CF,Levante UD,4 - 2
+12,2,19/09/2020 14:00,Estadio de la Cerámica,Villarreal CF,SD Eibar,2 - 1
+11,2,19/09/2020 16:30,Coliseum Alfonso Pérez,Getafe CF,CA Osasuna,1 - 0
+13,2,19/09/2020 19:00,Estadio Abanca Balaídos,RC Celta,Valencia CF,2 - 1
+17,2,20/09/2020 14:00,El Alcoraz,SD Huesca,Cádiz CF,0 - 2
+18,2,20/09/2020 16:30,Nuevo Los Cármenes,Granada CF,Deportivo Alavés,2 - 1
+20,2,20/09/2020 16:30,Estadio Benito Villamarín,Real Betis,Real Valladolid CF,2 - 0
+19,2,20/09/2020 19:00,Reale Arena,Real Sociedad,Real Madrid,0 - 0
+21,3,26/09/2020 11:00,Mendizorroza,Deportivo Alavés,Getafe CF,0 - 0
+28,3,26/09/2020 14:00,Camp de Mestalla,Valencia CF,SD Huesca,1 - 1
+30,3,26/09/2020 16:30,Estadio Martínez Valero,Elche CF,Real Sociedad,0 - 3
+24,3,26/09/2020 19:00,Estadio Benito Villamarín,Real Betis,Real Madrid,2 - 3
+27,3,27/09/2020 10:00,Estadio El Sadar,CA Osasuna,Levante UD,1 - 3
+25,3,27/09/2020 12:00,Municipal de Ipurua,SD Eibar,Athletic Club,1 - 2
+22,3,27/09/2020 14:00,Wanda Metropolitano,Atlético de Madrid,Granada CF,6 - 1
+26,3,27/09/2020 16:30,Ramón de Carranza,Cádiz CF,Sevilla FC,1 - 3
+29,3,27/09/2020 16:30,Estadio Municipal José Zorrilla,Real Valladolid CF,RC Celta,1 - 1
+23,3,27/09/2020 19:00,Camp Nou,FC Barcelona,Villarreal CF,4 - 0
+38,4,29/09/2020 17:00,Reale Arena,Real Sociedad,Valencia CF,0 - 1
+34,4,29/09/2020 19:30,Coliseum Alfonso Pérez,Getafe CF,Real Betis,3 - 0
+36,4,30/09/2020 17:00,El Alcoraz,SD Huesca,Atlético de Madrid,0 - 0
+40,4,30/09/2020 17:00,Estadio de la Cerámica,Villarreal CF,Deportivo Alavés,3 - 1
+33,4,30/09/2020 19:30,Municipal de Ipurua,SD Eibar,Elche CF,0 - 1
+37,4,30/09/2020 19:30,Estadio Alfredo Di Stéfano,Real Madrid,Real Valladolid CF,1 - 0
+31,4,01/10/2020 17:00,Estadio San Mamés,Athletic Club,Cádiz CF,0 - 1
+39,4,01/10/2020 17:00,Ramón Sánchez-Pizjuán,Sevilla FC,Levante UD,1 - 0
+32,4,01/10/2020 19:30,Estadio Abanca Balaídos,RC Celta,FC Barcelona,0 - 3
+49,5,03/10/2020 11:00,Estadio Municipal José Zorrilla,Real Valladolid CF,SD Eibar,1 - 2
+42,5,03/10/2020 14:00,Wanda Metropolitano,Atlético de Madrid,Villarreal CF,0 - 0
+47,5,03/10/2020 16:30,Reale Arena,Real Sociedad,Getafe CF,3 - 0
+50,5,03/10/2020 16:30,Estadio Martínez Valero,Elche CF,SD Huesca,0 - 0
+48,5,03/10/2020 19:00,Camp de Mestalla,Valencia CF,Real Betis,0 - 2
+46,5,04/10/2020 10:00,Estadio El Sadar,CA Osasuna,RC Celta,2 - 0
+41,5,04/10/2020 12:00,Mendizorroza,Deportivo Alavés,Athletic Club,1 - 0
+45,5,04/10/2020 14:00,Estadio de la Cerámica,Levante UD,Real Madrid,0 - 2
+44,5,04/10/2020 16:30,Ramón de Carranza,Cádiz CF,Granada CF,1 - 1
+43,5,04/10/2020 19:00,Camp Nou,FC Barcelona,Sevilla FC,1 - 1
+57,6,17/10/2020 11:00,Nuevo Los Cármenes,Granada CF,Sevilla FC,1 - 0
+54,6,17/10/2020 14:00,Estadio Abanca Balaídos,RC Celta,Atlético de Madrid,0 - 2
+59,6,17/10/2020 16:30,Estadio Alfredo Di Stéfano,Real Madrid,Cádiz CF,0 - 1
+56,6,17/10/2020 19:00,Coliseum Alfonso Pérez,Getafe CF,FC Barcelona,1 - 0
+52,6,18/10/2020 00:00,Estadio San Mamés,Athletic Club,Levante UD,2 - 0
+55,6,18/10/2020 10:00,Municipal de Ipurua,SD Eibar,CA Osasuna,0 - 0
+60,6,18/10/2020 14:00,Estadio de la Cerámica,Villarreal CF,Valencia CF,2 - 1
+51,6,18/10/2020 16:30,Mendizorroza,Deportivo Alavés,Elche CF,0 - 2
+58,6,18/10/2020 16:30,El Alcoraz,SD Huesca,Real Valladolid CF,2 - 2
+53,6,18/10/2020 19:00,Estadio Benito Villamarín,Real Betis,Real Sociedad,0 - 3
+70,7,23/10/2020 19:00,Estadio Martínez Valero,Elche CF,Valencia CF,2 - 1
+62,7,24/10/2020 14:00,Camp Nou,FC Barcelona,Real Madrid,1 - 3
+66,7,24/10/2020 16:30,Estadio El Sadar,CA Osasuna,Athletic Club,1 - 0
+68,7,24/10/2020 16:30,Ramón Sánchez-Pizjuán,Sevilla FC,SD Eibar,0 - 1
+61,7,24/10/2020 19:00,Wanda Metropolitano,Atlético de Madrid,Real Betis,2 - 0
+69,7,25/10/2020 13:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Deportivo Alavés,0 - 2
+64,7,25/10/2020 15:00,Ramón de Carranza,Cádiz CF,Villarreal CF,0 - 0
+63,7,25/10/2020 17:30,Coliseum Alfonso Pérez,Getafe CF,Granada CF,0 - 1
+67,7,25/10/2020 20:00,Reale Arena,Real Sociedad,SD Huesca,4 - 1
+65,7,26/10/2020 20:00,Estadio de la Cerámica,Levante UD,RC Celta,1 - 1
+75,8,30/10/2020 20:00,Municipal de Ipurua,SD Eibar,Cádiz CF,0 - 2
+78,8,31/10/2020 13:00,Estadio Alfredo Di Stéfano,Real Madrid,SD Huesca,4 - 1
+72,8,31/10/2020 15:15,Estadio San Mamés,Athletic Club,Sevilla FC,2 - 1
+77,8,31/10/2020 17:30,Estadio El Sadar,CA Osasuna,Atlético de Madrid,1 - 3
+71,8,31/10/2020 20:00,Mendizorroza,Deportivo Alavés,FC Barcelona,1 - 1
+73,8,01/11/2020 13:00,Estadio Benito Villamarín,Real Betis,Elche CF,3 - 1
+74,8,01/11/2020 15:00,Estadio Abanca Balaídos,RC Celta,Real Sociedad,1 - 4
+76,8,01/11/2020 17:30,Nuevo Los Cármenes,Granada CF,Levante UD,1 - 1
+79,8,01/11/2020 20:00,Camp de Mestalla,Valencia CF,Getafe CF,2 - 2
+80,8,02/11/2020 20:00,Estadio de la Cerámica,Villarreal CF,Real Valladolid CF,2 - 0
+90,9,06/11/2020 20:00,Estadio Martínez Valero,Elche CF,RC Celta,1 - 1
+84,9,07/11/2020 13:00,El Alcoraz,SD Huesca,SD Eibar,1 - 1
+82,9,07/11/2020 17:30,Camp Nou,FC Barcelona,Real Betis,5 - 2
+87,9,07/11/2020 17:30,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,1 - 0
+81,9,07/11/2020 20:00,Wanda Metropolitano,Atlético de Madrid,Cádiz CF,4 - 0
+83,9,08/11/2020 13:00,Coliseum Alfonso Pérez,Getafe CF,Villarreal CF,1 - 3
+86,9,08/11/2020 15:15,Reale Arena,Real Sociedad,Granada CF,2 - 0
+85,9,08/11/2020 17:30,Estadio Ciutat de València,Levante UD,Deportivo Alavés,1 - 1
+89,9,08/11/2020 17:30,Estadio Municipal José Zorrilla,Real Valladolid CF,Athletic Club,2 - 1
+88,9,08/11/2020 20:00,Camp de Mestalla,Valencia CF,Real Madrid,4 - 1
+98,10,20/11/2020 20:00,Estadio El Sadar,CA Osasuna,SD Huesca,1 - 1
+97,10,21/11/2020 13:00,Estadio Ciutat de València,Levante UD,Elche CF,1 - 1
+100,10,21/11/2020 15:15,Estadio de la Cerámica,Villarreal CF,Real Madrid,1 - 1
+99,10,21/11/2020 17:30,Ramón Sánchez-Pizjuán,Sevilla FC,RC Celta,4 - 2
+93,10,21/11/2020 20:00,Wanda Metropolitano,Atlético de Madrid,FC Barcelona,1 - 0
+94,10,22/11/2020 13:00,Municipal de Ipurua,SD Eibar,Getafe CF,0 - 0
+95,10,22/11/2020 15:15,Ramón de Carranza,Cádiz CF,Real Sociedad,0 - 1
+96,10,22/11/2020 17:30,Nuevo Los Cármenes,Granada CF,Real Valladolid CF,1 - 3
+91,10,22/11/2020 20:00,Mendizorroza,Deportivo Alavés,Valencia CF,2 - 2
+92,10,23/11/2020 20:00,Estadio San Mamés,Athletic Club,Real Betis,4 - 0
+109,11,27/11/2020 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Levante UD,1 - 1
+110,11,28/11/2020 13:00,Estadio Martínez Valero,Elche CF,Cádiz CF,1 - 1
+108,11,28/11/2020 15:15,Camp de Mestalla,Valencia CF,Atlético de Madrid,0 - 1
+105,11,28/11/2020 17:30,El Alcoraz,SD Huesca,Sevilla FC,0 - 1
+106,11,28/11/2020 20:00,Estadio Alfredo Di Stéfano,Real Madrid,Deportivo Alavés,1 - 2
+101,11,29/11/2020 13:00,Camp Nou,FC Barcelona,CA Osasuna,4 - 0
+104,11,29/11/2020 15:15,Coliseum Alfonso Pérez,Getafe CF,Athletic Club,1 - 1
+103,11,29/11/2020 17:30,Estadio Abanca Balaídos,RC Celta,Granada CF,3 - 1
+107,11,29/11/2020 20:00,Reale Arena,Real Sociedad,Villarreal CF,1 - 1
+102,11,30/11/2020 20:00,Estadio Benito Villamarín,Real Betis,SD Eibar,0 - 2
+112,12,04/12/2020 20:00,Estadio San Mamés,Athletic Club,RC Celta,0 - 2
+117,12,05/12/2020 13:00,Estadio Ciutat de València,Levante UD,Getafe CF,3 - 0
+119,12,05/12/2020 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,Real Madrid,0 - 1
+113,12,05/12/2020 17:30,Wanda Metropolitano,Atlético de Madrid,Real Valladolid CF,2 - 0
+115,12,05/12/2020 20:00,Ramón de Carranza,Cádiz CF,FC Barcelona,2 - 1
+116,12,06/12/2020 13:00,Nuevo Los Cármenes,Granada CF,SD Huesca,3 - 3
+118,12,06/12/2020 15:15,Estadio El Sadar,CA Osasuna,Real Betis,0 - 2
+120,12,06/12/2020 17:30,Estadio de la Cerámica,Villarreal CF,Elche CF,0 - 0
+111,12,06/12/2020 20:00,Mendizorroza,Deportivo Alavés,Real Sociedad,0 - 0
+114,12,07/12/2020 20:00,Municipal de Ipurua,SD Eibar,Valencia CF,0 - 0
+129,13,11/12/2020 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,CA Osasuna,3 - 2
+128,13,12/12/2020 13:00,Camp de Mestalla,Valencia CF,Athletic Club,2 - 2
+124,13,12/12/2020 15:15,Coliseum Alfonso Pérez,Getafe CF,Sevilla FC,0 - 1
+125,13,12/12/2020 17:30,El Alcoraz,SD Huesca,Deportivo Alavés,1 - 0
+126,13,12/12/2020 20:00,Estadio Alfredo Di Stéfano,Real Madrid,Atlético de Madrid,2 - 0
+127,13,13/12/2020 13:00,Reale Arena,Real Sociedad,SD Eibar,1 - 1
+122,13,13/12/2020 15:15,Estadio Benito Villamarín,Real Betis,Villarreal CF,1 - 1
+130,13,13/12/2020 17:30,Estadio Martínez Valero,Elche CF,Granada CF,0 - 1
+121,13,13/12/2020 20:00,Camp Nou,FC Barcelona,Levante UD,1 - 0
+123,13,14/12/2020 20:00,Estadio Abanca Balaídos,RC Celta,Cádiz CF,4 - 0
+182,13,15/12/2020 21:00,Estadio Alfredo Di Stéfano,Real Madrid,Athletic Club,3 - 1
+181,13,16/12/2020 20:00,Camp Nou,FC Barcelona,Real Sociedad,2 - 1
+131,14,18/12/2020 20:00,Estadio San Mamés,Athletic Club,SD Huesca,2 - 0
+132,14,19/12/2020 13:00,Wanda Metropolitano,Atlético de Madrid,Elche CF,3 - 1
+133,14,19/12/2020 15:15,Camp Nou,FC Barcelona,Valencia CF,2 - 2
+138,14,19/12/2020 17:30,Estadio Ciutat de València,Levante UD,Real Sociedad,2 - 1
+139,14,19/12/2020 17:30,Estadio El Sadar,CA Osasuna,Villarreal CF,1 - 3
+140,14,19/12/2020 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,Real Valladolid CF,1 - 1
+134,14,20/12/2020 13:00,Estadio Abanca Balaídos,RC Celta,Deportivo Alavés,2 - 0
+137,14,20/12/2020 15:15,Nuevo Los Cármenes,Granada CF,Real Betis,2 - 0
+136,14,20/12/2020 17:30,Ramón de Carranza,Cádiz CF,Getafe CF,0 - 2
+135,14,20/12/2020 20:00,Municipal de Ipurua,SD Eibar,Real Madrid,1 - 3
+147,15,22/12/2020 16:30,Camp de Mestalla,Valencia CF,Sevilla FC,0 - 1
+150,15,22/12/2020 16:30,Estadio Martínez Valero,Elche CF,CA Osasuna,2 - 2
+144,15,22/12/2020 18:45,El Alcoraz,SD Huesca,Levante UD,1 - 1
+146,15,22/12/2020 18:45,Reale Arena,Real Sociedad,Atlético de Madrid,0 - 2
+148,15,22/12/2020 21:00,Estadio Municipal José Zorrilla,Real Valladolid CF,FC Barcelona,0 - 3
+149,15,22/12/2020 21:00,Estadio de la Cerámica,Villarreal CF,Athletic Club,1 - 1
+143,15,23/12/2020 16:30,Coliseum Alfonso Pérez,Getafe CF,RC Celta,1 - 1
+145,15,23/12/2020 18:45,Estadio Alfredo Di Stéfano,Real Madrid,Granada CF,2 - 0
+141,15,23/12/2020 21:00,Mendizorroza,Deportivo Alavés,SD Eibar,2 - 1
+142,15,23/12/2020 21:00,Estadio Benito Villamarín,Real Betis,Cádiz CF,1 - 0
+159,16,29/12/2020 16:00,Ramón Sánchez-Pizjuán,Sevilla FC,Villarreal CF,2 - 0
+153,16,29/12/2020 18:15,Camp Nou,FC Barcelona,SD Eibar,1 - 1
+155,16,29/12/2020 20:30,Ramón de Carranza,Cádiz CF,Real Valladolid CF,0 - 0
+157,16,29/12/2020 20:30,Estadio Ciutat de València,Levante UD,Real Betis,4 - 3
+156,16,30/12/2020 16:00,Nuevo Los Cármenes,Granada CF,Valencia CF,2 - 1
+152,16,30/12/2020 18:15,Wanda Metropolitano,Atlético de Madrid,Getafe CF,1 - 0
+154,16,30/12/2020 18:15,Estadio Abanca Balaídos,RC Celta,SD Huesca,2 - 1
+160,16,30/12/2020 20:30,Estadio Martínez Valero,Elche CF,Real Madrid,1 - 1
+151,16,31/12/2020 13:00,Estadio San Mamés,Athletic Club,Real Sociedad,0 - 1
+158,16,31/12/2020 15:15,Estadio El Sadar,CA Osasuna,Deportivo Alavés,1 - 1
+170,17,02/01/2021 13:00,Estadio de la Cerámica,Villarreal CF,Levante UD,2 - 1
+163,17,02/01/2021 15:15,Estadio Benito Villamarín,Real Betis,Sevilla FC,1 - 1
+165,17,02/01/2021 17:30,Coliseum Alfonso Pérez,Getafe CF,Real Valladolid CF,0 - 1
+167,17,02/01/2021 20:00,Estadio Alfredo Di Stéfano,Real Madrid,RC Celta,2 - 0
+162,17,03/01/2021 13:00,Estadio San Mamés,Athletic Club,Elche CF,1 - 0
+161,17,03/01/2021 15:15,Mendizorroza,Deportivo Alavés,Atlético de Madrid,1 - 2
+164,17,03/01/2021 17:30,Municipal de Ipurua,SD Eibar,Granada CF,2 - 0
+168,17,03/01/2021 17:30,Reale Arena,Real Sociedad,CA Osasuna,1 - 1
+166,17,03/01/2021 20:00,El Alcoraz,SD Huesca,FC Barcelona,0 - 1
+169,17,04/01/2021 20:00,Camp de Mestalla,Valencia CF,Cádiz CF,1 - 1
+14,17,06/01/2021 20:00,Estadio San Mamés,Athletic Club,FC Barcelona,2 - 3
+172,18,08/01/2021 20:00,Estadio Abanca Balaídos,RC Celta,Villarreal CF,0 - 4
+178,18,09/01/2021 13:00,Ramón Sánchez-Pizjuán,Sevilla FC,Real Sociedad,3 - 2
+174,18,09/01/2021 17:30,Nuevo Los Cármenes,Granada CF,FC Barcelona,0 - 4
+177,18,09/01/2021 20:00,Estadio El Sadar,CA Osasuna,Real Madrid,0 - 0
+176,18,10/01/2021 13:00,Estadio Ciutat de València,Levante UD,SD Eibar,2 - 1
+173,18,10/01/2021 15:15,Ramón de Carranza,Cádiz CF,Deportivo Alavés,3 - 1
+179,18,10/01/2021 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Valencia CF,0 - 1
+180,18,11/01/2021 18:00,Estadio Martínez Valero,Elche CF,Getafe CF,1 - 3
+175,18,11/01/2021 20:00,El Alcoraz,SD Huesca,Real Betis,0 - 2
+35,18,12/01/2021 18:00,Nuevo Los Cármenes,Granada CF,CA Osasuna,2 - 0
+4,18,12/01/2021 20:30,Wanda Metropolitano,Atlético de Madrid,Sevilla FC,2 - 0
+187,19,19/01/2021 18:00,Ramón de Carranza,Cádiz CF,Levante UD,2 - 2
+189,19,19/01/2021 18:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Elche CF,2 - 2
+183,19,19/01/2021 20:30,Mendizorroza,Deportivo Alavés,Sevilla FC,1 - 2
+186,19,20/01/2021 18:00,Coliseum Alfonso Pérez,Getafe CF,SD Huesca,1 - 0
+184,19,20/01/2021 20:00,Estadio Benito Villamarín,Real Betis,RC Celta,2 - 1
+190,19,20/01/2021 20:30,Estadio de la Cerámica,Villarreal CF,Granada CF,2 - 2
+188,19,21/01/2021 18:00,Camp de Mestalla,Valencia CF,CA Osasuna,1 - 1
+185,19,21/01/2021 20:30,Municipal de Ipurua,SD Eibar,Atlético de Madrid,1 - 2
+196,20,22/01/2021 20:00,Estadio Ciutat de València,Levante UD,Real Valladolid CF,2 - 2
+195,20,23/01/2021 13:00,El Alcoraz,SD Huesca,Villarreal CF,0 - 0
+199,20,23/01/2021 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,Cádiz CF,3 - 0
+198,20,23/01/2021 17:30,Reale Arena,Real Sociedad,Real Betis,2 - 2
+191,20,23/01/2021 20:00,Mendizorroza,Deportivo Alavés,Real Madrid,1 - 4
+197,20,24/01/2021 13:00,Estadio El Sadar,CA Osasuna,Granada CF,3 - 1
+200,20,24/01/2021 15:15,Estadio Martínez Valero,Elche CF,FC Barcelona,0 - 2
+194,20,24/01/2021 17:30,Estadio Abanca Balaídos,RC Celta,SD Eibar,1 - 1
+193,20,24/01/2021 20:00,Wanda Metropolitano,Atlético de Madrid,Valencia CF,3 - 1
+192,20,25/01/2021 20:00,Estadio San Mamés,Athletic Club,Getafe CF,5 - 1
+209,21,29/01/2021 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,SD Huesca,1 - 3
+203,21,30/01/2021 13:00,Municipal de Ipurua,SD Eibar,Sevilla FC,0 - 2
+207,21,30/01/2021 15:15,Estadio Alfredo Di Stéfano,Real Madrid,Levante UD,1 - 2
+208,21,30/01/2021 17:30,Camp de Mestalla,Valencia CF,Elche CF,1 - 0
+210,21,30/01/2021 20:00,Estadio de la Cerámica,Villarreal CF,Real Sociedad,1 - 1
+204,21,31/01/2021 13:00,Coliseum Alfonso Pérez,Getafe CF,Deportivo Alavés,0 - 0
+205,21,31/01/2021 15:15,Ramón de Carranza,Cádiz CF,Atlético de Madrid,2 - 4
+206,21,31/01/2021 17:30,Nuevo Los Cármenes,Granada CF,RC Celta,0 - 0
+201,21,31/01/2021 20:00,Camp Nou,FC Barcelona,Athletic Club,2 - 1
+202,21,01/02/2021 20:00,Estadio Benito Villamarín,Real Betis,CA Osasuna,1 - 0
+211,22,05/02/2021 20:00,Mendizorroza,Deportivo Alavés,Real Valladolid CF,1 - 0
+216,22,06/02/2021 13:00,Estadio Ciutat de València,Levante UD,Granada CF,2 - 2
+215,22,06/02/2021 15:15,El Alcoraz,SD Huesca,Real Madrid,1 - 2
+220,22,06/02/2021 17:30,Estadio Martínez Valero,Elche CF,Villarreal CF,2 - 2
+219,22,06/02/2021 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,Getafe CF,3 - 0
+218,22,07/02/2021 13:00,Reale Arena,Real Sociedad,Cádiz CF,4 - 1
+212,22,07/02/2021 15:15,Estadio San Mamés,Athletic Club,Valencia CF,1 - 1
+217,22,07/02/2021 17:30,Estadio El Sadar,CA Osasuna,SD Eibar,2 - 1
+214,22,07/02/2021 20:00,Estadio Benito Villamarín,Real Betis,FC Barcelona,2 - 3
+213,22,08/02/2021 20:00,Wanda Metropolitano,Atlético de Madrid,RC Celta,2 - 2
+6,22,09/02/2021 20:00,Estadio Alfredo Di Stéfano,Real Madrid,Getafe CF,2 - 0
+222,23,12/02/2021 20:00,Estadio Abanca Balaídos,RC Celta,Elche CF,3 - 1
+226,23,13/02/2021 13:00,Nuevo Los Cármenes,Granada CF,Atlético de Madrid,1 - 2
+229,23,13/02/2021 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,SD Huesca,1 - 0
+223,23,13/02/2021 17:30,Municipal de Ipurua,SD Eibar,Real Valladolid CF,1 - 1
+221,23,13/02/2021 20:00,Camp Nou,FC Barcelona,Deportivo Alavés,5 - 1
+224,23,14/02/2021 13:00,Coliseum Alfonso Pérez,Getafe CF,Real Sociedad,0 - 1
+228,23,14/02/2021 15:15,Estadio Alfredo Di Stéfano,Real Madrid,Valencia CF,2 - 0
+227,23,14/02/2021 17:30,Estadio Ciutat de València,Levante UD,CA Osasuna,0 - 1
+230,23,14/02/2021 20:00,Estadio de la Cerámica,Villarreal CF,Real Betis,1 - 2
+225,23,15/02/2021 20:00,Ramón de Carranza,Cádiz CF,Athletic Club,0 - 4
+15,23,17/02/2021 18:00,Estadio Ciutat de València,Levante UD,Atlético de Madrid,1 - 1
+234,24,19/02/2021 20:00,Estadio Benito Villamarín,Real Betis,Getafe CF,1 - 0
+240,24,20/02/2021 13:00,Estadio Martínez Valero,Elche CF,SD Eibar,1 - 0
+232,24,20/02/2021 15:15,Wanda Metropolitano,Atlético de Madrid,Levante UD,0 - 2
+238,24,20/02/2021 17:30,Camp de Mestalla,Valencia CF,RC Celta,2 - 0
+239,24,20/02/2021 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Madrid,0 - 1
+233,24,21/02/2021 13:00,Camp Nou,FC Barcelona,Cádiz CF,1 - 1
+237,24,21/02/2021 15:15,Reale Arena,Real Sociedad,Deportivo Alavés,4 - 0
+235,24,21/02/2021 17:30,El Alcoraz,SD Huesca,Granada CF,3 - 2
+231,24,21/02/2021 20:00,Estadio San Mamés,Athletic Club,Villarreal CF,1 - 1
+236,24,22/02/2021 20:00,Estadio El Sadar,CA Osasuna,Sevilla FC,0 - 2
+5,24,24/02/2021 18:00,Camp Nou,FC Barcelona,Elche CF,3 - 0
+247,25,26/02/2021 20:00,Estadio Ciutat de València,Levante UD,Athletic Club,1 - 1
+243,25,27/02/2021 13:00,Municipal de Ipurua,SD Eibar,SD Huesca,1 - 1
+249,25,27/02/2021 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,FC Barcelona,0 - 2
+241,25,27/02/2021 17:30,Mendizorroza,Deportivo Alavés,CA Osasuna,0 - 1
+244,25,27/02/2021 20:00,Coliseum Alfonso Pérez,Getafe CF,Valencia CF,3 - 0
+242,25,28/02/2021 13:00,Estadio Abanca Balaídos,RC Celta,Real Valladolid CF,1 - 1
+245,25,28/02/2021 15:15,Ramón de Carranza,Cádiz CF,Real Betis,0 - 1
+246,25,28/02/2021 17:30,Nuevo Los Cármenes,Granada CF,Elche CF,2 - 1
+250,25,28/02/2021 20:00,Estadio de la Cerámica,Villarreal CF,Atlético de Madrid,0 - 2
+248,25,01/03/2021 20:00,Estadio Alfredo Di Stéfano,Real Madrid,Real Sociedad,1 - 1
+258,26,05/03/2021 20:00,Camp de Mestalla,Valencia CF,Villarreal CF,2 - 1
+259,26,06/03/2021 13:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Getafe CF,2 - 1
+260,26,06/03/2021 15:15,Estadio Martínez Valero,Elche CF,Sevilla FC,2 - 1
+254,26,06/03/2021 17:30,Ramón de Carranza,Cádiz CF,SD Eibar,1 - 0
+256,26,06/03/2021 20:00,Estadio El Sadar,CA Osasuna,FC Barcelona,0 - 2
+255,26,07/03/2021 13:00,El Alcoraz,SD Huesca,RC Celta,3 - 4
+252,26,07/03/2021 15:15,Wanda Metropolitano,Atlético de Madrid,Real Madrid,1 - 1
+257,26,07/03/2021 17:30,Reale Arena,Real Sociedad,Levante UD,1 - 0
+251,26,07/03/2021 20:00,Estadio San Mamés,Athletic Club,Granada CF,2 - 1
+253,26,08/03/2021 20:00,Estadio Benito Villamarín,Real Betis,Deportivo Alavés,3 - 2
+171,26,10/03/2021 18:00,Wanda Metropolitano,Atlético de Madrid,Athletic Club,2 - 1
+267,27,12/03/2021 20:00,Estadio Ciutat de València,Levante UD,Valencia CF,1 - 0
+261,27,13/03/2021 13:00,Mendizorroza,Deportivo Alavés,Cádiz CF,1 - 1
+269,27,13/03/2021 15:15,Estadio Alfredo Di Stéfano,Real Madrid,Elche CF,2 - 1
+268,27,13/03/2021 17:30,Estadio El Sadar,CA Osasuna,Real Valladolid CF,0 - 0
+265,27,13/03/2021 20:00,Coliseum Alfonso Pérez,Getafe CF,Atlético de Madrid,0 - 0
+263,27,14/03/2021 13:00,Estadio Abanca Balaídos,RC Celta,Athletic Club,0 - 0
+266,27,14/03/2021 15:15,Nuevo Los Cármenes,Granada CF,Real Sociedad,1 - 0
+264,27,14/03/2021 17:30,Municipal de Ipurua,SD Eibar,Villarreal CF,1 - 3
+270,27,14/03/2021 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,Real Betis,1 - 0
+262,27,15/03/2021 20:00,Camp Nou,FC Barcelona,SD Huesca,4 - 1
+16,27,17/03/2021 18:00,Ramón Sánchez-Pizjuán,Sevilla FC,Elche CF,2 - 0
+273,28,19/03/2021 20:00,Estadio Benito Villamarín,Real Betis,Levante UD,2 - 0
+271,28,20/03/2021 13:00,Estadio San Mamés,Athletic Club,SD Eibar,1 - 1
+274,28,20/03/2021 15:15,Estadio Abanca Balaídos,RC Celta,Real Madrid,1 - 3
+276,28,20/03/2021 17:30,El Alcoraz,SD Huesca,CA Osasuna,0 - 0
+279,28,20/03/2021 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Sevilla FC,1 - 1
+275,28,21/03/2021 13:00,Coliseum Alfonso Pérez,Getafe CF,Elche CF,1 - 1
+278,28,21/03/2021 15:15,Camp de Mestalla,Valencia CF,Granada CF,2 - 1
+280,28,21/03/2021 15:15,Estadio de la Cerámica,Villarreal CF,Cádiz CF,2 - 1
+272,28,21/03/2021 17:30,Wanda Metropolitano,Atlético de Madrid,Deportivo Alavés,1 - 0
+277,28,21/03/2021 20:00,Reale Arena,Real Sociedad,FC Barcelona,1 - 6
+285,29,02/04/2021 19:00,Estadio Ciutat de València,Levante UD,SD Huesca,0 - 2
+284,29,03/04/2021 12:00,Nuevo Los Cármenes,Granada CF,Villarreal CF,0 - 3
+287,29,03/04/2021 14:15,Estadio Alfredo Di Stéfano,Real Madrid,SD Eibar,2 - 0
+286,29,03/04/2021 16:30,Estadio El Sadar,CA Osasuna,Getafe CF,0 - 0
+281,29,04/04/2021 12:00,Mendizorroza,Deportivo Alavés,RC Celta,1 - 3
+290,29,04/04/2021 14:15,Estadio Martínez Valero,Elche CF,Real Betis,1 - 1
+283,29,04/04/2021 16:30,Ramón de Carranza,Cádiz CF,Valencia CF,2 - 1
+289,29,04/04/2021 19:00,Ramón Sánchez-Pizjuán,Sevilla FC,Atlético de Madrid,1 - 0
+282,29,05/04/2021 19:00,Camp Nou,FC Barcelona,Real Valladolid CF,1 - 0
+288,29,07/04/2021 19:00,Reale Arena,Real Sociedad,Athletic Club,1 - 1
+296,30,09/04/2021 19:00,El Alcoraz,SD Huesca,Elche CF,3 - 1
+295,30,10/04/2021 12:00,Coliseum Alfonso Pérez,Getafe CF,Cádiz CF,0 - 1
+291,30,10/04/2021 14:15,Estadio San Mamés,Athletic Club,Deportivo Alavés,0 - 0
+294,30,10/04/2021 16:30,Municipal de Ipurua,SD Eibar,Levante UD,0 - 1
+297,30,10/04/2021 19:00,Estadio Alfredo Di Stéfano,Real Madrid,FC Barcelona,2 - 1
+300,30,11/04/2021 12:00,Estadio de la Cerámica,Villarreal CF,CA Osasuna,1 - 2
+298,30,11/04/2021 14:15,Camp de Mestalla,Valencia CF,Real Sociedad,2 - 2
+299,30,11/04/2021 16:30,Estadio Municipal José Zorrilla,Real Valladolid CF,Granada CF,1 - 2
+292,30,11/04/2021 19:00,Estadio Benito Villamarín,Real Betis,Atlético de Madrid,1 - 1
+293,30,12/04/2021 19:00,Estadio Abanca Balaídos,RC Celta,Sevilla FC,3 - 4
+329,31,18/04/2021 12:00,Estadio El Sadar,CA Osasuna,Elche CF,2 - 0
+330,31,18/04/2021 12:00,Reale Arena,Real Sociedad,Sevilla FC,1 - 2
+321,31,18/04/2021 14:15,Mendizorroza,Deportivo Alavés,SD Huesca,1 - 0
+323,31,18/04/2021 14:15,Wanda Metropolitano,Atlético de Madrid,SD Eibar,5 - 0
+325,31,18/04/2021 16:30,Estadio Benito Villamarín,Real Betis,Valencia CF,2 - 2
+327,31,18/04/2021 16:30,Ramón de Carranza,Cádiz CF,RC Celta,0 - 0
+326,31,18/04/2021 19:00,Coliseum Alfonso Pérez,Getafe CF,Real Madrid,0 - 0
+328,31,18/04/2021 19:00,Estadio Ciutat de València,Levante UD,Villarreal CF,1 - 5
+307,32,21/04/2021 17:00,Estadio Ciutat de València,Levante UD,Sevilla FC,0 - 1
+308,32,21/04/2021 17:00,Estadio El Sadar,CA Osasuna,Valencia CF,3 - 1
+304,32,21/04/2021 18:00,Estadio Benito Villamarín,Real Betis,Athletic Club,0 - 0
+301,32,21/04/2021 19:00,Mendizorroza,Deportivo Alavés,Villarreal CF,2 - 1
+310,32,21/04/2021 19:00,Estadio Martínez Valero,Elche CF,Real Valladolid CF,1 - 1
+305,32,21/04/2021 20:00,Ramón de Carranza,Cádiz CF,Real Madrid,0 - 3
+302,32,22/04/2021 17:00,Wanda Metropolitano,Atlético de Madrid,SD Huesca,2 - 0
+306,32,22/04/2021 19:00,Nuevo Los Cármenes,Granada CF,SD Eibar,4 - 1
+309,32,22/04/2021 19:00,Reale Arena,Real Sociedad,RC Celta,2 - 1
+303,32,22/04/2021 20:00,Camp Nou,FC Barcelona,Getafe CF,5 - 2
+320,33,24/04/2021 12:00,Estadio Martínez Valero,Elche CF,Levante UD,1 - 0
+318,33,24/04/2021 14:15,Estadio Municipal José Zorrilla,Real Valladolid CF,Cádiz CF,1 - 1
+317,33,24/04/2021 16:30,Camp de Mestalla,Valencia CF,Deportivo Alavés,1 - 1
+315,33,24/04/2021 19:00,Estadio Alfredo Di Stéfano,Real Madrid,Real Betis,0 - 0
+314,33,25/04/2021 12:00,El Alcoraz,SD Huesca,Getafe CF,0 - 2
+319,33,25/04/2021 14:15,Estadio de la Cerámica,Villarreal CF,FC Barcelona,1 - 2
+312,33,25/04/2021 16:30,Estadio Abanca Balaídos,RC Celta,CA Osasuna,2 - 1
+316,33,25/04/2021 16:30,Ramón Sánchez-Pizjuán,Sevilla FC,Granada CF,2 - 1
+311,33,25/04/2021 19:00,Estadio San Mamés,Athletic Club,Atlético de Madrid,2 - 1
+313,33,26/04/2021 19:00,Municipal de Ipurua,SD Eibar,Real Sociedad,0 - 1
+322,33,28/04/2021 17:00,Estadio San Mamés,Athletic Club,Real Valladolid CF,2 - 2
+324,33,29/04/2021 17:00,Camp Nou,FC Barcelona,Granada CF,1 - 2
+331,34,30/04/2021 19:00,Estadio Abanca Balaídos,RC Celta,Levante UD,2 - 0
+332,34,01/05/2021 12:00,Municipal de Ipurua,SD Eibar,Deportivo Alavés,3 - 0
+340,34,01/05/2021 14:15,Estadio Martínez Valero,Elche CF,Atlético de Madrid,0 - 1
+334,34,01/05/2021 16:30,El Alcoraz,SD Huesca,Real Sociedad,1 - 0
+335,34,01/05/2021 19:00,Estadio Alfredo Di Stéfano,Real Madrid,CA Osasuna,2 - 0
+338,34,02/05/2021 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Betis,1 - 1
+339,34,02/05/2021 14:15,Estadio de la Cerámica,Villarreal CF,Getafe CF,1 - 0
+333,34,02/05/2021 16:30,Nuevo Los Cármenes,Granada CF,Cádiz CF,0 - 1
+337,34,02/05/2021 19:00,Camp de Mestalla,Valencia CF,FC Barcelona,2 - 3
+336,34,03/05/2021 19:00,Ramón Sánchez-Pizjuán,Sevilla FC,Athletic Club,0 - 1
+348,35,07/05/2021 19:00,Reale Arena,Real Sociedad,Elche CF,2 - 0
+341,35,08/05/2021 12:00,Mendizorroza,Deportivo Alavés,Levante UD,2 - 2
+343,35,08/05/2021 14:15,Camp Nou,FC Barcelona,Atlético de Madrid,0 - 0
+346,35,08/05/2021 16:30,Ramón de Carranza,Cádiz CF,SD Huesca,2 - 1
+342,35,08/05/2021 19:00,Estadio San Mamés,Athletic Club,CA Osasuna,2 - 2
+345,35,09/05/2021 12:00,Coliseum Alfonso Pérez,Getafe CF,SD Eibar,0 - 1
+349,35,09/05/2021 14:15,Camp de Mestalla,Valencia CF,Real Valladolid CF,3 - 0
+350,35,09/05/2021 16:30,Estadio de la Cerámica,Villarreal CF,RC Celta,2 - 4
+347,35,09/05/2021 19:00,Estadio Alfredo Di Stéfano,Real Madrid,Sevilla FC,2 - 2
+344,35,10/05/2021 19:00,Estadio Benito Villamarín,Real Betis,Granada CF,2 - 1
+357,36,11/05/2021 17:00,Estadio El Sadar,CA Osasuna,Cádiz CF,3 - 2
+360,36,11/05/2021 18:00,Estadio Martínez Valero,Elche CF,Deportivo Alavés,0 - 2
+356,36,11/05/2021 20:00,Estadio Ciutat de València,Levante UD,FC Barcelona,3 - 3
+358,36,12/05/2021 17:00,Ramón Sánchez-Pizjuán,Sevilla FC,Valencia CF,1 - 0
+352,36,12/05/2021 18:00,Estadio Abanca Balaídos,RC Celta,Getafe CF,1 - 0
+355,36,12/05/2021 18:00,El Alcoraz,SD Huesca,Athletic Club,1 - 0
+351,36,12/05/2021 20:00,Wanda Metropolitano,Atlético de Madrid,Real Sociedad,2 - 1
+359,36,13/05/2021 17:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Villarreal CF,0 - 2
+353,36,13/05/2021 18:00,Municipal de Ipurua,SD Eibar,Real Betis,1 - 1
+354,36,13/05/2021 20:00,Nuevo Los Cármenes,Granada CF,Real Madrid,1 - 4
+370,37,16/05/2021 00:00,Estadio de la Cerámica,Villarreal CF,Sevilla FC,4 - 0
+361,37,16/05/2021 16:30,Mendizorroza,Deportivo Alavés,Granada CF,4 - 2
+362,37,16/05/2021 16:30,Estadio San Mamés,Athletic Club,Real Madrid,0 - 1
+363,37,16/05/2021 16:30,Wanda Metropolitano,Atlético de Madrid,CA Osasuna,2 - 1
+364,37,16/05/2021 16:30,Camp Nou,FC Barcelona,RC Celta,1 - 2
+365,37,16/05/2021 16:30,Estadio Benito Villamarín,Real Betis,SD Huesca,1 - 0
+366,37,16/05/2021 16:30,Coliseum Alfonso Pérez,Getafe CF,Levante UD,2 - 1
+367,37,16/05/2021 16:30,Ramón de Carranza,Cádiz CF,Elche CF,1 - 3
+368,37,16/05/2021 16:30,Reale Arena,Real Sociedad,Real Valladolid CF,4 - 1
+369,37,16/05/2021 16:30,Camp de Mestalla,Valencia CF,SD Eibar,4 - 1
+375,38,21/05/2021 19:00,Estadio Ciutat de València,Levante UD,Cádiz CF,2 - 2
+371,38,22/05/2021 16:00,Estadio Abanca Balaídos,RC Celta,Real Betis,2 - 3
+372,38,22/05/2021 16:00,Municipal de Ipurua,SD Eibar,FC Barcelona,0 - 1
+374,38,22/05/2021 16:00,El Alcoraz,SD Huesca,Valencia CF,0 - 0
+376,38,22/05/2021 16:00,Estadio El Sadar,CA Osasuna,Real Sociedad,0 - 1
+377,38,22/05/2021 16:00,Estadio Alfredo Di Stéfano,Real Madrid,Villarreal CF,2 - 1
+380,38,22/05/2021 16:00,Estadio Martínez Valero,Elche CF,Athletic Club,2 - 0
+379,38,23/05/2021 16:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Atlético de Madrid,1 - 2
+373,38,23/05/2021 16:30,Nuevo Los Cármenes,Granada CF,Getafe CF,0 - 0
+378,38,23/05/2021 19:00,Ramón Sánchez-Pizjuán,Sevilla FC,Deportivo Alavés,1 - 0

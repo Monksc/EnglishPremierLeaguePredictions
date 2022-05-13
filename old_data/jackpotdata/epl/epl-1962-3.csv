@@ -1,0 +1,553 @@
+,Round Number,Date,Home Team,Away Team,Result
+82321,0,1962-08-18,AFC Bournemouth,Peterborough United,3 - 3
+82322,0,1962-08-18,Barnsley,Swindon Town,1 - 1
+82323,0,1962-08-18,Bradford Park Avenue,Colchester United,1 - 1
+82324,0,1962-08-18,Bristol City,Millwall,2 - 2
+82325,0,1962-08-18,Coventry City,Notts County,2 - 0
+82326,0,1962-08-18,Crystal Palace,Halifax Town,0 - 0
+82327,0,1962-08-18,Hull City,Bristol Rovers,3 - 0
+82328,0,1962-08-18,Queens Park Rangers,Brighton & Hove Albion,2 - 2
+82329,0,1962-08-18,Reading,Shrewsbury Town,5 - 0
+82330,0,1962-08-18,Watford,Southend United,3 - 1
+82331,0,1962-08-18,Wrexham,Port Vale,0 - 1
+82348,0,1962-08-20,Colchester United,Bristol City,1 - 0
+82349,1,1962-08-20,Port Vale,Millwall,1 - 1
+82350,1,1962-08-20,Queens Park Rangers,Halifax Town,5 - 0
+82351,1,1962-08-20,Southend United,Reading,2 - 0
+82361,1,1962-08-21,Brighton & Hove Albion,Barnsley,2 - 0
+82362,1,1962-08-21,Bristol Rovers,Northampton Town,2 - 2
+82363,1,1962-08-21,Carlisle United,Peterborough United,1 - 4
+82364,1,1962-08-21,Swindon Town,Coventry City,4 - 1
+82380,1,1962-08-22,AFC Bournemouth,Bradford Park Avenue,2 - 2
+82381,1,1962-08-22,Shrewsbury Town,Crystal Palace,3 - 1
+82387,1,1962-08-23,Hull City,Wrexham,1 - 3
+82388,1,1962-08-23,Notts County,Watford,1 - 3
+82389,1,1962-08-24,Carlisle United,Queens Park Rangers,2 - 5
+82412,2,1962-08-25,Brighton & Hove Albion,Hull City,2 - 1
+82413,2,1962-08-25,Bristol Rovers,Crystal Palace,2 - 0
+82414,2,1962-08-25,Colchester United,Coventry City,0 - 0
+82415,2,1962-08-25,Halifax Town,Wrexham,2 - 0
+82416,2,1962-08-25,Millwall,Watford,6 - 0
+82417,2,1962-08-25,Notts County,AFC Bournemouth,2 - 0
+82418,2,1962-08-25,Peterborough United,Barnsley,4 - 2
+82419,2,1962-08-25,Port Vale,Reading,2 - 0
+82420,2,1962-08-25,Shrewsbury Town,Bristol City,3 - 3
+82421,2,1962-08-25,Southend United,Bradford Park Avenue,3 - 1
+82422,2,1962-08-25,Swindon Town,Northampton Town,2 - 3
+82435,2,1962-08-27,Halifax Town,Queens Park Rangers,1 - 4
+82436,3,1962-08-27,Millwall,Port Vale,0 - 0
+82437,3,1962-08-27,Peterborough United,Carlisle United,2 - 2
+82449,3,1962-08-28,Barnsley,Brighton & Hove Albion,2 - 0
+82450,3,1962-08-28,Bristol City,Colchester United,1 - 2
+82451,3,1962-08-28,Coventry City,Swindon Town,2 - 0
+82452,3,1962-08-28,Northampton Town,Bristol Rovers,2 - 0
+82453,3,1962-08-28,Watford,Notts County,4 - 0
+82470,3,1962-08-29,Bradford Park Avenue,AFC Bournemouth,1 - 1
+82471,3,1962-08-29,Crystal Palace,Shrewsbury Town,2 - 2
+82472,3,1962-08-29,Reading,Southend United,1 - 3
+82473,3,1962-08-29,Wrexham,Hull City,2 - 0
+82481,3,1962-08-31,Hull City,Carlisle United,3 - 1
+82482,4,1962-08-31,Reading,Halifax Town,4 - 2
+82505,4,1962-09-01,AFC Bournemouth,Colchester United,1 - 1
+82506,4,1962-09-01,Bradford Park Avenue,Millwall,2 - 2
+82507,4,1962-09-01,Bristol City,Port Vale,2 - 0
+82508,4,1962-09-01,Coventry City,Southend United,3 - 4
+82509,4,1962-09-01,Crystal Palace,Brighton & Hove Albion,2 - 2
+82510,4,1962-09-01,Northampton Town,Peterborough United,2 - 3
+82511,4,1962-09-01,Notts County,Barnsley,2 - 0
+82512,4,1962-09-01,Queens Park Rangers,Swindon Town,2 - 2
+82513,4,1962-09-01,Watford,Shrewsbury Town,4 - 3
+82514,4,1962-09-01,Wrexham,Bristol Rovers,5 - 2
+82529,4,1962-09-03,Millwall,Hull City,5 - 1
+82530,5,1962-09-03,Port Vale,Colchester United,4 - 2
+82531,5,1962-09-03,Queens Park Rangers,Crystal Palace,4 - 1
+82532,5,1962-09-03,Southend United,Shrewsbury Town,3 - 1
+82542,5,1962-09-04,Barnsley,Halifax Town,1 - 0
+82543,5,1962-09-04,Brighton & Hove Albion,Swindon Town,1 - 1
+82544,5,1962-09-04,Bristol Rovers,Peterborough United,3 - 1
+82545,5,1962-09-04,Coventry City,Watford,3 - 1
+82554,5,1962-09-05,AFC Bournemouth,Bristol City,1 - 1
+82556,5,1962-09-06,Notts County,Reading,1 - 0
+82558,5,1962-09-07,Shrewsbury Town,Bradford Park Avenue,1 - 2
+82580,6,1962-09-08,Barnsley,Northampton Town,1 - 1
+82581,6,1962-09-08,Brighton & Hove Albion,Wrexham,1 - 3
+82582,6,1962-09-08,Bristol Rovers,Halifax Town,5 - 2
+82583,6,1962-09-08,Carlisle United,Crystal Palace,2 - 2
+82584,6,1962-09-08,Colchester United,Notts County,2 - 2
+82585,6,1962-09-08,Millwall,Coventry City,3 - 3
+82586,6,1962-09-08,Peterborough United,Queens Park Rangers,1 - 2
+82587,6,1962-09-08,Port Vale,Watford,1 - 3
+82588,6,1962-09-08,Reading,Bristol City,0 - 3
+82589,6,1962-09-08,Southend United,AFC Bournemouth,0 - 1
+82590,6,1962-09-08,Swindon Town,Hull City,2 - 0
+82605,6,1962-09-10,Colchester United,Port Vale,0 - 1
+82606,7,1962-09-10,Peterborough United,Bristol Rovers,1 - 0
+82617,7,1962-09-11,Bristol City,AFC Bournemouth,1 - 0
+82618,7,1962-09-11,Halifax Town,Barnsley,2 - 0
+82619,7,1962-09-11,Northampton Town,Wrexham,8 - 0
+82620,7,1962-09-11,Swindon Town,Brighton & Hove Albion,5 - 1
+82621,7,1962-09-11,Watford,Coventry City,6 - 1
+82634,7,1962-09-12,Bradford Park Avenue,Carlisle United,3 - 1
+82635,7,1962-09-12,Crystal Palace,Queens Park Rangers,1 - 0
+82636,7,1962-09-12,Reading,Notts County,1 - 1
+82637,7,1962-09-12,Shrewsbury Town,Southend United,6 - 0
+82645,7,1962-09-13,Hull City,Millwall,4 - 1
+82668,7,1962-09-15,AFC Bournemouth,Millwall,1 - 1
+82669,8,1962-09-15,Bradford Park Avenue,Port Vale,2 - 1
+82670,8,1962-09-15,Bristol Rovers,Bristol City,1 - 2
+82671,8,1962-09-15,Colchester United,Northampton Town,2 - 2
+82672,8,1962-09-15,Coventry City,Shrewsbury Town,0 - 0
+82673,8,1962-09-15,Crystal Palace,Swindon Town,0 - 0
+82674,8,1962-09-15,Halifax Town,Brighton & Hove Albion,2 - 1
+82675,8,1962-09-15,Hull City,Peterborough United,3 - 2
+82676,8,1962-09-15,Notts County,Southend United,2 - 1
+82677,8,1962-09-15,Queens Park Rangers,Barnsley,2 - 1
+82678,8,1962-09-15,Watford,Reading,4 - 0
+82679,8,1962-09-15,Wrexham,Carlisle United,2 - 1
+82693,8,1962-09-17,Millwall,Shrewsbury Town,1 - 2
+82694,9,1962-09-17,Northampton Town,Halifax Town,7 - 1
+82695,9,1962-09-17,Queens Park Rangers,Wrexham,1 - 2
+82696,9,1962-09-17,Southend United,Port Vale,2 - 0
+82705,9,1962-09-18,Brighton & Hove Albion,Peterborough United,0 - 3
+82706,9,1962-09-18,Bristol Rovers,Barnsley,3 - 2
+82707,9,1962-09-18,Carlisle United,Swindon Town,0 - 0
+82708,9,1962-09-18,Coventry City,Bradford Park Avenue,3 - 1
+82717,9,1962-09-19,AFC Bournemouth,Watford,1 - 0
+82718,9,1962-09-19,Reading,Colchester United,4 - 1
+82722,9,1962-09-20,Hull City,Crystal Palace,0 - 0
+82723,9,1962-09-20,Notts County,Bristol City,3 - 2
+82725,9,1962-09-21,Reading,Bradford Park Avenue,4 - 1
+82749,10,1962-09-22,Barnsley,Hull City,1 - 2
+82750,10,1962-09-22,Brighton & Hove Albion,Bristol Rovers,1 - 1
+82751,10,1962-09-22,Bristol City,Watford,3 - 3
+82752,10,1962-09-22,Carlisle United,Halifax Town,1 - 0
+82753,10,1962-09-22,Millwall,Notts County,0 - 2
+82754,10,1962-09-22,Northampton Town,Queens Park Rangers,1 - 0
+82755,10,1962-09-22,Peterborough United,Crystal Palace,0 - 0
+82756,10,1962-09-22,Port Vale,Coventry City,2 - 1
+82757,10,1962-09-22,Shrewsbury Town,AFC Bournemouth,2 - 1
+82758,10,1962-09-22,Southend United,Colchester United,2 - 3
+82759,10,1962-09-22,Swindon Town,Wrexham,3 - 0
+82771,10,1962-09-24,Bradford Park Avenue,Coventry City,0 - 0
+82772,11,1962-09-24,Colchester United,Reading,4 - 2
+82773,11,1962-09-24,Halifax Town,Northampton Town,1 - 3
+82774,11,1962-09-24,Port Vale,Southend United,5 - 1
+82777,11,1962-09-25,Watford,AFC Bournemouth,0 - 1
+82778,11,1962-09-26,Shrewsbury Town,Millwall,3 - 3
+82805,11,1962-09-29,AFC Bournemouth,Port Vale,2 - 0
+82806,12,1962-09-29,Bradford Park Avenue,Bristol City,2 - 5
+82807,12,1962-09-29,Bristol Rovers,Carlisle United,1 - 1
+82808,12,1962-09-29,Colchester United,Millwall,2 - 5
+82809,12,1962-09-29,Coventry City,Reading,2 - 1
+82810,12,1962-09-29,Crystal Palace,Barnsley,1 - 2
+82811,12,1962-09-29,Halifax Town,Swindon Town,4 - 3
+82812,12,1962-09-29,Hull City,Northampton Town,2 - 0
+82813,12,1962-09-29,Notts County,Shrewsbury Town,1 - 5
+82814,12,1962-09-29,Southend United,Queens Park Rangers,1 - 3
+82815,12,1962-09-29,Watford,Brighton & Hove Albion,2 - 0
+82816,12,1962-09-29,Wrexham,Peterborough United,4 - 4
+82828,12,1962-10-01,Millwall,Southend United,3 - 1
+82829,13,1962-10-01,Peterborough United,Halifax Town,1 - 1
+82830,13,1962-10-01,Port Vale,Notts County,1 - 1
+82834,13,1962-10-02,Barnsley,Wrexham,2 - 1
+82835,13,1962-10-02,Bristol City,Coventry City,1 - 1
+82836,13,1962-10-02,Carlisle United,Brighton & Hove Albion,1 - 0
+82837,13,1962-10-02,Northampton Town,Crystal Palace,3 - 1
+82838,13,1962-10-02,Swindon Town,Bristol Rovers,3 - 0
+82839,13,1962-10-02,Watford,Bradford Park Avenue,3 - 2
+82842,13,1962-10-03,Reading,AFC Bournemouth,2 - 1
+82843,13,1962-10-03,Shrewsbury Town,Colchester United,1 - 2
+82851,13,1962-10-05,Barnsley,Coventry City,2 - 1
+82852,14,1962-10-05,Carlisle United,Bristol City,2 - 5
+82874,14,1962-10-06,Brighton & Hove Albion,Reading,2 - 4
+82875,14,1962-10-06,Bristol Rovers,Port Vale,1 - 1
+82876,14,1962-10-06,Crystal Palace,Southend United,2 - 3
+82877,14,1962-10-06,Halifax Town,Shrewsbury Town,2 - 2
+82878,14,1962-10-06,Hull City,Colchester United,2 - 2
+82879,14,1962-10-06,Northampton Town,AFC Bournemouth,2 - 2
+82880,14,1962-10-06,Peterborough United,Bradford Park Avenue,2 - 0
+82881,14,1962-10-06,Queens Park Rangers,Notts County,0 - 1
+82882,14,1962-10-06,Swindon Town,Watford,3 - 1
+82883,14,1962-10-06,Wrexham,Millwall,5 - 1
+82896,14,1962-10-08,Colchester United,Shrewsbury Town,3 - 2
+82897,15,1962-10-08,Halifax Town,Peterborough United,2 - 0
+82900,15,1962-10-09,Brighton & Hove Albion,Carlisle United,1 - 0
+82901,15,1962-10-09,Bristol Rovers,Swindon Town,2 - 0
+82903,15,1962-10-10,Bradford Park Avenue,Watford,1 - 0
+82904,15,1962-10-10,Crystal Palace,Northampton Town,1 - 2
+82905,15,1962-10-10,Wrexham,Queens Park Rangers,3 - 1
+82909,15,1962-10-11,Notts County,Port Vale,1 - 0
+82910,15,1962-10-12,Reading,Carlisle United,2 - 0
+82933,15,1962-10-13,AFC Bournemouth,Queens Park Rangers,2 - 1
+82934,15,1962-10-13,Bradford Park Avenue,Barnsley,1 - 1
+82935,16,1962-10-13,Bristol City,Swindon Town,2 - 2
+82936,16,1962-10-13,Colchester United,Crystal Palace,1 - 2
+82937,16,1962-10-13,Coventry City,Northampton Town,1 - 1
+82938,16,1962-10-13,Millwall,Halifax Town,1 - 1
+82939,16,1962-10-13,Notts County,Hull City,1 - 1
+82940,16,1962-10-13,Port Vale,Brighton & Hove Albion,1 - 2
+82941,16,1962-10-13,Shrewsbury Town,Bristol Rovers,7 - 2
+82942,16,1962-10-13,Southend United,Wrexham,2 - 0
+82943,16,1962-10-13,Watford,Peterborough United,2 - 3
+82956,16,1962-10-15,Peterborough United,Brighton & Hove Albion,3 - 1
+82961,17,1962-10-19,Halifax Town,Southend United,0 - 1
+82976,17,1962-10-20,Barnsley,Watford,4 - 1
+82977,17,1962-10-20,Brighton & Hove Albion,Shrewsbury Town,1 - 1
+82978,18,1962-10-20,Bristol Rovers,Millwall,2 - 0
+82979,18,1962-10-20,Carlisle United,Port Vale,1 - 1
+82980,18,1962-10-20,Crystal Palace,Notts County,1 - 1
+82981,18,1962-10-20,Hull City,AFC Bournemouth,1 - 1
+82982,18,1962-10-20,Northampton Town,Bradford Park Avenue,3 - 1
+82983,18,1962-10-20,Peterborough United,Bristol City,3 - 1
+82984,18,1962-10-20,Swindon Town,Reading,1 - 1
+82985,18,1962-10-20,Wrexham,Colchester United,4 - 1
+82997,18,1962-10-22,Queens Park Rangers,Hull City,4 - 1
+82999,18,1962-10-23,Coventry City,Bristol City,4 - 2
+83003,18,1962-10-24,Wrexham,Northampton Town,1 - 4
+83006,19,1962-10-26,Reading,Peterborough United,0 - 1
+83030,19,1962-10-27,AFC Bournemouth,Crystal Palace,3 - 0
+83031,19,1962-10-27,Bradford Park Avenue,Queens Park Rangers,0 - 3
+83032,19,1962-10-27,Bristol City,Barnsley,5 - 2
+83033,19,1962-10-27,Colchester United,Halifax Town,1 - 1
+83034,19,1962-10-27,Coventry City,Hull City,2 - 2
+83035,19,1962-10-27,Millwall,Brighton & Hove Albion,2 - 2
+83036,19,1962-10-27,Notts County,Wrexham,3 - 2
+83037,19,1962-10-27,Port Vale,Swindon Town,2 - 1
+83038,19,1962-10-27,Shrewsbury Town,Carlisle United,1 - 1
+83039,19,1962-10-27,Southend United,Bristol Rovers,3 - 2
+83040,19,1962-10-27,Watford,Northampton Town,4 - 2
+83076,19,1962-11-09,Port Vale,Barnsley,1 - 0
+83099,20,1962-11-10,AFC Bournemouth,Halifax Town,1 - 1
+83100,20,1962-11-10,Bradford Park Avenue,Crystal Palace,2 - 1
+83101,20,1962-11-10,Bristol City,Queens Park Rangers,2 - 4
+83102,20,1962-11-10,Colchester United,Brighton & Hove Albion,4 - 1
+83103,20,1962-11-10,Coventry City,Wrexham,3 - 0
+83104,20,1962-11-10,Millwall,Swindon Town,3 - 4
+83105,20,1962-11-10,Notts County,Bristol Rovers,1 - 3
+83106,20,1962-11-10,Reading,Northampton Town,2 - 1
+83107,20,1962-11-10,Shrewsbury Town,Peterborough United,5 - 4
+83108,20,1962-11-10,Southend United,Carlisle United,2 - 0
+83109,20,1962-11-10,Watford,Hull City,4 - 2
+83147,20,1962-11-17,Barnsley,Shrewsbury Town,1 - 0
+83148,21,1962-11-17,Brighton & Hove Albion,Notts County,1 - 3
+83149,21,1962-11-17,Bristol Rovers,AFC Bournemouth,1 - 2
+83150,21,1962-11-17,Carlisle United,Colchester United,3 - 1
+83151,21,1962-11-17,Crystal Palace,Watford,0 - 1
+83152,21,1962-11-17,Halifax Town,Coventry City,2 - 4
+83153,21,1962-11-17,Hull City,Bristol City,4 - 0
+83154,21,1962-11-17,Northampton Town,Port Vale,0 - 0
+83155,21,1962-11-17,Peterborough United,Millwall,6 - 0
+83156,21,1962-11-17,Queens Park Rangers,Reading,3 - 2
+83157,21,1962-11-17,Swindon Town,Southend United,4 - 1
+83158,21,1962-11-17,Wrexham,Bradford Park Avenue,3 - 1
+83192,21,1962-11-24,AFC Bournemouth,Reading,1 - 0
+83195,22,1962-11-27,Barnsley,Bristol Rovers,4 - 0
+83198,22,1962-11-30,Carlisle United,AFC Bournemouth,0 - 3
+83219,22,1962-12-01,Barnsley,Southend United,2 - 2
+83220,23,1962-12-01,Brighton & Hove Albion,Coventry City,2 - 2
+83221,23,1962-12-01,Bristol Rovers,Bradford Park Avenue,3 - 3
+83222,23,1962-12-01,Crystal Palace,Reading,2 - 1
+83223,23,1962-12-01,Halifax Town,Watford,1 - 3
+83224,23,1962-12-01,Hull City,Port Vale,0 - 1
+83225,23,1962-12-01,Northampton Town,Millwall,1 - 1
+83226,23,1962-12-01,Peterborough United,Colchester United,6 - 2
+83227,23,1962-12-01,Queens Park Rangers,Shrewsbury Town,0 - 0
+83228,23,1962-12-01,Swindon Town,Notts County,3 - 1
+83229,23,1962-12-01,Wrexham,Bristol City,2 - 1
+83265,23,1962-12-08,AFC Bournemouth,Swindon Town,0 - 0
+83266,23,1962-12-08,Bradford Park Avenue,Brighton & Hove Albion,1 - 5
+83267,24,1962-12-08,Bristol City,Halifax Town,2 - 2
+83268,24,1962-12-08,Colchester United,Barnsley,1 - 1
+83269,24,1962-12-08,Coventry City,Carlisle United,3 - 2
+83270,24,1962-12-08,Millwall,Queens Park Rangers,0 - 0
+83271,24,1962-12-08,Notts County,Peterborough United,2 - 0
+83272,24,1962-12-08,Port Vale,Crystal Palace,4 - 1
+83273,24,1962-12-08,Shrewsbury Town,Hull City,1 - 4
+83274,24,1962-12-08,Southend United,Northampton Town,5 - 1
+83275,24,1962-12-08,Watford,Bristol Rovers,0 - 1
+83308,24,1962-12-15,Brighton & Hove Albion,Queens Park Rangers,2 - 2
+83309,25,1962-12-15,Bristol Rovers,Hull City,2 - 5
+83310,25,1962-12-15,Carlisle United,Northampton Town,1 - 2
+83311,25,1962-12-15,Colchester United,Bradford Park Avenue,1 - 4
+83312,25,1962-12-15,Halifax Town,Crystal Palace,2 - 2
+83313,25,1962-12-15,Millwall,Bristol City,4 - 2
+83314,25,1962-12-15,Notts County,Coventry City,1 - 1
+83315,25,1962-12-15,Peterborough United,AFC Bournemouth,3 - 0
+83316,25,1962-12-15,Port Vale,Wrexham,2 - 2
+83317,25,1962-12-15,Shrewsbury Town,Reading,2 - 1
+83318,25,1962-12-15,Southend United,Watford,1 - 1
+83319,25,1962-12-15,Swindon Town,Barnsley,2 - 1
+83335,25,1962-12-21,Barnsley,Peterborough United,0 - 2
+83346,26,1962-12-22,AFC Bournemouth,Notts County,3 - 1
+83347,26,1962-12-22,Bristol City,Shrewsbury Town,3 - 1
+83348,26,1962-12-22,Hull City,Brighton & Hove Albion,2 - 1
+83349,26,1962-12-22,Queens Park Rangers,Carlisle United,2 - 2
+83350,26,1962-12-22,Reading,Port Vale,4 - 3
+83368,26,1962-12-26,Bradford Park Avenue,Swindon Town,2 - 0
+83369,26,1962-12-26,Bristol City,Brighton & Hove Albion,1 - 2
+83370,27,1962-12-26,Carlisle United,Watford,2 - 1
+83371,27,1962-12-26,Crystal Palace,Millwall,3 - 0
+83372,27,1962-12-26,Notts County,Northampton Town,2 - 1
+83373,27,1962-12-26,Peterborough United,Coventry City,0 - 3
+83374,27,1962-12-26,Shrewsbury Town,Wrexham,4 - 2
+83375,27,1962-12-26,Southend United,Hull City,0 - 1
+83388,27,1962-12-29,Coventry City,Peterborough United,3 - 3
+83389,28,1962-12-29,Hull City,Southend United,1 - 2
+83390,28,1962-12-29,Watford,Carlisle United,5 - 1
+83393,28,1963-01-04,Bradford Park Avenue,Halifax Town,1 - 1
+83395,28,1963-01-12,Barnsley,Notts County,3 - 1
+83396,28,1963-01-12,Brighton & Hove Albion,Crystal Palace,1 - 2
+83397,28,1963-01-12,Swindon Town,Queens Park Rangers,5 - 0
+83404,28,1963-01-26,Brighton & Hove Albion,Southend United,0 - 0
+83406,29,1963-02-02,Brighton & Hove Albion,Halifax Town,0 - 1
+83407,30,1963-02-02,Swindon Town,Crystal Palace,1 - 0
+83414,30,1963-02-09,Bristol Rovers,Brighton & Hove Albion,4 - 1
+83415,30,1963-02-09,Queens Park Rangers,Northampton Town,1 - 3
+83424,30,1963-02-16,Bristol City,Bradford Park Avenue,4 - 2
+83425,30,1963-02-16,Millwall,Colchester United,2 - 1
+83426,30,1963-02-16,Peterborough United,Wrexham,1 - 3
+83444,30,1963-02-23,AFC Bournemouth,Northampton Town,3 - 0
+83445,30,1963-02-23,Bristol City,Carlisle United,2 - 2
+83446,31,1963-02-23,Coventry City,Barnsley,2 - 0
+83447,31,1963-02-23,Millwall,Wrexham,2 - 4
+83448,31,1963-02-23,Notts County,Queens Park Rangers,3 - 2
+83449,31,1963-02-23,Reading,Brighton & Hove Albion,4 - 5
+83450,31,1963-02-23,Shrewsbury Town,Halifax Town,4 - 2
+83451,31,1963-02-23,Watford,Swindon Town,3 - 3
+83456,31,1963-02-26,Bristol Rovers,Reading,1 - 0
+83457,31,1963-02-26,Coventry City,Colchester United,2 - 2
+83458,32,1963-02-27,Wrexham,Swindon Town,0 - 0
+83478,32,1963-03-02,Brighton & Hove Albion,Port Vale,3 - 1
+83479,32,1963-03-02,Bristol Rovers,Shrewsbury Town,2 - 0
+83480,32,1963-03-02,Northampton Town,Coventry City,0 - 0
+83481,32,1963-03-02,Peterborough United,Watford,4 - 0
+83482,32,1963-03-02,Queens Park Rangers,AFC Bournemouth,1 - 0
+83483,32,1963-03-02,Swindon Town,Bristol City,3 - 2
+83484,33,1963-03-02,Wrexham,Southend United,1 - 1
+83490,33,1963-03-04,Colchester United,Hull City,2 - 3
+83496,33,1963-03-06,Bradford Park Avenue,Peterborough United,2 - 2
+83499,33,1963-03-08,Colchester United,Wrexham,1 - 1
+83500,34,1963-03-08,Reading,Swindon Town,1 - 2
+83524,34,1963-03-09,AFC Bournemouth,Hull City,3 - 0
+83525,34,1963-03-09,Bradford Park Avenue,Northampton Town,2 - 3
+83526,34,1963-03-09,Bristol City,Peterborough United,1 - 1
+83527,34,1963-03-09,Coventry City,Queens Park Rangers,4 - 1
+83528,34,1963-03-09,Millwall,Bristol Rovers,2 - 1
+83529,34,1963-03-09,Notts County,Crystal Palace,0 - 2
+83530,34,1963-03-09,Port Vale,Carlisle United,2 - 0
+83531,34,1963-03-09,Shrewsbury Town,Brighton & Hove Albion,2 - 1
+83532,34,1963-03-09,Southend United,Halifax Town,1 - 1
+83544,34,1963-03-11,Millwall,AFC Bournemouth,1 - 0
+83545,35,1963-03-11,Reading,Wrexham,3 - 0
+83549,35,1963-03-12,Carlisle United,Notts County,4 - 2
+83550,35,1963-03-12,Northampton Town,Colchester United,3 - 1
+83551,35,1963-03-12,Watford,Barnsley,0 - 0
+83555,35,1963-03-13,Hull City,Bradford Park Avenue,1 - 0
+83561,35,1963-03-15,Halifax Town,Colchester United,1 - 2
+83574,35,1963-03-16,Barnsley,Bristol City,1 - 1
+83575,36,1963-03-16,Brighton & Hove Albion,Millwall,0 - 2
+83576,36,1963-03-16,Bristol Rovers,Southend United,1 - 2
+83577,36,1963-03-16,Carlisle United,Shrewsbury Town,2 - 1
+83578,36,1963-03-16,Crystal Palace,AFC Bournemouth,1 - 0
+83579,36,1963-03-16,Northampton Town,Watford,1 - 0
+83580,36,1963-03-16,Peterborough United,Reading,1 - 1
+83581,36,1963-03-16,Queens Park Rangers,Bradford Park Avenue,1 - 2
+83582,36,1963-03-16,Swindon Town,Port Vale,2 - 3
+83583,36,1963-03-16,Wrexham,Notts County,5 - 1
+83597,36,1963-03-18,Peterborough United,Port Vale,3 - 1
+83606,37,1963-03-19,Bradford Park Avenue,Southend United,2 - 2
+83607,37,1963-03-19,Brighton & Hove Albion,Bristol City,1 - 0
+83614,37,1963-03-20,AFC Bournemouth,Barnsley,1 - 1
+83615,37,1963-03-20,Crystal Palace,Bristol Rovers,2 - 1
+83616,37,1963-03-20,Reading,Hull City,2 - 2
+83617,37,1963-03-20,Wrexham,Shrewsbury Town,2 - 0
+83621,37,1963-03-21,Notts County,Carlisle United,1 - 0
+83622,37,1963-03-22,Colchester United,Bristol Rovers,1 - 0
+83623,37,1963-03-22,Reading,Barnsley,4 - 1
+83647,38,1963-03-23,AFC Bournemouth,Wrexham,3 - 1
+83648,38,1963-03-23,Bradford Park Avenue,Hull City,3 - 1
+83649,38,1963-03-23,Bristol City,Northampton Town,3 - 1
+83650,38,1963-03-23,Coventry City,Crystal Palace,1 - 0
+83651,38,1963-03-23,Millwall,Carlisle United,2 - 0
+83652,38,1963-03-23,Notts County,Halifax Town,5 - 0
+83653,38,1963-03-23,Port Vale,Peterborough United,3 - 2
+83654,38,1963-03-23,Shrewsbury Town,Swindon Town,1 - 2
+83655,38,1963-03-23,Southend United,Brighton & Hove Albion,1 - 1
+83656,38,1963-03-23,Watford,Queens Park Rangers,2 - 5
+83671,38,1963-03-25,Peterborough United,Hull City,1 - 3
+83679,39,1963-03-26,Bradford Park Avenue,Shrewsbury Town,2 - 1
+83680,39,1963-03-26,Halifax Town,Carlisle United,2 - 4
+83681,39,1963-03-26,Northampton Town,Swindon Town,1 - 1
+83682,39,1963-03-26,Watford,Bristol City,1 - 4
+83687,39,1963-03-27,Crystal Palace,Colchester United,0 - 1
+83697,39,1963-03-29,Barnsley,Port Vale,2 - 1
+83713,39,1963-03-30,Brighton & Hove Albion,Colchester United,3 - 0
+83714,39,1963-03-30,Bristol Rovers,Notts County,1 - 1
+83715,39,1963-03-30,Carlisle United,Southend United,1 - 2
+83716,40,1963-03-30,Crystal Palace,Bradford Park Avenue,6 - 0
+83717,40,1963-03-30,Halifax Town,AFC Bournemouth,3 - 1
+83718,40,1963-03-30,Hull City,Watford,1 - 0
+83719,40,1963-03-30,Northampton Town,Reading,5 - 0
+83720,40,1963-03-30,Queens Park Rangers,Bristol City,3 - 1
+83721,40,1963-03-30,Swindon Town,Millwall,1 - 0
+83735,40,1963-04-01,Millwall,Crystal Palace,1 - 1
+83736,41,1963-04-01,Queens Park Rangers,Colchester United,1 - 2
+83737,41,1963-04-01,Wrexham,Coventry City,5 - 1
+83745,41,1963-04-02,Barnsley,AFC Bournemouth,2 - 2
+83746,41,1963-04-02,Carlisle United,Bristol Rovers,4 - 0
+83747,41,1963-04-02,Northampton Town,Notts County,2 - 2
+83748,41,1963-04-02,Peterborough United,Shrewsbury Town,2 - 3
+83749,41,1963-04-02,Swindon Town,Bradford Park Avenue,2 - 1
+83758,41,1963-04-03,Halifax Town,Port Vale,0 - 4
+83759,41,1963-04-03,Reading,Watford,0 - 0
+83765,41,1963-04-05,Reading,Queens Park Rangers,1 - 1
+83786,42,1963-04-06,AFC Bournemouth,Bristol Rovers,1 - 1
+83787,42,1963-04-06,Bradford Park Avenue,Wrexham,3 - 1
+83788,42,1963-04-06,Bristol City,Hull City,3 - 1
+83789,42,1963-04-06,Colchester United,Carlisle United,2 - 1
+83790,42,1963-04-06,Coventry City,Halifax Town,5 - 4
+83791,42,1963-04-06,Millwall,Peterborough United,0 - 1
+83792,42,1963-04-06,Notts County,Brighton & Hove Albion,0 - 1
+83793,42,1963-04-06,Port Vale,Northampton Town,3 - 1
+83794,42,1963-04-06,Shrewsbury Town,Barnsley,1 - 3
+83795,42,1963-04-06,Southend United,Swindon Town,1 - 1
+83796,42,1963-04-06,Watford,Crystal Palace,1 - 4
+83812,42,1963-04-08,Coventry City,Millwall,2 - 0
+83813,43,1963-04-08,Northampton Town,Bristol City,5 - 1
+83814,43,1963-04-08,Queens Park Rangers,Southend United,1 - 0
+83821,43,1963-04-09,Watford,Wrexham,3 - 1
+83836,43,1963-04-12,AFC Bournemouth,Coventry City,1 - 1
+83837,43,1963-04-12,Brighton & Hove Albion,Northampton Town,0 - 5
+83838,43,1963-04-12,Carlisle United,Barnsley,2 - 1
+83839,43,1963-04-12,Hull City,Halifax Town,2 - 0
+83840,43,1963-04-12,Millwall,Reading,4 - 1
+83841,44,1963-04-12,Notts County,Bradford Park Avenue,3 - 2
+83842,44,1963-04-12,Port Vale,Shrewsbury Town,0 - 0
+83843,44,1963-04-12,Queens Park Rangers,Bristol Rovers,3 - 5
+83844,44,1963-04-12,Swindon Town,Peterborough United,2 - 3
+83845,44,1963-04-12,Wrexham,Crystal Palace,3 - 4
+83877,44,1963-04-13,Barnsley,Millwall,4 - 1
+83878,44,1963-04-13,Brighton & Hove Albion,AFC Bournemouth,0 - 1
+83879,44,1963-04-13,Bristol Rovers,Coventry City,2 - 2
+83880,45,1963-04-13,Crystal Palace,Bristol City,3 - 2
+83881,45,1963-04-13,Halifax Town,Bradford Park Avenue,4 - 4
+83882,45,1963-04-13,Hull City,Reading,0 - 1
+83883,45,1963-04-13,Northampton Town,Shrewsbury Town,1 - 0
+83884,45,1963-04-13,Peterborough United,Southend United,1 - 3
+83885,45,1963-04-13,Queens Park Rangers,Port Vale,3 - 1
+83886,45,1963-04-13,Swindon Town,Colchester United,6 - 1
+83887,45,1963-04-13,Wrexham,Watford,0 - 0
+83920,45,1963-04-15,Bristol Rovers,Queens Park Rangers,0 - 0
+83921,46,1963-04-15,Crystal Palace,Wrexham,5 - 0
+83922,46,1963-04-15,Halifax Town,Hull City,0 - 2
+83923,46,1963-04-15,Peterborough United,Swindon Town,3 - 1
+83924,46,1963-04-15,Reading,Millwall,2 - 0
+83925,46,1963-04-15,Shrewsbury Town,Port Vale,2 - 1
+83926,46,1963-04-15,Southend United,Bristol City,2 - 2
+83927,46,1963-04-15,Watford,Colchester United,1 - 1
+83948,46,1963-04-16,Barnsley,Carlisle United,2 - 0
+83949,46,1963-04-16,Bradford Park Avenue,Notts County,5 - 0
+83950,46,1963-04-16,Bristol City,Southend United,6 - 3
+83951,47,1963-04-16,Colchester United,Watford,3 - 2
+83952,47,1963-04-16,Coventry City,AFC Bournemouth,1 - 2
+83953,47,1963-04-16,Northampton Town,Brighton & Hove Albion,3 - 0
+83958,47,1963-04-19,Reading,Crystal Palace,0 - 1
+83983,47,1963-04-20,AFC Bournemouth,Carlisle United,5 - 1
+83984,48,1963-04-20,Bradford Park Avenue,Bristol Rovers,2 - 2
+83985,48,1963-04-20,Colchester United,Peterborough United,2 - 0
+83986,48,1963-04-20,Coventry City,Brighton & Hove Albion,1 - 1
+83987,48,1963-04-20,Millwall,Northampton Town,1 - 3
+83988,48,1963-04-20,Notts County,Swindon Town,2 - 0
+83989,48,1963-04-20,Port Vale,Hull City,1 - 0
+83990,48,1963-04-20,Shrewsbury Town,Queens Park Rangers,0 - 3
+83991,48,1963-04-20,Southend United,Barnsley,0 - 0
+83992,48,1963-04-20,Watford,Halifax Town,2 - 1
+84006,48,1963-04-22,Colchester United,Queens Park Rangers,2 - 1
+84007,49,1963-04-22,Port Vale,Halifax Town,2 - 0
+84008,49,1963-04-22,Southend United,Millwall,2 - 1
+84022,49,1963-04-23,Bristol City,Bristol Rovers,4 - 1
+84023,49,1963-04-23,Carlisle United,Bradford Park Avenue,3 - 0
+84024,49,1963-04-23,Northampton Town,Barnsley,4 - 2
+84031,49,1963-04-24,Crystal Palace,Peterborough United,0 - 2
+84032,49,1963-04-24,Shrewsbury Town,Notts County,2 - 2
+84034,49,1963-04-25,Hull City,Queens Park Rangers,4 - 1
+84054,49,1963-04-27,Barnsley,Colchester United,2 - 3
+84055,50,1963-04-27,Brighton & Hove Albion,Bradford Park Avenue,3 - 1
+84056,50,1963-04-27,Bristol Rovers,Watford,3 - 1
+84057,50,1963-04-27,Carlisle United,Coventry City,0 - 1
+84058,50,1963-04-27,Crystal Palace,Port Vale,2 - 1
+84059,50,1963-04-27,Halifax Town,Bristol City,2 - 5
+84060,50,1963-04-27,Hull City,Shrewsbury Town,2 - 2
+84061,50,1963-04-27,Northampton Town,Southend United,5 - 3
+84062,50,1963-04-27,Peterborough United,Notts County,0 - 0
+84063,50,1963-04-27,Queens Park Rangers,Millwall,2 - 3
+84064,50,1963-04-27,Swindon Town,AFC Bournemouth,2 - 1
+84065,50,1963-04-27,Wrexham,Reading,1 - 1
+84080,50,1963-04-29,Coventry City,Bristol Rovers,5 - 0
+84081,51,1963-04-29,Port Vale,Queens Park Rangers,3 - 2
+84093,51,1963-04-30,Barnsley,Bradford Park Avenue,1 - 4
+84094,51,1963-04-30,Bristol City,Notts County,1 - 1
+84095,51,1963-04-30,Swindon Town,Carlisle United,2 - 0
+84096,51,1963-04-30,Watford,Millwall,0 - 2
+84108,51,1963-05-01,Crystal Palace,Hull City,1 - 1
+84109,51,1963-05-01,Reading,Coventry City,4 - 1
+84110,51,1963-05-01,Shrewsbury Town,Northampton Town,1 - 0
+84111,51,1963-05-01,Wrexham,Halifax Town,3 - 1
+84118,51,1963-05-03,Bristol City,Wrexham,0 - 2
+84137,52,1963-05-04,AFC Bournemouth,Shrewsbury Town,0 - 0
+84138,52,1963-05-04,Bradford Park Avenue,Reading,3 - 2
+84139,52,1963-05-04,Brighton & Hove Albion,Watford,1 - 4
+84140,52,1963-05-04,Colchester United,Southend United,3 - 1
+84141,52,1963-05-04,Coventry City,Port Vale,0 - 1
+84142,52,1963-05-04,Hull City,Barnsley,0 - 2
+84143,52,1963-05-04,Notts County,Millwall,3 - 3
+84144,52,1963-05-04,Swindon Town,Halifax Town,1 - 1
+84162,52,1963-05-06,Carlisle United,Reading,1 - 1
+84163,52,1963-05-06,Colchester United,Swindon Town,0 - 2
+84164,53,1963-05-06,Port Vale,Bradford Park Avenue,2 - 1
+84165,53,1963-05-06,Southend United,Peterborough United,2 - 1
+84174,53,1963-05-07,Bristol City,Crystal Palace,1 - 1
+84175,53,1963-05-07,Halifax Town,Notts County,2 - 1
+84176,53,1963-05-07,Hull City,Coventry City,2 - 0
+84182,53,1963-05-08,AFC Bournemouth,Brighton & Hove Albion,1 - 0
+84183,53,1963-05-08,Reading,Bristol Rovers,1 - 0
+84184,53,1963-05-08,Wrexham,Barnsley,2 - 1
+84191,53,1963-05-09,Northampton Town,Carlisle United,2 - 0
+84196,53,1963-05-10,Barnsley,Queens Park Rangers,0 - 0
+84212,54,1963-05-11,Bristol Rovers,Wrexham,1 - 1
+84213,54,1963-05-11,Carlisle United,Hull City,2 - 1
+84214,54,1963-05-11,Colchester United,AFC Bournemouth,3 - 1
+84215,54,1963-05-11,Halifax Town,Reading,1 - 2
+84216,54,1963-05-11,Millwall,Bradford Park Avenue,3 - 1
+84217,54,1963-05-11,Peterborough United,Northampton Town,0 - 4
+84218,54,1963-05-11,Port Vale,Bristol City,3 - 1
+84219,54,1963-05-11,Shrewsbury Town,Watford,3 - 0
+84220,54,1963-05-11,Southend United,Coventry City,1 - 1
+84237,54,1963-05-13,Barnsley,Reading,1 - 0
+84238,55,1963-05-13,Port Vale,AFC Bournemouth,0 - 3
+84239,55,1963-05-13,Queens Park Rangers,Watford,2 - 2
+84240,55,1963-05-13,Southend United,Notts County,1 - 2
+84250,55,1963-05-14,Bristol Rovers,Colchester United,2 - 0
+84251,55,1963-05-14,Carlisle United,Millwall,4 - 3
+84252,55,1963-05-14,Swindon Town,Shrewsbury Town,1 - 0
+84258,55,1963-05-15,Crystal Palace,Coventry City,0 - 0
+84259,55,1963-05-15,Wrexham,AFC Bournemouth,1 - 0
+84265,55,1963-05-17,Notts County,Colchester United,6 - 0
+84284,56,1963-05-18,AFC Bournemouth,Southend United,0 - 0
+84285,56,1963-05-18,Bristol City,Reading,4 - 2
+84286,56,1963-05-18,Crystal Palace,Carlisle United,3 - 0
+84287,56,1963-05-18,Halifax Town,Bristol Rovers,2 - 3
+84288,56,1963-05-18,Hull City,Swindon Town,1 - 1
+84289,56,1963-05-18,Millwall,Barnsley,4 - 1
+84290,56,1963-05-18,Queens Park Rangers,Peterborough United,0 - 0
+84291,56,1963-05-18,Watford,Port Vale,1 - 2
+84292,56,1963-05-18,Wrexham,Brighton & Hove Albion,0 - 0
+84303,56,1963-05-20,Hull City,Notts County,1 - 1
+84304,57,1963-05-20,Port Vale,Bristol Rovers,2 - 0
+84305,57,1963-05-20,Shrewsbury Town,Coventry City,2 - 1
+84306,57,1963-05-20,Southend United,Crystal Palace,1 - 0
+84315,57,1963-05-21,Halifax Town,Millwall,3 - 0
+84317,57,1963-05-22,Barnsley,Crystal Palace,0 - 4
+84318,57,1963-05-22,Queens Park Rangers,Coventry City,1 - 3
+84321,57,1963-05-23,Carlisle United,Wrexham,2 - 1
+84326,57,1963-05-24,Northampton Town,Hull City,3 - 0

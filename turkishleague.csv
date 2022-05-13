@@ -1,0 +1,421 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,11/09/2020 20:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Fenerbahçe,1 - 2
+2,1,12/09/2020 17:00,4 Eylül Stadium,Sivasspor,Alanyaspor,0 - 2
+3,1,12/09/2020 17:00,Atatürk Olympic Stadium,Fatih Karagümrük,Yeni Malatyaspor,3 - 0
+4,1,12/09/2020 20:00,Türk Telekom Stadium,Galatasaray,Gaziantep F.K.,3 - 1
+5,1,12/09/2020 20:00,Gürsel Aksel Stadium,Göztepe,Denizlispor,5 - 1
+6,1,13/09/2020 17:00,Eryaman Stadium,Ankaragücü,BB Erzurumspor,1 - 2
+7,1,13/09/2020 17:00,Kadir Has Stadium,Kayserispor,Kasimpasa,1 - 0
+8,1,13/09/2020 20:00,Senol Günes Stadium,Trabzonspor,Besiktas,1 - 3
+9,1,13/09/2020 20:00,Antalya Stadium,Antalyaspor,Gençlerbirligi,2 - 0
+10,1,14/09/2020 20:00,Antakya Atatürk Stadium,Hatayspor,Istanbul Basaksehir,2 - 0
+11,2,18/09/2020 20:00,Malatya Stadium,Yeni Malatyaspor,Göztepe,1 - 1
+12,2,19/09/2020 13:30,Eryaman Stadium,Gençlerbirligi,Konyaspor,0 - 0
+13,2,19/09/2020 16:00,Denizli Atatürk Stadium,Denizlispor,Trabzonspor,0 - 0
+14,2,19/09/2020 19:00,Vodafone Park,Besiktas,Antalyaspor,1 - 1
+15,2,19/09/2020 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Kayserispor,2 - 0
+16,2,20/09/2020 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Sivasspor,1 - 2
+17,2,20/09/2020 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Çaykur Rizespor,2 - 0
+18,2,20/09/2020 19:00,Gaziantep Arena,Gaziantep F.K.,Fatih Karagümrük,2 - 2
+19,2,20/09/2020 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Galatasaray,0 - 2
+20,2,21/09/2020 20:00,Sükrü Saracoglu Stadium,Fenerbahçe,Hatayspor,0 - 0
+21,3,25/09/2020 20:00,Atatürk Olympic Stadium,Fatih Karagümrük,Istanbul Basaksehir,2 - 0
+22,3,26/09/2020 13:30,Kadir Has Stadium,Kayserispor,BB Erzurumspor,1 - 3
+23,3,26/09/2020 16:00,Antakya Atatürk Stadium,Hatayspor,Kasimpasa,1 - 0
+24,3,26/09/2020 16:00,Gürsel Aksel Stadium,Göztepe,Gaziantep F.K.,2 - 2
+25,3,26/09/2020 19:00,Senol Günes Stadium,Trabzonspor,Yeni Malatyaspor,3 - 1
+26,3,27/09/2020 13:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Alanyaspor,1 - 1
+27,3,27/09/2020 16:00,4 Eylül Stadium,Sivasspor,Ankaragücü,0 - 0
+28,3,27/09/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,Besiktas,4 - 1
+29,3,27/09/2020 19:00,Türk Telekom Stadium,Galatasaray,Fenerbahçe,0 - 0
+30,3,28/09/2020 20:00,Antalya Stadium,Antalyaspor,Denizlispor,1 - 0
+31,4,02/10/2020 20:00,Eryaman Stadium,Ankaragücü,Kayserispor,0 - 1
+32,4,02/10/2020 20:00,Gaziantep Arena,Gaziantep F.K.,Trabzonspor,1 - 1
+33,4,03/10/2020 13:30,Malatya Stadium,Yeni Malatyaspor,Antalyaspor,1 - 0
+34,4,03/10/2020 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Çaykur Rizespor,0 - 0
+35,4,03/10/2020 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Göztepe,0 - 0
+36,4,03/10/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Fatih Karagümrük,2 - 1
+37,4,04/10/2020 13:30,Denizli Atatürk Stadium,Denizlispor,Konyaspor,0 - 0
+38,4,04/10/2020 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Hatayspor,6 - 0
+39,4,04/10/2020 16:00,Vodafone Park,Besiktas,Gençlerbirligi,0 - 1
+40,4,04/10/2020 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Galatasaray,1 - 0
+44,5,17/10/2020 13:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Ankaragücü,5 - 3
+45,5,17/10/2020 16:00,Kadir Has Stadium,Kayserispor,Sivasspor,1 - 3
+49,5,17/10/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,Yeni Malatyaspor,1 - 1
+47,5,17/10/2020 19:00,Senol Günes Stadium,Trabzonspor,Istanbul Basaksehir,0 - 2
+42,5,18/10/2020 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Kasimpasa,1 - 1
+48,5,18/10/2020 16:00,Antalya Stadium,Antalyaspor,Gaziantep F.K.,1 - 1
+46,5,18/10/2020 19:00,Gürsel Aksel Stadium,Göztepe,Fenerbahçe,2 - 3
+41,5,19/10/2020 20:00,Türk Telekom Stadium,Galatasaray,Alanyaspor,1 - 2
+50,5,19/10/2020 20:00,Eryaman Stadium,Gençlerbirligi,Denizlispor,1 - 2
+55,6,23/10/2020 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Göztepe,0 - 0
+58,6,24/10/2020 16:00,Gaziantep Arena,Gaziantep F.K.,Konyaspor,1 - 0
+51,6,24/10/2020 19:00,Kazim Karabekir Stadium,BB Erzurumspor,Galatasaray,1 - 2
+57,6,24/10/2020 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Antalyaspor,5 - 1
+59,6,25/10/2020 13:30,Malatya Stadium,Yeni Malatyaspor,Gençlerbirligi,2 - 1
+54,6,25/10/2020 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Fatih Karagümrük,2 - 0
+56,6,25/10/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Trabzonspor,3 - 1
+53,6,26/10/2020 20:00,4 Eylül Stadium,Sivasspor,Çaykur Rizespor,0 - 2
+60,6,26/10/2020 20:00,Denizli Atatürk Stadium,Denizlispor,Besiktas,2 - 3
+61,7,30/10/2020 20:00,Atatürk Olympic Stadium,Fatih Karagümrük,BB Erzurumspor,5 - 1
+66,7,30/10/2020 20:00,Senol Günes Stadium,Trabzonspor,Kasimpasa,3 - 4
+69,7,31/10/2020 13:30,Eryaman Stadium,Gençlerbirligi,Gaziantep F.K.,1 - 1
+62,7,31/10/2020 19:00,Türk Telekom Stadium,Galatasaray,Ankaragücü,1 - 0
+64,7,01/11/2020 13:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Kayserispor,1 - 0
+68,7,01/11/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,Istanbul Basaksehir,1 - 2
+70,7,01/11/2020 19:00,Vodafone Park,Besiktas,Yeni Malatyaspor,1 - 0
+63,7,02/11/2020 20:00,Antakya Atatürk Stadium,Hatayspor,Sivasspor,1 - 1
+67,7,02/11/2020 20:00,Antalya Stadium,Antalyaspor,Fenerbahçe,1 - 2
+79,8,06/11/2020 20:00,Gaziantep Arena,Gaziantep F.K.,Besiktas,3 - 1
+76,8,07/11/2020 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Antalyaspor,2 - 2
+71,8,07/11/2020 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Göztepe,1 - 1
+75,8,07/11/2020 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Trabzonspor,1 - 1
+77,8,07/11/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Konyaspor,0 - 2
+72,8,08/11/2020 13:30,Eryaman Stadium,Ankaragücü,Fatih Karagümrük,2 - 2
+80,8,08/11/2020 13:30,Malatya Stadium,Yeni Malatyaspor,Denizlispor,2 - 0
+74,8,08/11/2020 16:00,Kadir Has Stadium,Kayserispor,Hatayspor,0 - 1
+78,8,08/11/2020 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Gençlerbirligi,2 - 1
+73,8,08/11/2020 19:00,4 Eylül Stadium,Sivasspor,Galatasaray,1 - 2
+81,9,21/11/2020 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Sivasspor,1 - 1
+88,9,21/11/2020 16:00,Eryaman Stadium,Gençlerbirligi,Fenerbahçe,1 - 5
+90,9,21/11/2020 16:00,Denizli Atatürk Stadium,Denizlispor,Gaziantep F.K.,0 - 1
+89,9,21/11/2020 17:00,Vodafone Park,Besiktas,Istanbul Basaksehir,3 - 2
+85,9,22/11/2020 13:30,Antakya Atatürk Stadium,Hatayspor,Çaykur Rizespor,2 - 2
+84,9,22/11/2020 16:00,Gürsel Aksel Stadium,Göztepe,Ankaragücü,3 - 1
+87,9,22/11/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,Kasimpasa,2 - 1
+83,9,22/11/2020 19:00,Senol Günes Stadium,Trabzonspor,BB Erzurumspor,1 - 0
+86,9,22/11/2020 19:00,Antalya Stadium,Antalyaspor,Alanyaspor,0 - 2
+82,9,23/11/2020 19:30,Türk Telekom Stadium,Galatasaray,Kayserispor,1 - 1
+92,10,27/11/2020 19:30,Eryaman Stadium,Ankaragücü,Trabzonspor,0 - 1
+100,10,28/11/2020 13:30,Gaziantep Arena,Gaziantep F.K.,Yeni Malatyaspor,2 - 2
+99,10,28/11/2020 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Denizlispor,3 - 3
+95,10,28/11/2020 19:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Galatasaray,0 - 4
+91,10,29/11/2020 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Antalyaspor,2 - 2
+96,10,29/11/2020 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Konyaspor,1 - 0
+97,10,29/11/2020 16:04,Recep Tayyip Erdogan Stadium,Kasimpasa,Gençlerbirligi,2 - 0
+98,10,29/11/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Besiktas,3 - 4
+93,10,30/11/2020 19:30,4 Eylül Stadium,Sivasspor,Göztepe,0 - 1
+94,10,30/11/2020 19:30,Kadir Has Stadium,Kayserispor,Fatih Karagümrük,0 - 0
+108,11,04/12/2020 19:30,Vodafone Park,Besiktas,Kasimpasa,3 - 0
+106,11,05/12/2020 13:30,Gürsel Aksel Stadium,Göztepe,Kayserispor,1 - 1
+107,11,05/12/2020 13:30,Eryaman Stadium,Gençlerbirligi,Alanyaspor,2 - 1
+103,11,05/12/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,BB Erzurumspor,2 - 0
+110,11,05/12/2020 16:00,Malatya Stadium,Yeni Malatyaspor,Istanbul Basaksehir,1 - 1
+102,11,05/12/2020 19:00,Türk Telekom Stadium,Galatasaray,Hatayspor,3 - 0
+101,11,06/12/2020 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Çaykur Rizespor,2 - 1
+104,11,06/12/2020 16:00,Antalya Stadium,Antalyaspor,Ankaragücü,1 - 0
+109,11,06/12/2020 19:00,Denizli Atatürk Stadium,Denizlispor,Fenerbahçe,0 - 2
+105,11,07/12/2020 19:30,Senol Günes Stadium,Trabzonspor,Sivasspor,1 - 1
+65,11,09/12/2020 18:30,Gürsel Aksel Stadium,Göztepe,Alanyaspor,1 - 0
+43,11,09/12/2020 19:30,Antakya Atatürk Stadium,Hatayspor,BB Erzurumspor,3 - 0
+116,12,11/12/2020 19:00,Antakya Atatürk Stadium,Hatayspor,Fatih Karagümrük,3 - 1
+118,12,11/12/2020 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Denizlispor,3 - 2
+114,12,12/12/2020 16:00,Kadir Has Stadium,Kayserispor,Trabzonspor,0 - 0
+115,12,12/12/2020 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Göztepe,3 - 2
+112,12,12/12/2020 19:00,Eryaman Stadium,Ankaragücü,Konyaspor,4 - 3
+119,12,12/12/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Yeni Malatyaspor,0 - 3
+111,12,13/12/2020 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Gençlerbirligi,0 - 1
+117,12,13/12/2020 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Besiktas,2 - 1
+120,12,13/12/2020 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Gaziantep F.K.,1 - 2
+113,12,14/12/2020 19:00,4 Eylül Stadium,Sivasspor,Antalyaspor,0 - 0
+52,12,15/12/2020 16:00,Eryaman Stadium,Ankaragücü,Hatayspor,2 - 0
+121,13,18/12/2020 19:00,Atatürk Olympic Stadium,Fatih Karagümrük,Galatasaray,2 - 1
+127,13,19/12/2020 13:30,Gürsel Aksel Stadium,Göztepe,Hatayspor,0 - 1
+126,13,19/12/2020 16:00,Senol Günes Stadium,Trabzonspor,Çaykur Rizespor,2 - 1
+129,13,19/12/2020 16:00,Malatya Stadium,Yeni Malatyaspor,Kasimpasa,2 - 0
+130,13,19/12/2020 19:00,Gaziantep Arena,Gaziantep F.K.,Fenerbahçe,3 - 1
+123,13,20/12/2020 13:30,Eryaman Stadium,Gençlerbirligi,Ankaragücü,1 - 1
+128,13,20/12/2020 16:00,Denizli Atatürk Stadium,Denizlispor,Alanyaspor,1 - 0
+122,13,20/12/2020 19:00,Vodafone Park,Besiktas,BB Erzurumspor,4 - 0
+124,13,21/12/2020 19:00,Konya Büyüksehir Stadium,Konyaspor,Sivasspor,0 - 1
+125,13,21/12/2020 19:00,Antalya Stadium,Antalyaspor,Kayserispor,2 - 0
+137,14,22/12/2020 16:00,Antakya Atatürk Stadium,Hatayspor,Trabzonspor,0 - 1
+131,14,22/12/2020 19:00,Türk Telekom Stadium,Galatasaray,Göztepe,3 - 1
+132,14,23/12/2020 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Denizlispor,1 - 2
+138,14,23/12/2020 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Yeni Malatyaspor,1 - 1
+139,14,23/12/2020 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Gaziantep F.K.,0 - 4
+140,14,23/12/2020 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Istanbul Basaksehir,4 - 1
+134,14,24/12/2020 16:00,4 Eylül Stadium,Sivasspor,Gençlerbirligi,3 - 1
+135,14,24/12/2020 16:00,Kadir Has Stadium,Kayserispor,Konyaspor,1 - 2
+133,14,24/12/2020 19:00,Eryaman Stadium,Ankaragücü,Besiktas,0 - 1
+136,14,24/12/2020 19:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Antalyaspor,2 - 1
+148,15,26/12/2020 16:00,Gürsel Aksel Stadium,Göztepe,Fatih Karagümrük,1 - 1
+147,15,26/12/2020 19:00,Senol Günes Stadium,Trabzonspor,Galatasaray,0 - 2
+149,15,27/12/2020 13:30,Gaziantep Arena,Gaziantep F.K.,Alanyaspor,3 - 1
+141,15,27/12/2020 16:00,Malatya Stadium,Yeni Malatyaspor,BB Erzurumspor,1 - 3
+142,15,27/12/2020 16:00,Denizli Atatürk Stadium,Denizlispor,Ankaragücü,1 - 2
+150,15,27/12/2020 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Kasimpasa,2 - 2
+144,15,28/12/2020 16:00,Eryaman Stadium,Gençlerbirligi,Kayserispor,3 - 2
+145,15,28/12/2020 16:00,Konya Büyüksehir Stadium,Konyaspor,Çaykur Rizespor,1 - 1
+143,15,28/12/2020 19:00,Vodafone Park,Besiktas,Sivasspor,3 - 0
+146,15,29/12/2020 19:00,Antalya Stadium,Antalyaspor,Hatayspor,0 - 6
+153,16,02/01/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Gaziantep F.K.,1 - 1
+155,16,02/01/2021 13:30,4 Eylül Stadium,Sivasspor,Denizlispor,2 - 2
+154,16,02/01/2021 16:00,Eryaman Stadium,Ankaragücü,Yeni Malatyaspor,3 - 1
+159,16,02/01/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Istanbul Basaksehir,3 - 0
+151,16,02/01/2021 19:00,Türk Telekom Stadium,Galatasaray,Antalyaspor,0 - 0
+158,16,02/01/2021 19:00,Antakya Atatürk Stadium,Hatayspor,Konyaspor,2 - 1
+157,16,03/01/2021 13:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Gençlerbirligi,1 - 1
+152,16,03/01/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Trabzonspor,1 - 2
+156,16,03/01/2021 19:00,Kadir Has Stadium,Kayserispor,Besiktas,0 - 2
+160,16,04/01/2021 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Fenerbahçe,0 - 3
+162,17,05/01/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Ankaragücü,2 - 0
+163,17,05/01/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Sivasspor,2 - 2
+167,17,05/01/2021 19:00,Konya Büyüksehir Stadium,Konyaspor,Galatasaray,4 - 3
+164,17,06/01/2021 13:30,Denizli Atatürk Stadium,Denizlispor,Kayserispor,0 - 1
+161,17,06/01/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,BB Erzurumspor,1 - 0
+166,17,06/01/2021 16:00,Eryaman Stadium,Gençlerbirligi,Hatayspor,3 - 1
+169,17,06/01/2021 16:00,Senol Günes Stadium,Trabzonspor,Göztepe,1 - 0
+165,17,06/01/2021 19:00,Vodafone Park,Besiktas,Çaykur Rizespor,6 - 0
+168,17,06/01/2021 19:00,Antalya Stadium,Antalyaspor,Fatih Karagümrük,3 - 1
+170,17,07/01/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Alanyaspor,2 - 1
+175,18,09/01/2021 13:30,4 Eylül Stadium,Sivasspor,Gaziantep F.K.,2 - 1
+176,18,09/01/2021 16:00,Kadir Has Stadium,Kayserispor,Yeni Malatyaspor,1 - 0
+179,18,09/01/2021 16:00,Gürsel Aksel Stadium,Göztepe,Antalyaspor,0 - 1
+171,18,09/01/2021 19:00,Türk Telekom Stadium,Galatasaray,Gençlerbirligi,6 - 0
+172,18,10/01/2021 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Konyaspor,2 - 1
+174,18,10/01/2021 16:00,Eryaman Stadium,Ankaragücü,Istanbul Basaksehir,1 - 2
+177,18,10/01/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Denizlispor,1 - 1
+178,18,10/01/2021 19:00,Antakya Atatürk Stadium,Hatayspor,Besiktas,2 - 2
+173,18,11/01/2021 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Fenerbahçe,0 - 3
+180,18,11/01/2021 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Kasimpasa,1 - 2
+188,19,15/01/2021 19:00,Eryaman Stadium,Gençlerbirligi,Fatih Karagümrük,1 - 3
+189,19,16/01/2021 13:30,Konya Büyüksehir Stadium,Konyaspor,Göztepe,2 - 3
+183,19,16/01/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Sivasspor,1 - 1
+184,19,16/01/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Kayserispor,2 - 1
+190,19,16/01/2021 19:00,Antalya Stadium,Antalyaspor,Trabzonspor,1 - 1
+186,19,17/01/2021 13:30,Denizli Atatürk Stadium,Denizlispor,Hatayspor,0 - 2
+185,19,17/01/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Çaykur Rizespor,4 - 1
+187,19,17/01/2021 19:00,Vodafone Park,Besiktas,Galatasaray,2 - 0
+181,19,18/01/2021 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,BB Erzurumspor,1 - 2
+182,19,18/01/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Ankaragücü,3 - 1
+196,20,19/01/2021 16:00,Kadir Has Stadium,Kayserispor,Istanbul Basaksehir,2 - 0
+199,20,19/01/2021 16:00,Gürsel Aksel Stadium,Göztepe,Gençlerbirligi,4 - 0
+200,20,19/01/2021 19:00,Senol Günes Stadium,Trabzonspor,Konyaspor,3 - 1
+197,20,20/01/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Gaziantep F.K.,3 - 0
+198,20,20/01/2021 16:00,Antakya Atatürk Stadium,Hatayspor,Yeni Malatyaspor,1 - 2
+191,20,20/01/2021 19:00,Türk Telekom Stadium,Galatasaray,Denizlispor,6 - 1
+192,20,21/01/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Besiktas,1 - 4
+193,20,21/01/2021 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Alanyaspor,1 - 1
+194,20,21/01/2021 19:00,Eryaman Stadium,Ankaragücü,Kasimpasa,1 - 0
+195,20,21/01/2021 19:00,4 Eylül Stadium,Sivasspor,Fenerbahçe,1 - 1
+209,21,23/01/2021 16:00,Eryaman Stadium,Gençlerbirligi,Trabzonspor,1 - 2
+204,21,23/01/2021 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Çaykur Rizespor,1 - 1
+210,21,24/01/2021 13:30,Konya Büyüksehir Stadium,Konyaspor,Antalyaspor,0 - 0
+206,21,24/01/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Galatasaray,0 - 1
+207,21,24/01/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Fatih Karagümrük,1 - 2
+205,21,24/01/2021 19:00,Gaziantep Arena,Gaziantep F.K.,Hatayspor,1 - 1
+208,21,24/01/2021 19:00,Vodafone Park,Besiktas,Göztepe,2 - 1
+202,21,25/01/2021 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Sivasspor,2 - 0
+201,21,25/01/2021 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Ankaragücü,4 - 3
+203,21,25/01/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Kayserispor,3 - 0
+217,22,29/01/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Fatih Karagümrük,0 - 0
+216,22,29/01/2021 19:00,Gaziantep Arena,Gaziantep F.K.,Galatasaray,1 - 2
+213,22,30/01/2021 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Kayserispor,0 - 1
+215,22,30/01/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Hatayspor,1 - 5
+214,22,30/01/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Çaykur Rizespor,1 - 0
+211,22,31/01/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Ankaragücü,1 - 0
+212,22,31/01/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Sivasspor,3 - 1
+218,22,31/01/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Göztepe,2 - 1
+220,22,31/01/2021 16:00,Eryaman Stadium,Gençlerbirligi,Antalyaspor,0 - 1
+219,22,31/01/2021 19:00,Vodafone Park,Besiktas,Trabzonspor,1 - 2
+228,23,02/02/2021 16:00,Antakya Atatürk Stadium,Hatayspor,Fenerbahçe,1 - 2
+221,23,02/02/2021 19:00,Türk Telekom Stadium,Galatasaray,Istanbul Basaksehir,3 - 0
+229,23,02/02/2021 19:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Kasimpasa,1 - 1
+222,23,03/02/2021 13:30,4 Eylül Stadium,Sivasspor,BB Erzurumspor,0 - 0
+227,23,03/02/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Gaziantep F.K.,2 - 0
+230,23,03/02/2021 16:00,Kadir Has Stadium,Kayserispor,Alanyaspor,1 - 1
+223,23,03/02/2021 19:00,Konya Büyüksehir Stadium,Konyaspor,Gençlerbirligi,0 - 0
+224,23,03/02/2021 19:00,Antalya Stadium,Antalyaspor,Besiktas,1 - 1
+226,23,04/02/2021 16:00,Gürsel Aksel Stadium,Göztepe,Yeni Malatyaspor,2 - 2
+225,23,04/02/2021 19:00,Senol Günes Stadium,Trabzonspor,Denizlispor,1 - 0
+234,24,06/02/2021 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Hatayspor,1 - 4
+233,24,06/02/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Çaykur Rizespor,2 - 1
+236,24,06/02/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Fatih Karagümrük,0 - 1
+235,24,06/02/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Galatasaray,0 - 1
+231,24,07/02/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Kayserispor,1 - 1
+232,24,07/02/2021 16:00,Eryaman Stadium,Ankaragücü,Sivasspor,1 - 4
+239,24,07/02/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Antalyaspor,1 - 1
+240,24,07/02/2021 19:00,Vodafone Park,Besiktas,Konyaspor,1 - 0
+237,24,08/02/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Göztepe,2 - 0
+238,24,08/02/2021 19:00,Malatya Stadium,Yeni Malatyaspor,Trabzonspor,0 - 2
+242,25,12/02/2021 19:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,BB Erzurumspor,0 - 2
+243,25,13/02/2021 13:30,Kadir Has Stadium,Kayserispor,Ankaragücü,0 - 0
+247,25,13/02/2021 16:00,Senol Günes Stadium,Trabzonspor,Gaziantep F.K.,1 - 0
+245,25,13/02/2021 19:00,Atatürk Olympic Stadium,Fatih Karagümrük,Fenerbahçe,1 - 2
+249,25,14/02/2021 13:30,Konya Büyüksehir Stadium,Konyaspor,Denizlispor,2 - 0
+241,25,14/02/2021 16:00,Türk Telekom Stadium,Galatasaray,Kasimpasa,2 - 1
+244,25,14/02/2021 16:00,Antakya Atatürk Stadium,Hatayspor,Alanyaspor,0 - 0
+246,25,14/02/2021 16:00,Gürsel Aksel Stadium,Göztepe,Istanbul Basaksehir,2 - 1
+250,25,15/02/2021 16:00,Eryaman Stadium,Gençlerbirligi,Besiktas,0 - 3
+248,25,15/02/2021 19:00,Antalya Stadium,Antalyaspor,Yeni Malatyaspor,1 - 1
+257,26,19/02/2021 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Trabzonspor,0 - 1
+255,26,20/02/2021 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Fatih Karagümrük,3 - 2
+259,26,20/02/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Konyaspor,2 - 3
+260,26,20/02/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Gençlerbirligi,1 - 0
+254,26,20/02/2021 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Galatasaray,0 - 1
+251,26,21/02/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Hatayspor,1 - 3
+253,26,21/02/2021 16:00,4 Eylül Stadium,Sivasspor,Kayserispor,2 - 0
+258,26,21/02/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Antalyaspor,0 - 0
+256,26,21/02/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Göztepe,0 - 1
+252,26,22/02/2021 19:00,Eryaman Stadium,Ankaragücü,Çaykur Rizespor,1 - 1
+268,27,26/02/2021 16:00,Konya Büyüksehir Stadium,Konyaspor,Gaziantep F.K.,0 - 0
+269,27,26/02/2021 16:00,Eryaman Stadium,Gençlerbirligi,Yeni Malatyaspor,1 - 1
+270,27,26/02/2021 19:00,Vodafone Park,Besiktas,Denizlispor,3 - 0
+262,27,27/02/2021 13:30,Antakya Atatürk Stadium,Hatayspor,Ankaragücü,4 - 1
+264,27,27/02/2021 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Alanyaspor,2 - 0
+263,27,27/02/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Sivasspor,0 - 0
+267,27,27/02/2021 16:00,Antalya Stadium,Antalyaspor,Istanbul Basaksehir,0 - 0
+261,27,27/02/2021 19:00,Türk Telekom Stadium,Galatasaray,BB Erzurumspor,2 - 0
+265,27,28/02/2021 16:00,Gürsel Aksel Stadium,Göztepe,Kasimpasa,1 - 0
+266,27,28/02/2021 19:00,Senol Günes Stadium,Trabzonspor,Fenerbahçe,0 - 1
+279,28,02/03/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Gençlerbirligi,2 - 1
+280,28,02/03/2021 19:00,Malatya Stadium,Yeni Malatyaspor,Besiktas,0 - 1
+271,28,03/03/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Fatih Karagümrük,2 - 2
+273,28,03/03/2021 16:00,4 Eylül Stadium,Sivasspor,Hatayspor,1 - 1
+278,28,03/03/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Konyaspor,1 - 1
+272,28,03/03/2021 19:00,Eryaman Stadium,Ankaragücü,Galatasaray,2 - 1
+274,28,03/03/2021 19:00,Kadir Has Stadium,Kayserispor,Çaykur Rizespor,2 - 1
+275,28,04/03/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Göztepe,1 - 1
+276,28,04/03/2021 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Trabzonspor,1 - 2
+277,28,04/03/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Antalyaspor,1 - 1
+290,29,06/03/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Yeni Malatyaspor,3 - 2
+289,29,06/03/2021 19:00,Vodafone Park,Besiktas,Gaziantep F.K.,2 - 1
+283,29,07/03/2021 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Ankaragücü,0 - 1
+284,29,07/03/2021 16:00,Antakya Atatürk Stadium,Hatayspor,Kayserispor,1 - 3
+288,29,07/03/2021 16:00,Eryaman Stadium,Gençlerbirligi,Istanbul Basaksehir,0 - 1
+281,29,07/03/2021 19:00,Türk Telekom Stadium,Galatasaray,Sivasspor,2 - 2
+285,29,08/03/2021 16:00,Senol Günes Stadium,Trabzonspor,Alanyaspor,1 - 3
+286,29,08/03/2021 16:00,Antalya Stadium,Antalyaspor,Kasimpasa,1 - 1
+282,29,08/03/2021 19:00,Gürsel Aksel Stadium,Göztepe,BB Erzurumspor,3 - 1
+287,29,08/03/2021 19:00,Konya Büyüksehir Stadium,Konyaspor,Fenerbahçe,0 - 3
+299,30,12/03/2021 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Besiktas,2 - 3
+293,30,13/03/2021 13:30,4 Eylül Stadium,Sivasspor,Fatih Karagümrük,1 - 0
+295,30,13/03/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Hatayspor,1 - 0
+296,30,13/03/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Antalyaspor,4 - 0
+294,30,13/03/2021 19:00,Kadir Has Stadium,Kayserispor,Galatasaray,0 - 3
+292,30,14/03/2021 13:30,Eryaman Stadium,Ankaragücü,Göztepe,3 - 0
+291,30,14/03/2021 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Trabzonspor,0 - 0
+300,30,14/03/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Denizlispor,2 - 0
+298,30,14/03/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Gençlerbirligi,1 - 2
+297,30,15/03/2021 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Konyaspor,1 - 1
+305,31,19/03/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Kayserispor,3 - 0
+301,31,19/03/2021 19:00,Türk Telekom Stadium,Galatasaray,Çaykur Rizespor,3 - 4
+307,31,20/03/2021 13:30,Eryaman Stadium,Gençlerbirligi,Kasimpasa,2 - 1
+304,31,20/03/2021 16:00,Gürsel Aksel Stadium,Göztepe,Sivasspor,3 - 5
+310,31,20/03/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Gaziantep F.K.,2 - 2
+303,31,20/03/2021 19:00,Senol Günes Stadium,Trabzonspor,Ankaragücü,4 - 1
+302,31,21/03/2021 13:30,Antalya Stadium,Antalyaspor,BB Erzurumspor,3 - 1
+306,31,21/03/2021 13:30,Konya Büyüksehir Stadium,Konyaspor,Alanyaspor,1 - 0
+309,31,21/03/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Istanbul Basaksehir,0 - 0
+308,31,21/03/2021 19:00,Vodafone Park,Besiktas,Fenerbahçe,1 - 1
+314,32,03/04/2021 13:30,Kadir Has Stadium,Kayserispor,Göztepe,1 - 1
+313,32,03/04/2021 16:00,4 Eylül Stadium,Sivasspor,Trabzonspor,0 - 0
+315,32,03/04/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Fatih Karagümrük,0 - 0
+316,32,03/04/2021 19:00,Antakya Atatürk Stadium,Hatayspor,Galatasaray,3 - 0
+311,32,04/04/2021 13:30,Kazim Karabekir Stadium,BB Erzurumspor,Konyaspor,1 - 2
+312,32,04/04/2021 16:00,Eryaman Stadium,Ankaragücü,Antalyaspor,1 - 0
+317,32,04/04/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Gençlerbirligi,1 - 2
+320,32,04/04/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Yeni Malatyaspor,3 - 1
+318,32,04/04/2021 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Besiktas,1 - 0
+319,32,05/04/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Denizlispor,1 - 0
+325,33,06/04/2021 16:00,Gürsel Aksel Stadium,Göztepe,Çaykur Rizespor,2 - 0
+326,33,06/04/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Hatayspor,1 - 0
+324,33,06/04/2021 19:00,Senol Günes Stadium,Trabzonspor,Kayserispor,1 - 1
+321,33,07/04/2021 16:00,Eryaman Stadium,Gençlerbirligi,BB Erzurumspor,1 - 1
+322,33,07/04/2021 16:00,Konya Büyüksehir Stadium,Konyaspor,Ankaragücü,1 - 1
+323,33,07/04/2021 19:00,Antalya Stadium,Antalyaspor,Sivasspor,2 - 4
+327,33,07/04/2021 19:00,Vodafone Park,Besiktas,Alanyaspor,3 - 0
+328,33,08/04/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Kasimpasa,1 - 1
+330,33,08/04/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Istanbul Basaksehir,2 - 0
+329,33,08/04/2021 19:00,Malatya Stadium,Yeni Malatyaspor,Fenerbahçe,1 - 1
+337,34,10/04/2021 13:30,Antakya Atatürk Stadium,Hatayspor,Göztepe,2 - 3
+336,34,10/04/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Trabzonspor,0 - 0
+331,34,10/04/2021 19:00,Türk Telekom Stadium,Galatasaray,Fatih Karagümrük,1 - 1
+334,34,11/04/2021 13:30,4 Eylül Stadium,Sivasspor,Konyaspor,3 - 1
+333,34,11/04/2021 16:00,Eryaman Stadium,Ankaragücü,Gençlerbirligi,2 - 1
+335,34,11/04/2021 16:00,Kadir Has Stadium,Kayserispor,Antalyaspor,0 - 1
+332,34,11/04/2021 19:00,Kazim Karabekir Stadium,BB Erzurumspor,Besiktas,2 - 4
+339,34,12/04/2021 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Yeni Malatyaspor,0 - 0
+338,34,12/04/2021 19:00,Bahçesehir Okullari Stadium,Alanyaspor,Denizlispor,3 - 2
+340,34,12/04/2021 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Gaziantep F.K.,3 - 1
+343,35,16/04/2021 16:00,Eryaman Stadium,Gençlerbirligi,Sivasspor,2 - 3
+344,35,16/04/2021 16:00,Konya Büyüksehir Stadium,Konyaspor,Kayserispor,0 - 0
+342,35,16/04/2021 19:00,Vodafone Park,Besiktas,Ankaragücü,2 - 2
+345,35,16/04/2021 19:00,Antalya Stadium,Antalyaspor,Çaykur Rizespor,2 - 3
+341,35,17/04/2021 13:30,Denizli Atatürk Stadium,Denizlispor,BB Erzurumspor,2 - 3
+346,35,17/04/2021 16:00,Senol Günes Stadium,Trabzonspor,Hatayspor,1 - 1
+348,35,17/04/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Alanyaspor,1 - 0
+347,35,17/04/2021 19:00,Gürsel Aksel Stadium,Göztepe,Galatasaray,1 - 3
+349,35,18/04/2021 16:00,Gaziantep Arena,Gaziantep F.K.,Kasimpasa,2 - 2
+350,35,18/04/2021 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Fenerbahçe,1 - 2
+355,36,20/04/2021 16:00,Kadir Has Stadium,Kayserispor,Gençlerbirligi,2 - 2
+356,36,20/04/2021 16:00,Yeni Rize Sehir Stadium,Çaykur Rizespor,Konyaspor,5 - 3
+358,36,20/04/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Göztepe,1 - 1
+354,36,20/04/2021 19:00,4 Eylül Stadium,Sivasspor,Besiktas,0 - 0
+357,36,20/04/2021 19:00,Antakya Atatürk Stadium,Hatayspor,Antalyaspor,3 - 2
+352,36,21/04/2021 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Yeni Malatyaspor,1 - 0
+353,36,21/04/2021 16:00,Eryaman Stadium,Ankaragücü,Denizlispor,1 - 1
+351,36,21/04/2021 19:00,Türk Telekom Stadium,Galatasaray,Trabzonspor,1 - 1
+359,36,22/04/2021 16:00,Bahçesehir Okullari Stadium,Alanyaspor,Gaziantep F.K.,3 - 2
+360,36,22/04/2021 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Istanbul Basaksehir,0 - 1
+365,37,23/04/2021 20:30,Eryaman Stadium,Gençlerbirligi,Çaykur Rizespor,2 - 1
+366,37,24/04/2021 13:30,Konya Büyüksehir Stadium,Konyaspor,Hatayspor,0 - 0
+368,37,24/04/2021 16:00,Senol Günes Stadium,Trabzonspor,Fatih Karagümrük,2 - 0
+363,37,24/04/2021 20:30,Denizli Atatürk Stadium,Denizlispor,Sivasspor,1 - 1
+364,37,24/04/2021 20:30,Vodafone Park,Besiktas,Kayserispor,3 - 1
+367,37,24/04/2021 20:30,Antalya Stadium,Antalyaspor,Galatasaray,0 - 1
+362,37,25/04/2021 13:30,Malatya Stadium,Yeni Malatyaspor,Ankaragücü,2 - 1
+361,37,25/04/2021 16:00,Gaziantep Arena,Gaziantep F.K.,BB Erzurumspor,2 - 3
+369,37,25/04/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Alanyaspor,0 - 0
+370,37,25/04/2021 20:30,Sükrü Saracoglu Stadium,Fenerbahçe,Kasimpasa,3 - 2
+377,38,27/04/2021 20:30,Antakya Atatürk Stadium,Hatayspor,Gençlerbirligi,3 - 1
+375,38,28/04/2021 16:00,Kadir Has Stadium,Kayserispor,Denizlispor,6 - 3
+378,38,28/04/2021 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Antalyaspor,2 - 2
+379,38,28/04/2021 16:00,Gürsel Aksel Stadium,Göztepe,Trabzonspor,1 - 1
+371,38,28/04/2021 20:30,Türk Telekom Stadium,Galatasaray,Konyaspor,1 - 0
+376,38,28/04/2021 20:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Besiktas,2 - 3
+372,38,29/04/2021 16:00,Kazim Karabekir Stadium,BB Erzurumspor,Istanbul Basaksehir,1 - 2
+374,38,29/04/2021 16:00,4 Eylül Stadium,Sivasspor,Yeni Malatyaspor,1 - 0
+373,38,29/04/2021 20:30,Eryaman Stadium,Ankaragücü,Gaziantep F.K.,0 - 1
+380,38,29/04/2021 20:30,Bahçesehir Okullari Stadium,Alanyaspor,Fenerbahçe,0 - 0
+386,39,01/05/2021 20:30,Vodafone Park,Besiktas,Hatayspor,7 - 0
+385,39,02/05/2021 16:00,Denizli Atatürk Stadium,Denizlispor,Çaykur Rizespor,0 - 1
+388,39,02/05/2021 16:00,Konya Büyüksehir Stadium,Konyaspor,Fatih Karagümrük,5 - 1
+389,39,02/05/2021 16:00,Antalya Stadium,Antalyaspor,Göztepe,2 - 3
+387,39,02/05/2021 20:30,Eryaman Stadium,Gençlerbirligi,Galatasaray,0 - 2
+382,39,03/05/2021 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Ankaragücü,2 - 1
+384,39,03/05/2021 16:00,Malatya Stadium,Yeni Malatyaspor,Kayserispor,1 - 1
+390,39,03/05/2021 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Alanyaspor,3 - 0
+381,39,03/05/2021 20:30,Sükrü Saracoglu Stadium,Fenerbahçe,BB Erzurumspor,3 - 1
+383,39,03/05/2021 20:30,Gaziantep Arena,Gaziantep F.K.,Sivasspor,0 - 1
+391,40,08/05/2021 20:30,Türk Telekom Stadium,Galatasaray,Besiktas,3 - 1
+392,40,08/05/2021 20:30,Kazim Karabekir Stadium,BB Erzurumspor,Kasimpasa,0 - 1
+393,40,08/05/2021 20:30,Eryaman Stadium,Ankaragücü,Fenerbahçe,1 - 2
+394,40,08/05/2021 20:30,4 Eylül Stadium,Sivasspor,Istanbul Basaksehir,0 - 0
+395,40,08/05/2021 20:30,Kadir Has Stadium,Kayserispor,Gaziantep F.K.,0 - 0
+396,40,08/05/2021 20:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Yeni Malatyaspor,0 - 4
+397,40,08/05/2021 20:30,Antakya Atatürk Stadium,Hatayspor,Denizlispor,1 - 0
+398,40,08/05/2021 20:30,Atatürk Olympic Stadium,Fatih Karagümrük,Gençlerbirligi,5 - 1
+399,40,08/05/2021 20:30,Gürsel Aksel Stadium,Göztepe,Konyaspor,0 - 1
+400,40,08/05/2021 20:30,Senol Günes Stadium,Trabzonspor,Antalyaspor,2 - 1
+401,41,11/05/2021 20:30,Bahçesehir Okullari Stadium,Alanyaspor,BB Erzurumspor,2 - 3
+402,41,11/05/2021 20:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Ankaragücü,3 - 1
+403,41,11/05/2021 20:30,Sükrü Saracoglu Stadium,Fenerbahçe,Sivasspor,1 - 2
+404,41,11/05/2021 20:30,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Kayserispor,0 - 0
+405,41,11/05/2021 20:30,Gaziantep Arena,Gaziantep F.K.,Çaykur Rizespor,4 - 5
+406,41,11/05/2021 20:30,Malatya Stadium,Yeni Malatyaspor,Hatayspor,1 - 1
+407,41,11/05/2021 20:30,Denizli Atatürk Stadium,Denizlispor,Galatasaray,1 - 4
+408,41,11/05/2021 20:30,Vodafone Park,Besiktas,Fatih Karagümrük,1 - 2
+409,41,11/05/2021 20:30,Eryaman Stadium,Gençlerbirligi,Göztepe,5 - 3
+410,41,11/05/2021 20:30,Konya Büyüksehir Stadium,Konyaspor,Trabzonspor,1 - 1
+411,42,15/05/2021 20:30,Türk Telekom Stadium,Galatasaray,Yeni Malatyaspor,3 - 1
+412,42,15/05/2021 20:30,Eryaman Stadium,Ankaragücü,Alanyaspor,0 - 1
+413,42,15/05/2021 20:30,4 Eylül Stadium,Sivasspor,Kasimpasa,2 - 1
+414,42,15/05/2021 20:30,Kadir Has Stadium,Kayserispor,Fenerbahçe,1 - 2
+415,42,15/05/2021 20:30,Yeni Rize Sehir Stadium,Çaykur Rizespor,Istanbul Basaksehir,0 - 2
+416,42,15/05/2021 20:30,Antakya Atatürk Stadium,Hatayspor,Gaziantep F.K.,0 - 1
+417,42,15/05/2021 20:30,Atatürk Olympic Stadium,Fatih Karagümrük,Denizlispor,5 - 1
+418,42,15/05/2021 20:30,Gürsel Aksel Stadium,Göztepe,Besiktas,1 - 2
+419,42,15/05/2021 20:30,Senol Günes Stadium,Trabzonspor,Gençlerbirligi,2 - 1
+420,42,15/05/2021 20:30,Antalya Stadium,Antalyaspor,Konyaspor,0 - 0

@@ -1,0 +1,463 @@
+,Round Number,Date,Home Team,Away Team,Result
+80284,0,1961-08-19,Arsenal,Burnley,2 - 2
+80285,0,1961-08-19,Birmingham City,Fulham,2 - 1
+80286,0,1961-08-19,Blackburn Rovers,Cardiff City,0 - 0
+80287,0,1961-08-19,Blackpool,Tottenham Hotspur,1 - 2
+80288,0,1961-08-19,Bolton Wanderers,Ipswich Town,0 - 0
+80289,0,1961-08-19,Chelsea,Nottingham Forest,2 - 2
+80290,0,1961-08-19,Everton,Aston Villa,2 - 0
+80291,0,1961-08-19,Manchester City,Leicester City,3 - 1
+80292,0,1961-08-19,Sheffield United,Wolverhampton Wanderers,2 - 1
+80293,0,1961-08-19,West Bromwich Albion,Sheffield Wednesday,0 - 2
+80294,0,1961-08-19,West Ham United,Manchester United,1 - 1
+80330,0,1961-08-21,Blackpool,Blackburn Rovers,2 - 1
+80341,1,1961-08-22,Burnley,Ipswich Town,4 - 3
+80342,1,1961-08-22,Nottingham Forest,Birmingham City,2 - 1
+80353,1,1961-08-23,Cardiff City,Sheffield United,1 - 1
+80354,1,1961-08-23,Fulham,Manchester City,3 - 4
+80355,1,1961-08-23,Leicester City,Arsenal,0 - 1
+80356,1,1961-08-23,Manchester United,Chelsea,3 - 2
+80357,1,1961-08-23,Sheffield Wednesday,Bolton Wanderers,4 - 2
+80358,1,1961-08-23,Tottenham Hotspur,West Ham United,2 - 2
+80359,1,1961-08-23,West Bromwich Albion,Everton,2 - 0
+80375,1,1961-08-26,Aston Villa,Chelsea,3 - 1
+80376,1,1961-08-26,Burnley,Bolton Wanderers,3 - 1
+80377,2,1961-08-26,Cardiff City,Blackpool,3 - 2
+80378,2,1961-08-26,Fulham,Everton,2 - 1
+80379,2,1961-08-26,Ipswich Town,Manchester City,2 - 4
+80380,2,1961-08-26,Leicester City,West Bromwich Albion,1 - 0
+80381,2,1961-08-26,Manchester United,Blackburn Rovers,6 - 1
+80382,2,1961-08-26,Nottingham Forest,Sheffield United,2 - 0
+80383,2,1961-08-26,Sheffield Wednesday,Birmingham City,5 - 1
+80384,2,1961-08-26,Tottenham Hotspur,Arsenal,4 - 3
+80385,2,1961-08-26,Wolverhampton Wanderers,West Ham United,3 - 2
+80420,2,1961-08-28,Blackburn Rovers,Blackpool,1 - 1
+80421,3,1961-08-28,Sheffield United,Cardiff City,1 - 0
+80422,3,1961-08-28,West Ham United,Tottenham Hotspur,2 - 1
+80423,3,1961-08-28,Wolverhampton Wanderers,Aston Villa,2 - 2
+80435,3,1961-08-29,Arsenal,Leicester City,4 - 4
+80436,3,1961-08-29,Ipswich Town,Burnley,6 - 2
+80443,3,1961-08-30,Birmingham City,Nottingham Forest,1 - 1
+80444,3,1961-08-30,Bolton Wanderers,Sheffield Wednesday,4 - 3
+80445,3,1961-08-30,Chelsea,Manchester United,2 - 0
+80446,3,1961-08-30,Everton,West Bromwich Albion,3 - 1
+80447,3,1961-08-30,Manchester City,Fulham,2 - 1
+80468,3,1961-09-02,Birmingham City,Leicester City,1 - 5
+80469,4,1961-09-02,Blackburn Rovers,Wolverhampton Wanderers,2 - 1
+80470,4,1961-09-02,Blackpool,Manchester United,2 - 3
+80471,4,1961-09-02,Bolton Wanderers,Arsenal,2 - 1
+80472,4,1961-09-02,Chelsea,Fulham,0 - 0
+80473,4,1961-09-02,Everton,Sheffield Wednesday,0 - 4
+80474,4,1961-09-02,Manchester City,Burnley,1 - 3
+80475,4,1961-09-02,Sheffield United,Aston Villa,0 - 2
+80476,4,1961-09-02,Tottenham Hotspur,Cardiff City,3 - 2
+80477,4,1961-09-02,West Bromwich Albion,Ipswich Town,1 - 3
+80478,4,1961-09-02,West Ham United,Nottingham Forest,3 - 2
+80512,4,1961-09-04,Blackpool,West Ham United,2 - 0
+80513,5,1961-09-04,Sheffield United,Tottenham Hotspur,1 - 1
+80524,5,1961-09-05,Burnley,Leicester City,2 - 0
+80525,5,1961-09-05,Ipswich Town,Blackburn Rovers,2 - 1
+80532,5,1961-09-06,Cardiff City,Chelsea,5 - 2
+80533,5,1961-09-06,Everton,Manchester City,0 - 2
+80534,5,1961-09-06,Fulham,Bolton Wanderers,2 - 2
+80535,5,1961-09-06,West Bromwich Albion,Birmingham City,0 - 0
+80551,5,1961-09-09,Arsenal,Manchester City,3 - 0
+80552,5,1961-09-09,Aston Villa,West Ham United,2 - 4
+80553,5,1961-09-09,Burnley,West Bromwich Albion,3 - 1
+80554,6,1961-09-09,Cardiff City,Bolton Wanderers,1 - 2
+80555,6,1961-09-09,Chelsea,Sheffield United,6 - 1
+80556,6,1961-09-09,Ipswich Town,Birmingham City,4 - 1
+80557,6,1961-09-09,Leicester City,Everton,2 - 0
+80558,6,1961-09-09,Manchester United,Tottenham Hotspur,1 - 0
+80559,6,1961-09-09,Nottingham Forest,Blackburn Rovers,1 - 2
+80560,6,1961-09-09,Sheffield Wednesday,Fulham,1 - 1
+80561,6,1961-09-09,Wolverhampton Wanderers,Blackpool,2 - 2
+80596,6,1961-09-16,Birmingham City,Burnley,2 - 6
+80597,7,1961-09-16,Blackburn Rovers,Aston Villa,4 - 2
+80598,7,1961-09-16,Blackpool,Nottingham Forest,1 - 3
+80599,7,1961-09-16,Cardiff City,Manchester United,1 - 2
+80600,7,1961-09-16,Everton,Ipswich Town,5 - 2
+80601,7,1961-09-16,Fulham,Leicester City,2 - 1
+80602,7,1961-09-16,Manchester City,Bolton Wanderers,2 - 1
+80603,7,1961-09-16,Sheffield United,Sheffield Wednesday,1 - 0
+80604,7,1961-09-16,Tottenham Hotspur,Wolverhampton Wanderers,1 - 0
+80605,7,1961-09-16,West Bromwich Albion,Arsenal,4 - 0
+80606,7,1961-09-16,West Ham United,Chelsea,2 - 1
+80640,7,1961-09-18,Aston Villa,Manchester United,1 - 1
+80641,8,1961-09-18,Blackburn Rovers,Ipswich Town,2 - 2
+80642,8,1961-09-18,West Ham United,Blackpool,2 - 2
+80653,8,1961-09-19,Nottingham Forest,Wolverhampton Wanderers,3 - 1
+80661,8,1961-09-20,Birmingham City,West Bromwich Albion,1 - 2
+80662,8,1961-09-20,Bolton Wanderers,Fulham,2 - 3
+80663,8,1961-09-20,Chelsea,Cardiff City,2 - 3
+80664,8,1961-09-20,Leicester City,Burnley,2 - 6
+80665,8,1961-09-20,Manchester City,Everton,1 - 3
+80666,8,1961-09-20,Sheffield Wednesday,Arsenal,1 - 1
+80683,8,1961-09-23,Arsenal,Birmingham City,1 - 1
+80684,9,1961-09-23,Aston Villa,Blackpool,5 - 0
+80685,9,1961-09-23,Bolton Wanderers,West Bromwich Albion,3 - 2
+80686,9,1961-09-23,Burnley,Everton,2 - 1
+80687,9,1961-09-23,Chelsea,Blackburn Rovers,1 - 1
+80688,9,1961-09-23,Ipswich Town,Fulham,2 - 4
+80689,9,1961-09-23,Leicester City,Sheffield Wednesday,1 - 0
+80690,9,1961-09-23,Manchester United,Manchester City,3 - 2
+80691,9,1961-09-23,Nottingham Forest,Tottenham Hotspur,2 - 0
+80692,9,1961-09-23,Sheffield United,West Ham United,1 - 4
+80693,9,1961-09-23,Wolverhampton Wanderers,Cardiff City,1 - 1
+80744,9,1961-09-27,Wolverhampton Wanderers,Nottingham Forest,2 - 1
+80759,10,1961-09-30,Birmingham City,Bolton Wanderers,2 - 1
+80760,10,1961-09-30,Blackburn Rovers,Sheffield United,1 - 2
+80761,10,1961-09-30,Blackpool,Chelsea,4 - 0
+80762,10,1961-09-30,Cardiff City,Nottingham Forest,2 - 2
+80763,10,1961-09-30,Everton,Arsenal,4 - 1
+80764,10,1961-09-30,Fulham,Burnley,3 - 5
+80765,10,1961-09-30,Manchester United,Wolverhampton Wanderers,0 - 2
+80766,10,1961-09-30,Sheffield Wednesday,Ipswich Town,1 - 4
+80767,10,1961-09-30,Tottenham Hotspur,Aston Villa,1 - 0
+80768,10,1961-09-30,West Bromwich Albion,Manchester City,2 - 2
+80769,10,1961-09-30,West Ham United,Leicester City,4 - 1
+80801,10,1961-10-02,Aston Villa,Wolverhampton Wanderers,1 - 0
+80823,11,1961-10-07,Arsenal,Blackpool,3 - 0
+80824,11,1961-10-07,Birmingham City,Wolverhampton Wanderers,3 - 6
+80825,11,1961-10-07,Everton,Nottingham Forest,6 - 0
+80826,11,1961-10-07,Fulham,Aston Villa,3 - 1
+80827,11,1961-10-07,Ipswich Town,West Ham United,4 - 2
+80828,11,1961-10-07,Leicester City,Sheffield United,4 - 1
+80829,11,1961-10-07,Manchester City,Cardiff City,1 - 2
+80830,11,1961-10-07,Sheffield Wednesday,Chelsea,5 - 3
+80831,11,1961-10-07,West Bromwich Albion,Manchester United,1 - 1
+80865,11,1961-10-09,Bolton Wanderers,Tottenham Hotspur,1 - 2
+80890,11,1961-10-14,Blackburn Rovers,Arsenal,0 - 0
+80891,11,1961-10-14,Blackpool,Bolton Wanderers,2 - 1
+80892,12,1961-10-14,Chelsea,Leicester City,1 - 3
+80893,12,1961-10-14,Manchester United,Birmingham City,0 - 2
+80894,12,1961-10-14,Nottingham Forest,Fulham,1 - 1
+80895,12,1961-10-14,Sheffield United,Ipswich Town,2 - 1
+80896,12,1961-10-14,Tottenham Hotspur,Manchester City,2 - 0
+80897,12,1961-10-14,West Ham United,Burnley,2 - 1
+80898,12,1961-10-14,Wolverhampton Wanderers,Everton,0 - 3
+80932,12,1961-10-16,Aston Villa,Sheffield Wednesday,1 - 0
+80939,12,1961-10-18,Cardiff City,West Bromwich Albion,2 - 2
+80947,12,1961-10-21,Arsenal,Manchester United,5 - 1
+80948,12,1961-10-21,Birmingham City,Chelsea,3 - 2
+80949,13,1961-10-21,Bolton Wanderers,Wolverhampton Wanderers,1 - 0
+80950,13,1961-10-21,Burnley,Cardiff City,2 - 1
+80951,13,1961-10-21,Everton,Sheffield United,1 - 0
+80952,13,1961-10-21,Fulham,West Ham United,2 - 0
+80953,13,1961-10-21,Ipswich Town,Tottenham Hotspur,3 - 2
+80954,13,1961-10-21,Leicester City,Blackpool,0 - 2
+80955,13,1961-10-21,Manchester City,Nottingham Forest,3 - 0
+80956,13,1961-10-21,Sheffield Wednesday,Blackburn Rovers,1 - 0
+80957,13,1961-10-21,West Bromwich Albion,Aston Villa,1 - 1
+80994,13,1961-10-28,Aston Villa,Birmingham City,1 - 3
+80995,14,1961-10-28,Blackburn Rovers,Leicester City,2 - 1
+80996,14,1961-10-28,Blackpool,Ipswich Town,1 - 1
+80997,14,1961-10-28,Cardiff City,Arsenal,1 - 1
+80998,14,1961-10-28,Chelsea,Everton,1 - 1
+80999,14,1961-10-28,Manchester United,Bolton Wanderers,0 - 3
+81000,14,1961-10-28,Nottingham Forest,West Bromwich Albion,4 - 4
+81001,14,1961-10-28,Sheffield United,Fulham,2 - 2
+81002,14,1961-10-28,Tottenham Hotspur,Burnley,4 - 2
+81003,14,1961-10-28,West Ham United,Sheffield Wednesday,2 - 3
+81004,14,1961-10-28,Wolverhampton Wanderers,Manchester City,4 - 1
+81038,14,1961-11-04,Arsenal,Chelsea,0 - 3
+81039,15,1961-11-04,Birmingham City,Blackpool,1 - 1
+81040,15,1961-11-04,Bolton Wanderers,Sheffield United,2 - 0
+81041,15,1961-11-04,Burnley,Aston Villa,3 - 0
+81042,15,1961-11-04,Everton,Tottenham Hotspur,3 - 0
+81043,15,1961-11-04,Fulham,Cardiff City,0 - 1
+81044,15,1961-11-04,Ipswich Town,Nottingham Forest,1 - 0
+81045,15,1961-11-04,Leicester City,Wolverhampton Wanderers,3 - 0
+81046,15,1961-11-04,Manchester City,West Ham United,3 - 5
+81047,15,1961-11-04,Sheffield Wednesday,Manchester United,3 - 1
+81048,15,1961-11-04,West Bromwich Albion,Blackburn Rovers,4 - 0
+81060,15,1961-11-11,Aston Villa,Arsenal,3 - 1
+81061,16,1961-11-11,Blackburn Rovers,Birmingham City,2 - 0
+81062,16,1961-11-11,Blackpool,Everton,1 - 1
+81063,16,1961-11-11,Cardiff City,Sheffield Wednesday,2 - 1
+81064,16,1961-11-11,Chelsea,Bolton Wanderers,1 - 0
+81065,16,1961-11-11,Manchester United,Leicester City,2 - 2
+81066,16,1961-11-11,Nottingham Forest,Burnley,3 - 2
+81067,16,1961-11-11,Sheffield United,Manchester City,3 - 1
+81068,16,1961-11-11,Tottenham Hotspur,Fulham,4 - 2
+81069,16,1961-11-11,West Ham United,West Bromwich Albion,3 - 3
+81070,16,1961-11-11,Wolverhampton Wanderers,Ipswich Town,2 - 0
+81105,16,1961-11-14,Arsenal,Sheffield Wednesday,1 - 0
+81109,17,1961-11-18,Arsenal,Nottingham Forest,2 - 1
+81110,18,1961-11-18,Birmingham City,West Ham United,4 - 0
+81111,18,1961-11-18,Bolton Wanderers,Aston Villa,1 - 1
+81112,18,1961-11-18,Burnley,Wolverhampton Wanderers,3 - 3
+81113,18,1961-11-18,Everton,Blackburn Rovers,1 - 0
+81114,18,1961-11-18,Fulham,Blackpool,0 - 1
+81115,18,1961-11-18,Ipswich Town,Manchester United,4 - 1
+81116,18,1961-11-18,Leicester City,Cardiff City,3 - 0
+81117,18,1961-11-18,Manchester City,Chelsea,2 - 2
+81118,18,1961-11-18,Sheffield Wednesday,Tottenham Hotspur,0 - 0
+81119,18,1961-11-18,West Bromwich Albion,Sheffield United,3 - 1
+81155,18,1961-11-25,Aston Villa,Manchester City,2 - 1
+81156,19,1961-11-25,Blackburn Rovers,Fulham,0 - 2
+81157,19,1961-11-25,Blackpool,Sheffield Wednesday,1 - 3
+81158,19,1961-11-25,Cardiff City,Ipswich Town,0 - 3
+81159,19,1961-11-25,Chelsea,West Bromwich Albion,4 - 1
+81160,19,1961-11-25,Manchester United,Burnley,1 - 4
+81161,19,1961-11-25,Nottingham Forest,Bolton Wanderers,0 - 1
+81162,19,1961-11-25,Sheffield United,Birmingham City,3 - 1
+81163,19,1961-11-25,Tottenham Hotspur,Leicester City,1 - 2
+81164,19,1961-11-25,West Ham United,Everton,3 - 1
+81165,19,1961-11-25,Wolverhampton Wanderers,Arsenal,2 - 3
+81176,19,1961-12-02,Arsenal,West Ham United,2 - 2
+81177,20,1961-12-02,Birmingham City,Cardiff City,3 - 0
+81178,20,1961-12-02,Bolton Wanderers,Blackburn Rovers,1 - 1
+81179,20,1961-12-02,Burnley,Sheffield United,4 - 2
+81180,20,1961-12-02,Everton,Manchester United,5 - 1
+81181,20,1961-12-02,Fulham,Wolverhampton Wanderers,0 - 1
+81182,20,1961-12-02,Ipswich Town,Chelsea,5 - 2
+81183,20,1961-12-02,Leicester City,Aston Villa,0 - 2
+81184,20,1961-12-02,Manchester City,Blackpool,2 - 4
+81185,20,1961-12-02,Sheffield Wednesday,Nottingham Forest,3 - 0
+81186,20,1961-12-02,West Bromwich Albion,Tottenham Hotspur,2 - 4
+81223,20,1961-12-09,Aston Villa,Ipswich Town,3 - 0
+81224,21,1961-12-09,Blackburn Rovers,Manchester City,4 - 1
+81225,21,1961-12-09,Blackpool,West Bromwich Albion,2 - 2
+81226,21,1961-12-09,Cardiff City,Everton,0 - 0
+81227,21,1961-12-09,Chelsea,Burnley,1 - 2
+81228,21,1961-12-09,Manchester United,Fulham,3 - 0
+81229,21,1961-12-09,Nottingham Forest,Leicester City,0 - 0
+81230,21,1961-12-09,Sheffield United,Arsenal,2 - 1
+81231,21,1961-12-09,Tottenham Hotspur,Birmingham City,3 - 1
+81232,21,1961-12-09,West Ham United,Bolton Wanderers,1 - 0
+81233,21,1961-12-09,Wolverhampton Wanderers,Sheffield Wednesday,3 - 0
+81262,21,1961-12-16,Aston Villa,Everton,1 - 1
+81263,22,1961-12-16,Burnley,Arsenal,0 - 2
+81264,22,1961-12-16,Cardiff City,Blackburn Rovers,1 - 1
+81265,22,1961-12-16,Fulham,Birmingham City,0 - 1
+81266,22,1961-12-16,Ipswich Town,Bolton Wanderers,2 - 1
+81267,22,1961-12-16,Leicester City,Manchester City,2 - 0
+81268,22,1961-12-16,Manchester United,West Ham United,1 - 2
+81269,22,1961-12-16,Nottingham Forest,Chelsea,3 - 0
+81270,22,1961-12-16,Sheffield Wednesday,West Bromwich Albion,2 - 1
+81271,22,1961-12-16,Tottenham Hotspur,Blackpool,5 - 2
+81272,22,1961-12-16,Wolverhampton Wanderers,Sheffield United,0 - 1
+81305,22,1961-12-18,West Ham United,Wolverhampton Wanderers,4 - 2
+81306,23,1961-12-22,Sheffield United,Nottingham Forest,2 - 0
+81310,23,1961-12-23,Arsenal,Tottenham Hotspur,2 - 1
+81311,23,1961-12-23,Birmingham City,Sheffield Wednesday,1 - 1
+81312,23,1961-12-23,Blackpool,Cardiff City,3 - 0
+81313,23,1961-12-23,Chelsea,Aston Villa,1 - 0
+81314,23,1961-12-23,Everton,Fulham,3 - 0
+81315,23,1961-12-23,Manchester City,Ipswich Town,3 - 0
+81316,23,1961-12-23,West Bromwich Albion,Leicester City,2 - 0
+81344,23,1961-12-26,Arsenal,Fulham,1 - 0
+81345,24,1961-12-26,Birmingham City,Manchester City,1 - 1
+81346,24,1961-12-26,Burnley,Sheffield Wednesday,4 - 0
+81347,24,1961-12-26,Cardiff City,Aston Villa,1 - 0
+81348,24,1961-12-26,Chelsea,Tottenham Hotspur,0 - 2
+81349,24,1961-12-26,Everton,Bolton Wanderers,1 - 0
+81350,24,1961-12-26,Ipswich Town,Leicester City,1 - 0
+81351,24,1961-12-26,Manchester United,Nottingham Forest,6 - 3
+81352,24,1961-12-26,Sheffield United,Blackpool,2 - 1
+81353,24,1961-12-26,West Bromwich Albion,Wolverhampton Wanderers,1 - 1
+81354,24,1961-12-26,West Ham United,Blackburn Rovers,2 - 3
+81387,24,1961-12-30,Tottenham Hotspur,Chelsea,5 - 2
+81409,25,1962-01-13,Arsenal,Bolton Wanderers,1 - 2
+81410,25,1962-01-13,Aston Villa,Sheffield United,0 - 0
+81411,25,1962-01-13,Burnley,Manchester City,6 - 3
+81412,25,1962-01-13,Cardiff City,Tottenham Hotspur,1 - 1
+81413,25,1962-01-13,Fulham,Chelsea,3 - 4
+81414,25,1962-01-13,Ipswich Town,West Bromwich Albion,3 - 0
+81415,25,1962-01-13,Leicester City,Birmingham City,1 - 2
+81416,25,1962-01-13,Manchester United,Blackpool,0 - 1
+81417,25,1962-01-13,Nottingham Forest,West Ham United,3 - 0
+81418,25,1962-01-13,Sheffield Wednesday,Everton,3 - 1
+81419,25,1962-01-13,Wolverhampton Wanderers,Blackburn Rovers,0 - 2
+81452,25,1962-01-15,Manchester United,Aston Villa,2 - 0
+81455,26,1962-01-20,Birmingham City,Ipswich Town,3 - 1
+81456,26,1962-01-20,Blackburn Rovers,Nottingham Forest,2 - 1
+81457,26,1962-01-20,Blackpool,Wolverhampton Wanderers,7 - 2
+81458,26,1962-01-20,Bolton Wanderers,Cardiff City,1 - 1
+81459,26,1962-01-20,Everton,Leicester City,3 - 2
+81460,26,1962-01-20,Fulham,Sheffield Wednesday,0 - 2
+81461,26,1962-01-20,Manchester City,Arsenal,3 - 2
+81462,26,1962-01-20,Sheffield United,Chelsea,3 - 1
+81463,26,1962-01-20,Tottenham Hotspur,Manchester United,2 - 2
+81464,26,1962-01-20,West Bromwich Albion,Burnley,1 - 1
+81465,26,1962-01-20,West Ham United,Aston Villa,2 - 0
+81518,26,1962-02-03,Arsenal,West Bromwich Albion,0 - 1
+81519,27,1962-02-03,Aston Villa,Blackburn Rovers,1 - 0
+81520,27,1962-02-03,Bolton Wanderers,Manchester City,0 - 2
+81521,27,1962-02-03,Burnley,Birmingham City,7 - 1
+81522,27,1962-02-03,Chelsea,West Ham United,0 - 1
+81523,27,1962-02-03,Ipswich Town,Everton,4 - 2
+81524,27,1962-02-03,Leicester City,Fulham,4 - 1
+81525,27,1962-02-03,Manchester United,Cardiff City,3 - 0
+81526,27,1962-02-03,Nottingham Forest,Blackpool,3 - 4
+81527,27,1962-02-03,Sheffield Wednesday,Sheffield United,1 - 2
+81528,27,1962-02-03,Wolverhampton Wanderers,Tottenham Hotspur,3 - 1
+81562,27,1962-02-09,Cardiff City,Wolverhampton Wanderers,2 - 3
+81567,28,1962-02-10,Birmingham City,Arsenal,1 - 0
+81568,28,1962-02-10,Blackburn Rovers,Chelsea,3 - 0
+81569,28,1962-02-10,Blackpool,Aston Villa,1 - 2
+81570,28,1962-02-10,Everton,Burnley,2 - 2
+81571,28,1962-02-10,Fulham,Ipswich Town,1 - 2
+81572,28,1962-02-10,Manchester City,Manchester United,0 - 2
+81573,28,1962-02-10,Sheffield Wednesday,Leicester City,1 - 2
+81574,28,1962-02-10,Tottenham Hotspur,Nottingham Forest,4 - 2
+81575,28,1962-02-10,West Bromwich Albion,Bolton Wanderers,6 - 2
+81576,28,1962-02-10,West Ham United,Sheffield United,1 - 2
+81609,28,1962-02-16,Chelsea,Blackpool,1 - 0
+81615,29,1962-02-17,Bolton Wanderers,Birmingham City,3 - 2
+81616,29,1962-02-17,Leicester City,West Ham United,2 - 2
+81617,29,1962-02-17,Nottingham Forest,Cardiff City,2 - 1
+81644,29,1962-02-20,Burnley,Fulham,2 - 1
+81645,29,1962-02-20,Sheffield United,Blackburn Rovers,0 - 0
+81647,29,1962-02-21,Aston Villa,Tottenham Hotspur,0 - 0
+81648,29,1962-02-21,Manchester City,West Bromwich Albion,3 - 1
+81656,29,1962-02-24,Aston Villa,Fulham,2 - 0
+81657,30,1962-02-24,Blackburn Rovers,Burnley,2 - 1
+81658,30,1962-02-24,Blackpool,Arsenal,0 - 1
+81659,30,1962-02-24,Cardiff City,Manchester City,0 - 0
+81660,30,1962-02-24,Chelsea,Sheffield Wednesday,1 - 0
+81661,30,1962-02-24,Manchester United,West Bromwich Albion,4 - 1
+81662,30,1962-02-24,Nottingham Forest,Everton,2 - 1
+81663,30,1962-02-24,Sheffield United,Leicester City,3 - 1
+81664,30,1962-02-24,Tottenham Hotspur,Bolton Wanderers,2 - 2
+81665,30,1962-02-24,West Ham United,Ipswich Town,2 - 2
+81666,30,1962-02-24,Wolverhampton Wanderers,Birmingham City,2 - 1
+81698,30,1962-02-28,Wolverhampton Wanderers,Manchester United,2 - 2
+81703,31,1962-03-03,Arsenal,Blackburn Rovers,0 - 0
+81704,31,1962-03-03,Birmingham City,Manchester United,1 - 1
+81705,31,1962-03-03,Bolton Wanderers,Blackpool,0 - 0
+81706,31,1962-03-03,Burnley,West Ham United,6 - 0
+81707,31,1962-03-03,Everton,Wolverhampton Wanderers,4 - 0
+81708,31,1962-03-03,Fulham,Nottingham Forest,1 - 1
+81709,31,1962-03-03,Ipswich Town,Sheffield United,4 - 0
+81710,31,1962-03-03,Manchester City,Tottenham Hotspur,6 - 2
+81711,31,1962-03-03,Sheffield Wednesday,Aston Villa,3 - 0
+81712,31,1962-03-03,West Bromwich Albion,Cardiff City,5 - 1
+81753,31,1962-03-09,Chelsea,Birmingham City,1 - 1
+81754,31,1962-03-09,Ipswich Town,Sheffield Wednesday,2 - 1
+81761,32,1962-03-10,Blackpool,Leicester City,2 - 1
+81762,32,1962-03-10,Nottingham Forest,Manchester City,1 - 2
+81763,32,1962-03-10,Wolverhampton Wanderers,Bolton Wanderers,5 - 1
+81798,32,1962-03-14,Aston Villa,West Bromwich Albion,1 - 0
+81799,32,1962-03-14,Cardiff City,Burnley,1 - 1
+81800,32,1962-03-14,Sheffield United,Everton,1 - 1
+81801,32,1962-03-14,Tottenham Hotspur,Ipswich Town,1 - 3
+81810,32,1962-03-17,Arsenal,Cardiff City,1 - 1
+81811,32,1962-03-17,Birmingham City,Aston Villa,0 - 2
+81812,32,1962-03-17,Bolton Wanderers,Manchester United,1 - 0
+81813,33,1962-03-17,Burnley,Tottenham Hotspur,2 - 2
+81814,33,1962-03-17,Everton,Chelsea,4 - 0
+81815,33,1962-03-17,Fulham,Sheffield United,5 - 2
+81816,33,1962-03-17,Ipswich Town,Blackpool,1 - 1
+81817,33,1962-03-17,Leicester City,Blackburn Rovers,2 - 0
+81818,33,1962-03-17,Manchester City,Wolverhampton Wanderers,2 - 2
+81819,33,1962-03-17,Sheffield Wednesday,West Ham United,0 - 0
+81820,33,1962-03-17,West Bromwich Albion,Nottingham Forest,2 - 2
+81859,33,1962-03-20,Nottingham Forest,Manchester United,1 - 0
+81864,34,1962-03-23,Cardiff City,Fulham,0 - 3
+81872,34,1962-03-24,Aston Villa,Burnley,0 - 2
+81873,34,1962-03-24,Blackburn Rovers,West Bromwich Albion,1 - 1
+81874,34,1962-03-24,Blackpool,Birmingham City,1 - 0
+81875,34,1962-03-24,Chelsea,Arsenal,2 - 3
+81876,34,1962-03-24,Manchester United,Sheffield Wednesday,1 - 1
+81877,35,1962-03-24,Nottingham Forest,Ipswich Town,1 - 1
+81878,35,1962-03-24,Sheffield United,Bolton Wanderers,3 - 1
+81879,35,1962-03-24,Tottenham Hotspur,Everton,3 - 1
+81880,35,1962-03-24,West Ham United,Manchester City,0 - 4
+81881,35,1962-03-24,Wolverhampton Wanderers,Leicester City,1 - 1
+81915,35,1962-03-28,Blackburn Rovers,West Ham United,1 - 0
+81916,35,1962-03-28,Leicester City,Ipswich Town,0 - 2
+81917,36,1962-03-28,Wolverhampton Wanderers,West Bromwich Albion,1 - 5
+81921,36,1962-03-30,Birmingham City,Blackburn Rovers,2 - 1
+81922,36,1962-03-30,Everton,Blackpool,2 - 2
+81933,36,1962-03-31,Arsenal,Aston Villa,4 - 5
+81934,36,1962-03-31,Bolton Wanderers,Chelsea,4 - 2
+81935,36,1962-03-31,Ipswich Town,Wolverhampton Wanderers,3 - 2
+81936,37,1962-03-31,Manchester City,Sheffield United,1 - 1
+81937,37,1962-03-31,West Bromwich Albion,West Ham United,0 - 1
+81965,37,1962-04-03,Blackpool,Sheffield United,2 - 4
+81966,37,1962-04-03,Burnley,Nottingham Forest,0 - 0
+81967,37,1962-04-03,Sheffield Wednesday,Cardiff City,2 - 0
+81970,37,1962-04-04,Bolton Wanderers,Everton,1 - 1
+81971,37,1962-04-04,Leicester City,Manchester United,4 - 3
+81976,37,1962-04-06,West Ham United,Birmingham City,2 - 2
+81982,38,1962-04-07,Aston Villa,Bolton Wanderers,3 - 0
+81983,38,1962-04-07,Blackburn Rovers,Everton,1 - 1
+81984,38,1962-04-07,Blackpool,Fulham,2 - 1
+81985,38,1962-04-07,Cardiff City,Leicester City,0 - 4
+81986,38,1962-04-07,Chelsea,Manchester City,1 - 1
+81987,38,1962-04-07,Manchester United,Ipswich Town,5 - 0
+81988,38,1962-04-07,Nottingham Forest,Arsenal,0 - 1
+81989,38,1962-04-07,Sheffield United,West Bromwich Albion,1 - 1
+81990,38,1962-04-07,Tottenham Hotspur,Sheffield Wednesday,4 - 0
+81991,38,1962-04-07,Wolverhampton Wanderers,Burnley,1 - 1
+82021,38,1962-04-09,Tottenham Hotspur,Sheffield United,3 - 3
+82028,39,1962-04-10,Blackburn Rovers,Manchester United,3 - 0
+82031,39,1962-04-11,Bolton Wanderers,Burnley,0 - 0
+82032,39,1962-04-11,Fulham,Arsenal,5 - 2
+82033,39,1962-04-11,Leicester City,Chelsea,2 - 0
+82034,39,1962-04-11,Manchester City,Birmingham City,1 - 4
+82047,39,1962-04-14,Arsenal,Wolverhampton Wanderers,3 - 1
+82048,40,1962-04-14,Birmingham City,Sheffield United,3 - 0
+82049,40,1962-04-14,Bolton Wanderers,Nottingham Forest,6 - 1
+82050,40,1962-04-14,Burnley,Manchester United,1 - 3
+82051,40,1962-04-14,Everton,West Ham United,3 - 0
+82052,40,1962-04-14,Fulham,Blackburn Rovers,2 - 0
+82053,40,1962-04-14,Ipswich Town,Cardiff City,1 - 0
+82054,40,1962-04-14,Manchester City,Aston Villa,1 - 0
+82055,40,1962-04-14,Sheffield Wednesday,Blackpool,3 - 2
+82056,40,1962-04-14,West Bromwich Albion,Chelsea,4 - 0
+82088,40,1962-04-16,Manchester United,Arsenal,2 - 3
+82093,41,1962-04-17,Burnley,Blackburn Rovers,0 - 1
+82094,41,1962-04-17,Fulham,Tottenham Hotspur,1 - 1
+82096,41,1962-04-20,Burnley,Blackpool,2 - 0
+82097,42,1962-04-20,Chelsea,Wolverhampton Wanderers,4 - 5
+82098,42,1962-04-20,Everton,Birmingham City,4 - 1
+82099,42,1962-04-20,Ipswich Town,Arsenal,2 - 2
+82100,42,1962-04-20,Manchester City,Sheffield Wednesday,3 - 1
+82101,42,1962-04-20,Tottenham Hotspur,Blackburn Rovers,4 - 1
+82102,42,1962-04-20,West Ham United,Cardiff City,4 - 1
+82127,42,1962-04-21,Aston Villa,Leicester City,8 - 3
+82128,42,1962-04-21,Blackburn Rovers,Bolton Wanderers,2 - 3
+82129,43,1962-04-21,Blackpool,Manchester City,3 - 1
+82130,43,1962-04-21,Cardiff City,Birmingham City,3 - 2
+82131,43,1962-04-21,Chelsea,Ipswich Town,2 - 2
+82132,43,1962-04-21,Manchester United,Everton,1 - 1
+82133,43,1962-04-21,Nottingham Forest,Sheffield Wednesday,3 - 1
+82134,43,1962-04-21,Sheffield United,Burnley,2 - 0
+82135,43,1962-04-21,Tottenham Hotspur,West Bromwich Albion,1 - 2
+82136,43,1962-04-21,West Ham United,Arsenal,3 - 3
+82137,43,1962-04-21,Wolverhampton Wanderers,Fulham,1 - 3
+82169,43,1962-04-23,Arsenal,Ipswich Town,0 - 3
+82170,44,1962-04-23,Aston Villa,Nottingham Forest,5 - 1
+82171,44,1962-04-23,Blackburn Rovers,Tottenham Hotspur,0 - 1
+82172,44,1962-04-23,Blackpool,Burnley,1 - 1
+82173,44,1962-04-23,Bolton Wanderers,Leicester City,1 - 0
+82174,44,1962-04-23,Cardiff City,West Ham United,3 - 0
+82175,44,1962-04-23,Fulham,West Bromwich Albion,1 - 2
+82176,44,1962-04-23,Manchester United,Sheffield United,0 - 1
+82177,44,1962-04-23,Sheffield Wednesday,Manchester City,1 - 0
+82178,44,1962-04-23,Wolverhampton Wanderers,Chelsea,1 - 1
+82212,44,1962-04-24,Birmingham City,Everton,0 - 0
+82213,44,1962-04-24,Leicester City,Bolton Wanderers,1 - 1
+82214,45,1962-04-24,Nottingham Forest,Aston Villa,2 - 0
+82215,45,1962-04-24,Sheffield United,Manchester United,2 - 3
+82216,45,1962-04-24,West Bromwich Albion,Fulham,2 - 0
+82228,45,1962-04-26,Blackburn Rovers,Sheffield Wednesday,0 - 2
+82231,45,1962-04-28,Arsenal,Sheffield United,2 - 0
+82232,45,1962-04-28,Birmingham City,Tottenham Hotspur,2 - 3
+82233,45,1962-04-28,Bolton Wanderers,West Ham United,1 - 0
+82234,46,1962-04-28,Burnley,Chelsea,1 - 1
+82235,46,1962-04-28,Everton,Cardiff City,8 - 3
+82236,46,1962-04-28,Fulham,Manchester United,2 - 0
+82237,46,1962-04-28,Ipswich Town,Aston Villa,2 - 0
+82238,46,1962-04-28,Leicester City,Nottingham Forest,2 - 1
+82239,46,1962-04-28,Manchester City,Blackburn Rovers,3 - 1
+82240,46,1962-04-28,Sheffield Wednesday,Wolverhampton Wanderers,3 - 2
+82241,46,1962-04-28,West Bromwich Albion,Blackpool,7 - 1
+82274,46,1962-04-30,Leicester City,Tottenham Hotspur,2 - 3
+82275,47,1962-04-30,Sheffield Wednesday,Burnley,4 - 0
+82276,47,1962-04-30,West Ham United,Fulham,4 - 2
+82285,47,1962-05-01,Arsenal,Everton,2 - 3
+82286,47,1962-05-01,Aston Villa,Cardiff City,2 - 2

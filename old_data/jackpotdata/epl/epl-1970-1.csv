@@ -1,0 +1,463 @@
+,Round Number,Date,Home Team,Away Team,Result
+98523,0,1970-08-15,Burnley,Liverpool,1 - 2
+98524,0,1970-08-15,Chelsea,Derby County,2 - 1
+98525,0,1970-08-15,Everton,Arsenal,2 - 2
+98526,0,1970-08-15,Huddersfield Town,Blackpool,3 - 0
+98527,0,1970-08-15,Manchester United,Leeds United,0 - 1
+98528,0,1970-08-15,Newcastle United,Wolverhampton Wanderers,3 - 2
+98529,0,1970-08-15,Nottingham Forest,Coventry City,2 - 0
+98530,0,1970-08-15,Southampton,Manchester City,1 - 1
+98531,0,1970-08-15,Stoke City,Ipswich Town,0 - 0
+98532,0,1970-08-15,Tottenham Hotspur,West Ham United,2 - 2
+98533,0,1970-08-15,West Bromwich Albion,Crystal Palace,0 - 0
+98569,0,1970-08-17,Blackpool,Liverpool,0 - 0
+98570,1,1970-08-17,West Ham United,Arsenal,0 - 0
+98571,1,1970-08-18,Everton,Burnley,1 - 1
+98572,1,1970-08-18,Huddersfield Town,Southampton,3 - 1
+98573,1,1970-08-18,Ipswich Town,Coventry City,0 - 2
+98574,1,1970-08-18,Nottingham Forest,West Bromwich Albion,3 - 3
+98575,1,1970-08-19,Crystal Palace,Manchester City,0 - 1
+98576,1,1970-08-19,Manchester United,Chelsea,0 - 0
+98577,1,1970-08-19,Stoke City,Newcastle United,3 - 0
+98578,1,1970-08-19,Tottenham Hotspur,Leeds United,0 - 2
+98579,1,1970-08-19,Wolverhampton Wanderers,Derby County,2 - 4
+98583,1,1970-08-22,Arsenal,Manchester United,4 - 0
+98584,2,1970-08-22,Blackpool,West Bromwich Albion,3 - 1
+98585,2,1970-08-22,Coventry City,Southampton,1 - 0
+98586,2,1970-08-22,Crystal Palace,Newcastle United,1 - 0
+98587,2,1970-08-22,Derby County,Stoke City,2 - 0
+98588,2,1970-08-22,Ipswich Town,Nottingham Forest,0 - 0
+98589,2,1970-08-22,Leeds United,Everton,3 - 2
+98590,2,1970-08-22,Liverpool,Huddersfield Town,4 - 0
+98591,2,1970-08-22,Manchester City,Burnley,0 - 0
+98592,2,1970-08-22,West Ham United,Chelsea,2 - 2
+98593,2,1970-08-22,Wolverhampton Wanderers,Tottenham Hotspur,0 - 3
+98627,2,1970-08-25,Arsenal,Huddersfield Town,1 - 0
+98628,3,1970-08-25,Burnley,Manchester United,0 - 2
+98629,3,1970-08-25,Coventry City,Wolverhampton Wanderers,0 - 1
+98630,3,1970-08-25,Liverpool,Crystal Palace,1 - 1
+98631,3,1970-08-25,Southampton,Tottenham Hotspur,0 - 0
+98632,3,1970-08-26,Chelsea,Everton,2 - 2
+98633,3,1970-08-26,Derby County,Ipswich Town,2 - 0
+98634,3,1970-08-26,Leeds United,West Ham United,3 - 0
+98635,3,1970-08-26,Manchester City,Blackpool,2 - 0
+98636,3,1970-08-26,Newcastle United,Nottingham Forest,1 - 1
+98637,3,1970-08-26,West Bromwich Albion,Stoke City,5 - 2
+98643,3,1970-08-29,Burnley,Leeds United,0 - 3
+98644,4,1970-08-29,Chelsea,Arsenal,2 - 1
+98645,4,1970-08-29,Everton,Manchester City,0 - 1
+98646,4,1970-08-29,Huddersfield Town,Derby County,0 - 0
+98647,4,1970-08-29,Manchester United,West Ham United,1 - 1
+98648,4,1970-08-29,Newcastle United,Blackpool,1 - 2
+98649,4,1970-08-29,Nottingham Forest,Wolverhampton Wanderers,4 - 1
+98650,4,1970-08-29,Southampton,Ipswich Town,1 - 0
+98651,4,1970-08-29,Stoke City,Crystal Palace,0 - 0
+98652,4,1970-08-29,Tottenham Hotspur,Coventry City,1 - 0
+98653,4,1970-08-29,West Bromwich Albion,Liverpool,1 - 1
+98685,4,1970-08-31,West Ham United,Southampton,1 - 1
+98695,5,1970-09-01,Arsenal,Leeds United,0 - 0
+98696,5,1970-09-01,Burnley,Chelsea,0 - 0
+98697,5,1970-09-01,Huddersfield Town,Tottenham Hotspur,1 - 1
+98698,5,1970-09-01,Ipswich Town,Wolverhampton Wanderers,2 - 3
+98710,5,1970-09-02,Crystal Palace,Blackpool,1 - 0
+98711,5,1970-09-02,Derby County,Coventry City,3 - 4
+98712,5,1970-09-02,Manchester United,Everton,2 - 0
+98713,5,1970-09-02,Stoke City,Nottingham Forest,0 - 0
+98714,5,1970-09-02,West Bromwich Albion,Newcastle United,1 - 2
+98733,5,1970-09-05,Arsenal,Tottenham Hotspur,2 - 0
+98734,6,1970-09-05,Blackpool,Southampton,0 - 3
+98735,6,1970-09-05,Coventry City,Huddersfield Town,0 - 0
+98736,6,1970-09-05,Crystal Palace,Nottingham Forest,2 - 0
+98737,6,1970-09-05,Derby County,Newcastle United,1 - 2
+98738,6,1970-09-05,Ipswich Town,Burnley,3 - 0
+98739,6,1970-09-05,Leeds United,Chelsea,1 - 0
+98740,6,1970-09-05,Liverpool,Manchester United,1 - 1
+98741,6,1970-09-05,Manchester City,West Bromwich Albion,4 - 1
+98742,6,1970-09-05,West Ham United,Everton,1 - 2
+98743,6,1970-09-05,Wolverhampton Wanderers,Stoke City,1 - 1
+98779,6,1970-09-12,Burnley,Arsenal,1 - 2
+98780,7,1970-09-12,Chelsea,Wolverhampton Wanderers,2 - 2
+98781,7,1970-09-12,Everton,Ipswich Town,2 - 0
+98782,7,1970-09-12,Huddersfield Town,Crystal Palace,0 - 2
+98783,7,1970-09-12,Manchester United,Coventry City,2 - 0
+98784,7,1970-09-12,Newcastle United,Liverpool,0 - 0
+98785,7,1970-09-12,Nottingham Forest,Manchester City,0 - 1
+98786,7,1970-09-12,Southampton,Derby County,4 - 0
+98787,7,1970-09-12,Stoke City,Leeds United,3 - 0
+98788,7,1970-09-12,Tottenham Hotspur,Blackpool,3 - 0
+98789,7,1970-09-12,West Bromwich Albion,West Ham United,2 - 1
+98825,7,1970-09-19,Arsenal,West Bromwich Albion,6 - 2
+98826,8,1970-09-19,Blackpool,Everton,0 - 2
+98827,8,1970-09-19,Coventry City,Chelsea,0 - 1
+98828,8,1970-09-19,Crystal Palace,Tottenham Hotspur,0 - 3
+98829,8,1970-09-19,Derby County,Burnley,1 - 0
+98830,8,1970-09-19,Ipswich Town,Manchester United,4 - 0
+98831,8,1970-09-19,Leeds United,Southampton,1 - 0
+98832,8,1970-09-19,Liverpool,Nottingham Forest,3 - 0
+98833,8,1970-09-19,Manchester City,Stoke City,4 - 1
+98834,8,1970-09-19,West Ham United,Newcastle United,0 - 2
+98835,8,1970-09-19,Wolverhampton Wanderers,Huddersfield Town,3 - 1
+98894,8,1970-09-26,Burnley,Wolverhampton Wanderers,2 - 3
+98895,9,1970-09-26,Chelsea,Ipswich Town,2 - 1
+98896,9,1970-09-26,Everton,Crystal Palace,3 - 1
+98897,9,1970-09-26,Huddersfield Town,West Ham United,1 - 1
+98898,9,1970-09-26,Manchester United,Blackpool,1 - 1
+98899,9,1970-09-26,Newcastle United,Coventry City,0 - 0
+98900,9,1970-09-26,Nottingham Forest,Leeds United,0 - 0
+98901,9,1970-09-26,Southampton,Liverpool,1 - 0
+98902,9,1970-09-26,Stoke City,Arsenal,5 - 0
+98903,9,1970-09-26,Tottenham Hotspur,Manchester City,2 - 0
+98904,9,1970-09-26,West Bromwich Albion,Derby County,2 - 1
+98969,9,1970-10-03,Arsenal,Nottingham Forest,4 - 0
+98970,10,1970-10-03,Blackpool,Stoke City,1 - 1
+98971,10,1970-10-03,Coventry City,Everton,3 - 1
+98972,10,1970-10-03,Crystal Palace,Southampton,3 - 1
+98973,10,1970-10-03,Derby County,Tottenham Hotspur,1 - 1
+98974,10,1970-10-03,Ipswich Town,West Bromwich Albion,2 - 2
+98975,10,1970-10-03,Leeds United,Huddersfield Town,2 - 0
+98976,10,1970-10-03,Liverpool,Chelsea,1 - 0
+98977,10,1970-10-03,Manchester City,Newcastle United,1 - 1
+98978,10,1970-10-03,West Ham United,Burnley,3 - 1
+98979,10,1970-10-03,Wolverhampton Wanderers,Manchester United,3 - 2
+99018,10,1970-10-10,Burnley,Coventry City,0 - 0
+99019,11,1970-10-10,Chelsea,Manchester City,1 - 1
+99020,11,1970-10-10,Everton,Derby County,1 - 1
+99021,11,1970-10-10,Huddersfield Town,Ipswich Town,1 - 0
+99022,11,1970-10-10,Manchester United,Crystal Palace,0 - 1
+99023,11,1970-10-10,Newcastle United,Arsenal,1 - 1
+99024,11,1970-10-10,Nottingham Forest,Blackpool,3 - 1
+99025,11,1970-10-10,Southampton,Wolverhampton Wanderers,1 - 2
+99026,11,1970-10-10,Stoke City,West Ham United,2 - 1
+99027,11,1970-10-10,Tottenham Hotspur,Liverpool,1 - 0
+99028,11,1970-10-10,West Bromwich Albion,Leeds United,2 - 2
+99066,11,1970-10-17,Arsenal,Everton,4 - 0
+99067,12,1970-10-17,Blackpool,Huddersfield Town,2 - 2
+99068,12,1970-10-17,Coventry City,Nottingham Forest,2 - 0
+99069,12,1970-10-17,Crystal Palace,West Bromwich Albion,3 - 0
+99070,12,1970-10-17,Derby County,Chelsea,1 - 2
+99071,12,1970-10-17,Ipswich Town,Stoke City,2 - 0
+99072,12,1970-10-17,Leeds United,Manchester United,2 - 2
+99073,12,1970-10-17,Liverpool,Burnley,2 - 0
+99074,12,1970-10-17,Manchester City,Southampton,1 - 1
+99075,12,1970-10-17,West Ham United,Tottenham Hotspur,2 - 2
+99076,12,1970-10-17,Wolverhampton Wanderers,Newcastle United,3 - 2
+99144,12,1970-10-24,Blackpool,Chelsea,3 - 4
+99145,13,1970-10-24,Coventry City,Arsenal,1 - 3
+99146,13,1970-10-24,Crystal Palace,West Ham United,1 - 1
+99147,13,1970-10-24,Derby County,Leeds United,0 - 2
+99148,13,1970-10-24,Everton,Newcastle United,3 - 1
+99149,13,1970-10-24,Huddersfield Town,Nottingham Forest,0 - 0
+99150,13,1970-10-24,Ipswich Town,Liverpool,1 - 0
+99151,13,1970-10-24,Manchester United,West Bromwich Albion,2 - 1
+99152,13,1970-10-24,Southampton,Burnley,2 - 0
+99153,13,1970-10-24,Tottenham Hotspur,Stoke City,3 - 0
+99154,13,1970-10-24,Wolverhampton Wanderers,Manchester City,3 - 0
+99193,13,1970-10-31,Arsenal,Derby County,2 - 0
+99194,14,1970-10-31,Burnley,Crystal Palace,2 - 1
+99195,14,1970-10-31,Chelsea,Southampton,2 - 2
+99196,14,1970-10-31,Leeds United,Coventry City,2 - 0
+99197,14,1970-10-31,Liverpool,Wolverhampton Wanderers,2 - 0
+99198,14,1970-10-31,Manchester City,Ipswich Town,2 - 0
+99199,14,1970-10-31,Newcastle United,Manchester United,1 - 0
+99200,14,1970-10-31,Nottingham Forest,Tottenham Hotspur,0 - 1
+99201,14,1970-10-31,Stoke City,Huddersfield Town,3 - 1
+99202,14,1970-10-31,West Bromwich Albion,Everton,3 - 0
+99203,14,1970-10-31,West Ham United,Blackpool,2 - 1
+99240,14,1970-11-07,Blackpool,Arsenal,0 - 1
+99241,15,1970-11-07,Coventry City,Manchester City,2 - 1
+99242,15,1970-11-07,Crystal Palace,Leeds United,1 - 1
+99243,15,1970-11-07,Derby County,Liverpool,0 - 0
+99244,15,1970-11-07,Everton,Nottingham Forest,1 - 0
+99245,15,1970-11-07,Huddersfield Town,Chelsea,0 - 1
+99246,15,1970-11-07,Ipswich Town,West Ham United,2 - 1
+99247,15,1970-11-07,Manchester United,Stoke City,2 - 2
+99248,15,1970-11-07,Southampton,Newcastle United,2 - 0
+99249,15,1970-11-07,Tottenham Hotspur,Burnley,4 - 0
+99250,15,1970-11-07,Wolverhampton Wanderers,West Bromwich Albion,2 - 1
+99309,15,1970-11-14,Arsenal,Crystal Palace,1 - 1
+99310,16,1970-11-14,Burnley,Huddersfield Town,2 - 3
+99311,16,1970-11-14,Chelsea,Tottenham Hotspur,0 - 2
+99312,16,1970-11-14,Leeds United,Blackpool,3 - 1
+99313,16,1970-11-14,Liverpool,Coventry City,0 - 0
+99314,16,1970-11-14,Manchester City,Derby County,1 - 1
+99315,16,1970-11-14,Newcastle United,Ipswich Town,0 - 0
+99316,16,1970-11-14,Nottingham Forest,Manchester United,1 - 2
+99317,16,1970-11-14,Stoke City,Everton,1 - 1
+99318,16,1970-11-14,West Bromwich Albion,Southampton,1 - 0
+99319,16,1970-11-14,West Ham United,Wolverhampton Wanderers,3 - 3
+99351,16,1970-11-18,Leeds United,Stoke City,4 - 1
+99354,17,1970-11-21,Burnley,Nottingham Forest,2 - 1
+99355,17,1970-11-21,Chelsea,Stoke City,2 - 1
+99356,17,1970-11-21,Coventry City,Crystal Palace,2 - 1
+99357,17,1970-11-21,Derby County,Blackpool,2 - 0
+99358,17,1970-11-21,Huddersfield Town,West Bromwich Albion,2 - 1
+99359,17,1970-11-21,Ipswich Town,Arsenal,0 - 1
+99360,17,1970-11-21,Liverpool,Everton,3 - 2
+99361,17,1970-11-21,Manchester City,West Ham United,2 - 0
+99362,17,1970-11-21,Southampton,Manchester United,1 - 0
+99363,17,1970-11-21,Tottenham Hotspur,Newcastle United,1 - 2
+99364,17,1970-11-21,Wolverhampton Wanderers,Leeds United,2 - 3
+99380,17,1970-11-28,Arsenal,Liverpool,2 - 0
+99381,18,1970-11-28,Blackpool,Ipswich Town,0 - 2
+99382,18,1970-11-28,Crystal Palace,Wolverhampton Wanderers,1 - 1
+99383,18,1970-11-28,Everton,Tottenham Hotspur,0 - 0
+99384,18,1970-11-28,Leeds United,Manchester City,1 - 0
+99385,18,1970-11-28,Manchester United,Huddersfield Town,1 - 1
+99386,18,1970-11-28,Newcastle United,Burnley,3 - 1
+99387,18,1970-11-28,Nottingham Forest,Derby County,2 - 4
+99388,18,1970-11-28,Stoke City,Southampton,0 - 0
+99389,18,1970-11-28,West Bromwich Albion,Chelsea,2 - 2
+99390,18,1970-11-28,West Ham United,Coventry City,1 - 2
+99425,18,1970-12-05,Burnley,West Bromwich Albion,1 - 1
+99426,19,1970-12-05,Chelsea,Newcastle United,1 - 0
+99427,19,1970-12-05,Coventry City,Stoke City,1 - 0
+99428,19,1970-12-05,Derby County,West Ham United,2 - 4
+99429,19,1970-12-05,Huddersfield Town,Everton,1 - 1
+99430,19,1970-12-05,Ipswich Town,Crystal Palace,1 - 2
+99431,19,1970-12-05,Liverpool,Leeds United,1 - 1
+99432,19,1970-12-05,Manchester City,Arsenal,0 - 2
+99433,19,1970-12-05,Southampton,Nottingham Forest,4 - 1
+99434,19,1970-12-05,Tottenham Hotspur,Manchester United,2 - 2
+99435,19,1970-12-05,Wolverhampton Wanderers,Blackpool,1 - 0
+99468,19,1970-12-12,Arsenal,Wolverhampton Wanderers,2 - 1
+99469,20,1970-12-12,Blackpool,Coventry City,1 - 0
+99470,20,1970-12-12,Crystal Palace,Derby County,0 - 0
+99471,20,1970-12-12,Everton,Southampton,4 - 1
+99472,20,1970-12-12,Leeds United,Ipswich Town,0 - 0
+99473,20,1970-12-12,Manchester United,Manchester City,1 - 4
+99474,20,1970-12-12,Newcastle United,Huddersfield Town,2 - 0
+99475,20,1970-12-12,Nottingham Forest,Chelsea,1 - 1
+99476,20,1970-12-12,Stoke City,Burnley,0 - 0
+99477,20,1970-12-12,West Bromwich Albion,Tottenham Hotspur,3 - 1
+99478,20,1970-12-12,West Ham United,Liverpool,1 - 2
+99499,20,1970-12-19,Burnley,Manchester City,0 - 4
+99500,21,1970-12-19,Chelsea,West Ham United,2 - 1
+99501,21,1970-12-19,Everton,Leeds United,0 - 1
+99502,21,1970-12-19,Huddersfield Town,Liverpool,0 - 0
+99503,21,1970-12-19,Manchester United,Arsenal,1 - 3
+99504,21,1970-12-19,Newcastle United,Crystal Palace,2 - 0
+99505,21,1970-12-19,Nottingham Forest,Ipswich Town,0 - 1
+99506,21,1970-12-19,Southampton,Coventry City,3 - 0
+99507,21,1970-12-19,Stoke City,Derby County,1 - 0
+99508,21,1970-12-19,Tottenham Hotspur,Wolverhampton Wanderers,0 - 0
+99509,21,1970-12-19,West Bromwich Albion,Blackpool,1 - 1
+99541,21,1970-12-26,Arsenal,Southampton,0 - 0
+99542,22,1970-12-26,Blackpool,Burnley,1 - 1
+99543,22,1970-12-26,Coventry City,West Bromwich Albion,1 - 1
+99544,22,1970-12-26,Derby County,Manchester United,4 - 4
+99545,22,1970-12-26,Leeds United,Newcastle United,3 - 0
+99546,22,1970-12-26,Liverpool,Stoke City,0 - 0
+99547,22,1970-12-26,Manchester City,Huddersfield Town,1 - 1
+99548,22,1970-12-26,Wolverhampton Wanderers,Everton,2 - 0
+99588,22,1971-01-09,Arsenal,West Ham United,2 - 0
+99589,23,1971-01-09,Burnley,Everton,2 - 2
+99590,23,1971-01-09,Chelsea,Manchester United,1 - 2
+99591,23,1971-01-09,Coventry City,Ipswich Town,1 - 0
+99592,23,1971-01-09,Derby County,Wolverhampton Wanderers,1 - 2
+99593,23,1971-01-09,Leeds United,Tottenham Hotspur,1 - 2
+99594,23,1971-01-09,Liverpool,Blackpool,2 - 2
+99595,23,1971-01-09,Manchester City,Crystal Palace,1 - 0
+99596,23,1971-01-09,Newcastle United,Stoke City,0 - 2
+99597,23,1971-01-09,Southampton,Huddersfield Town,1 - 0
+99598,23,1971-01-09,West Bromwich Albion,Nottingham Forest,0 - 1
+99632,23,1971-01-12,Liverpool,Manchester City,0 - 0
+99634,24,1971-01-13,Crystal Palace,Chelsea,0 - 0
+99639,24,1971-01-16,Blackpool,Manchester City,3 - 3
+99640,24,1971-01-16,Crystal Palace,Liverpool,1 - 0
+99641,25,1971-01-16,Everton,Chelsea,3 - 0
+99642,25,1971-01-16,Huddersfield Town,Arsenal,2 - 1
+99643,25,1971-01-16,Ipswich Town,Derby County,0 - 1
+99644,25,1971-01-16,Manchester United,Burnley,1 - 1
+99645,25,1971-01-16,Nottingham Forest,Newcastle United,2 - 1
+99646,25,1971-01-16,Stoke City,West Bromwich Albion,2 - 0
+99647,25,1971-01-16,Tottenham Hotspur,Southampton,1 - 3
+99648,25,1971-01-16,West Ham United,Leeds United,2 - 3
+99649,25,1971-01-16,Wolverhampton Wanderers,Coventry City,0 - 0
+99701,25,1971-01-30,Burnley,Newcastle United,1 - 1
+99702,26,1971-01-30,Chelsea,West Bromwich Albion,4 - 1
+99703,26,1971-01-30,Huddersfield Town,Manchester United,1 - 2
+99704,26,1971-01-30,Ipswich Town,Blackpool,2 - 1
+99705,26,1971-01-30,Liverpool,Arsenal,2 - 0
+99706,26,1971-01-30,Manchester City,Leeds United,0 - 2
+99707,26,1971-01-30,Southampton,Stoke City,2 - 1
+99708,26,1971-01-30,Tottenham Hotspur,Everton,2 - 1
+99709,26,1971-01-30,Wolverhampton Wanderers,Crystal Palace,2 - 1
+99739,26,1971-02-06,Arsenal,Manchester City,1 - 0
+99740,27,1971-02-06,Blackpool,Wolverhampton Wanderers,0 - 2
+99741,27,1971-02-06,Crystal Palace,Ipswich Town,1 - 0
+99742,27,1971-02-06,Everton,Huddersfield Town,2 - 1
+99743,27,1971-02-06,Leeds United,Liverpool,0 - 1
+99744,27,1971-02-06,Manchester United,Tottenham Hotspur,2 - 1
+99745,27,1971-02-06,Newcastle United,Chelsea,0 - 1
+99746,27,1971-02-06,Nottingham Forest,Southampton,2 - 0
+99747,27,1971-02-06,Stoke City,Coventry City,2 - 1
+99748,27,1971-02-06,West Bromwich Albion,Burnley,1 - 0
+99749,27,1971-02-06,West Ham United,Derby County,1 - 4
+99781,27,1971-02-08,Coventry City,West Ham United,0 - 1
+99789,28,1971-02-13,Coventry City,Blackpool,2 - 0
+99790,29,1971-02-13,Huddersfield Town,Newcastle United,1 - 1
+99791,29,1971-02-13,Wolverhampton Wanderers,Chelsea,1 - 0
+99817,29,1971-02-16,Liverpool,West Ham United,1 - 0
+99818,29,1971-02-16,Southampton,Everton,2 - 2
+99820,29,1971-02-17,Chelsea,Nottingham Forest,2 - 0
+99821,30,1971-02-17,Derby County,Crystal Palace,1 - 0
+99822,30,1971-02-17,Tottenham Hotspur,West Bromwich Albion,2 - 2
+99825,30,1971-02-20,Arsenal,Ipswich Town,3 - 2
+99826,30,1971-02-20,Blackpool,Derby County,0 - 1
+99827,30,1971-02-20,Crystal Palace,Coventry City,1 - 2
+99828,31,1971-02-20,Everton,Liverpool,0 - 0
+99829,31,1971-02-20,Leeds United,Wolverhampton Wanderers,3 - 0
+99830,31,1971-02-20,Manchester United,Southampton,5 - 1
+99831,31,1971-02-20,Newcastle United,Tottenham Hotspur,1 - 0
+99832,31,1971-02-20,Nottingham Forest,Burnley,1 - 0
+99833,31,1971-02-20,Stoke City,Chelsea,1 - 2
+99834,31,1971-02-20,West Bromwich Albion,Huddersfield Town,2 - 1
+99835,31,1971-02-20,West Ham United,Manchester City,0 - 0
+99874,31,1971-02-23,Burnley,Stoke City,1 - 1
+99875,32,1971-02-23,Everton,Manchester United,1 - 0
+99876,32,1971-02-23,Ipswich Town,Leeds United,2 - 4
+99878,32,1971-02-24,West Ham United,Nottingham Forest,2 - 0
+99880,32,1971-02-26,Coventry City,Leeds United,0 - 1
+99881,32,1971-02-26,Ipswich Town,Manchester City,2 - 0
+99892,33,1971-02-27,Blackpool,West Ham United,1 - 1
+99893,33,1971-02-27,Crystal Palace,Burnley,0 - 2
+99894,33,1971-02-27,Derby County,Arsenal,2 - 0
+99895,33,1971-02-27,Everton,West Bromwich Albion,3 - 3
+99896,33,1971-02-27,Huddersfield Town,Stoke City,0 - 1
+99897,33,1971-02-27,Manchester United,Newcastle United,1 - 0
+99898,33,1971-02-27,Southampton,Chelsea,0 - 0
+99899,33,1971-02-27,Wolverhampton Wanderers,Liverpool,1 - 0
+99927,33,1971-03-02,Wolverhampton Wanderers,Arsenal,0 - 3
+99935,34,1971-03-06,Burnley,Southampton,0 - 1
+99936,34,1971-03-06,Chelsea,Blackpool,2 - 0
+99937,34,1971-03-06,Leeds United,Derby County,1 - 0
+99938,34,1971-03-06,Manchester City,Wolverhampton Wanderers,0 - 0
+99939,34,1971-03-06,Nottingham Forest,Huddersfield Town,1 - 3
+99940,34,1971-03-06,West Bromwich Albion,Manchester United,4 - 3
+99941,34,1971-03-06,West Ham United,Crystal Palace,0 - 0
+99983,34,1971-03-10,Tottenham Hotspur,Nottingham Forest,0 - 1
+99998,34,1971-03-13,Blackpool,Leeds United,1 - 1
+99999,35,1971-03-13,Coventry City,Liverpool,1 - 0
+100000,35,1971-03-13,Crystal Palace,Arsenal,0 - 2
+100001,35,1971-03-13,Derby County,Manchester City,0 - 0
+100002,35,1971-03-13,Everton,Stoke City,2 - 0
+100003,35,1971-03-13,Huddersfield Town,Burnley,0 - 1
+100004,35,1971-03-13,Ipswich Town,Newcastle United,1 - 0
+100005,35,1971-03-13,Manchester United,Nottingham Forest,2 - 0
+100006,35,1971-03-13,Southampton,West Bromwich Albion,1 - 0
+100007,35,1971-03-13,Tottenham Hotspur,Chelsea,2 - 1
+100008,35,1971-03-13,Wolverhampton Wanderers,West Ham United,2 - 0
+100063,35,1971-03-18,Newcastle United,Everton,2 - 1
+100067,36,1971-03-20,Arsenal,Blackpool,1 - 0
+100068,36,1971-03-20,Burnley,Tottenham Hotspur,0 - 0
+100069,36,1971-03-20,Chelsea,Huddersfield Town,0 - 0
+100070,36,1971-03-20,Leeds United,Crystal Palace,2 - 1
+100071,36,1971-03-20,Liverpool,Derby County,2 - 0
+100072,36,1971-03-20,Manchester City,Coventry City,1 - 1
+100073,36,1971-03-20,Newcastle United,Southampton,2 - 2
+100074,37,1971-03-20,Nottingham Forest,Everton,3 - 2
+100075,37,1971-03-20,Stoke City,Manchester United,1 - 2
+100076,37,1971-03-20,West Bromwich Albion,Wolverhampton Wanderers,2 - 4
+100077,37,1971-03-20,West Ham United,Ipswich Town,2 - 2
+100111,37,1971-03-23,Ipswich Town,Tottenham Hotspur,1 - 2
+100114,38,1971-03-24,Crystal Palace,Huddersfield Town,0 - 3
+100124,38,1971-03-27,Burnley,Ipswich Town,2 - 2
+100125,38,1971-03-27,Chelsea,Leeds United,3 - 1
+100126,38,1971-03-27,Huddersfield Town,Coventry City,1 - 0
+100127,39,1971-03-27,Newcastle United,Derby County,3 - 1
+100128,39,1971-03-27,Nottingham Forest,Crystal Palace,3 - 1
+100129,39,1971-03-27,Southampton,Blackpool,1 - 1
+100130,39,1971-03-27,West Bromwich Albion,Manchester City,0 - 0
+100160,39,1971-03-29,Liverpool,Ipswich Town,2 - 1
+100164,39,1971-03-30,Everton,West Ham United,0 - 1
+100169,39,1971-03-31,Derby County,Nottingham Forest,1 - 2
+100172,40,1971-04-02,Liverpool,West Bromwich Albion,1 - 1
+100175,40,1971-04-03,Arsenal,Chelsea,2 - 0
+100176,40,1971-04-03,Blackpool,Newcastle United,0 - 1
+100177,40,1971-04-03,Coventry City,Tottenham Hotspur,0 - 0
+100178,40,1971-04-03,Crystal Palace,Stoke City,3 - 2
+100179,40,1971-04-03,Derby County,Huddersfield Town,3 - 2
+100180,41,1971-04-03,Ipswich Town,Southampton,1 - 3
+100181,41,1971-04-03,Leeds United,Burnley,4 - 0
+100182,41,1971-04-03,Manchester City,Everton,3 - 0
+100183,41,1971-04-03,West Ham United,Manchester United,2 - 1
+100184,41,1971-04-03,Wolverhampton Wanderers,Nottingham Forest,4 - 0
+100220,41,1971-04-06,Arsenal,Coventry City,1 - 0
+100221,41,1971-04-06,Ipswich Town,Everton,0 - 0
+100222,42,1971-04-06,Liverpool,Newcastle United,1 - 1
+100225,42,1971-04-07,Stoke City,Wolverhampton Wanderers,1 - 0
+100226,42,1971-04-07,Tottenham Hotspur,Derby County,2 - 1
+100230,42,1971-04-09,Manchester City,Nottingham Forest,1 - 3
+100231,42,1971-04-09,West Ham United,West Bromwich Albion,2 - 1
+100251,42,1971-04-10,Burnley,Blackpool,1 - 0
+100252,42,1971-04-10,Chelsea,Crystal Palace,1 - 1
+100253,42,1971-04-10,Everton,Wolverhampton Wanderers,1 - 2
+100254,43,1971-04-10,Huddersfield Town,Manchester City,1 - 0
+100255,43,1971-04-10,Manchester United,Derby County,1 - 2
+100256,43,1971-04-10,Newcastle United,Leeds United,1 - 1
+100257,43,1971-04-10,Nottingham Forest,West Ham United,1 - 0
+100258,43,1971-04-10,Southampton,Arsenal,1 - 2
+100259,43,1971-04-10,Stoke City,Liverpool,0 - 1
+100260,43,1971-04-10,Tottenham Hotspur,Ipswich Town,2 - 0
+100261,43,1971-04-10,West Bromwich Albion,Coventry City,0 - 0
+100296,43,1971-04-12,Blackpool,Tottenham Hotspur,0 - 0
+100297,43,1971-04-12,Chelsea,Liverpool,1 - 0
+100298,43,1971-04-12,Derby County,Southampton,0 - 0
+100299,44,1971-04-12,Everton,Coventry City,3 - 0
+100300,44,1971-04-12,Huddersfield Town,Leeds United,0 - 0
+100301,44,1971-04-12,Manchester United,Wolverhampton Wanderers,1 - 0
+100302,44,1971-04-12,Newcastle United,Manchester City,0 - 0
+100303,44,1971-04-12,West Bromwich Albion,Ipswich Town,0 - 1
+100329,44,1971-04-13,Burnley,West Ham United,1 - 0
+100330,44,1971-04-13,Coventry City,Manchester United,2 - 1
+100331,45,1971-04-13,Nottingham Forest,Arsenal,0 - 3
+100332,45,1971-04-13,Stoke City,Blackpool,1 - 1
+100353,45,1971-04-17,Arsenal,Newcastle United,1 - 0
+100354,46,1971-04-17,Blackpool,Nottingham Forest,2 - 3
+100355,46,1971-04-17,Coventry City,Burnley,3 - 0
+100356,46,1971-04-17,Crystal Palace,Manchester United,3 - 5
+100357,46,1971-04-17,Derby County,Everton,3 - 1
+100358,46,1971-04-17,Ipswich Town,Huddersfield Town,2 - 0
+100359,46,1971-04-17,Leeds United,West Bromwich Albion,1 - 2
+100360,46,1971-04-17,Liverpool,Tottenham Hotspur,0 - 0
+100361,46,1971-04-17,Manchester City,Chelsea,1 - 1
+100362,46,1971-04-17,West Ham United,Stoke City,1 - 0
+100363,46,1971-04-17,Wolverhampton Wanderers,Southampton,0 - 1
+100396,46,1971-04-19,Manchester United,Liverpool,0 - 2
+100399,47,1971-04-20,Arsenal,Burnley,1 - 0
+100408,47,1971-04-24,Burnley,Derby County,1 - 2
+100409,48,1971-04-24,Chelsea,Coventry City,2 - 1
+100410,48,1971-04-24,Everton,Blackpool,0 - 0
+100411,48,1971-04-24,Huddersfield Town,Wolverhampton Wanderers,1 - 2
+100412,48,1971-04-24,Manchester United,Ipswich Town,3 - 2
+100413,48,1971-04-24,Newcastle United,West Ham United,1 - 1
+100414,48,1971-04-24,Nottingham Forest,Liverpool,0 - 1
+100415,48,1971-04-24,Southampton,Leeds United,0 - 3
+100416,48,1971-04-24,Stoke City,Manchester City,2 - 0
+100417,48,1971-04-24,Tottenham Hotspur,Crystal Palace,2 - 0
+100418,48,1971-04-24,West Bromwich Albion,Arsenal,2 - 2
+100450,48,1971-04-26,Blackpool,Crystal Palace,3 - 1
+100451,49,1971-04-26,Chelsea,Burnley,0 - 1
+100452,49,1971-04-26,Leeds United,Arsenal,1 - 0
+100453,49,1971-04-26,Manchester City,Liverpool,2 - 2
+100463,49,1971-04-27,Coventry City,Derby County,0 - 0
+100464,49,1971-04-27,Nottingham Forest,Stoke City,0 - 0
+100465,49,1971-04-27,Southampton,West Ham United,1 - 2
+100476,49,1971-04-28,Newcastle United,West Bromwich Albion,3 - 0
+100477,49,1971-04-28,Tottenham Hotspur,Huddersfield Town,1 - 1
+100478,49,1971-04-28,Wolverhampton Wanderers,Ipswich Town,0 - 0
+100493,49,1971-05-01,Arsenal,Stoke City,1 - 0
+100494,50,1971-05-01,Blackpool,Manchester United,1 - 1
+100495,50,1971-05-01,Coventry City,Newcastle United,2 - 0
+100496,50,1971-05-01,Crystal Palace,Everton,2 - 0
+100497,50,1971-05-01,Derby County,West Bromwich Albion,2 - 0
+100498,50,1971-05-01,Ipswich Town,Chelsea,0 - 0
+100499,50,1971-05-01,Leeds United,Nottingham Forest,2 - 0
+100500,50,1971-05-01,Liverpool,Southampton,1 - 0
+100501,50,1971-05-01,Manchester City,Tottenham Hotspur,0 - 1
+100502,50,1971-05-01,West Ham United,Huddersfield Town,0 - 1
+100503,50,1971-05-01,Wolverhampton Wanderers,Burnley,1 - 0
+100537,50,1971-05-03,Tottenham Hotspur,Arsenal,0 - 1
+100539,51,1971-05-04,Southampton,Crystal Palace,6 - 0
+100545,51,1971-05-05,Manchester City,Manchester United,3 - 4
+100546,51,1971-05-05,Stoke City,Tottenham Hotspur,0 - 1

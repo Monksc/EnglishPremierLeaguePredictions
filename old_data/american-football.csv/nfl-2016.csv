@@ -1,0 +1,257 @@
+Round Number,Date,Location,Home Team,Away Team,Result
+1,08/09/2016 20:30,Sports Authority Field at Mile High,Denver Broncos,Carolina Panthers,21 - 20
+1,11/09/2016 13:00,Georgia Dome,Atlanta Falcons,Tampa Bay Buccaneers,24 - 31
+1,11/09/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Buffalo Bills,13 - 7
+1,11/09/2016 13:00,NRG Stadium,Houston Texans,Chicago Bears,23 - 14
+1,11/09/2016 13:00,EverBank Field,Jacksonville Jaguars,Green Bay Packers,23 - 27
+1,11/09/2016 13:00,Arrowhead Stadium,Kansas City Chiefs,San Diego Chargers,33 - 27
+1,11/09/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Oakland Raiders,34 - 35
+1,11/09/2016 13:00,MetLife Stadium,New York Jets,Cincinnati Bengals,22 - 23
+1,11/09/2016 13:00,Lincoln Financial Field,Philadelphia Eagles,Cleveland Browns,29 - 10
+1,11/09/2016 13:00,Nissan Stadium,Tennessee Titans,Minnesota Vikings,16 - 25
+1,11/09/2016 16:05,CenturyLink Field,Seattle Seahawks,Miami Dolphins,12 - 10
+1,11/09/2016 16:25,AT&T Stadium,Dallas Cowboys,New York Giants,19 - 20
+1,11/09/2016 16:25,Lucas Oil Stadium,Indianapolis Colts,Detroit Lions,35 - 39
+1,11/09/2016 20:30,University of Phoenix Stadium,Arizona Cardinals,New England Patriots,21 - 23
+1,12/09/2016 19:10,FedEx Field,Washington Redskins,Pittsburgh Steelers,16 - 38
+1,12/09/2016 22:20,Levi's Stadium,San Francisco 49ers,Los Angeles Rams,28 - 0
+2,15/09/2016 20:25,Ralph Wilson Stadium,Buffalo Bills,New York Jets,31 - 37
+2,18/09/2016 13:00,Bank of America Stadium,Carolina Panthers,San Francisco 49ers,46 - 27
+2,18/09/2016 13:00,FirstEnergy Stadium,Cleveland Browns,Baltimore Ravens,20 - 25
+2,18/09/2016 13:00,Ford Field,Detroit Lions,Tennessee Titans,15 - 16
+2,18/09/2016 13:00,NRG Stadium,Houston Texans,Kansas City Chiefs,19 - 12
+2,18/09/2016 13:00,Gillette Stadium,New England Patriots,Miami Dolphins,31 - 24
+2,18/09/2016 13:00,MetLife Stadium,New York Giants,New Orleans Saints,16 - 13
+2,18/09/2016 13:00,Heinz Field,Pittsburgh Steelers,Cincinnati Bengals,24 - 16
+2,18/09/2016 13:00,FedEx Field,Washington Redskins,Dallas Cowboys,23 - 27
+2,18/09/2016 16:05,University of Phoenix Stadium,Arizona Cardinals,Tampa Bay Buccaneers,40 - 7
+2,18/09/2016 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Seattle Seahawks,9 - 3
+2,18/09/2016 16:25,Sports Authority Field at Mile High,Denver Broncos,Indianapolis Colts,34 - 20
+2,18/09/2016 16:25,O.co Coliseum,Oakland Raiders,Atlanta Falcons,28 - 35
+2,18/09/2016 16:25,Qualcomm Stadium,San Diego Chargers,Jacksonville Jaguars,38 - 14
+2,18/09/2016 20:30,U.S. Bank Stadium,Minnesota Vikings,Green Bay Packers,17 - 14
+2,19/09/2016 20:30,Soldier Field,Chicago Bears,Philadelphia Eagles,14 - 29
+3,22/09/2016 20:25,Gillette Stadium,New England Patriots,Houston Texans,27 - 0
+3,25/09/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,Arizona Cardinals,33 - 18
+3,25/09/2016 13:00,Bank of America Stadium,Carolina Panthers,Minnesota Vikings,10 - 22
+3,25/09/2016 13:00,Paul Brown Stadium,Cincinnati Bengals,Denver Broncos,17 - 29
+3,25/09/2016 13:00,Lambeau Field,Green Bay Packers,Detroit Lions,34 - 27
+3,25/09/2016 13:00,EverBank Field,Jacksonville Jaguars,Baltimore Ravens,17 - 19
+3,25/09/2016 13:00,New Miami Stadium,Miami Dolphins,Cleveland Browns,30 - 24
+3,25/09/2016 13:00,MetLife Stadium,New York Giants,Washington Redskins,27 - 29
+3,25/09/2016 13:00,Nissan Stadium,Tennessee Titans,Oakland Raiders,10 - 17
+3,25/09/2016 16:05,CenturyLink Field,Seattle Seahawks,San Francisco 49ers,37 - 18
+3,25/09/2016 16:05,Raymond James Stadium,Tampa Bay Buccaneers,Los Angeles Rams,32 - 37
+3,25/09/2016 16:25,Lucas Oil Stadium,Indianapolis Colts,San Diego Chargers,26 - 22
+3,25/09/2016 16:25,Arrowhead Stadium,Kansas City Chiefs,New York Jets,24 - 3
+3,25/09/2016 16:25,Lincoln Financial Field,Philadelphia Eagles,Pittsburgh Steelers,34 - 3
+3,26/09/2016 16:25,AT&T Stadium,Dallas Cowboys,Chicago Bears,31 - 17
+3,26/09/2016 20:30,Mercedes-Benz Superdome,New Orleans Saints,Atlanta Falcons,32 - 45
+4,29/09/2016 20:25,Paul Brown Stadium,Cincinnati Bengals,Miami Dolphins,22 - 7
+4,02/10/2016 09:30,EverBank Field,Jacksonville Jaguars,Indianapolis Colts,30 - 27
+4,02/10/2016 13:00,Georgia Dome,Atlanta Falcons,Carolina Panthers,48 - 33
+4,02/10/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Oakland Raiders,27 - 28
+4,02/10/2016 13:00,Soldier Field,Chicago Bears,Detroit Lions,17 - 14
+4,02/10/2016 13:00,NRG Stadium,Houston Texans,Tennessee Titans,27 - 20
+4,02/10/2016 13:00,Gillette Stadium,New England Patriots,Buffalo Bills,0 - 16
+4,02/10/2016 13:00,MetLife Stadium,New York Jets,Seattle Seahawks,17 - 27
+4,02/10/2016 13:00,FedEx Field,Washington Redskins,Cleveland Browns,31 - 20
+4,02/10/2016 16:05,Raymond James Stadium,Tampa Bay Buccaneers,Denver Broncos,7 - 27
+4,02/10/2016 16:25,University of Phoenix Stadium,Arizona Cardinals,Los Angeles Rams,13 - 17
+4,02/10/2016 16:25,Qualcomm Stadium,San Diego Chargers,New Orleans Saints,34 - 35
+4,02/10/2016 16:25,Levi's Stadium,San Francisco 49ers,Dallas Cowboys,17 - 24
+4,02/10/2016 20:30,Heinz Field,Pittsburgh Steelers,Kansas City Chiefs,43 - 14
+4,03/10/2016 20:30,U.S. Bank Stadium,Minnesota Vikings,New York Giants,24 - 10
+5,06/10/2016 20:25,Levi's Stadium,San Francisco 49ers,Arizona Cardinals,21 - 33
+5,09/10/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Washington Redskins,10 - 16
+5,09/10/2016 13:00,FirstEnergy Stadium,Cleveland Browns,New England Patriots,13 - 33
+5,09/10/2016 13:00,Ford Field,Detroit Lions,Philadelphia Eagles,24 - 23
+5,09/10/2016 13:00,Lucas Oil Stadium,Indianapolis Colts,Chicago Bears,29 - 23
+5,09/10/2016 13:00,New Miami Stadium,Miami Dolphins,Tennessee Titans,17 - 30
+5,09/10/2016 13:00,U.S. Bank Stadium,Minnesota Vikings,Houston Texans,31 - 13
+5,09/10/2016 13:00,Heinz Field,Pittsburgh Steelers,New York Jets,31 - 13
+5,09/10/2016 16:05,Sports Authority Field at Mile High,Denver Broncos,Atlanta Falcons,16 - 23
+5,09/10/2016 16:25,AT&T Stadium,Dallas Cowboys,Cincinnati Bengals,28 - 14
+5,09/10/2016 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,Buffalo Bills,19 - 30
+5,09/10/2016 16:25,O.co Coliseum,Oakland Raiders,San Diego Chargers,34 - 31
+5,09/10/2016 20:30,Lambeau Field,Green Bay Packers,New York Giants,23 - 16
+5,10/10/2016 20:30,Bank of America Stadium,Carolina Panthers,Tampa Bay Buccaneers,14 - 17
+6,13/10/2016 20:25,Qualcomm Stadium,San Diego Chargers,Denver Broncos,21 - 13
+6,16/10/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,San Francisco 49ers,45 - 16
+6,16/10/2016 13:00,Soldier Field,Chicago Bears,Jacksonville Jaguars,16 - 17
+6,16/10/2016 13:00,Ford Field,Detroit Lions,Los Angeles Rams,31 - 28
+6,16/10/2016 13:00,New Miami Stadium,Miami Dolphins,Pittsburgh Steelers,30 - 15
+6,16/10/2016 13:00,Gillette Stadium,New England Patriots,Cincinnati Bengals,35 - 17
+6,16/10/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Carolina Panthers,41 - 38
+6,16/10/2016 13:00,MetLife Stadium,New York Giants,Baltimore Ravens,27 - 23
+6,16/10/2016 13:00,Nissan Stadium,Tennessee Titans,Cleveland Browns,28 - 26
+6,16/10/2016 13:00,FedEx Field,Washington Redskins,Philadelphia Eagles,27 - 20
+6,16/10/2016 16:05,O.co Coliseum,Oakland Raiders,Kansas City Chiefs,10 - 26
+6,16/10/2016 16:25,Lambeau Field,Green Bay Packers,Dallas Cowboys,16 - 30
+6,16/10/2016 16:25,CenturyLink Field,Seattle Seahawks,Atlanta Falcons,26 - 24
+6,16/10/2016 20:30,NRG Stadium,Houston Texans,Indianapolis Colts,26 - 23
+6,17/10/2016 20:30,University of Phoenix Stadium,Arizona Cardinals,New York Jets,28 - 3
+7,20/10/2016 20:25,Lambeau Field,Green Bay Packers,Chicago Bears,26 - 10
+7,23/10/2016 09:30,Los Angeles Memorial Coliseum,Los Angeles Rams,New York Giants,10 - 17
+7,23/10/2016 13:00,Paul Brown Stadium,Cincinnati Bengals,Cleveland Browns,31 - 17
+7,23/10/2016 13:00,Ford Field,Detroit Lions,Washington Redskins,20 - 17
+7,23/10/2016 13:00,EverBank Field,Jacksonville Jaguars,Oakland Raiders,16 - 33
+7,23/10/2016 13:00,Arrowhead Stadium,Kansas City Chiefs,New Orleans Saints,27 - 21
+7,23/10/2016 13:00,New Miami Stadium,Miami Dolphins,Buffalo Bills,28 - 25
+7,23/10/2016 13:00,MetLife Stadium,New York Jets,Baltimore Ravens,24 - 16
+7,23/10/2016 13:00,Lincoln Financial Field,Philadelphia Eagles,Minnesota Vikings,21 - 10
+7,23/10/2016 13:00,Nissan Stadium,Tennessee Titans,Indianapolis Colts,26 - 34
+7,23/10/2016 16:05,Georgia Dome,Atlanta Falcons,San Diego Chargers,30 - 33
+7,23/10/2016 16:05,Levi's Stadium,San Francisco 49ers,Tampa Bay Buccaneers,17 - 34
+7,23/10/2016 16:25,Heinz Field,Pittsburgh Steelers,New England Patriots,16 - 27
+7,23/10/2016 20:30,University of Phoenix Stadium,Arizona Cardinals,Seattle Seahawks,6 - 6
+7,24/10/2016 20:30,Sports Authority Field at Mile High,Denver Broncos,Houston Texans,27 - 9
+8,27/10/2016 20:25,Nissan Stadium,Tennessee Titans,Jacksonville Jaguars,36 - 22
+8,30/10/2016 09:30,Paul Brown Stadium,Cincinnati Bengals,Washington Redskins,27 - 27
+8,30/10/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,New England Patriots,25 - 41
+8,30/10/2016 13:00,FirstEnergy Stadium,Cleveland Browns,New York Jets,28 - 31
+8,30/10/2016 13:00,NRG Stadium,Houston Texans,Detroit Lions,20 - 13
+8,30/10/2016 13:00,Lucas Oil Stadium,Indianapolis Colts,Kansas City Chiefs,14 - 30
+8,30/10/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Seattle Seahawks,25 - 20
+8,30/10/2016 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Oakland Raiders,24 - 30
+8,30/10/2016 13:00,Bank of America Stadium,Carolina Panthers,Arizona Cardinals,30 - 20
+8,30/10/2016 16:05,Sports Authority Field at Mile High,Denver Broncos,San Diego Chargers,27 - 19
+8,30/10/2016 16:25,Georgia Dome,Atlanta Falcons,Green Bay Packers,33 - 32
+8,30/10/2016 20:30,AT&T Stadium,Dallas Cowboys,Philadelphia Eagles,29 - 23
+8,31/10/2016 20:30,Soldier Field,Chicago Bears,Minnesota Vikings,20 - 10
+9,03/11/2016 20:25,Raymond James Stadium,Tampa Bay Buccaneers,Atlanta Falcons,28 - 43
+9,06/11/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Pittsburgh Steelers,21 - 14
+9,06/11/2016 13:00,FirstEnergy Stadium,Cleveland Browns,Dallas Cowboys,10 - 35
+9,06/11/2016 13:00,Arrowhead Stadium,Kansas City Chiefs,Jacksonville Jaguars,19 - 14
+9,06/11/2016 13:00,New Miami Stadium,Miami Dolphins,New York Jets,27 - 23
+9,06/11/2016 13:00,U.S. Bank Stadium,Minnesota Vikings,Detroit Lions,16 - 22
+9,06/11/2016 13:00,MetLife Stadium,New York Giants,Philadelphia Eagles,28 - 23
+9,06/11/2016 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Carolina Panthers,10 - 13
+9,06/11/2016 16:05,Levi's Stadium,San Francisco 49ers,New Orleans Saints,23 - 41
+9,06/11/2016 16:25,Lambeau Field,Green Bay Packers,Indianapolis Colts,26 - 31
+9,06/11/2016 16:25,Qualcomm Stadium,San Diego Chargers,Tennessee Titans,43 - 35
+9,06/11/2016 20:30,O.co Coliseum,Oakland Raiders,Denver Broncos,30 - 20
+9,07/11/2016 20:30,Ralph Wilson Stadium,Buffalo Bills,Seattle Seahawks,25 - 31
+10,10/11/2016 20:25,M&T Bank Stadium,Baltimore Ravens,Cleveland Browns,28 - 7
+10,13/11/2016 13:00,Bank of America Stadium,Carolina Panthers,Kansas City Chiefs,17 - 20
+10,13/11/2016 13:00,EverBank Field,Jacksonville Jaguars,Houston Texans,21 - 24
+10,13/11/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Denver Broncos,23 - 25
+10,13/11/2016 13:00,MetLife Stadium,New York Jets,Los Angeles Rams,6 - 9
+10,13/11/2016 13:00,Lincoln Financial Field,Philadelphia Eagles,Atlanta Falcons,24 - 15
+10,13/11/2016 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Chicago Bears,36 - 10
+10,13/11/2016 13:00,Nissan Stadium,Tennessee Titans,Green Bay Packers,47 - 25
+10,13/11/2016 13:00,FedEx Field,Washington Redskins,Minnesota Vikings,26 - 20
+10,13/11/2016 16:05,Qualcomm Stadium,San Diego Chargers,Miami Dolphins,24 - 31
+10,13/11/2016 16:25,University of Phoenix Stadium,Arizona Cardinals,San Francisco 49ers,23 - 20
+10,13/11/2016 16:25,Heinz Field,Pittsburgh Steelers,Dallas Cowboys,30 - 35
+10,13/11/2016 20:30,Gillette Stadium,New England Patriots,Seattle Seahawks,24 - 31
+10,14/11/2016 20:30,MetLife Stadium,New York Giants,Cincinnati Bengals,21 - 20
+11,17/11/2016 20:25,Bank of America Stadium,Carolina Panthers,New Orleans Saints,23 - 20
+11,20/11/2016 13:00,Paul Brown Stadium,Cincinnati Bengals,Buffalo Bills,12 - 16
+11,20/11/2016 13:00,FirstEnergy Stadium,Cleveland Browns,Pittsburgh Steelers,9 - 24
+11,20/11/2016 13:00,AT&T Stadium,Dallas Cowboys,Baltimore Ravens,27 - 17
+11,20/11/2016 13:00,Ford Field,Detroit Lions,Jacksonville Jaguars,26 - 19
+11,20/11/2016 13:00,Lucas Oil Stadium,Indianapolis Colts,Tennessee Titans,24 - 17
+11,20/11/2016 13:00,Arrowhead Stadium,Kansas City Chiefs,Tampa Bay Buccaneers,17 - 19
+11,20/11/2016 13:00,U.S. Bank Stadium,Minnesota Vikings,Arizona Cardinals,30 - 24
+11,20/11/2016 13:00,MetLife Stadium,New York Giants,Chicago Bears,22 - 16
+11,20/11/2016 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Miami Dolphins,10 - 14
+11,20/11/2016 16:25,Levi's Stadium,San Francisco 49ers,New England Patriots,17 - 30
+11,20/11/2016 16:25,CenturyLink Field,Seattle Seahawks,Philadelphia Eagles,26 - 15
+11,20/11/2016 20:30,FedEx Field,Washington Redskins,Green Bay Packers,42 - 24
+11,21/11/2016 20:30,O.co Coliseum,Oakland Raiders,Houston Texans,27 - 20
+12,24/11/2016 12:30,Ford Field,Detroit Lions,Minnesota Vikings,16 - 13
+12,24/11/2016 16:30,AT&T Stadium,Dallas Cowboys,Washington Redskins,31 - 26
+12,24/11/2016 20:30,Lucas Oil Stadium,Indianapolis Colts,Pittsburgh Steelers,7 - 28
+12,27/11/2016 13:00,Georgia Dome,Atlanta Falcons,Arizona Cardinals,38 - 19
+12,27/11/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Cincinnati Bengals,19 - 14
+12,27/11/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,Jacksonville Jaguars,28 - 21
+12,27/11/2016 13:00,Soldier Field,Chicago Bears,Tennessee Titans,21 - 27
+12,27/11/2016 13:00,FirstEnergy Stadium,Cleveland Browns,New York Giants,13 - 27
+12,27/11/2016 13:00,NRG Stadium,Houston Texans,San Diego Chargers,13 - 21
+12,27/11/2016 13:00,New Miami Stadium,Miami Dolphins,San Francisco 49ers,31 - 24
+12,27/11/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Los Angeles Rams,49 - 21
+12,27/11/2016 16:05,Raymond James Stadium,Tampa Bay Buccaneers,Seattle Seahawks,14 - 5
+12,27/11/2016 16:25,Sports Authority Field at Mile High,Denver Broncos,Kansas City Chiefs,27 - 30
+12,27/11/2016 16:25,O.co Coliseum,Oakland Raiders,Carolina Panthers,35 - 32
+12,27/11/2016 20:30,MetLife Stadium,New York Jets,New England Patriots,17 - 22
+12,28/11/2016 20:30,Lincoln Financial Field,Philadelphia Eagles,Green Bay Packers,13 - 27
+13,01/12/2016 20:25,U.S. Bank Stadium,Minnesota Vikings,Dallas Cowboys,15 - 17
+13,04/12/2016 13:00,Georgia Dome,Atlanta Falcons,Kansas City Chiefs,28 - 29
+13,04/12/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Miami Dolphins,38 - 6
+13,04/12/2016 13:00,Soldier Field,Chicago Bears,San Francisco 49ers,26 - 6
+13,04/12/2016 13:00,Paul Brown Stadium,Cincinnati Bengals,Philadelphia Eagles,32 - 14
+13,04/12/2016 13:00,Lambeau Field,Green Bay Packers,Houston Texans,21 - 13
+13,04/12/2016 13:00,EverBank Field,Jacksonville Jaguars,Denver Broncos,10 - 20
+13,04/12/2016 13:00,Gillette Stadium,New England Patriots,Los Angeles Rams,26 - 10
+13,04/12/2016 13:00,Mercedes-Benz Superdome,New Orleans Saints,Detroit Lions,13 - 28
+13,04/12/2016 16:05,O.co Coliseum,Oakland Raiders,Buffalo Bills,38 - 24
+13,04/12/2016 16:25,University of Phoenix Stadium,Arizona Cardinals,Washington Redskins,31 - 23
+13,04/12/2016 16:25,Heinz Field,Pittsburgh Steelers,New York Giants,24 - 14
+13,04/12/2016 16:25,Qualcomm Stadium,San Diego Chargers,Tampa Bay Buccaneers,21 - 28
+13,04/12/2016 20:30,CenturyLink Field,Seattle Seahawks,Carolina Panthers,40 - 7
+13,05/12/2016 20:30,Lucas Oil Stadium,Indianapolis Colts,New York Jets,41 - 10
+14,08/12/2016 20:25,Arrowhead Stadium,Kansas City Chiefs,Oakland Raiders,21 - 13
+14,11/12/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,Pittsburgh Steelers,20 - 27
+14,11/12/2016 13:00,Bank of America Stadium,Carolina Panthers,San Diego Chargers,28 - 16
+14,11/12/2016 13:00,FirstEnergy Stadium,Cleveland Browns,Cincinnati Bengals,10 - 23
+14,11/12/2016 13:00,Ford Field,Detroit Lions,Chicago Bears,20 - 17
+14,11/12/2016 13:00,Lucas Oil Stadium,Indianapolis Colts,Houston Texans,17 - 22
+14,11/12/2016 13:00,EverBank Field,Jacksonville Jaguars,Minnesota Vikings,16 - 25
+14,11/12/2016 13:00,New Miami Stadium,Miami Dolphins,Arizona Cardinals,26 - 23
+14,11/12/2016 13:00,Lincoln Financial Field,Philadelphia Eagles,Washington Redskins,22 - 27
+14,11/12/2016 13:00,Raymond James Stadium,Tampa Bay Buccaneers,New Orleans Saints,16 - 11
+14,11/12/2016 13:00,Nissan Stadium,Tennessee Titans,Denver Broncos,13 - 10
+14,11/12/2016 16:05,Levi's Stadium,San Francisco 49ers,New York Jets,17 - 23
+14,11/12/2016 16:25,Lambeau Field,Green Bay Packers,Seattle Seahawks,38 - 10
+14,11/12/2016 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,Atlanta Falcons,14 - 42
+14,11/12/2016 20:30,MetLife Stadium,New York Giants,Dallas Cowboys,10 - 7
+14,12/12/2016 20:30,Gillette Stadium,New England Patriots,Baltimore Ravens,30 - 23
+15,15/12/2016 20:25,CenturyLink Field,Seattle Seahawks,Los Angeles Rams,24 - 3
+15,17/12/2016 20:25,MetLife Stadium,New York Jets,Miami Dolphins,13 - 34
+15,18/12/2016 13:00,M&T Bank Stadium,Baltimore Ravens,Philadelphia Eagles,27 - 26
+15,18/12/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,Cleveland Browns,33 - 13
+15,18/12/2016 13:00,Soldier Field,Chicago Bears,Green Bay Packers,27 - 30
+15,18/12/2016 13:00,NRG Stadium,Houston Texans,Jacksonville Jaguars,21 - 20
+15,18/12/2016 13:00,Arrowhead Stadium,Kansas City Chiefs,Tennessee Titans,17 - 19
+15,18/12/2016 13:00,U.S. Bank Stadium,Minnesota Vikings,Indianapolis Colts,6 - 34
+15,18/12/2016 13:00,MetLife Stadium,New York Giants,Detroit Lions,17 - 6
+15,18/12/2016 13:00,Paul Brown Stadium,Cincinnati Bengals,Pittsburgh Steelers,20 - 24
+15,18/12/2016 16:05,University of Phoenix Stadium,Arizona Cardinals,New Orleans Saints,41 - 48
+15,18/12/2016 16:05,Georgia Dome,Atlanta Falcons,San Francisco 49ers,41 - 13
+15,18/12/2016 16:25,Sports Authority Field at Mile High,Denver Broncos,New England Patriots,3 - 16
+15,18/12/2016 16:25,Qualcomm Stadium,San Diego Chargers,Oakland Raiders,16 - 19
+15,18/12/2016 20:30,AT&T Stadium,Dallas Cowboys,Tampa Bay Buccaneers,26 - 20
+15,19/12/2016 20:30,FedEx Field,Washington Redskins,Carolina Panthers,15 - 26
+16,22/12/2016 20:25,Lincoln Financial Field,Philadelphia Eagles,New York Giants,24 - 19
+16,24/12/2016 13:00,Ralph Wilson Stadium,Buffalo Bills,Miami Dolphins,31 - 34
+16,24/12/2016 13:00,Bank of America Stadium,Carolina Panthers,Atlanta Falcons,16 - 33
+16,24/12/2016 13:00,Soldier Field,Chicago Bears,Washington Redskins,21 - 41
+16,24/12/2016 13:00,FirstEnergy Stadium,Cleveland Browns,San Diego Chargers,20 - 17
+16,24/12/2016 13:00,Lambeau Field,Green Bay Packers,Minnesota Vikings,38 - 25
+16,24/12/2016 13:00,EverBank Field,Jacksonville Jaguars,Tennessee Titans,38 - 17
+16,24/12/2016 13:00,Gillette Stadium,New England Patriots,New York Jets,41 - 3
+16,24/12/2016 16:05,O.co Coliseum,Oakland Raiders,Indianapolis Colts,33 - 25
+16,24/12/2016 16:25,Mercedes-Benz Superdome,New Orleans Saints,Tampa Bay Buccaneers,31 - 24
+16,24/12/2016 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,San Francisco 49ers,21 - 22
+16,24/12/2016 16:25,CenturyLink Field,Seattle Seahawks,Arizona Cardinals,31 - 34
+16,24/12/2016 20:25,NRG Stadium,Houston Texans,Cincinnati Bengals,12 - 10
+16,25/12/2016 16:30,Heinz Field,Pittsburgh Steelers,Baltimore Ravens,31 - 27
+16,25/12/2016 20:30,Arrowhead Stadium,Kansas City Chiefs,Denver Broncos,33 - 10
+16,26/12/2016 20:30,AT&T Stadium,Dallas Cowboys,Detroit Lions,42 - 21
+17,01/01/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Baltimore Ravens,20 - 10
+17,01/01/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Jacksonville Jaguars,17 - 17
+17,01/01/2017 13:00,New Miami Stadium,Miami Dolphins,New England Patriots,14 - 27
+17,01/01/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Chicago Bears,38 - 10
+17,01/01/2017 13:00,MetLife Stadium,New York Jets,Buffalo Bills,20 - 3
+17,01/01/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,Dallas Cowboys,17 - 13
+17,01/01/2017 13:00,Heinz Field,Pittsburgh Steelers,Cleveland Browns,27 - 24
+17,01/01/2017 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Carolina Panthers,10 - 10
+17,01/01/2017 13:00,Nissan Stadium,Tennessee Titans,Houston Texans,21 - 10
+17,01/01/2017 16:25,Georgia Dome,Atlanta Falcons,New Orleans Saints,38 - 32
+17,01/01/2017 16:25,FedEx Field,Washington Redskins,New York Giants,10 - 19
+17,01/01/2017 16:25,Sports Authority Field at Mile High,Denver Broncos,Oakland Raiders,24 - 6
+17,01/01/2017 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,Arizona Cardinals,6 - 44
+17,01/01/2017 16:25,Qualcomm Stadium,San Diego Chargers,Kansas City Chiefs,27 - 37
+17,01/01/2017 16:25,Levi's Stadium,San Francisco 49ers,Seattle Seahawks,23 - 25
+17,02/01/2017 08:30,Ford Field,Detroit Lions,Green Bay Packers,24 - 31

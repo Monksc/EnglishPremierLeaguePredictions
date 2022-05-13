@@ -1,0 +1,463 @@
+,Round Number,Date,Home Team,Away Team,Result
+48736,0,1938-08-27,Arsenal,Portsmouth,2 - 0
+48737,0,1938-08-27,Birmingham City,Sunderland,1 - 2
+48738,0,1938-08-27,Blackpool,Everton,0 - 2
+48739,0,1938-08-27,Bolton Wanderers,Charlton Athletic,2 - 1
+48740,0,1938-08-27,Brentford,Huddersfield Town,2 - 1
+48741,0,1938-08-27,Derby County,Wolverhampton Wanderers,2 - 2
+48742,0,1938-08-27,Grimsby Town,Aston Villa,1 - 2
+48743,0,1938-08-27,Leeds United,Preston North End,2 - 1
+48744,0,1938-08-27,Leicester City,Stoke City,2 - 2
+48745,0,1938-08-27,Liverpool,Chelsea,2 - 1
+48746,0,1938-08-27,Middlesbrough,Manchester United,3 - 1
+48780,0,1938-08-29,Charlton Athletic,Stoke City,4 - 2
+48781,1,1938-08-29,Wolverhampton Wanderers,Leicester City,0 - 0
+48802,1,1938-08-31,Chelsea,Preston North End,3 - 1
+48803,1,1938-08-31,Derby County,Huddersfield Town,1 - 0
+48804,1,1938-08-31,Everton,Grimsby Town,3 - 0
+48805,1,1938-08-31,Leeds United,Birmingham City,2 - 0
+48806,1,1938-08-31,Manchester United,Bolton Wanderers,2 - 2
+48807,1,1938-08-31,Middlesbrough,Aston Villa,1 - 1
+48808,1,1938-08-31,Portsmouth,Blackpool,1 - 0
+48822,1,1938-09-03,Aston Villa,Derby County,0 - 1
+48823,2,1938-09-03,Charlton Athletic,Leeds United,2 - 0
+48824,2,1938-09-03,Chelsea,Leicester City,3 - 0
+48825,2,1938-09-03,Everton,Brentford,2 - 1
+48826,2,1938-09-03,Huddersfield Town,Arsenal,1 - 1
+48827,2,1938-09-03,Manchester United,Birmingham City,4 - 1
+48828,2,1938-09-03,Portsmouth,Bolton Wanderers,2 - 1
+48829,2,1938-09-03,Preston North End,Liverpool,1 - 0
+48830,2,1938-09-03,Stoke City,Middlesbrough,1 - 3
+48831,2,1938-09-03,Sunderland,Grimsby Town,1 - 1
+48832,2,1938-09-03,Wolverhampton Wanderers,Blackpool,1 - 1
+48866,2,1938-09-05,Aston Villa,Everton,0 - 3
+48867,3,1938-09-05,Bolton Wanderers,Chelsea,0 - 2
+48868,3,1938-09-05,Preston North End,Charlton Athletic,2 - 0
+48869,3,1938-09-05,Stoke City,Leeds United,1 - 1
+48881,3,1938-09-06,Grimsby Town,Portsmouth,2 - 1
+48884,3,1938-09-07,Birmingham City,Leicester City,2 - 1
+48885,3,1938-09-07,Huddersfield Town,Derby County,3 - 0
+48886,3,1938-09-07,Liverpool,Manchester United,1 - 0
+48887,3,1938-09-07,Sunderland,Wolverhampton Wanderers,1 - 1
+48901,3,1938-09-08,Brentford,Arsenal,1 - 0
+48906,3,1938-09-10,Arsenal,Everton,1 - 2
+48907,4,1938-09-10,Birmingham City,Stoke City,1 - 2
+48908,4,1938-09-10,Blackpool,Aston Villa,2 - 4
+48909,4,1938-09-10,Brentford,Wolverhampton Wanderers,0 - 1
+48910,4,1938-09-10,Derby County,Sunderland,1 - 0
+48911,4,1938-09-10,Grimsby Town,Manchester United,1 - 0
+48912,4,1938-09-10,Leeds United,Bolton Wanderers,1 - 2
+48913,4,1938-09-10,Leicester City,Preston North End,2 - 1
+48914,4,1938-09-10,Liverpool,Charlton Athletic,1 - 0
+48915,4,1938-09-10,Middlesbrough,Chelsea,1 - 1
+48916,4,1938-09-10,Portsmouth,Huddersfield Town,4 - 0
+48950,4,1938-09-12,Leicester City,Birmingham City,2 - 1
+48959,5,1938-09-14,Arsenal,Derby County,1 - 2
+48960,5,1938-09-14,Huddersfield Town,Sunderland,0 - 1
+48961,5,1938-09-14,Liverpool,Middlesbrough,3 - 1
+48968,5,1938-09-17,Aston Villa,Brentford,5 - 0
+48969,5,1938-09-17,Bolton Wanderers,Liverpool,3 - 1
+48970,5,1938-09-17,Charlton Athletic,Leicester City,1 - 0
+48971,5,1938-09-17,Chelsea,Birmingham City,2 - 2
+48972,5,1938-09-17,Everton,Portsmouth,5 - 1
+48973,5,1938-09-17,Grimsby Town,Derby County,1 - 1
+48974,5,1938-09-17,Huddersfield Town,Leeds United,0 - 1
+48975,6,1938-09-17,Preston North End,Middlesbrough,3 - 1
+48976,6,1938-09-17,Stoke City,Manchester United,1 - 1
+48977,6,1938-09-17,Sunderland,Blackpool,1 - 2
+48978,6,1938-09-17,Wolverhampton Wanderers,Arsenal,0 - 1
+49012,6,1938-09-19,Blackpool,Brentford,4 - 1
+49015,7,1938-09-24,Arsenal,Aston Villa,0 - 0
+49016,7,1938-09-24,Birmingham City,Preston North End,1 - 3
+49017,7,1938-09-24,Blackpool,Grimsby Town,3 - 1
+49018,8,1938-09-24,Brentford,Sunderland,2 - 3
+49019,8,1938-09-24,Derby County,Stoke City,5 - 0
+49020,8,1938-09-24,Huddersfield Town,Everton,3 - 0
+49021,8,1938-09-24,Leicester City,Bolton Wanderers,0 - 0
+49022,8,1938-09-24,Liverpool,Leeds United,3 - 0
+49023,8,1938-09-24,Manchester United,Chelsea,5 - 1
+49024,8,1938-09-24,Middlesbrough,Charlton Athletic,4 - 0
+49025,8,1938-09-24,Portsmouth,Wolverhampton Wanderers,1 - 0
+49060,8,1938-10-01,Aston Villa,Portsmouth,2 - 0
+49061,8,1938-10-01,Bolton Wanderers,Middlesbrough,4 - 1
+49062,9,1938-10-01,Charlton Athletic,Birmingham City,4 - 4
+49063,9,1938-10-01,Chelsea,Stoke City,1 - 1
+49064,9,1938-10-01,Derby County,Blackpool,2 - 1
+49065,9,1938-10-01,Everton,Liverpool,2 - 1
+49066,9,1938-10-01,Grimsby Town,Brentford,0 - 0
+49067,9,1938-10-01,Leeds United,Leicester City,8 - 2
+49068,9,1938-10-01,Preston North End,Manchester United,1 - 1
+49069,9,1938-10-01,Sunderland,Arsenal,0 - 0
+49070,9,1938-10-01,Wolverhampton Wanderers,Huddersfield Town,3 - 0
+49104,9,1938-10-08,Arsenal,Grimsby Town,2 - 0
+49105,10,1938-10-08,Birmingham City,Bolton Wanderers,0 - 2
+49106,10,1938-10-08,Blackpool,Chelsea,5 - 1
+49107,10,1938-10-08,Brentford,Derby County,1 - 3
+49108,10,1938-10-08,Everton,Wolverhampton Wanderers,1 - 0
+49109,10,1938-10-08,Huddersfield Town,Aston Villa,1 - 1
+49110,10,1938-10-08,Leicester City,Liverpool,2 - 2
+49111,10,1938-10-08,Manchester United,Charlton Athletic,0 - 2
+49112,10,1938-10-08,Middlesbrough,Leeds United,1 - 2
+49113,10,1938-10-08,Portsmouth,Sunderland,2 - 1
+49114,10,1938-10-08,Stoke City,Preston North End,3 - 1
+49148,10,1938-10-15,Birmingham City,Derby County,3 - 0
+49149,11,1938-10-15,Bolton Wanderers,Everton,4 - 2
+49150,11,1938-10-15,Charlton Athletic,Huddersfield Town,2 - 1
+49151,11,1938-10-15,Chelsea,Arsenal,4 - 2
+49152,11,1938-10-15,Leeds United,Wolverhampton Wanderers,1 - 0
+49153,11,1938-10-15,Leicester City,Sunderland,0 - 2
+49154,11,1938-10-15,Liverpool,Aston Villa,3 - 0
+49155,11,1938-10-15,Manchester United,Blackpool,0 - 0
+49156,11,1938-10-15,Middlesbrough,Grimsby Town,3 - 2
+49157,11,1938-10-15,Preston North End,Portsmouth,2 - 2
+49158,11,1938-10-15,Stoke City,Brentford,3 - 2
+49192,11,1938-10-22,Arsenal,Preston North End,1 - 0
+49193,12,1938-10-22,Aston Villa,Leicester City,1 - 2
+49194,12,1938-10-22,Blackpool,Stoke City,1 - 1
+49195,12,1938-10-22,Brentford,Chelsea,1 - 0
+49196,12,1938-10-22,Derby County,Manchester United,5 - 1
+49197,12,1938-10-22,Everton,Leeds United,4 - 0
+49198,12,1938-10-22,Grimsby Town,Birmingham City,1 - 0
+49199,12,1938-10-22,Huddersfield Town,Bolton Wanderers,2 - 1
+49200,12,1938-10-22,Portsmouth,Charlton Athletic,0 - 2
+49201,12,1938-10-22,Sunderland,Middlesbrough,1 - 2
+49202,12,1938-10-22,Wolverhampton Wanderers,Liverpool,2 - 2
+49236,12,1938-10-29,Birmingham City,Aston Villa,3 - 0
+49237,13,1938-10-29,Bolton Wanderers,Arsenal,1 - 1
+49238,13,1938-10-29,Charlton Athletic,Brentford,1 - 1
+49239,13,1938-10-29,Chelsea,Derby County,0 - 2
+49240,13,1938-10-29,Leeds United,Portsmouth,2 - 2
+49241,13,1938-10-29,Leicester City,Everton,3 - 0
+49242,13,1938-10-29,Liverpool,Huddersfield Town,3 - 3
+49243,13,1938-10-29,Manchester United,Sunderland,0 - 1
+49244,13,1938-10-29,Middlesbrough,Wolverhampton Wanderers,1 - 0
+49245,13,1938-10-29,Preston North End,Blackpool,1 - 1
+49246,13,1938-10-29,Stoke City,Grimsby Town,1 - 2
+49280,13,1938-11-05,Arsenal,Leeds United,2 - 3
+49281,14,1938-11-05,Aston Villa,Manchester United,0 - 2
+49282,14,1938-11-05,Blackpool,Charlton Athletic,0 - 0
+49283,14,1938-11-05,Brentford,Bolton Wanderers,2 - 2
+49284,14,1938-11-05,Derby County,Preston North End,2 - 0
+49285,14,1938-11-05,Everton,Middlesbrough,4 - 0
+49286,14,1938-11-05,Grimsby Town,Chelsea,2 - 1
+49287,14,1938-11-05,Huddersfield Town,Leicester City,2 - 0
+49288,14,1938-11-05,Portsmouth,Liverpool,1 - 1
+49289,14,1938-11-05,Sunderland,Stoke City,3 - 0
+49290,14,1938-11-05,Wolverhampton Wanderers,Birmingham City,2 - 1
+49324,14,1938-11-12,Birmingham City,Everton,1 - 0
+49325,15,1938-11-12,Bolton Wanderers,Blackpool,0 - 1
+49326,15,1938-11-12,Charlton Athletic,Derby County,1 - 0
+49327,15,1938-11-12,Chelsea,Sunderland,4 - 0
+49328,15,1938-11-12,Leeds United,Brentford,3 - 2
+49329,15,1938-11-12,Liverpool,Arsenal,2 - 2
+49330,15,1938-11-12,Manchester United,Wolverhampton Wanderers,1 - 3
+49331,15,1938-11-12,Middlesbrough,Huddersfield Town,4 - 1
+49332,15,1938-11-12,Preston North End,Grimsby Town,1 - 1
+49333,15,1938-11-12,Stoke City,Aston Villa,3 - 1
+49367,15,1938-11-19,Arsenal,Leicester City,0 - 0
+49368,16,1938-11-19,Aston Villa,Chelsea,6 - 2
+49369,16,1938-11-19,Blackpool,Leeds United,1 - 2
+49370,16,1938-11-19,Brentford,Liverpool,2 - 1
+49371,16,1938-11-19,Derby County,Bolton Wanderers,3 - 0
+49372,16,1938-11-19,Everton,Manchester United,3 - 0
+49373,16,1938-11-19,Grimsby Town,Charlton Athletic,1 - 1
+49374,16,1938-11-19,Huddersfield Town,Birmingham City,3 - 1
+49375,16,1938-11-19,Portsmouth,Middlesbrough,1 - 1
+49376,16,1938-11-19,Sunderland,Preston North End,1 - 2
+49377,16,1938-11-19,Wolverhampton Wanderers,Stoke City,3 - 0
+49411,16,1938-11-21,Leicester City,Portsmouth,5 - 0
+49412,17,1938-11-26,Birmingham City,Portsmouth,2 - 0
+49413,17,1938-11-26,Bolton Wanderers,Grimsby Town,1 - 1
+49414,17,1938-11-26,Charlton Athletic,Sunderland,3 - 0
+49415,17,1938-11-26,Chelsea,Wolverhampton Wanderers,1 - 3
+49416,17,1938-11-26,Leeds United,Derby County,1 - 4
+49417,17,1938-11-26,Leicester City,Brentford,1 - 1
+49418,18,1938-11-26,Liverpool,Blackpool,1 - 0
+49419,18,1938-11-26,Manchester United,Huddersfield Town,1 - 1
+49420,18,1938-11-26,Middlesbrough,Arsenal,1 - 1
+49421,18,1938-11-26,Preston North End,Aston Villa,3 - 2
+49422,18,1938-11-26,Stoke City,Everton,0 - 0
+49435,18,1938-12-03,Arsenal,Birmingham City,3 - 1
+49436,19,1938-12-03,Aston Villa,Charlton Athletic,2 - 0
+49437,19,1938-12-03,Blackpool,Leicester City,1 - 1
+49438,19,1938-12-03,Brentford,Middlesbrough,2 - 1
+49439,19,1938-12-03,Derby County,Liverpool,2 - 2
+49440,19,1938-12-03,Everton,Chelsea,4 - 1
+49441,19,1938-12-03,Grimsby Town,Leeds United,3 - 2
+49442,19,1938-12-03,Huddersfield Town,Stoke City,1 - 4
+49443,19,1938-12-03,Portsmouth,Manchester United,0 - 0
+49444,19,1938-12-03,Sunderland,Bolton Wanderers,2 - 2
+49445,19,1938-12-03,Wolverhampton Wanderers,Preston North End,3 - 0
+49479,19,1938-12-10,Birmingham City,Brentford,5 - 1
+49480,20,1938-12-10,Bolton Wanderers,Aston Villa,1 - 2
+49481,20,1938-12-10,Charlton Athletic,Wolverhampton Wanderers,0 - 4
+49482,20,1938-12-10,Chelsea,Huddersfield Town,3 - 0
+49483,20,1938-12-10,Leeds United,Sunderland,3 - 3
+49484,20,1938-12-10,Leicester City,Derby County,2 - 3
+49485,20,1938-12-10,Liverpool,Grimsby Town,2 - 2
+49486,20,1938-12-10,Manchester United,Arsenal,1 - 0
+49487,20,1938-12-10,Middlesbrough,Blackpool,9 - 2
+49488,20,1938-12-10,Preston North End,Everton,0 - 1
+49489,20,1938-12-10,Stoke City,Portsmouth,1 - 1
+49509,20,1938-12-17,Arsenal,Stoke City,4 - 1
+49510,21,1938-12-17,Aston Villa,Leeds United,2 - 1
+49511,21,1938-12-17,Blackpool,Birmingham City,2 - 1
+49512,21,1938-12-17,Brentford,Manchester United,2 - 5
+49513,21,1938-12-17,Derby County,Middlesbrough,1 - 4
+49514,21,1938-12-17,Everton,Charlton Athletic,1 - 4
+49515,21,1938-12-17,Grimsby Town,Leicester City,6 - 1
+49516,21,1938-12-17,Huddersfield Town,Preston North End,3 - 0
+49517,21,1938-12-17,Portsmouth,Chelsea,2 - 1
+49518,21,1938-12-17,Sunderland,Liverpool,2 - 3
+49519,21,1938-12-17,Wolverhampton Wanderers,Bolton Wanderers,1 - 1
+49553,21,1938-12-24,Aston Villa,Grimsby Town,0 - 2
+49554,22,1938-12-24,Charlton Athletic,Bolton Wanderers,2 - 1
+49555,22,1938-12-24,Chelsea,Liverpool,4 - 1
+49556,22,1938-12-24,Everton,Blackpool,4 - 0
+49557,22,1938-12-24,Huddersfield Town,Brentford,1 - 2
+49558,22,1938-12-24,Manchester United,Middlesbrough,1 - 1
+49559,22,1938-12-24,Portsmouth,Arsenal,0 - 0
+49560,22,1938-12-24,Preston North End,Leeds United,2 - 0
+49561,22,1938-12-24,Stoke City,Leicester City,1 - 0
+49562,22,1938-12-24,Sunderland,Birmingham City,1 - 0
+49563,22,1938-12-24,Wolverhampton Wanderers,Derby County,0 - 0
+49595,22,1938-12-26,Birmingham City,Middlesbrough,2 - 1
+49596,23,1938-12-26,Blackpool,Huddersfield Town,1 - 1
+49597,23,1938-12-26,Charlton Athletic,Arsenal,1 - 0
+49598,23,1938-12-26,Everton,Derby County,2 - 2
+49599,23,1938-12-26,Grimsby Town,Wolverhampton Wanderers,2 - 4
+49600,23,1938-12-26,Leeds United,Chelsea,1 - 1
+49601,23,1938-12-26,Manchester United,Leicester City,3 - 0
+49602,23,1938-12-26,Stoke City,Liverpool,3 - 1
+49603,23,1938-12-26,Sunderland,Aston Villa,1 - 5
+49629,23,1938-12-27,Aston Villa,Sunderland,1 - 1
+49630,24,1938-12-27,Chelsea,Leeds United,2 - 2
+49631,24,1938-12-27,Derby County,Everton,2 - 1
+49632,24,1938-12-27,Huddersfield Town,Blackpool,3 - 0
+49633,24,1938-12-27,Leicester City,Manchester United,1 - 1
+49634,24,1938-12-27,Liverpool,Stoke City,1 - 0
+49635,24,1938-12-27,Middlesbrough,Birmingham City,2 - 2
+49636,24,1938-12-27,Portsmouth,Brentford,2 - 2
+49637,24,1938-12-27,Preston North End,Bolton Wanderers,2 - 2
+49638,24,1938-12-27,Wolverhampton Wanderers,Grimsby Town,5 - 0
+49672,24,1938-12-31,Arsenal,Huddersfield Town,1 - 0
+49673,24,1938-12-31,Birmingham City,Manchester United,3 - 3
+49674,25,1938-12-31,Blackpool,Wolverhampton Wanderers,1 - 0
+49675,25,1938-12-31,Bolton Wanderers,Portsmouth,5 - 1
+49676,25,1938-12-31,Brentford,Everton,2 - 0
+49677,25,1938-12-31,Derby County,Aston Villa,2 - 1
+49678,25,1938-12-31,Grimsby Town,Sunderland,1 - 3
+49679,25,1938-12-31,Leeds United,Charlton Athletic,2 - 1
+49680,25,1938-12-31,Leicester City,Chelsea,3 - 2
+49681,25,1938-12-31,Liverpool,Preston North End,4 - 1
+49682,25,1938-12-31,Middlesbrough,Stoke City,5 - 1
+49716,25,1939-01-02,Bolton Wanderers,Stoke City,1 - 3
+49717,26,1939-01-02,Middlesbrough,Liverpool,3 - 0
+49737,26,1939-01-14,Aston Villa,Blackpool,3 - 1
+49738,26,1939-01-14,Bolton Wanderers,Leeds United,2 - 2
+49739,27,1939-01-14,Charlton Athletic,Liverpool,1 - 3
+49740,27,1939-01-14,Chelsea,Middlesbrough,4 - 2
+49741,27,1939-01-14,Everton,Arsenal,2 - 0
+49742,27,1939-01-14,Huddersfield Town,Portsmouth,3 - 0
+49743,27,1939-01-14,Manchester United,Grimsby Town,3 - 1
+49744,27,1939-01-14,Preston North End,Leicester City,2 - 1
+49745,27,1939-01-14,Stoke City,Birmingham City,6 - 3
+49746,27,1939-01-14,Sunderland,Derby County,1 - 0
+49747,27,1939-01-14,Wolverhampton Wanderers,Brentford,5 - 2
+49782,27,1939-01-21,Arsenal,Charlton Athletic,2 - 0
+49783,28,1939-01-21,Manchester United,Stoke City,0 - 1
+49804,28,1939-01-25,Blackpool,Sunderland,1 - 1
+49805,28,1939-01-25,Liverpool,Bolton Wanderers,1 - 2
+49806,28,1939-01-25,Middlesbrough,Preston North End,2 - 2
+49809,28,1939-01-28,Aston Villa,Arsenal,1 - 3
+49810,28,1939-01-28,Bolton Wanderers,Leicester City,4 - 0
+49811,29,1939-01-28,Charlton Athletic,Middlesbrough,3 - 0
+49812,29,1939-01-28,Chelsea,Manchester United,0 - 1
+49813,29,1939-01-28,Everton,Huddersfield Town,3 - 2
+49814,29,1939-01-28,Grimsby Town,Blackpool,2 - 0
+49815,29,1939-01-28,Leeds United,Liverpool,1 - 1
+49816,29,1939-01-28,Preston North End,Birmingham City,5 - 0
+49817,29,1939-01-28,Stoke City,Derby County,3 - 0
+49818,29,1939-01-28,Sunderland,Brentford,1 - 1
+49819,29,1939-01-28,Wolverhampton Wanderers,Portsmouth,3 - 0
+49852,29,1939-02-01,Arsenal,Wolverhampton Wanderers,0 - 0
+49853,29,1939-02-01,Derby County,Grimsby Town,4 - 1
+49854,30,1939-02-01,Portsmouth,Everton,0 - 1
+49860,30,1939-02-04,Arsenal,Sunderland,2 - 0
+49861,30,1939-02-04,Birmingham City,Charlton Athletic,3 - 4
+49862,30,1939-02-04,Blackpool,Derby County,2 - 2
+49863,30,1939-02-04,Brentford,Grimsby Town,1 - 2
+49864,30,1939-02-04,Huddersfield Town,Wolverhampton Wanderers,1 - 2
+49865,30,1939-02-04,Leicester City,Leeds United,2 - 0
+49866,30,1939-02-04,Liverpool,Everton,0 - 3
+49867,30,1939-02-04,Manchester United,Preston North End,1 - 1
+49868,30,1939-02-04,Middlesbrough,Bolton Wanderers,1 - 2
+49869,30,1939-02-04,Portsmouth,Aston Villa,0 - 0
+49870,31,1939-02-04,Stoke City,Chelsea,6 - 1
+49904,31,1939-02-08,Brentford,Aston Villa,2 - 4
+49907,31,1939-02-09,Leicester City,Charlton Athletic,1 - 5
+49908,31,1939-02-11,Charlton Athletic,Manchester United,7 - 1
+49909,32,1939-02-11,Derby County,Brentford,1 - 2
+49910,32,1939-02-11,Leeds United,Middlesbrough,0 - 1
+49940,32,1939-02-15,Aston Villa,Huddersfield Town,4 - 0
+49941,32,1939-02-15,Preston North End,Stoke City,1 - 1
+49946,32,1939-02-18,Arsenal,Chelsea,1 - 0
+49947,32,1939-02-18,Aston Villa,Liverpool,2 - 0
+49948,33,1939-02-18,Blackpool,Manchester United,3 - 5
+49949,33,1939-02-18,Brentford,Stoke City,1 - 0
+49950,33,1939-02-18,Derby County,Birmingham City,0 - 1
+49951,33,1939-02-18,Everton,Bolton Wanderers,2 - 1
+49952,33,1939-02-18,Grimsby Town,Middlesbrough,0 - 2
+49953,33,1939-02-18,Huddersfield Town,Charlton Athletic,4 - 0
+49954,33,1939-02-18,Portsmouth,Preston North End,0 - 0
+49955,33,1939-02-18,Sunderland,Leicester City,2 - 0
+49956,33,1939-02-18,Wolverhampton Wanderers,Leeds United,4 - 1
+49990,33,1939-02-21,Grimsby Town,Arsenal,2 - 1
+49991,34,1939-02-22,Bolton Wanderers,Birmingham City,3 - 0
+49992,34,1939-02-22,Brentford,Portsmouth,2 - 0
+49993,34,1939-02-22,Wolverhampton Wanderers,Everton,7 - 0
+49994,34,1939-02-25,Birmingham City,Grimsby Town,1 - 1
+49995,35,1939-02-25,Bolton Wanderers,Huddersfield Town,3 - 2
+49996,35,1939-02-25,Charlton Athletic,Portsmouth,3 - 3
+49997,35,1939-02-25,Chelsea,Brentford,1 - 3
+49998,35,1939-02-25,Leeds United,Everton,1 - 2
+49999,35,1939-02-25,Leicester City,Aston Villa,1 - 1
+50000,35,1939-02-25,Liverpool,Wolverhampton Wanderers,0 - 2
+50001,35,1939-02-25,Manchester United,Derby County,1 - 1
+50002,35,1939-02-25,Middlesbrough,Sunderland,3 - 0
+50003,35,1939-02-25,Preston North End,Arsenal,2 - 1
+50004,35,1939-02-25,Stoke City,Blackpool,1 - 1
+50040,35,1939-03-04,Arsenal,Bolton Wanderers,3 - 1
+50041,36,1939-03-04,Aston Villa,Birmingham City,5 - 1
+50042,36,1939-03-04,Brentford,Charlton Athletic,1 - 0
+50043,36,1939-03-04,Liverpool,Leicester City,1 - 1
+50044,36,1939-03-04,Sunderland,Manchester United,5 - 2
+50077,36,1939-03-07,Grimsby Town,Stoke City,3 - 1
+50078,36,1939-03-08,Blackpool,Preston North End,2 - 1
+50079,36,1939-03-08,Derby County,Chelsea,0 - 1
+50080,36,1939-03-08,Everton,Leicester City,4 - 0
+50081,36,1939-03-08,Portsmouth,Leeds United,2 - 0
+50082,36,1939-03-08,Wolverhampton Wanderers,Middlesbrough,6 - 1
+50085,36,1939-03-11,Birmingham City,Wolverhampton Wanderers,3 - 2
+50086,37,1939-03-11,Bolton Wanderers,Brentford,1 - 1
+50087,37,1939-03-11,Charlton Athletic,Blackpool,3 - 1
+50088,37,1939-03-11,Chelsea,Grimsby Town,5 - 1
+50089,37,1939-03-11,Leeds United,Arsenal,4 - 2
+50090,37,1939-03-11,Leicester City,Huddersfield Town,0 - 1
+50091,37,1939-03-11,Liverpool,Portsmouth,4 - 4
+50092,37,1939-03-11,Manchester United,Aston Villa,1 - 1
+50093,37,1939-03-11,Middlesbrough,Everton,4 - 4
+50094,37,1939-03-11,Preston North End,Derby County,4 - 1
+50095,37,1939-03-11,Stoke City,Sunderland,3 - 1
+50128,37,1939-03-15,Chelsea,Blackpool,1 - 1
+50129,38,1939-03-15,Huddersfield Town,Liverpool,1 - 1
+50130,38,1939-03-15,Sunderland,Portsmouth,0 - 2
+50135,38,1939-03-18,Arsenal,Liverpool,2 - 0
+50136,38,1939-03-18,Aston Villa,Stoke City,3 - 0
+50137,38,1939-03-18,Blackpool,Bolton Wanderers,0 - 0
+50138,39,1939-03-18,Brentford,Leeds United,0 - 1
+50139,39,1939-03-18,Derby County,Charlton Athletic,3 - 1
+50140,39,1939-03-18,Everton,Birmingham City,4 - 2
+50141,39,1939-03-18,Grimsby Town,Preston North End,1 - 1
+50142,39,1939-03-18,Huddersfield Town,Middlesbrough,0 - 1
+50143,39,1939-03-18,Portsmouth,Leicester City,0 - 1
+50144,39,1939-03-18,Sunderland,Chelsea,3 - 2
+50145,39,1939-03-18,Wolverhampton Wanderers,Manchester United,3 - 0
+50181,39,1939-03-25,Bolton Wanderers,Derby County,2 - 1
+50182,40,1939-03-25,Chelsea,Aston Villa,2 - 1
+50183,40,1939-03-25,Leeds United,Blackpool,1 - 0
+50184,40,1939-03-25,Leicester City,Arsenal,0 - 2
+50185,40,1939-03-25,Liverpool,Brentford,1 - 0
+50186,40,1939-03-25,Preston North End,Sunderland,2 - 1
+50221,40,1939-03-29,Birmingham City,Huddersfield Town,1 - 1
+50222,40,1939-03-29,Charlton Athletic,Grimsby Town,3 - 1
+50223,40,1939-03-29,Manchester United,Everton,0 - 2
+50224,40,1939-03-29,Middlesbrough,Portsmouth,8 - 2
+50225,40,1939-03-29,Stoke City,Wolverhampton Wanderers,5 - 3
+50227,40,1939-04-01,Arsenal,Middlesbrough,1 - 2
+50228,41,1939-04-01,Aston Villa,Preston North End,3 - 0
+50229,41,1939-04-01,Blackpool,Liverpool,1 - 1
+50230,41,1939-04-01,Brentford,Leicester City,2 - 0
+50231,41,1939-04-01,Derby County,Leeds United,1 - 0
+50232,41,1939-04-01,Everton,Stoke City,1 - 1
+50233,41,1939-04-01,Grimsby Town,Bolton Wanderers,1 - 1
+50234,41,1939-04-01,Huddersfield Town,Manchester United,1 - 1
+50235,41,1939-04-01,Portsmouth,Birmingham City,2 - 0
+50236,41,1939-04-01,Sunderland,Charlton Athletic,1 - 1
+50237,41,1939-04-01,Wolverhampton Wanderers,Chelsea,2 - 0
+50270,41,1939-04-07,Blackpool,Arsenal,1 - 0
+50271,42,1939-04-07,Brentford,Preston North End,3 - 1
+50272,42,1939-04-07,Charlton Athletic,Chelsea,2 - 0
+50273,42,1939-04-07,Grimsby Town,Huddersfield Town,3 - 3
+50274,42,1939-04-07,Liverpool,Birmingham City,4 - 0
+50275,42,1939-04-07,Manchester United,Leeds United,0 - 0
+50276,42,1939-04-07,Portsmouth,Derby County,1 - 3
+50277,42,1939-04-07,Sunderland,Everton,1 - 2
+50310,42,1939-04-08,Birmingham City,Arsenal,1 - 2
+50311,43,1939-04-08,Bolton Wanderers,Sunderland,2 - 1
+50312,43,1939-04-08,Charlton Athletic,Aston Villa,1 - 0
+50313,43,1939-04-08,Chelsea,Everton,0 - 2
+50314,43,1939-04-08,Leeds United,Grimsby Town,0 - 1
+50315,43,1939-04-08,Leicester City,Blackpool,3 - 4
+50316,43,1939-04-08,Liverpool,Derby County,2 - 1
+50317,43,1939-04-08,Manchester United,Portsmouth,1 - 1
+50318,43,1939-04-08,Middlesbrough,Brentford,3 - 1
+50319,43,1939-04-08,Preston North End,Wolverhampton Wanderers,4 - 2
+50320,43,1939-04-08,Stoke City,Huddersfield Town,2 - 2
+50354,43,1939-04-10,Arsenal,Blackpool,2 - 1
+50355,44,1939-04-10,Birmingham City,Liverpool,0 - 0
+50356,44,1939-04-10,Chelsea,Charlton Athletic,1 - 3
+50357,44,1939-04-10,Derby County,Portsmouth,0 - 1
+50358,44,1939-04-10,Everton,Sunderland,6 - 2
+50359,44,1939-04-10,Leeds United,Manchester United,3 - 1
+50360,44,1939-04-10,Middlesbrough,Leicester City,3 - 2
+50361,44,1939-04-10,Preston North End,Brentford,2 - 0
+50362,44,1939-04-10,Stoke City,Bolton Wanderers,4 - 1
+50363,44,1939-04-10,Wolverhampton Wanderers,Aston Villa,2 - 1
+50394,44,1939-04-11,Aston Villa,Wolverhampton Wanderers,2 - 2
+50395,45,1939-04-11,Huddersfield Town,Grimsby Town,2 - 0
+50396,45,1939-04-11,Leicester City,Middlesbrough,5 - 3
+50400,45,1939-04-15,Arsenal,Manchester United,2 - 1
+50401,45,1939-04-15,Aston Villa,Bolton Wanderers,1 - 3
+50402,46,1939-04-15,Blackpool,Middlesbrough,4 - 0
+50403,46,1939-04-15,Brentford,Birmingham City,0 - 1
+50404,46,1939-04-15,Derby County,Leicester City,1 - 1
+50405,46,1939-04-15,Everton,Preston North End,0 - 0
+50406,46,1939-04-15,Grimsby Town,Liverpool,2 - 1
+50407,46,1939-04-15,Huddersfield Town,Chelsea,3 - 1
+50408,46,1939-04-15,Portsmouth,Stoke City,2 - 0
+50409,46,1939-04-15,Sunderland,Leeds United,2 - 1
+50410,46,1939-04-15,Wolverhampton Wanderers,Charlton Athletic,3 - 1
+50450,46,1939-04-19,Leeds United,Huddersfield Town,2 - 1
+50451,47,1939-04-19,Portsmouth,Grimsby Town,2 - 1
+50456,47,1939-04-22,Birmingham City,Blackpool,2 - 1
+50457,47,1939-04-22,Bolton Wanderers,Wolverhampton Wanderers,0 - 0
+50458,47,1939-04-22,Charlton Athletic,Everton,2 - 1
+50459,47,1939-04-22,Chelsea,Portsmouth,1 - 0
+50460,47,1939-04-22,Leeds United,Aston Villa,2 - 0
+50461,48,1939-04-22,Leicester City,Grimsby Town,0 - 2
+50462,48,1939-04-22,Liverpool,Sunderland,1 - 1
+50463,48,1939-04-22,Manchester United,Brentford,3 - 0
+50464,48,1939-04-22,Middlesbrough,Derby County,2 - 0
+50465,48,1939-04-22,Preston North End,Huddersfield Town,3 - 0
+50466,48,1939-04-22,Stoke City,Arsenal,1 - 0
+50506,48,1939-04-26,Birmingham City,Chelsea,1 - 1
+50507,48,1939-04-26,Bolton Wanderers,Preston North End,0 - 2
+50513,48,1939-04-29,Birmingham City,Leeds United,4 - 0
+50514,49,1939-04-29,Bolton Wanderers,Manchester United,0 - 0
+50515,49,1939-04-29,Brentford,Blackpool,1 - 1
+50516,49,1939-04-29,Derby County,Arsenal,1 - 2
+50517,49,1939-04-29,Everton,Aston Villa,3 - 0
+50518,49,1939-04-29,Preston North End,Chelsea,1 - 1
+50519,49,1939-04-29,Stoke City,Charlton Athletic,1 - 0
+50520,49,1939-04-29,Sunderland,Huddersfield Town,0 - 0
+50554,49,1939-05-04,Leicester City,Wolverhampton Wanderers,0 - 2
+50555,49,1939-05-06,Arsenal,Brentford,2 - 0
+50556,50,1939-05-06,Aston Villa,Middlesbrough,1 - 1
+50557,50,1939-05-06,Blackpool,Portsmouth,2 - 1
+50558,50,1939-05-06,Charlton Athletic,Preston North End,3 - 1
+50559,50,1939-05-06,Chelsea,Bolton Wanderers,1 - 1
+50560,50,1939-05-06,Grimsby Town,Everton,3 - 0
+50561,50,1939-05-06,Leeds United,Stoke City,0 - 0
+50562,50,1939-05-06,Manchester United,Liverpool,2 - 0
+50563,50,1939-05-06,Wolverhampton Wanderers,Sunderland,0 - 0

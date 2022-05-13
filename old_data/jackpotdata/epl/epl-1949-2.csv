@@ -1,0 +1,463 @@
+,Round Number,Date,Home Team,Away Team,Result
+56139,0,1949-08-20,Barnsley,Chesterfield,1 - 2
+56140,0,1949-08-20,Blackburn Rovers,Cardiff City,1 - 0
+56141,0,1949-08-20,Brentford,Tottenham Hotspur,1 - 4
+56142,0,1949-08-20,Coventry City,Sheffield United,2 - 4
+56143,0,1949-08-20,Hull City,Bury,3 - 2
+56144,0,1949-08-20,Leeds United,Queens Park Rangers,1 - 1
+56145,0,1949-08-20,Luton Town,West Ham United,2 - 2
+56146,0,1949-08-20,Plymouth Argyle,Bradford Park Avenue,1 - 1
+56147,0,1949-08-20,Sheffield Wednesday,Leicester City,3 - 1
+56148,0,1949-08-20,Southampton,Grimsby Town,1 - 2
+56149,0,1949-08-20,Swansea City,Preston North End,2 - 1
+56174,0,1949-08-22,Blackburn Rovers,Hull City,4 - 2
+56175,1,1949-08-22,Cardiff City,Sheffield Wednesday,1 - 0
+56176,1,1949-08-22,Sheffield United,Swansea City,1 - 1
+56177,1,1949-08-22,Tottenham Hotspur,Plymouth Argyle,4 - 1
+56178,1,1949-08-22,West Ham United,Leeds United,3 - 1
+56195,1,1949-08-24,Barnsley,Southampton,2 - 1
+56196,1,1949-08-24,Bradford Park Avenue,Leicester City,2 - 2
+56197,1,1949-08-24,Chesterfield,Bury,2 - 1
+56198,1,1949-08-24,Luton Town,Coventry City,2 - 0
+56199,1,1949-08-24,Preston North End,Grimsby Town,2 - 0
+56200,1,1949-08-24,Queens Park Rangers,Brentford,3 - 3
+56227,1,1949-08-27,Bradford Park Avenue,Sheffield Wednesday,1 - 3
+56228,2,1949-08-27,Bury,Brentford,1 - 2
+56229,2,1949-08-27,Cardiff City,Swansea City,1 - 0
+56230,2,1949-08-27,Chesterfield,Plymouth Argyle,2 - 0
+56231,2,1949-08-27,Grimsby Town,Coventry City,3 - 2
+56232,2,1949-08-27,Leicester City,Hull City,1 - 2
+56233,2,1949-08-27,Preston North End,Leeds United,1 - 1
+56234,2,1949-08-27,Queens Park Rangers,Southampton,1 - 0
+56235,2,1949-08-27,Sheffield United,Luton Town,2 - 2
+56236,2,1949-08-27,Tottenham Hotspur,Blackburn Rovers,2 - 3
+56237,2,1949-08-27,West Ham United,Barnsley,2 - 1
+56261,2,1949-08-29,Coventry City,Luton Town,1 - 0
+56262,3,1949-08-29,Leicester City,Bradford Park Avenue,4 - 1
+56263,3,1949-08-29,Sheffield Wednesday,Cardiff City,1 - 1
+56283,3,1949-08-31,Brentford,Queens Park Rangers,0 - 2
+56284,3,1949-08-31,Grimsby Town,Preston North End,1 - 3
+56285,3,1949-08-31,Leeds United,West Ham United,2 - 2
+56286,3,1949-08-31,Plymouth Argyle,Tottenham Hotspur,0 - 2
+56287,3,1949-08-31,Southampton,Barnsley,0 - 0
+56296,3,1949-09-01,Hull City,Blackburn Rovers,3 - 1
+56297,3,1949-09-01,Swansea City,Sheffield United,1 - 0
+56314,3,1949-09-03,Barnsley,Sheffield United,2 - 2
+56315,4,1949-09-03,Blackburn Rovers,Bury,2 - 1
+56316,4,1949-09-03,Brentford,Leicester City,0 - 1
+56317,4,1949-09-03,Cardiff City,Tottenham Hotspur,0 - 1
+56318,4,1949-09-03,Coventry City,Queens Park Rangers,0 - 0
+56319,4,1949-09-03,Hull City,Bradford Park Avenue,3 - 3
+56320,4,1949-09-03,Leeds United,Swansea City,1 - 2
+56321,4,1949-09-03,Luton Town,Grimsby Town,0 - 0
+56322,4,1949-09-03,Plymouth Argyle,West Ham United,0 - 3
+56323,4,1949-09-03,Sheffield Wednesday,Chesterfield,4 - 2
+56324,4,1949-09-03,Southampton,Preston North End,1 - 0
+56351,4,1949-09-05,Cardiff City,Hull City,2 - 0
+56352,5,1949-09-05,Sheffield United,Leeds United,0 - 1
+56353,5,1949-09-05,Tottenham Hotspur,Sheffield Wednesday,1 - 0
+56354,5,1949-09-05,West Ham United,Southampton,1 - 2
+56373,5,1949-09-07,Barnsley,Coventry City,4 - 3
+56374,5,1949-09-07,Bradford Park Avenue,Luton Town,1 - 0
+56375,5,1949-09-07,Bury,Chesterfield,2 - 0
+56376,5,1949-09-07,Grimsby Town,Swansea City,2 - 1
+56377,5,1949-09-07,Queens Park Rangers,Preston North End,0 - 0
+56398,5,1949-09-10,Bradford Park Avenue,Brentford,0 - 2
+56399,6,1949-09-10,Bury,Cardiff City,2 - 2
+56400,6,1949-09-10,Chesterfield,Hull City,0 - 1
+56401,6,1949-09-10,Grimsby Town,Barnsley,2 - 2
+56402,6,1949-09-10,Leicester City,Blackburn Rovers,3 - 3
+56403,6,1949-09-10,Plymouth Argyle,Sheffield Wednesday,0 - 1
+56404,6,1949-09-10,Preston North End,Coventry City,1 - 1
+56405,6,1949-09-10,Queens Park Rangers,Luton Town,3 - 0
+56406,6,1949-09-10,Sheffield United,West Ham United,0 - 0
+56407,6,1949-09-10,Swansea City,Southampton,4 - 0
+56408,6,1949-09-10,Tottenham Hotspur,Leeds United,2 - 0
+56432,6,1949-09-12,Chesterfield,Leicester City,1 - 0
+56439,7,1949-09-14,Brentford,Blackburn Rovers,2 - 0
+56440,7,1949-09-14,Bury,Plymouth Argyle,5 - 1
+56441,7,1949-09-14,Leeds United,Sheffield United,0 - 1
+56442,7,1949-09-14,Preston North End,Queens Park Rangers,3 - 2
+56463,7,1949-09-17,Barnsley,Queens Park Rangers,3 - 1
+56464,7,1949-09-17,Blackburn Rovers,Bradford Park Avenue,0 - 1
+56465,8,1949-09-17,Brentford,Chesterfield,0 - 0
+56466,8,1949-09-17,Cardiff City,Leicester City,2 - 4
+56467,8,1949-09-17,Coventry City,Swansea City,1 - 2
+56468,8,1949-09-17,Hull City,Plymouth Argyle,4 - 2
+56469,8,1949-09-17,Luton Town,Preston North End,1 - 1
+56470,8,1949-09-17,Sheffield Wednesday,Sheffield United,2 - 1
+56471,8,1949-09-17,Southampton,Leeds United,2 - 1
+56472,8,1949-09-17,Tottenham Hotspur,Bury,3 - 1
+56473,8,1949-09-17,West Ham United,Grimsby Town,4 - 3
+56496,8,1949-09-19,Blackburn Rovers,Brentford,4 - 1
+56497,9,1949-09-19,Leicester City,Chesterfield,0 - 1
+56512,9,1949-09-24,Bradford Park Avenue,Cardiff City,3 - 3
+56513,9,1949-09-24,Bury,Southampton,1 - 1
+56514,9,1949-09-24,Chesterfield,Blackburn Rovers,2 - 1
+56515,10,1949-09-24,Grimsby Town,Sheffield United,4 - 0
+56516,10,1949-09-24,Leeds United,Coventry City,3 - 3
+56517,10,1949-09-24,Leicester City,Tottenham Hotspur,1 - 2
+56518,10,1949-09-24,Plymouth Argyle,Brentford,2 - 0
+56519,10,1949-09-24,Preston North End,Barnsley,1 - 1
+56520,10,1949-09-24,Queens Park Rangers,West Ham United,0 - 1
+56521,10,1949-09-24,Sheffield Wednesday,Hull City,6 - 2
+56522,10,1949-09-24,Swansea City,Luton Town,0 - 0
+56558,10,1949-10-01,Barnsley,Swansea City,5 - 2
+56559,11,1949-10-01,Blackburn Rovers,Plymouth Argyle,1 - 0
+56560,11,1949-10-01,Brentford,Sheffield Wednesday,1 - 1
+56561,11,1949-10-01,Bury,Leicester City,3 - 0
+56562,11,1949-10-01,Cardiff City,Chesterfield,2 - 0
+56563,11,1949-10-01,Coventry City,Southampton,1 - 2
+56564,11,1949-10-01,Hull City,Grimsby Town,2 - 2
+56565,11,1949-10-01,Luton Town,Leeds United,1 - 0
+56566,11,1949-10-01,Sheffield United,Queens Park Rangers,1 - 1
+56567,11,1949-10-01,Tottenham Hotspur,Bradford Park Avenue,5 - 0
+56568,11,1949-10-01,West Ham United,Preston North End,0 - 3
+56602,11,1949-10-08,Barnsley,Bradford Park Avenue,3 - 2
+56603,12,1949-10-08,Coventry City,Bury,1 - 2
+56604,12,1949-10-08,Grimsby Town,Sheffield Wednesday,4 - 1
+56605,12,1949-10-08,Leeds United,Cardiff City,2 - 0
+56606,12,1949-10-08,Luton Town,Leicester City,1 - 0
+56607,12,1949-10-08,Preston North End,Brentford,2 - 0
+56608,12,1949-10-08,Queens Park Rangers,Hull City,1 - 4
+56609,12,1949-10-08,Sheffield United,Plymouth Argyle,1 - 1
+56610,12,1949-10-08,Southampton,Tottenham Hotspur,1 - 1
+56611,12,1949-10-08,Swansea City,Blackburn Rovers,2 - 0
+56612,12,1949-10-08,West Ham United,Chesterfield,1 - 1
+56646,12,1949-10-15,Blackburn Rovers,Leeds United,0 - 1
+56647,13,1949-10-15,Bradford Park Avenue,West Ham United,2 - 1
+56648,13,1949-10-15,Brentford,Swansea City,0 - 0
+56649,13,1949-10-15,Bury,Luton Town,5 - 2
+56650,13,1949-10-15,Chesterfield,Sheffield United,0 - 1
+56651,13,1949-10-15,Hull City,Preston North End,4 - 2
+56652,13,1949-10-15,Leicester City,Barnsley,2 - 2
+56653,13,1949-10-15,Plymouth Argyle,Grimsby Town,4 - 2
+56654,13,1949-10-15,Sheffield Wednesday,Queens Park Rangers,1 - 0
+56655,13,1949-10-15,Tottenham Hotspur,Coventry City,3 - 1
+56689,13,1949-10-22,Barnsley,Bury,1 - 0
+56690,14,1949-10-22,Coventry City,Cardiff City,2 - 1
+56691,14,1949-10-22,Grimsby Town,Chesterfield,5 - 2
+56692,14,1949-10-22,Leeds United,Brentford,1 - 0
+56693,14,1949-10-22,Luton Town,Tottenham Hotspur,1 - 1
+56694,14,1949-10-22,Preston North End,Sheffield Wednesday,0 - 1
+56695,14,1949-10-22,Queens Park Rangers,Plymouth Argyle,0 - 2
+56696,14,1949-10-22,Sheffield United,Bradford Park Avenue,2 - 1
+56697,14,1949-10-22,Southampton,Blackburn Rovers,3 - 1
+56698,14,1949-10-22,Swansea City,Hull City,1 - 2
+56699,14,1949-10-22,West Ham United,Leicester City,2 - 2
+56733,14,1949-10-29,Blackburn Rovers,Coventry City,0 - 1
+56734,15,1949-10-29,Bradford Park Avenue,Grimsby Town,4 - 1
+56735,15,1949-10-29,Brentford,Southampton,0 - 1
+56736,15,1949-10-29,Bury,West Ham United,3 - 1
+56737,15,1949-10-29,Cardiff City,Luton Town,0 - 0
+56738,15,1949-10-29,Chesterfield,Queens Park Rangers,2 - 1
+56739,15,1949-10-29,Hull City,Leeds United,1 - 0
+56740,15,1949-10-29,Leicester City,Sheffield United,1 - 1
+56741,15,1949-10-29,Plymouth Argyle,Preston North End,1 - 0
+56742,15,1949-10-29,Sheffield Wednesday,Swansea City,3 - 0
+56743,15,1949-10-29,Tottenham Hotspur,Barnsley,2 - 0
+56777,15,1949-11-05,Barnsley,Cardiff City,1 - 0
+56778,16,1949-11-05,Coventry City,Brentford,1 - 1
+56779,16,1949-11-05,Grimsby Town,Leicester City,2 - 1
+56780,16,1949-11-05,Leeds United,Sheffield Wednesday,1 - 1
+56781,16,1949-11-05,Luton Town,Blackburn Rovers,5 - 2
+56782,16,1949-11-05,Preston North End,Chesterfield,0 - 0
+56783,16,1949-11-05,Queens Park Rangers,Bradford Park Avenue,0 - 1
+56784,16,1949-11-05,Sheffield United,Bury,4 - 4
+56785,16,1949-11-05,Southampton,Hull City,5 - 0
+56786,16,1949-11-05,Swansea City,Plymouth Argyle,2 - 2
+56787,16,1949-11-05,West Ham United,Tottenham Hotspur,0 - 1
+56821,16,1949-11-12,Blackburn Rovers,Barnsley,4 - 0
+56822,17,1949-11-12,Bradford Park Avenue,Preston North End,1 - 2
+56823,17,1949-11-12,Brentford,Luton Town,1 - 0
+56824,17,1949-11-12,Bury,Grimsby Town,3 - 1
+56825,17,1949-11-12,Cardiff City,West Ham United,0 - 1
+56826,17,1949-11-12,Chesterfield,Swansea City,4 - 1
+56827,17,1949-11-12,Hull City,Coventry City,2 - 1
+56828,17,1949-11-12,Leicester City,Queens Park Rangers,3 - 2
+56829,17,1949-11-12,Plymouth Argyle,Leeds United,1 - 2
+56830,17,1949-11-12,Sheffield Wednesday,Southampton,2 - 2
+56831,17,1949-11-12,Tottenham Hotspur,Sheffield United,7 - 0
+56863,17,1949-11-19,Barnsley,Brentford,0 - 1
+56864,18,1949-11-19,Grimsby Town,Tottenham Hotspur,2 - 3
+56865,18,1949-11-19,Leeds United,Chesterfield,0 - 0
+56866,18,1949-11-19,Luton Town,Hull City,0 - 3
+56867,18,1949-11-19,Preston North End,Leicester City,2 - 1
+56868,18,1949-11-19,Queens Park Rangers,Bury,1 - 0
+56869,18,1949-11-19,Sheffield United,Cardiff City,2 - 0
+56870,18,1949-11-19,Southampton,Plymouth Argyle,3 - 3
+56871,18,1949-11-19,Swansea City,Bradford Park Avenue,2 - 0
+56872,18,1949-11-19,West Ham United,Blackburn Rovers,0 - 2
+56904,18,1949-11-26,Blackburn Rovers,Sheffield United,0 - 2
+56905,19,1949-11-26,Bradford Park Avenue,Leeds United,1 - 2
+56906,19,1949-11-26,Brentford,West Ham United,0 - 2
+56907,19,1949-11-26,Bury,Preston North End,1 - 1
+56908,19,1949-11-26,Cardiff City,Grimsby Town,1 - 0
+56909,19,1949-11-26,Chesterfield,Southampton,0 - 0
+56910,19,1949-11-26,Hull City,Barnsley,2 - 0
+56911,19,1949-11-26,Leicester City,Swansea City,0 - 0
+56912,19,1949-11-26,Plymouth Argyle,Coventry City,1 - 2
+56913,19,1949-11-26,Sheffield Wednesday,Luton Town,1 - 1
+56914,19,1949-11-26,Tottenham Hotspur,Queens Park Rangers,3 - 0
+56926,19,1949-12-03,Barnsley,Sheffield Wednesday,3 - 4
+56927,20,1949-12-03,Coventry City,Chesterfield,3 - 0
+56928,20,1949-12-03,Grimsby Town,Blackburn Rovers,1 - 2
+56929,20,1949-12-03,Leeds United,Leicester City,1 - 1
+56930,20,1949-12-03,Luton Town,Plymouth Argyle,1 - 1
+56931,20,1949-12-03,Preston North End,Tottenham Hotspur,1 - 3
+56932,20,1949-12-03,Queens Park Rangers,Cardiff City,0 - 1
+56933,20,1949-12-03,Sheffield United,Brentford,1 - 1
+56934,20,1949-12-03,Southampton,Bradford Park Avenue,3 - 1
+56935,20,1949-12-03,Swansea City,Bury,1 - 2
+56936,20,1949-12-03,West Ham United,Hull City,2 - 1
+56970,20,1949-12-10,Blackburn Rovers,Queens Park Rangers,0 - 0
+56971,21,1949-12-10,Bradford Park Avenue,Coventry City,2 - 2
+56972,21,1949-12-10,Brentford,Grimsby Town,1 - 0
+56973,21,1949-12-10,Bury,Leeds United,2 - 0
+56974,21,1949-12-10,Cardiff City,Preston North End,3 - 2
+56975,21,1949-12-10,Chesterfield,Luton Town,0 - 1
+56976,21,1949-12-10,Hull City,Sheffield United,0 - 4
+56977,21,1949-12-10,Leicester City,Southampton,2 - 2
+56978,21,1949-12-10,Plymouth Argyle,Barnsley,2 - 2
+56979,21,1949-12-10,Sheffield Wednesday,West Ham United,2 - 1
+56980,21,1949-12-10,Tottenham Hotspur,Swansea City,3 - 1
+56992,21,1949-12-17,Bradford Park Avenue,Plymouth Argyle,3 - 2
+56993,22,1949-12-17,Bury,Hull City,0 - 0
+56994,22,1949-12-17,Cardiff City,Blackburn Rovers,2 - 1
+56995,22,1949-12-17,Chesterfield,Barnsley,1 - 0
+56996,22,1949-12-17,Grimsby Town,Southampton,1 - 1
+56997,22,1949-12-17,Leicester City,Sheffield Wednesday,2 - 2
+56998,22,1949-12-17,Preston North End,Swansea City,2 - 1
+56999,22,1949-12-17,Queens Park Rangers,Leeds United,1 - 1
+57000,22,1949-12-17,Sheffield United,Coventry City,1 - 1
+57001,22,1949-12-17,Tottenham Hotspur,Brentford,1 - 1
+57002,22,1949-12-17,West Ham United,Luton Town,0 - 0
+57036,22,1949-12-24,Barnsley,West Ham United,1 - 1
+57037,23,1949-12-24,Blackburn Rovers,Tottenham Hotspur,1 - 2
+57038,23,1949-12-24,Brentford,Bury,2 - 0
+57039,23,1949-12-24,Coventry City,Grimsby Town,1 - 1
+57040,23,1949-12-24,Hull City,Leicester City,4 - 0
+57041,23,1949-12-24,Leeds United,Preston North End,3 - 1
+57042,23,1949-12-24,Luton Town,Sheffield United,1 - 3
+57043,23,1949-12-24,Plymouth Argyle,Chesterfield,2 - 1
+57044,23,1949-12-24,Sheffield Wednesday,Bradford Park Avenue,1 - 1
+57045,23,1949-12-24,Southampton,Queens Park Rangers,1 - 2
+57046,23,1949-12-24,Swansea City,Cardiff City,5 - 1
+57079,23,1949-12-26,Barnsley,Leeds United,1 - 1
+57080,24,1949-12-26,Bradford Park Avenue,Bury,1 - 2
+57081,24,1949-12-26,Brentford,Hull City,3 - 1
+57082,24,1949-12-26,Grimsby Town,Queens Park Rangers,1 - 1
+57083,24,1949-12-26,Leicester City,Coventry City,1 - 0
+57084,24,1949-12-26,Luton Town,Southampton,1 - 1
+57085,24,1949-12-26,Plymouth Argyle,Cardiff City,0 - 0
+57086,24,1949-12-26,Preston North End,Sheffield United,4 - 1
+57087,24,1949-12-26,Sheffield Wednesday,Blackburn Rovers,2 - 0
+57088,24,1949-12-26,Tottenham Hotspur,Chesterfield,1 - 0
+57089,24,1949-12-26,West Ham United,Swansea City,3 - 0
+57123,24,1949-12-27,Blackburn Rovers,Sheffield Wednesday,0 - 0
+57124,25,1949-12-27,Bury,Bradford Park Avenue,1 - 0
+57125,25,1949-12-27,Cardiff City,Plymouth Argyle,1 - 0
+57126,25,1949-12-27,Chesterfield,Tottenham Hotspur,1 - 1
+57127,25,1949-12-27,Coventry City,Leicester City,1 - 2
+57128,25,1949-12-27,Hull City,Brentford,2 - 0
+57129,25,1949-12-27,Leeds United,Barnsley,1 - 0
+57130,25,1949-12-27,Queens Park Rangers,Grimsby Town,1 - 2
+57131,25,1949-12-27,Sheffield United,Preston North End,1 - 0
+57132,25,1949-12-27,Southampton,Luton Town,2 - 1
+57133,25,1949-12-27,Swansea City,West Ham United,1 - 0
+57167,25,1949-12-31,Bradford Park Avenue,Hull City,5 - 1
+57168,26,1949-12-31,Bury,Blackburn Rovers,3 - 0
+57169,26,1949-12-31,Chesterfield,Sheffield Wednesday,1 - 2
+57170,26,1949-12-31,Grimsby Town,Luton Town,6 - 1
+57171,26,1949-12-31,Leicester City,Brentford,1 - 1
+57172,26,1949-12-31,Preston North End,Southampton,0 - 3
+57173,26,1949-12-31,Queens Park Rangers,Coventry City,2 - 0
+57174,26,1949-12-31,Sheffield United,Barnsley,1 - 1
+57175,26,1949-12-31,Swansea City,Leeds United,1 - 2
+57176,26,1949-12-31,Tottenham Hotspur,Cardiff City,2 - 0
+57177,26,1949-12-31,West Ham United,Plymouth Argyle,2 - 2
+57213,26,1950-01-14,Barnsley,Grimsby Town,7 - 2
+57214,27,1950-01-14,Blackburn Rovers,Leicester City,3 - 0
+57215,27,1950-01-14,Brentford,Bradford Park Avenue,2 - 0
+57216,27,1950-01-14,Cardiff City,Bury,1 - 0
+57217,27,1950-01-14,Coventry City,Preston North End,0 - 0
+57218,27,1950-01-14,Hull City,Chesterfield,1 - 0
+57219,27,1950-01-14,Leeds United,Tottenham Hotspur,3 - 0
+57220,27,1950-01-14,Luton Town,Queens Park Rangers,1 - 2
+57221,27,1950-01-14,Sheffield Wednesday,Plymouth Argyle,2 - 4
+57222,27,1950-01-14,Southampton,Swansea City,1 - 2
+57223,27,1950-01-14,West Ham United,Sheffield United,0 - 0
+57257,27,1950-01-21,Bradford Park Avenue,Blackburn Rovers,2 - 2
+57258,28,1950-01-21,Bury,Tottenham Hotspur,1 - 2
+57259,28,1950-01-21,Chesterfield,Brentford,3 - 1
+57260,28,1950-01-21,Grimsby Town,West Ham United,2 - 0
+57261,28,1950-01-21,Leeds United,Southampton,1 - 0
+57262,28,1950-01-21,Leicester City,Cardiff City,1 - 0
+57263,28,1950-01-21,Plymouth Argyle,Hull City,1 - 3
+57264,28,1950-01-21,Preston North End,Luton Town,0 - 1
+57265,28,1950-01-21,Queens Park Rangers,Barnsley,0 - 5
+57266,28,1950-01-21,Sheffield United,Sheffield Wednesday,2 - 0
+57267,28,1950-01-21,Swansea City,Coventry City,1 - 2
+57314,28,1950-02-04,Barnsley,Preston North End,0 - 1
+57315,29,1950-02-04,Blackburn Rovers,Chesterfield,1 - 1
+57316,29,1950-02-04,Brentford,Plymouth Argyle,0 - 0
+57317,29,1950-02-04,Cardiff City,Bradford Park Avenue,1 - 2
+57318,29,1950-02-04,Coventry City,Leeds United,0 - 4
+57319,29,1950-02-04,Hull City,Sheffield Wednesday,1 - 1
+57320,29,1950-02-04,Luton Town,Swansea City,1 - 2
+57321,29,1950-02-04,Sheffield United,Grimsby Town,3 - 1
+57322,29,1950-02-04,Southampton,Bury,4 - 1
+57323,29,1950-02-04,Tottenham Hotspur,Leicester City,0 - 2
+57324,29,1950-02-04,West Ham United,Queens Park Rangers,1 - 0
+57346,29,1950-02-11,Coventry City,Sheffield Wednesday,3 - 0
+57347,30,1950-02-11,Leicester City,Plymouth Argyle,0 - 0
+57348,30,1950-02-11,Sheffield United,Southampton,0 - 1
+57377,30,1950-02-18,Bradford Park Avenue,Tottenham Hotspur,1 - 3
+57378,30,1950-02-18,Chesterfield,Cardiff City,0 - 1
+57379,30,1950-02-18,Grimsby Town,Hull City,1 - 0
+57380,30,1950-02-18,Leeds United,Luton Town,2 - 1
+57381,30,1950-02-18,Leicester City,Bury,0 - 2
+57382,31,1950-02-18,Plymouth Argyle,Blackburn Rovers,0 - 0
+57383,31,1950-02-18,Preston North End,West Ham United,2 - 1
+57384,31,1950-02-18,Queens Park Rangers,Sheffield United,1 - 3
+57385,31,1950-02-18,Sheffield Wednesday,Brentford,3 - 3
+57386,31,1950-02-18,Southampton,Coventry City,1 - 1
+57387,31,1950-02-18,Swansea City,Barnsley,4 - 0
+57421,31,1950-02-25,Blackburn Rovers,Swansea City,2 - 0
+57422,32,1950-02-25,Bradford Park Avenue,Barnsley,1 - 3
+57423,32,1950-02-25,Brentford,Preston North End,1 - 0
+57424,32,1950-02-25,Bury,Coventry City,0 - 0
+57425,32,1950-02-25,Cardiff City,Leeds United,1 - 0
+57426,32,1950-02-25,Chesterfield,West Ham United,1 - 0
+57427,32,1950-02-25,Hull City,Queens Park Rangers,1 - 1
+57428,32,1950-02-25,Leicester City,Luton Town,3 - 2
+57429,32,1950-02-25,Plymouth Argyle,Sheffield United,0 - 1
+57430,32,1950-02-25,Tottenham Hotspur,Southampton,4 - 0
+57458,32,1950-03-04,Barnsley,Leicester City,2 - 2
+57459,33,1950-03-04,Coventry City,Tottenham Hotspur,0 - 1
+57460,33,1950-03-04,Grimsby Town,Plymouth Argyle,2 - 2
+57461,33,1950-03-04,Luton Town,Bury,2 - 1
+57462,33,1950-03-04,Preston North End,Hull City,4 - 2
+57463,33,1950-03-04,Queens Park Rangers,Sheffield Wednesday,0 - 0
+57464,33,1950-03-04,Sheffield United,Chesterfield,1 - 0
+57465,33,1950-03-04,Southampton,Cardiff City,3 - 1
+57466,33,1950-03-04,Swansea City,Brentford,3 - 0
+57467,33,1950-03-04,West Ham United,Bradford Park Avenue,1 - 0
+57507,33,1950-03-11,Blackburn Rovers,Southampton,0 - 0
+57508,33,1950-03-11,Bradford Park Avenue,Sheffield United,1 - 1
+57509,34,1950-03-11,Brentford,Leeds United,0 - 0
+57510,34,1950-03-11,Bury,Barnsley,2 - 0
+57511,34,1950-03-11,Cardiff City,Coventry City,1 - 0
+57512,34,1950-03-11,Chesterfield,Grimsby Town,2 - 1
+57513,34,1950-03-11,Hull City,Swansea City,0 - 0
+57514,34,1950-03-11,Leicester City,West Ham United,2 - 1
+57515,34,1950-03-11,Plymouth Argyle,Queens Park Rangers,0 - 2
+57516,34,1950-03-11,Sheffield Wednesday,Preston North End,0 - 1
+57517,34,1950-03-11,Tottenham Hotspur,Luton Town,0 - 0
+57550,34,1950-03-18,Barnsley,Tottenham Hotspur,2 - 0
+57551,35,1950-03-18,Coventry City,Blackburn Rovers,1 - 1
+57552,35,1950-03-18,Grimsby Town,Bradford Park Avenue,4 - 0
+57553,35,1950-03-18,Leeds United,Hull City,3 - 0
+57554,35,1950-03-18,Luton Town,Cardiff City,0 - 0
+57555,35,1950-03-18,Preston North End,Plymouth Argyle,0 - 0
+57556,35,1950-03-18,Queens Park Rangers,Chesterfield,3 - 2
+57557,35,1950-03-18,Sheffield United,Leicester City,2 - 2
+57558,35,1950-03-18,Southampton,Brentford,2 - 3
+57559,35,1950-03-18,Swansea City,Sheffield Wednesday,1 - 2
+57560,35,1950-03-18,West Ham United,Bury,4 - 0
+57592,35,1950-03-25,Blackburn Rovers,Luton Town,0 - 0
+57593,36,1950-03-25,Bradford Park Avenue,Queens Park Rangers,1 - 0
+57594,36,1950-03-25,Brentford,Coventry City,2 - 0
+57595,36,1950-03-25,Bury,Sheffield United,1 - 5
+57596,36,1950-03-25,Cardiff City,Barnsley,3 - 0
+57597,36,1950-03-25,Chesterfield,Preston North End,2 - 0
+57598,36,1950-03-25,Hull City,Southampton,1 - 2
+57599,36,1950-03-25,Leicester City,Grimsby Town,1 - 0
+57600,36,1950-03-25,Plymouth Argyle,Swansea City,0 - 1
+57601,36,1950-03-25,Sheffield Wednesday,Leeds United,5 - 2
+57602,36,1950-03-25,Tottenham Hotspur,West Ham United,4 - 1
+57643,36,1950-04-01,Barnsley,Hull City,1 - 1
+57644,37,1950-04-01,Coventry City,Plymouth Argyle,3 - 0
+57645,37,1950-04-01,Grimsby Town,Cardiff City,0 - 0
+57646,37,1950-04-01,Leeds United,Bradford Park Avenue,0 - 0
+57647,37,1950-04-01,Luton Town,Sheffield Wednesday,0 - 0
+57648,37,1950-04-01,Preston North End,Bury,3 - 1
+57649,37,1950-04-01,Queens Park Rangers,Tottenham Hotspur,0 - 2
+57650,37,1950-04-01,Sheffield United,Blackburn Rovers,4 - 0
+57651,37,1950-04-01,Southampton,Chesterfield,1 - 0
+57652,37,1950-04-01,Swansea City,Leicester City,0 - 0
+57653,37,1950-04-01,West Ham United,Brentford,2 - 2
+57685,37,1950-04-07,Blackburn Rovers,Preston North End,2 - 3
+57686,38,1950-04-07,Brentford,Cardiff City,1 - 0
+57687,38,1950-04-07,Bury,Sheffield Wednesday,0 - 0
+57688,38,1950-04-07,Chesterfield,Bradford Park Avenue,1 - 1
+57689,38,1950-04-07,Grimsby Town,Leeds United,2 - 0
+57690,38,1950-04-07,Luton Town,Barnsley,3 - 1
+57691,38,1950-04-07,Queens Park Rangers,Swansea City,0 - 0
+57692,38,1950-04-07,Tottenham Hotspur,Hull City,0 - 0
+57725,38,1950-04-08,Blackburn Rovers,Grimsby Town,3 - 0
+57726,39,1950-04-08,Bradford Park Avenue,Southampton,0 - 0
+57727,39,1950-04-08,Brentford,Sheffield United,1 - 0
+57728,39,1950-04-08,Bury,Swansea City,1 - 1
+57729,39,1950-04-08,Cardiff City,Queens Park Rangers,4 - 0
+57730,39,1950-04-08,Chesterfield,Coventry City,0 - 1
+57731,39,1950-04-08,Hull City,West Ham United,2 - 2
+57732,39,1950-04-08,Leicester City,Leeds United,1 - 1
+57733,39,1950-04-08,Plymouth Argyle,Luton Town,0 - 0
+57734,39,1950-04-08,Sheffield Wednesday,Barnsley,2 - 0
+57735,39,1950-04-08,Tottenham Hotspur,Preston North End,3 - 2
+57767,39,1950-04-10,Barnsley,Luton Town,1 - 0
+57768,40,1950-04-10,Cardiff City,Brentford,0 - 0
+57769,40,1950-04-10,Hull City,Tottenham Hotspur,1 - 0
+57770,40,1950-04-10,Leeds United,Grimsby Town,1 - 0
+57771,40,1950-04-10,Plymouth Argyle,Leicester City,2 - 1
+57772,40,1950-04-10,Preston North End,Blackburn Rovers,3 - 1
+57773,40,1950-04-10,Sheffield Wednesday,Bury,1 - 0
+57774,40,1950-04-10,Southampton,Sheffield United,1 - 0
+57775,40,1950-04-10,Swansea City,Queens Park Rangers,0 - 1
+57776,40,1950-04-10,West Ham United,Coventry City,0 - 1
+57802,40,1950-04-11,Bradford Park Avenue,Chesterfield,2 - 0
+57803,40,1950-04-11,Coventry City,West Ham United,5 - 1
+57816,41,1950-04-15,Barnsley,Blackburn Rovers,1 - 1
+57817,41,1950-04-15,Coventry City,Hull City,2 - 0
+57818,42,1950-04-15,Grimsby Town,Bury,4 - 2
+57819,42,1950-04-15,Leeds United,Plymouth Argyle,1 - 1
+57820,42,1950-04-15,Luton Town,Brentford,1 - 0
+57821,42,1950-04-15,Preston North End,Bradford Park Avenue,3 - 0
+57822,42,1950-04-15,Queens Park Rangers,Leicester City,2 - 0
+57823,42,1950-04-15,Sheffield United,Tottenham Hotspur,2 - 1
+57824,42,1950-04-15,Southampton,Sheffield Wednesday,1 - 0
+57825,42,1950-04-15,Swansea City,Chesterfield,0 - 2
+57826,42,1950-04-15,West Ham United,Cardiff City,0 - 1
+57849,42,1950-04-17,Cardiff City,Southampton,1 - 1
+57863,43,1950-04-22,Blackburn Rovers,West Ham United,2 - 0
+57864,43,1950-04-22,Bradford Park Avenue,Swansea City,0 - 2
+57865,43,1950-04-22,Brentford,Barnsley,3 - 0
+57866,43,1950-04-22,Bury,Queens Park Rangers,0 - 0
+57867,43,1950-04-22,Cardiff City,Sheffield United,1 - 2
+57868,44,1950-04-22,Chesterfield,Leeds United,3 - 1
+57869,44,1950-04-22,Hull City,Luton Town,1 - 1
+57870,44,1950-04-22,Leicester City,Preston North End,1 - 0
+57871,44,1950-04-22,Plymouth Argyle,Southampton,0 - 0
+57872,44,1950-04-22,Sheffield Wednesday,Coventry City,1 - 1
+57873,44,1950-04-22,Tottenham Hotspur,Grimsby Town,1 - 2
+57898,44,1950-04-26,Leeds United,Blackburn Rovers,2 - 1
+57899,45,1950-04-26,Sheffield Wednesday,Grimsby Town,4 - 0
+57913,45,1950-04-29,Barnsley,Plymouth Argyle,4 - 1
+57914,45,1950-04-29,Coventry City,Bradford Park Avenue,3 - 1
+57915,45,1950-04-29,Grimsby Town,Brentford,4 - 1
+57916,46,1950-04-29,Leeds United,Bury,4 - 1
+57917,46,1950-04-29,Luton Town,Chesterfield,1 - 1
+57918,46,1950-04-29,Preston North End,Cardiff City,3 - 0
+57919,46,1950-04-29,Queens Park Rangers,Blackburn Rovers,2 - 3
+57920,46,1950-04-29,Sheffield United,Hull City,5 - 0
+57921,46,1950-04-29,Southampton,Leicester City,5 - 3
+57922,46,1950-04-29,Swansea City,Tottenham Hotspur,1 - 0
+57923,46,1950-04-29,West Ham United,Sheffield Wednesday,2 - 2
+57957,46,1950-05-06,Coventry City,Barnsley,1 - 1
+57958,46,1950-05-06,Hull City,Cardiff City,1 - 1
+57959,47,1950-05-06,Luton Town,Bradford Park Avenue,3 - 1
+57960,47,1950-05-06,Plymouth Argyle,Bury,2 - 0
+57961,47,1950-05-06,Sheffield Wednesday,Tottenham Hotspur,0 - 0
+57962,47,1950-05-06,Southampton,West Ham United,3 - 2
+57963,47,1950-05-06,Swansea City,Grimsby Town,2 - 1

@@ -1,0 +1,307 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,18/09/2020 19:00,Estádio Municipal 22 de Junho,FC Famalicão,SL Benfica,1 - 5
+2,1,18/09/2020 21:15,Estádio D. Afonso Henriques,Vitória SC,Belenenses SAD,0 - 1
+3,1,19/09/2020 16:00,Estádio da Madeira,CD Nacional,Boavista FC,3 - 3
+5,1,19/09/2020 21:00,Estádio do Dragão,FC Porto,SC Braga,3 - 1
+6,1,20/09/2020 15:00,Estádio de São Miguel,Santa Clara,Marítimo M.,2 - 0
+7,1,20/09/2020 18:30,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,SC Farense,2 - 0
+8,1,20/09/2020 21:00,Estádio João Cardoso,CD Tondela,Rio Ave FC,1 - 1
+9,1,21/09/2020 19:45,Estádio Municipal de Portimão,Portimonense,FC P.Ferreira,1 - 1
+10,2,25/09/2020 20:30,Estádio Municipal de Braga,SC Braga,Santa Clara,0 - 1
+11,2,26/09/2020 15:30,Estádio do Marítimo,Marítimo M.,CD Tondela,2 - 1
+12,2,26/09/2020 18:30,Estádio da Luz,SL Benfica,Moreirense FC,2 - 0
+13,2,26/09/2020 21:00,Estádio do Bessa,Boavista FC,FC Porto,0 - 5
+14,2,27/09/2020 15:30,Estádio de São Luís,SC Farense,CD Nacional,0 - 1
+15,2,27/09/2020 16:00,Estádio Cidade de Barcelos,Gil Vicente FC,Portimonense,1 - 0
+16,2,27/09/2020 18:30,Estádio Capital do Móvel,FC P.Ferreira,Sporting CP,0 - 2
+17,2,27/09/2020 21:00,Estádio dos Arcos,Rio Ave FC,Vitória SC,0 - 0
+18,2,28/09/2020 19:45,Estádio Nacional,Belenenses SAD,FC Famalicão,1 - 2
+19,3,02/10/2020 19:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Boavista FC,1 - 1
+20,3,02/10/2020 21:15,Estádio D. Afonso Henriques,Vitória SC,FC P.Ferreira,1 - 0
+21,3,03/10/2020 15:00,Estádio de São Miguel,Santa Clara,Gil Vicente FC,0 - 0
+22,3,03/10/2020 18:30,Estádio do Dragão,FC Porto,Marítimo M.,2 - 3
+23,3,03/10/2020 21:00,Estádio João Cardoso,CD Tondela,SC Braga,0 - 4
+24,3,04/10/2020 15:30,Estádio da Madeira,CD Nacional,Belenenses SAD,0 - 0
+25,3,04/10/2020 18:30,Estádio Municipal 22 de Junho,FC Famalicão,Rio Ave FC,1 - 1
+26,3,04/10/2020 18:30,Estádio da Luz,SL Benfica,SC Farense,3 - 2
+27,3,04/10/2020 21:00,Estádio Municipal de Portimão,Portimonense,Sporting CP,0 - 2
+28,4,17/10/2020 15:30,Estádio Cidade de Barcelos,Gil Vicente FC,CD Tondela,1 - 1
+33,4,17/10/2020 15:30,Estádio do Marítimo,Marítimo M.,Portimonense,1 - 2
+32,4,17/10/2020 18:00,Estádio Municipal de Braga,SC Braga,CD Nacional,2 - 1
+36,4,17/10/2020 20:30,Estádio José Alvalade,Sporting CP,FC Porto,2 - 2
+29,4,18/10/2020 15:00,Estádio Capital do Móvel,FC P.Ferreira,Santa Clara,2 - 1
+30,4,18/10/2020 15:00,Estádio Nacional,Belenenses SAD,Moreirense FC,0 - 0
+34,4,18/10/2020 17:30,Estádio de São Luís,SC Farense,FC Famalicão,3 - 3
+35,4,18/10/2020 20:00,Estádio dos Arcos,Rio Ave FC,SL Benfica,0 - 3
+31,4,19/10/2020 20:15,Estádio do Bessa,Boavista FC,Vitória SC,0 - 1
+45,5,23/10/2020 20:30,Estádio João Cardoso,CD Tondela,Portimonense,1 - 0
+38,5,24/10/2020 15:30,Estádio da Madeira,CD Nacional,FC P.Ferreira,1 - 1
+40,5,24/10/2020 17:00,Estádio de São Miguel,Santa Clara,Sporting CP,1 - 2
+43,5,24/10/2020 20:30,Estádio do Dragão,FC Porto,Gil Vicente FC,1 - 0
+42,5,25/10/2020 15:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Marítimo M.,2 - 1
+44,5,25/10/2020 15:00,Estádio de São Luís,SC Farense,Rio Ave FC,0 - 1
+37,5,25/10/2020 17:30,Estádio Municipal 22 de Junho,FC Famalicão,Boavista FC,2 - 2
+41,5,25/10/2020 20:00,Estádio D. Afonso Henriques,Vitória SC,SC Braga,0 - 1
+39,5,26/10/2020 20:15,Estádio da Luz,SL Benfica,Belenenses SAD,2 - 0
+4,5,28/10/2020 21:45,Estádio José Alvalade,Sporting CP,Gil Vicente FC,3 - 1
+47,6,30/10/2020 20:30,Estádio Capital do Móvel,FC P.Ferreira,FC Porto,3 - 2
+48,6,31/10/2020 15:30,Estádio Nacional,Belenenses SAD,SC Farense,1 - 1
+52,6,31/10/2020 18:00,Estádio dos Arcos,Rio Ave FC,Moreirense FC,2 - 0
+51,6,31/10/2020 20:30,Estádio do Marítimo,Marítimo M.,CD Nacional,0 - 0
+53,6,01/11/2020 15:00,Estádio Municipal de Portimão,Portimonense,Santa Clara,1 - 2
+46,6,01/11/2020 17:30,Estádio Cidade de Barcelos,Gil Vicente FC,Vitória SC,1 - 2
+54,6,01/11/2020 20:00,Estádio José Alvalade,Sporting CP,CD Tondela,4 - 0
+50,6,02/11/2020 18:45,Estádio Municipal de Braga,SC Braga,FC Famalicão,1 - 0
+49,6,02/11/2020 21:00,Estádio do Bessa,Boavista FC,SL Benfica,3 - 0
+57,7,06/11/2020 20:30,Estádio Nacional,Belenenses SAD,Rio Ave FC,0 - 0
+63,7,07/11/2020 15:00,Estádio João Cardoso,CD Tondela,Santa Clara,2 - 0
+55,7,07/11/2020 18:00,Estádio Municipal 22 de Junho,FC Famalicão,Marítimo M.,2 - 1
+59,7,07/11/2020 20:30,Estádio D. Afonso Henriques,Vitória SC,Sporting CP,0 - 4
+56,7,08/11/2020 15:00,Estádio da Madeira,CD Nacional,Gil Vicente FC,2 - 1
+62,7,08/11/2020 15:00,Estádio de São Luís,SC Farense,Boavista FC,3 - 1
+61,7,08/11/2020 17:30,Estádio do Dragão,FC Porto,Portimonense,3 - 1
+58,7,08/11/2020 20:00,Estádio da Luz,SL Benfica,SC Braga,2 - 3
+65,8,27/11/2020 19:00,Estádio Capital do Móvel,FC P.Ferreira,FC Famalicão,2 - 0
+72,8,27/11/2020 21:00,Estádio João Cardoso,CD Tondela,Vitória SC,0 - 2
+68,8,28/11/2020 17:00,Estádio de São Miguel,Santa Clara,FC Porto,0 - 1
+71,8,28/11/2020 20:30,Estádio José Alvalade,Sporting CP,Moreirense FC,2 - 1
+64,8,29/11/2020 15:00,Estádio Cidade de Barcelos,Gil Vicente FC,Rio Ave FC,2 - 0
+70,8,29/11/2020 15:00,Estádio Municipal de Portimão,Portimonense,CD Nacional,1 - 0
+66,8,29/11/2020 17:30,Estádio do Bessa,Boavista FC,Belenenses SAD,0 - 0
+67,8,29/11/2020 20:00,Estádio Municipal de Braga,SC Braga,SC Farense,1 - 0
+69,8,30/11/2020 19:00,Estádio do Marítimo,Marítimo M.,SL Benfica,1 - 2
+60,8,01/12/2020 21:45,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,FC P.Ferreira,0 - 1
+77,9,05/12/2020 15:30,Estádio D. Afonso Henriques,Vitória SC,Portimonense,1 - 0
+78,9,05/12/2020 15:30,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Gil Vicente FC,1 - 1
+73,9,05/12/2020 18:00,Estádio Municipal 22 de Junho,FC Famalicão,Sporting CP,2 - 2
+79,9,05/12/2020 20:30,Estádio do Dragão,FC Porto,CD Tondela,4 - 3
+74,9,06/12/2020 15:00,Estádio da Madeira,CD Nacional,Santa Clara,1 - 3
+81,9,06/12/2020 17:30,Estádio dos Arcos,Rio Ave FC,Boavista FC,0 - 0
+75,9,06/12/2020 20:00,Estádio Nacional,Belenenses SAD,SC Braga,2 - 1
+76,9,06/12/2020 20:00,Estádio da Luz,SL Benfica,FC P.Ferreira,2 - 1
+80,9,07/12/2020 20:15,Estádio de São Luís,SC Farense,Marítimo M.,2 - 1
+88,10,18/12/2020 20:30,Estádio Municipal de Portimão,Portimonense,FC Famalicão,0 - 0
+86,10,19/12/2020 15:00,Estádio do Marítimo,Marítimo M.,Belenenses SAD,1 - 0
+90,10,19/12/2020 18:00,Estádio João Cardoso,CD Tondela,Moreirense FC,0 - 0
+89,10,19/12/2020 20:30,Estádio José Alvalade,Sporting CP,SC Farense,1 - 0
+83,10,20/12/2020 15:00,Estádio Capital do Móvel,FC P.Ferreira,Boavista FC,1 - 1
+82,10,20/12/2020 17:30,Estádio Cidade de Barcelos,Gil Vicente FC,SL Benfica,0 - 2
+87,10,20/12/2020 20:00,Estádio do Dragão,FC Porto,CD Nacional,2 - 0
+85,10,21/12/2020 19:15,Estádio de São Miguel,Santa Clara,Vitória SC,0 - 4
+84,10,22/12/2020 20:15,Estádio Municipal de Braga,SC Braga,Rio Ave FC,3 - 0
+91,11,27/12/2020 15:00,Estádio Municipal 22 de Junho,FC Famalicão,Gil Vicente FC,0 - 1
+92,11,27/12/2020 15:00,Estádio da Madeira,CD Nacional,CD Tondela,2 - 0
+98,11,27/12/2020 17:30,Estádio de São Luís,SC Farense,FC P.Ferreira,1 - 1
+93,11,27/12/2020 20:00,Estádio Nacional,Belenenses SAD,Sporting CP,1 - 2
+99,11,28/12/2020 18:45,Estádio dos Arcos,Rio Ave FC,Marítimo M.,1 - 3
+95,11,28/12/2020 21:00,Estádio do Bessa,Boavista FC,SC Braga,1 - 4
+94,11,29/12/2020 18:00,Estádio da Luz,SL Benfica,Portimonense,2 - 1
+97,11,29/12/2020 18:45,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Santa Clara,1 - 0
+96,11,29/12/2020 21:00,Estádio D. Afonso Henriques,Vitória SC,FC Porto,2 - 3
+107,12,02/01/2021 18:00,Estádio José Alvalade,Sporting CP,SC Braga,2 - 0
+108,12,03/01/2021 13:00,Estádio João Cardoso,CD Tondela,FC Famalicão,1 - 0
+104,12,03/01/2021 15:00,Estádio do Marítimo,Marítimo M.,Boavista FC,0 - 0
+101,12,03/01/2021 19:00,Estádio Capital do Móvel,FC P.Ferreira,Rio Ave FC,2 - 0
+105,12,03/01/2021 21:00,Estádio do Dragão,FC Porto,Moreirense FC,3 - 0
+102,12,04/01/2021 16:00,Estádio de São Miguel,Santa Clara,SL Benfica,1 - 1
+100,12,04/01/2021 19:00,Estádio Cidade de Barcelos,Gil Vicente FC,Belenenses SAD,0 - 0
+106,12,04/01/2021 21:15,Estádio Municipal de Portimão,Portimonense,SC Farense,2 - 0
+114,13,07/01/2021 21:00,Estádio Municipal de Braga,SC Braga,Marítimo M.,2 - 1
+110,13,08/01/2021 18:00,Estádio da Madeira,CD Nacional,Sporting CP,0 - 2
+112,13,08/01/2021 19:00,Estádio da Luz,SL Benfica,CD Tondela,2 - 0
+117,13,08/01/2021 19:00,Estádio dos Arcos,Rio Ave FC,Portimonense,3 - 0
+109,13,08/01/2021 21:00,Estádio Municipal 22 de Junho,FC Famalicão,FC Porto,1 - 4
+115,13,09/01/2021 17:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Vitória SC,2 - 2
+113,13,09/01/2021 20:30,Estádio do Bessa,Boavista FC,Santa Clara,1 - 1
+116,13,10/01/2021 15:00,Estádio de São Luís,SC Farense,Gil Vicente FC,3 - 1
+111,13,10/01/2021 20:00,Estádio Nacional,Belenenses SAD,FC P.Ferreira,0 - 2
+125,14,15/01/2021 18:30,Estádio José Alvalade,Sporting CP,Rio Ave FC,1 - 1
+123,14,15/01/2021 21:00,Estádio do Dragão,FC Porto,SL Benfica,1 - 1
+119,14,16/01/2021 15:30,Estádio Capital do Móvel,FC P.Ferreira,SC Braga,2 - 0
+126,14,16/01/2021 20:30,Estádio João Cardoso,CD Tondela,Boavista FC,3 - 1
+120,14,17/01/2021 15:00,Estádio da Madeira,CD Nacional,Moreirense FC,0 - 1
+121,14,17/01/2021 16:30,Estádio de São Miguel,Santa Clara,FC Famalicão,1 - 2
+118,14,17/01/2021 20:00,Estádio Cidade de Barcelos,Gil Vicente FC,Marítimo M.,0 - 1
+124,14,18/01/2021 20:15,Estádio Municipal de Portimão,Portimonense,Belenenses SAD,1 - 0
+103,14,21/01/2021 20:15,Estádio D. Afonso Henriques,Vitória SC,CD Nacional,3 - 1
+132,15,24/01/2021 15:00,Estádio do Marítimo,Marítimo M.,FC P.Ferreira,0 - 3
+133,15,24/01/2021 17:30,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Portimonense,2 - 2
+127,15,24/01/2021 20:15,Estádio Municipal 22 de Junho,FC Famalicão,Vitória SC,0 - 1
+128,15,25/01/2021 14:30,Estádio Nacional,Belenenses SAD,CD Tondela,2 - 0
+135,15,25/01/2021 16:30,Estádio dos Arcos,Rio Ave FC,Santa Clara,1 - 2
+129,15,25/01/2021 17:00,Estádio da Luz,SL Benfica,CD Nacional,1 - 1
+134,15,25/01/2021 20:15,Estádio de São Luís,SC Farense,FC Porto,0 - 1
+131,15,26/01/2021 19:45,Estádio Municipal de Braga,SC Braga,Gil Vicente FC,1 - 0
+130,15,26/01/2021 21:15,Estádio do Bessa,Boavista FC,Sporting CP,0 - 2
+137,16,30/01/2021 15:30,Estádio da Madeira,CD Nacional,FC Famalicão,2 - 1
+144,16,30/01/2021 18:00,Estádio João Cardoso,CD Tondela,SC Farense,2 - 0
+142,16,30/01/2021 20:30,Estádio Municipal de Portimão,Portimonense,Boavista FC,1 - 2
+139,16,31/01/2021 15:00,Estádio D. Afonso Henriques,Vitória SC,Marítimo M.,1 - 0
+138,16,01/02/2021 16:00,Estádio de São Miguel,Santa Clara,Belenenses SAD,2 - 0
+141,16,01/02/2021 19:00,Estádio do Dragão,FC Porto,Rio Ave FC,2 - 0
+140,16,01/02/2021 19:45,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,SC Braga,0 - 4
+143,16,01/02/2021 21:30,Estádio José Alvalade,Sporting CP,SL Benfica,1 - 0
+136,16,02/02/2021 20:15,Estádio Cidade de Barcelos,Gil Vicente FC,FC P.Ferreira,1 - 2
+152,17,04/02/2021 15:00,Estádio de São Luís,SC Farense,Santa Clara,1 - 1
+147,17,04/02/2021 19:00,Estádio Nacional,Belenenses SAD,FC Porto,0 - 0
+150,17,04/02/2021 21:00,Estádio Municipal de Braga,SC Braga,Portimonense,2 - 1
+145,17,04/02/2021 21:30,Estádio Municipal 22 de Junho,FC Famalicão,Moreirense FC,0 - 2
+153,17,05/02/2021 17:00,Estádio dos Arcos,Rio Ave FC,CD Nacional,0 - 0
+148,17,05/02/2021 19:00,Estádio da Luz,SL Benfica,Vitória SC,0 - 0
+151,17,05/02/2021 19:00,Estádio do Marítimo,Marítimo M.,Sporting CP,0 - 2
+146,17,05/02/2021 21:00,Estádio Capital do Móvel,FC P.Ferreira,CD Tondela,2 - 1
+149,17,05/02/2021 21:00,Estádio do Bessa,Boavista FC,Gil Vicente FC,1 - 2
+159,18,07/02/2021 20:45,Estádio Municipal de Braga,SC Braga,FC Porto,2 - 2
+158,18,08/02/2021 17:00,Estádio de São Luís,SC Farense,Moreirense FC,1 - 2
+154,18,08/02/2021 19:00,Estádio da Luz,SL Benfica,FC Famalicão,2 - 0
+156,18,08/02/2021 19:00,Estádio do Marítimo,Marítimo M.,Santa Clara,1 - 2
+157,18,08/02/2021 21:00,Estádio Nacional,Belenenses SAD,Vitória SC,1 - 1
+160,18,09/02/2021 15:00,Estádio Capital do Móvel,FC P.Ferreira,Portimonense,0 - 0
+162,18,09/02/2021 17:00,Estádio dos Arcos,Rio Ave FC,CD Tondela,2 - 1
+155,18,09/02/2021 19:00,Estádio do Bessa,Boavista FC,CD Nacional,0 - 1
+161,18,09/02/2021 21:00,Estádio Cidade de Barcelos,Gil Vicente FC,Sporting CP,1 - 2
+165,19,12/02/2021 20:30,Estádio Municipal 22 de Junho,FC Famalicão,Belenenses SAD,0 - 0
+170,19,13/02/2021 15:30,Estádio da Madeira,CD Nacional,SC Farense,2 - 3
+171,19,13/02/2021 18:00,Estádio D. Afonso Henriques,Vitória SC,Rio Ave FC,1 - 3
+167,19,13/02/2021 20:30,Estádio do Dragão,FC Porto,Boavista FC,2 - 2
+163,19,14/02/2021 15:00,Estádio Municipal de Portimão,Portimonense,Gil Vicente FC,4 - 1
+168,19,14/02/2021 16:30,Estádio de São Miguel,Santa Clara,SC Braga,0 - 1
+166,19,14/02/2021 20:15,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,SL Benfica,1 - 1
+164,19,15/02/2021 20:15,Estádio José Alvalade,Sporting CP,FC P.Ferreira,2 - 0
+169,19,16/02/2021 17:45,Estádio João Cardoso,CD Tondela,Marítimo M.,2 - 1
+122,19,17/02/2021 21:45,Estádio D. Afonso Henriques,Vitória SC,SC Farense,2 - 2
+177,20,19/02/2021 20:30,Estádio do Bessa,Boavista FC,Moreirense FC,1 - 0
+173,20,20/02/2021 15:30,Estádio Nacional,Belenenses SAD,CD Nacional,2 - 1
+175,20,20/02/2021 17:30,Estádio Cidade de Barcelos,Gil Vicente FC,Santa Clara,1 - 0
+179,20,20/02/2021 20:30,Estádio José Alvalade,Sporting CP,Portimonense,2 - 0
+172,20,21/02/2021 15:00,Estádio dos Arcos,Rio Ave FC,FC Famalicão,0 - 1
+176,20,21/02/2021 15:00,Estádio Capital do Móvel,FC P.Ferreira,Vitória SC,2 - 1
+180,20,21/02/2021 18:00,Estádio Municipal de Braga,SC Braga,CD Tondela,4 - 2
+174,20,21/02/2021 20:15,Estádio de São Luís,SC Farense,SL Benfica,0 - 0
+178,20,22/02/2021 19:00,Estádio do Marítimo,Marítimo M.,FC Porto,1 - 2
+184,21,26/02/2021 20:30,Estádio D. Afonso Henriques,Vitória SC,Boavista FC,2 - 1
+187,21,27/02/2021 15:30,Estádio Municipal 22 de Junho,FC Famalicão,SC Farense,0 - 0
+182,21,27/02/2021 17:00,Estádio de São Miguel,Santa Clara,FC P.Ferreira,3 - 0
+189,21,27/02/2021 20:30,Estádio do Dragão,FC Porto,Sporting CP,0 - 0
+186,21,28/02/2021 15:00,Estádio Municipal de Portimão,Portimonense,Marítimo M.,0 - 0
+181,21,28/02/2021 17:30,Estádio João Cardoso,CD Tondela,Gil Vicente FC,1 - 0
+185,21,28/02/2021 20:00,Estádio da Madeira,CD Nacional,SC Braga,1 - 2
+188,21,01/03/2021 19:00,Estádio da Luz,SL Benfica,Rio Ave FC,2 - 0
+183,21,01/03/2021 20:15,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Belenenses SAD,2 - 2
+191,22,05/03/2021 18:30,Estádio Capital do Móvel,FC P.Ferreira,CD Nacional,2 - 1
+193,22,05/03/2021 20:45,Estádio José Alvalade,Sporting CP,Santa Clara,2 - 1
+198,22,06/03/2021 15:30,Estádio Municipal de Portimão,Portimonense,CD Tondela,3 - 0
+196,22,06/03/2021 18:00,Estádio Cidade de Barcelos,Gil Vicente FC,FC Porto,0 - 2
+190,22,06/03/2021 20:30,Estádio do Bessa,Boavista FC,FC Famalicão,3 - 0
+195,22,07/03/2021 17:30,Estádio do Marítimo,Marítimo M.,Moreirense FC,0 - 2
+197,22,07/03/2021 20:00,Estádio dos Arcos,Rio Ave FC,SC Farense,2 - 0
+192,22,08/03/2021 20:15,Estádio Nacional,Belenenses SAD,SL Benfica,0 - 3
+194,22,09/03/2021 21:45,Estádio Municipal de Braga,SC Braga,Vitória SC,3 - 0
+204,23,12/03/2021 20:30,Estádio da Madeira,CD Nacional,Marítimo M.,1 - 2
+201,23,13/03/2021 15:30,Estádio de São Luís,SC Farense,Belenenses SAD,0 - 1
+206,23,13/03/2021 17:00,Estádio de São Miguel,Santa Clara,Portimonense,2 - 0
+202,23,13/03/2021 18:00,Estádio da Luz,SL Benfica,Boavista FC,2 - 0
+207,23,13/03/2021 20:30,Estádio João Cardoso,CD Tondela,Sporting CP,0 - 1
+205,23,14/03/2021 15:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Rio Ave FC,1 - 1
+199,23,14/03/2021 17:30,Estádio D. Afonso Henriques,Vitória SC,Gil Vicente FC,2 - 4
+200,23,14/03/2021 20:00,Estádio do Dragão,FC Porto,FC P.Ferreira,2 - 0
+203,23,15/03/2021 20:15,Estádio Municipal 22 de Junho,FC Famalicão,SC Braga,2 - 2
+209,24,19/03/2021 20:30,Estádio Cidade de Barcelos,Gil Vicente FC,CD Nacional,2 - 0
+216,24,20/03/2021 14:30,Estádio de São Miguel,Santa Clara,CD Tondela,1 - 1
+213,24,20/03/2021 15:30,Estádio Capital do Móvel,FC P.Ferreira,Moreirense FC,3 - 0
+214,24,20/03/2021 18:00,Estádio Municipal de Portimão,Portimonense,FC Porto,1 - 2
+212,24,20/03/2021 20:30,Estádio José Alvalade,Sporting CP,Vitória SC,1 - 0
+210,24,21/03/2021 15:00,Estádio dos Arcos,Rio Ave FC,Belenenses SAD,0 - 0
+208,24,21/03/2021 17:30,Estádio do Marítimo,Marítimo M.,FC Famalicão,0 - 4
+215,24,21/03/2021 17:30,Estádio do Bessa,Boavista FC,SC Farense,0 - 1
+211,24,21/03/2021 20:00,Estádio Municipal de Braga,SC Braga,SL Benfica,0 - 2
+223,25,02/04/2021 20:30,Estádio da Madeira,CD Nacional,Portimonense,1 - 5
+217,25,03/04/2021 18:00,Estádio dos Arcos,Rio Ave FC,Gil Vicente FC,0 - 2
+221,25,03/04/2021 20:30,Estádio do Dragão,FC Porto,Santa Clara,2 - 1
+219,25,04/04/2021 15:00,Estádio Nacional,Belenenses SAD,Boavista FC,0 - 2
+225,25,04/04/2021 17:30,Estádio D. Afonso Henriques,Vitória SC,CD Tondela,1 - 2
+218,25,04/04/2021 20:00,Estádio Municipal 22 de Junho,FC Famalicão,FC P.Ferreira,2 - 0
+220,25,05/04/2021 18:45,Estádio de São Luís,SC Farense,SC Braga,1 - 2
+222,25,05/04/2021 19:00,Estádio da Luz,SL Benfica,Marítimo M.,1 - 0
+224,25,05/04/2021 21:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,Sporting CP,1 - 1
+230,26,09/04/2021 20:00,Estádio Municipal de Portimão,Portimonense,Vitória SC,3 - 0
+233,26,10/04/2021 15:00,Estádio do Marítimo,Marítimo M.,SC Farense,1 - 0
+234,26,10/04/2021 15:30,Estádio do Bessa,Boavista FC,Rio Ave FC,3 - 3
+232,26,10/04/2021 18:00,Estádio João Cardoso,CD Tondela,FC Porto,0 - 2
+229,26,10/04/2021 20:30,Estádio Capital do Móvel,FC P.Ferreira,SL Benfica,0 - 5
+227,26,11/04/2021 14:30,Estádio de São Miguel,Santa Clara,CD Nacional,5 - 1
+231,26,11/04/2021 15:00,Estádio Cidade de Barcelos,Gil Vicente FC,Moreirense FC,1 - 2
+228,26,11/04/2021 17:30,Estádio Municipal de Braga,SC Braga,Belenenses SAD,1 - 1
+226,26,11/04/2021 20:00,Estádio José Alvalade,Sporting CP,FC Famalicão,1 - 1
+236,27,16/04/2021 18:45,Estádio do Bessa,Boavista FC,FC P.Ferreira,2 - 0
+242,27,16/04/2021 21:00,Estádio de São Luís,SC Farense,Sporting CP,0 - 1
+238,27,17/04/2021 15:30,Estádio D. Afonso Henriques,Vitória SC,Santa Clara,1 - 0
+243,27,17/04/2021 15:30,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,CD Tondela,2 - 3
+235,27,17/04/2021 18:00,Estádio da Luz,SL Benfica,Gil Vicente FC,1 - 2
+239,27,17/04/2021 18:00,Estádio Nacional,Belenenses SAD,Marítimo M.,2 - 0
+237,27,17/04/2021 20:30,Estádio dos Arcos,Rio Ave FC,SC Braga,0 - 0
+241,27,18/04/2021 15:00,Estádio Municipal 22 de Junho,FC Famalicão,Portimonense,0 - 1
+240,27,18/04/2021 17:30,Estádio da Madeira,CD Nacional,FC Porto,0 - 1
+251,28,20/04/2021 20:00,Estádio Capital do Móvel,FC P.Ferreira,SC Farense,0 - 2
+250,28,21/04/2021 14:30,Estádio de São Miguel,Santa Clara,Moreirense FC,0 - 0
+252,28,21/04/2021 17:00,Estádio do Marítimo,Marítimo M.,Rio Ave FC,1 - 0
+248,28,21/04/2021 19:00,Estádio Municipal de Braga,SC Braga,Boavista FC,2 - 1
+246,28,21/04/2021 21:15,Estádio José Alvalade,Sporting CP,Belenenses SAD,2 - 2
+245,28,22/04/2021 15:00,Estádio João Cardoso,CD Tondela,CD Nacional,2 - 1
+244,28,22/04/2021 17:00,Estádio Cidade de Barcelos,Gil Vicente FC,FC Famalicão,0 - 3
+247,28,22/04/2021 19:00,Estádio Municipal de Portimão,Portimonense,SL Benfica,1 - 5
+249,28,22/04/2021 21:00,Estádio do Dragão,FC Porto,Vitória SC,1 - 0
+257,29,25/04/2021 15:00,Estádio do Bessa,Boavista FC,Marítimo M.,0 - 1
+254,29,25/04/2021 17:30,Estádio dos Arcos,Rio Ave FC,FC P.Ferreira,1 - 1
+260,29,25/04/2021 20:00,Estádio Municipal de Braga,SC Braga,Sporting CP,0 - 1
+253,29,26/04/2021 17:00,Estádio Nacional,Belenenses SAD,Gil Vicente FC,2 - 1
+255,29,26/04/2021 19:00,Estádio da Luz,SL Benfica,Santa Clara,2 - 1
+256,29,26/04/2021 19:00,Estádio da Madeira,CD Nacional,Vitória SC,1 - 0
+261,29,26/04/2021 19:00,Estádio Municipal 22 de Junho,FC Famalicão,CD Tondela,2 - 2
+258,29,26/04/2021 21:15,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,FC Porto,1 - 1
+259,29,27/04/2021 21:45,Estádio de São Luís,SC Farense,Portimonense,1 - 1
+267,30,29/04/2021 20:30,Estádio do Marítimo,Marítimo M.,SC Braga,1 - 0
+264,30,30/04/2021 15:00,Estádio Capital do Móvel,FC P.Ferreira,Belenenses SAD,1 - 0
+268,30,30/04/2021 17:00,Estádio D. Afonso Henriques,Vitória SC,Moreirense FC,2 - 0
+265,30,30/04/2021 19:00,Estádio João Cardoso,CD Tondela,SL Benfica,0 - 2
+262,30,30/04/2021 21:15,Estádio do Dragão,FC Porto,FC Famalicão,3 - 2
+269,30,01/05/2021 15:30,Estádio Cidade de Barcelos,Gil Vicente FC,SC Farense,0 - 0
+266,30,01/05/2021 17:00,Estádio de São Miguel,Santa Clara,Boavista FC,3 - 3
+270,30,01/05/2021 18:00,Estádio Municipal de Portimão,Portimonense,Rio Ave FC,0 - 0
+263,30,01/05/2021 20:30,Estádio José Alvalade,Sporting CP,CD Nacional,2 - 0
+271,31,05/05/2021 19:00,Estádio do Marítimo,Marítimo M.,Gil Vicente FC,0 - 1
+272,31,05/05/2021 19:00,Estádio Municipal de Braga,SC Braga,FC P.Ferreira,1 - 1
+278,31,05/05/2021 21:15,Estádio dos Arcos,Rio Ave FC,Sporting CP,0 - 2
+273,31,06/05/2021 15:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,CD Nacional,2 - 2
+277,31,06/05/2021 17:00,Estádio Nacional,Belenenses SAD,Portimonense,1 - 0
+276,31,06/05/2021 18:30,Estádio da Luz,SL Benfica,FC Porto,1 - 1
+275,31,06/05/2021 20:30,Estádio de São Luís,SC Farense,Vitória SC,2 - 2
+274,31,07/05/2021 19:00,Estádio Municipal 22 de Junho,FC Famalicão,Santa Clara,1 - 0
+279,31,07/05/2021 21:15,Estádio do Bessa,Boavista FC,CD Tondela,1 - 1
+285,32,09/05/2021 15:00,Estádio Capital do Móvel,FC P.Ferreira,Marítimo M.,1 - 1
+284,32,09/05/2021 20:00,Estádio Cidade de Barcelos,Gil Vicente FC,SC Braga,1 - 1
+286,32,10/05/2021 18:00,Estádio Municipal de Portimão,Portimonense,Moreirense FC,1 - 2
+287,32,10/05/2021 20:15,Estádio do Dragão,FC Porto,SC Farense,5 - 1
+288,32,11/05/2021 15:00,Estádio de São Miguel,Santa Clara,Rio Ave FC,1 - 0
+281,32,11/05/2021 16:00,Estádio João Cardoso,CD Tondela,Belenenses SAD,1 - 3
+282,32,11/05/2021 18:00,Estádio da Madeira,CD Nacional,SL Benfica,1 - 3
+283,32,11/05/2021 20:30,Estádio José Alvalade,Sporting CP,Boavista FC,1 - 0
+280,32,12/05/2021 20:15,Estádio D. Afonso Henriques,Vitória SC,FC Famalicão,1 - 2
+289,33,14/05/2021 19:00,Estádio Capital do Móvel,FC P.Ferreira,Gil Vicente FC,0 - 2
+293,33,14/05/2021 21:15,Estádio Municipal de Braga,SC Braga,Moreirense FC,2 - 1
+295,33,15/05/2021 15:30,Estádio do Bessa,Boavista FC,Portimonense,1 - 0
+297,33,15/05/2021 15:30,Estádio de São Luís,SC Farense,CD Tondela,1 - 0
+296,33,15/05/2021 18:00,Estádio da Luz,SL Benfica,Sporting CP,4 - 3
+294,33,15/05/2021 20:30,Estádio dos Arcos,Rio Ave FC,FC Porto,0 - 3
+290,33,16/05/2021 15:00,Estádio Municipal 22 de Junho,FC Famalicão,CD Nacional,3 - 0
+291,33,16/05/2021 17:00,Estádio Nacional,Belenenses SAD,Santa Clara,0 - 2
+292,33,16/05/2021 20:00,Estádio do Marítimo,Marítimo M.,Vitória SC,0 - 0
+299,34,18/05/2021 20:15,Estádio João Cardoso,CD Tondela,FC P.Ferreira,2 - 3
+300,34,19/05/2021 18:00,Estádio do Dragão,FC Porto,Belenenses SAD,4 - 0
+305,34,19/05/2021 19:00,Estádio de São Miguel,Santa Clara,SC Farense,4 - 0
+298,34,19/05/2021 20:00,Estádio Comendador Joaquim de Almeida Freitas,Moreirense FC,FC Famalicão,3 - 0
+301,34,19/05/2021 20:00,Estádio D. Afonso Henriques,Vitória SC,SL Benfica,1 - 3
+302,34,19/05/2021 20:00,Estádio Cidade de Barcelos,Gil Vicente FC,Boavista FC,1 - 2
+303,34,19/05/2021 20:00,Estádio Municipal de Portimão,Portimonense,SC Braga,0 - 0
+306,34,19/05/2021 20:00,Estádio da Madeira,CD Nacional,Rio Ave FC,1 - 2
+304,34,19/05/2021 21:45,Estádio José Alvalade,Sporting CP,Marítimo M.,5 - 1

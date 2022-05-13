@@ -1,0 +1,925 @@
+,Round Number,Date,Home Team,Away Team,Result
+37670,0,1932-08-27,Accrington Stanley,Halifax Town,4 - 1
+37671,0,1932-08-27,Crewe Alexandra,York City,1 - 0
+37672,0,1932-08-27,Gateshead,Doncaster Rovers,4 - 0
+37673,0,1932-08-27,Mansfield Town,Chester,1 - 0
+37674,0,1932-08-27,Rochdale,Carlisle United,0 - 1
+37675,0,1932-08-27,Rotherham United,New Brighton,1 - 0
+37676,0,1932-08-27,Southport,Barrow,3 - 0
+37677,0,1932-08-27,Stockport County,Darlington,5 - 1
+37678,0,1932-08-27,Tranmere Rovers,Hartlepool United,3 - 3
+37679,0,1932-08-27,Walsall,Hull City,1 - 0
+37680,0,1932-08-27,Wrexham,Barnsley,3 - 0
+37681,0,1932-08-27,AFC Bournemouth,Swindon Town,5 - 1
+37682,0,1932-08-27,Aldershot,Southend United,1 - 2
+37683,0,1932-08-27,Brighton & Hove Albion,Gillingham,1 - 0
+37684,0,1932-08-27,Bristol Rovers,Crystal Palace,2 - 3
+37685,0,1932-08-27,Exeter City,Bristol City,2 - 0
+37686,0,1932-08-27,Luton Town,Northampton Town,2 - 1
+37687,0,1932-08-27,Newport County,Leyton Orient,0 - 2
+37688,0,1932-08-27,Norwich City,Watford,1 - 2
+37689,0,1932-08-27,Queens Park Rangers,Brentford,2 - 3
+37690,0,1932-08-27,Reading,Cardiff City,4 - 2
+37691,0,1932-08-27,Torquay United,Coventry City,3 - 3
+37705,0,1932-08-29,Accrington Stanley,Rotherham United,5 - 1
+37706,1,1932-08-29,Barnsley,Tranmere Rovers,2 - 1
+37707,1,1932-08-29,Barrow,Rochdale,1 - 1
+37708,1,1932-08-29,Doncaster Rovers,Walsall,3 - 2
+37709,1,1932-08-29,Hull City,Wrexham,4 - 1
+37710,1,1932-08-29,Cardiff City,AFC Bournemouth,3 - 0
+37711,1,1932-08-29,Coventry City,Brentford,2 - 3
+37712,1,1932-08-29,Leyton Orient,Luton Town,0 - 0
+37713,1,1932-08-29,Northampton Town,Exeter City,5 - 3
+37714,1,1932-08-29,Southend United,Bristol Rovers,2 - 2
+37723,1,1932-08-31,Chester,Southport,1 - 1
+37724,1,1932-08-31,Darlington,Gateshead,1 - 3
+37725,1,1932-08-31,Halifax Town,Hartlepool United,4 - 0
+37726,1,1932-08-31,New Brighton,Mansfield Town,1 - 0
+37727,1,1932-08-31,York City,Stockport County,2 - 2
+37728,1,1932-08-31,Bristol City,Torquay United,2 - 0
+37729,1,1932-08-31,Crystal Palace,Brighton & Hove Albion,5 - 0
+37730,1,1932-08-31,Gillingham,Norwich City,0 - 2
+37731,1,1932-08-31,Swindon Town,Newport County,2 - 0
+37732,1,1932-08-31,Watford,Reading,1 - 1
+37733,1,1932-09-01,Carlisle United,Crewe Alexandra,2 - 0
+37734,1,1932-09-01,Queens Park Rangers,Aldershot,2 - 2
+37757,1,1932-09-03,Barnsley,Walsall,2 - 1
+37758,2,1932-09-03,Barrow,Mansfield Town,1 - 0
+37759,2,1932-09-03,Carlisle United,Southport,0 - 0
+37760,2,1932-09-03,Chester,Rotherham United,1 - 0
+37761,2,1932-09-03,Darlington,Crewe Alexandra,3 - 4
+37762,2,1932-09-03,Doncaster Rovers,Stockport County,1 - 1
+37763,2,1932-09-03,Halifax Town,Tranmere Rovers,4 - 1
+37764,2,1932-09-03,Hartlepool United,Wrexham,3 - 1
+37765,2,1932-09-03,Hull City,Gateshead,1 - 1
+37766,2,1932-09-03,New Brighton,Accrington Stanley,2 - 2
+37767,2,1932-09-03,York City,Rochdale,2 - 6
+37768,2,1932-09-03,Brentford,Torquay United,3 - 1
+37769,2,1932-09-03,Bristol City,Luton Town,5 - 2
+37770,2,1932-09-03,Cardiff City,Norwich City,4 - 2
+37771,2,1932-09-03,Coventry City,Exeter City,4 - 0
+37772,2,1932-09-03,Crystal Palace,Aldershot,3 - 0
+37773,2,1932-09-03,Gillingham,Bristol Rovers,2 - 0
+37774,2,1932-09-03,Leyton Orient,AFC Bournemouth,1 - 1
+37775,2,1932-09-03,Northampton Town,Newport County,8 - 0
+37776,2,1932-09-03,Southend United,Queens Park Rangers,0 - 1
+37777,2,1932-09-03,Swindon Town,Reading,0 - 1
+37778,2,1932-09-03,Watford,Brighton & Hove Albion,0 - 4
+37790,2,1932-09-05,Crewe Alexandra,Carlisle United,1 - 0
+37791,3,1932-09-05,Mansfield Town,New Brighton,5 - 0
+37792,3,1932-09-05,Rotherham United,Accrington Stanley,2 - 3
+37793,3,1932-09-05,Southport,Chester,2 - 1
+37794,3,1932-09-05,Stockport County,York City,2 - 0
+37795,3,1932-09-05,Tranmere Rovers,Barnsley,3 - 0
+37796,3,1932-09-05,Walsall,Doncaster Rovers,2 - 0
+37797,3,1932-09-05,Luton Town,Leyton Orient,4 - 1
+37798,3,1932-09-05,Newport County,Swindon Town,1 - 2
+37799,3,1932-09-05,Norwich City,Gillingham,2 - 0
+37801,3,1932-09-06,Rochdale,Barrow,0 - 0
+37808,3,1932-09-07,Gateshead,Darlington,3 - 0
+37809,3,1932-09-07,Hartlepool United,Halifax Town,1 - 1
+37810,3,1932-09-07,Wrexham,Hull City,3 - 1
+37811,3,1932-09-07,AFC Bournemouth,Cardiff City,3 - 2
+37812,3,1932-09-07,Aldershot,Queens Park Rangers,2 - 0
+37813,3,1932-09-07,Brighton & Hove Albion,Crystal Palace,1 - 2
+37814,3,1932-09-07,Bristol Rovers,Southend United,3 - 1
+37815,3,1932-09-07,Exeter City,Northampton Town,3 - 1
+37816,3,1932-09-07,Reading,Watford,2 - 0
+37817,3,1932-09-07,Torquay United,Bristol City,0 - 0
+37818,3,1932-09-08,Brentford,Coventry City,2 - 1
+37841,3,1932-09-10,Accrington Stanley,Chester,1 - 4
+37842,4,1932-09-10,Darlington,Doncaster Rovers,2 - 2
+37843,4,1932-09-10,Gateshead,Barnsley,1 - 1
+37844,4,1932-09-10,Mansfield Town,Carlisle United,3 - 1
+37845,4,1932-09-10,Rochdale,Crewe Alexandra,1 - 4
+37846,4,1932-09-10,Rotherham United,Barrow,1 - 0
+37847,4,1932-09-10,Southport,York City,5 - 1
+37848,4,1932-09-10,Stockport County,Hull City,3 - 5
+37849,4,1932-09-10,Tranmere Rovers,New Brighton,2 - 3
+37850,4,1932-09-10,Walsall,Hartlepool United,4 - 1
+37851,4,1932-09-10,Wrexham,Halifax Town,5 - 2
+37852,4,1932-09-10,AFC Bournemouth,Northampton Town,1 - 1
+37853,4,1932-09-10,Aldershot,Gillingham,3 - 0
+37854,4,1932-09-10,Brighton & Hove Albion,Cardiff City,1 - 0
+37855,4,1932-09-10,Bristol Rovers,Watford,2 - 0
+37856,4,1932-09-10,Exeter City,Brentford,1 - 2
+37857,4,1932-09-10,Luton Town,Coventry City,4 - 1
+37858,4,1932-09-10,Newport County,Bristol City,1 - 1
+37859,4,1932-09-10,Norwich City,Reading,2 - 2
+37860,4,1932-09-10,Queens Park Rangers,Crystal Palace,2 - 1
+37861,4,1932-09-10,Swindon Town,Leyton Orient,3 - 3
+37862,4,1932-09-10,Torquay United,Southend United,8 - 1
+37864,4,1932-09-14,Chester,Stockport County,2 - 2
+37865,5,1932-09-14,Southend United,Newport County,3 - 0
+37888,5,1932-09-17,Barnsley,Stockport County,2 - 2
+37889,5,1932-09-17,Barrow,Accrington Stanley,5 - 0
+37890,5,1932-09-17,Carlisle United,Rotherham United,0 - 0
+37891,5,1932-09-17,Chester,New Brighton,3 - 0
+37892,6,1932-09-17,Crewe Alexandra,Southport,1 - 1
+37893,6,1932-09-17,Doncaster Rovers,Rochdale,1 - 0
+37894,6,1932-09-17,Halifax Town,Walsall,4 - 0
+37895,6,1932-09-17,Hartlepool United,Gateshead,2 - 2
+37896,6,1932-09-17,Hull City,Darlington,3 - 1
+37897,6,1932-09-17,Wrexham,Tranmere Rovers,1 - 1
+37898,6,1932-09-17,York City,Mansfield Town,4 - 3
+37899,6,1932-09-17,Brentford,Luton Town,1 - 0
+37900,6,1932-09-17,Bristol City,AFC Bournemouth,1 - 1
+37901,6,1932-09-17,Cardiff City,Bristol Rovers,4 - 3
+37902,6,1932-09-17,Coventry City,Newport County,3 - 1
+37903,6,1932-09-17,Crystal Palace,Southend United,4 - 1
+37904,6,1932-09-17,Gillingham,Queens Park Rangers,4 - 1
+37905,6,1932-09-17,Leyton Orient,Norwich City,0 - 0
+37906,6,1932-09-17,Northampton Town,Swindon Town,6 - 0
+37907,6,1932-09-17,Reading,Brighton & Hove Albion,3 - 0
+37908,6,1932-09-17,Torquay United,Exeter City,1 - 3
+37909,6,1932-09-17,Watford,Aldershot,2 - 0
+37911,6,1932-09-21,Chester,Walsall,1 - 0
+37912,7,1932-09-22,Northampton Town,Brighton & Hove Albion,0 - 0
+37935,7,1932-09-24,Accrington Stanley,Carlisle United,3 - 1
+37936,7,1932-09-24,Darlington,Barnsley,1 - 1
+37937,7,1932-09-24,Doncaster Rovers,Hull City,1 - 1
+37938,7,1932-09-24,Gateshead,Halifax Town,3 - 0
+37939,7,1932-09-24,Mansfield Town,Crewe Alexandra,4 - 0
+37940,7,1932-09-24,New Brighton,Barrow,1 - 2
+37941,7,1932-09-24,Rotherham United,York City,1 - 0
+37942,7,1932-09-24,Southport,Rochdale,2 - 0
+37943,7,1932-09-24,Stockport County,Hartlepool United,6 - 2
+37944,7,1932-09-24,Walsall,Tranmere Rovers,3 - 2
+37945,8,1932-09-24,Wrexham,Chester,1 - 2
+37946,8,1932-09-24,AFC Bournemouth,Coventry City,3 - 1
+37947,8,1932-09-24,Aldershot,Cardiff City,1 - 0
+37948,8,1932-09-24,Brighton & Hove Albion,Norwich City,1 - 1
+37949,8,1932-09-24,Bristol Rovers,Reading,1 - 0
+37950,8,1932-09-24,Exeter City,Crystal Palace,1 - 1
+37951,8,1932-09-24,Leyton Orient,Northampton Town,2 - 2
+37952,8,1932-09-24,Luton Town,Torquay United,2 - 1
+37953,8,1932-09-24,Newport County,Brentford,1 - 6
+37954,8,1932-09-24,Queens Park Rangers,Watford,2 - 1
+37955,8,1932-09-24,Southend United,Gillingham,2 - 2
+37956,8,1932-09-24,Swindon Town,Bristol City,1 - 4
+37957,8,1932-09-27,Accrington Stanley,Southport,1 - 1
+37958,8,1932-09-29,Carlisle United,Stockport County,2 - 1
+37981,8,1932-10-01,Barnsley,Doncaster Rovers,2 - 3
+37982,8,1932-10-01,Barrow,Chester,2 - 3
+37983,8,1932-10-01,Carlisle United,New Brighton,1 - 3
+37984,9,1932-10-01,Crewe Alexandra,Rotherham United,8 - 0
+37985,9,1932-10-01,Halifax Town,Stockport County,1 - 3
+37986,9,1932-10-01,Hartlepool United,Darlington,2 - 1
+37987,9,1932-10-01,Hull City,Southport,4 - 0
+37988,9,1932-10-01,Rochdale,Mansfield Town,2 - 1
+37989,9,1932-10-01,Tranmere Rovers,Gateshead,4 - 2
+37990,9,1932-10-01,Wrexham,Walsall,3 - 0
+37991,9,1932-10-01,York City,Accrington Stanley,0 - 0
+37992,9,1932-10-01,Brentford,AFC Bournemouth,1 - 1
+37993,9,1932-10-01,Bristol City,Leyton Orient,3 - 0
+37994,9,1932-10-01,Cardiff City,Queens Park Rangers,2 - 5
+37995,9,1932-10-01,Coventry City,Swindon Town,2 - 1
+37996,9,1932-10-01,Exeter City,Luton Town,2 - 0
+37997,9,1932-10-01,Gillingham,Crystal Palace,2 - 0
+37998,9,1932-10-01,Norwich City,Bristol Rovers,1 - 1
+37999,9,1932-10-01,Reading,Aldershot,2 - 2
+38000,9,1932-10-01,Torquay United,Newport County,4 - 0
+38001,9,1932-10-01,Watford,Southend United,2 - 2
+38025,9,1932-10-08,Accrington Stanley,Crewe Alexandra,2 - 0
+38026,10,1932-10-08,Chester,Carlisle United,4 - 0
+38027,10,1932-10-08,Darlington,Halifax Town,2 - 1
+38028,10,1932-10-08,Doncaster Rovers,Hartlepool United,4 - 1
+38029,10,1932-10-08,Gateshead,Wrexham,4 - 4
+38030,10,1932-10-08,Hull City,Barnsley,5 - 1
+38031,10,1932-10-08,Mansfield Town,Southport,4 - 0
+38032,10,1932-10-08,New Brighton,York City,0 - 1
+38033,10,1932-10-08,Rotherham United,Rochdale,2 - 0
+38034,10,1932-10-08,Stockport County,Tranmere Rovers,3 - 0
+38035,10,1932-10-08,Walsall,Barrow,1 - 1
+38036,10,1932-10-08,AFC Bournemouth,Torquay United,1 - 2
+38037,10,1932-10-08,Aldershot,Norwich City,1 - 3
+38038,10,1932-10-08,Bristol Rovers,Brighton & Hove Albion,5 - 3
+38039,10,1932-10-08,Crystal Palace,Watford,0 - 3
+38040,10,1932-10-08,Leyton Orient,Coventry City,2 - 1
+38041,10,1932-10-08,Luton Town,Gillingham,2 - 1
+38042,10,1932-10-08,Newport County,Exeter City,1 - 1
+38043,10,1932-10-08,Northampton Town,Bristol City,2 - 1
+38044,10,1932-10-08,Queens Park Rangers,Reading,0 - 3
+38045,10,1932-10-08,Southend United,Cardiff City,2 - 2
+38046,10,1932-10-08,Swindon Town,Brentford,0 - 0
+38069,10,1932-10-15,Barnsley,Mansfield Town,6 - 2
+38070,11,1932-10-15,Carlisle United,Barrow,0 - 1
+38071,11,1932-10-15,Crewe Alexandra,New Brighton,4 - 0
+38072,11,1932-10-15,Halifax Town,Doncaster Rovers,0 - 0
+38073,11,1932-10-15,Hartlepool United,Hull City,0 - 1
+38074,11,1932-10-15,Rochdale,Accrington Stanley,2 - 0
+38075,11,1932-10-15,Southport,Rotherham United,2 - 0
+38076,11,1932-10-15,Tranmere Rovers,Darlington,3 - 1
+38077,11,1932-10-15,Walsall,Gateshead,2 - 0
+38078,11,1932-10-15,Wrexham,Stockport County,2 - 0
+38079,11,1932-10-15,York City,Chester,3 - 1
+38080,11,1932-10-15,Brentford,Leyton Orient,4 - 2
+38081,11,1932-10-15,Bristol City,Bristol Rovers,3 - 1
+38082,11,1932-10-15,Cardiff City,Crystal Palace,1 - 1
+38083,11,1932-10-15,Coventry City,Northampton Town,3 - 1
+38084,11,1932-10-15,Exeter City,AFC Bournemouth,2 - 3
+38085,11,1932-10-15,Luton Town,Newport County,2 - 2
+38086,11,1932-10-15,Norwich City,Queens Park Rangers,3 - 2
+38087,11,1932-10-15,Reading,Southend United,1 - 1
+38088,11,1932-10-15,Torquay United,Swindon Town,4 - 3
+38089,11,1932-10-15,Watford,Gillingham,2 - 0
+38090,11,1932-10-19,Brighton & Hove Albion,Aldershot,0 - 2
+38113,11,1932-10-22,Accrington Stanley,Hartlepool United,7 - 1
+38114,12,1932-10-22,Barrow,Wrexham,1 - 1
+38115,12,1932-10-22,Carlisle United,Walsall,1 - 1
+38116,12,1932-10-22,Chester,Tranmere Rovers,1 - 2
+38117,12,1932-10-22,Crewe Alexandra,Stockport County,2 - 1
+38118,12,1932-10-22,Mansfield Town,Hull City,2 - 1
+38119,12,1932-10-22,New Brighton,Halifax Town,0 - 3
+38120,12,1932-10-22,Rochdale,Darlington,1 - 1
+38121,12,1932-10-22,Rotherham United,Barnsley,0 - 0
+38122,12,1932-10-22,Southport,Doncaster Rovers,1 - 0
+38123,12,1932-10-22,York City,Gateshead,2 - 2
+38124,12,1932-10-22,Aldershot,Bristol City,1 - 0
+38125,12,1932-10-22,Brighton & Hove Albion,Leyton Orient,0 - 0
+38126,12,1932-10-22,Bristol Rovers,Northampton Town,4 - 3
+38127,12,1932-10-22,Cardiff City,Newport County,1 - 3
+38128,12,1932-10-22,Crystal Palace,Torquay United,2 - 1
+38129,12,1932-10-22,Gillingham,Exeter City,1 - 2
+38130,12,1932-10-22,Norwich City,Swindon Town,5 - 2
+38131,12,1932-10-22,Queens Park Rangers,Coventry City,3 - 3
+38132,12,1932-10-22,Reading,AFC Bournemouth,6 - 2
+38133,12,1932-10-22,Southend United,Brentford,0 - 1
+38134,12,1932-10-22,Watford,Luton Town,4 - 1
+38157,12,1932-10-29,Barnsley,Accrington Stanley,4 - 0
+38158,13,1932-10-29,Darlington,Southport,1 - 0
+38159,13,1932-10-29,Doncaster Rovers,Mansfield Town,2 - 2
+38160,13,1932-10-29,Gateshead,Crewe Alexandra,2 - 1
+38161,13,1932-10-29,Halifax Town,Chester,0 - 2
+38162,13,1932-10-29,Hartlepool United,New Brighton,3 - 2
+38163,13,1932-10-29,Hull City,Rotherham United,4 - 2
+38164,13,1932-10-29,Stockport County,Rochdale,2 - 3
+38165,13,1932-10-29,Tranmere Rovers,Barrow,1 - 3
+38166,13,1932-10-29,Walsall,York City,4 - 2
+38167,13,1932-10-29,Wrexham,Carlisle United,2 - 1
+38168,13,1932-10-29,AFC Bournemouth,Norwich City,1 - 1
+38169,13,1932-10-29,Brentford,Crystal Palace,2 - 0
+38170,13,1932-10-29,Bristol City,Queens Park Rangers,2 - 3
+38171,13,1932-10-29,Coventry City,Southend United,2 - 3
+38172,13,1932-10-29,Exeter City,Watford,5 - 2
+38173,13,1932-10-29,Leyton Orient,Bristol Rovers,0 - 3
+38174,13,1932-10-29,Luton Town,Cardiff City,8 - 1
+38175,13,1932-10-29,Newport County,Reading,3 - 3
+38176,13,1932-10-29,Northampton Town,Aldershot,5 - 2
+38177,13,1932-10-29,Torquay United,Gillingham,1 - 2
+38178,13,1932-11-02,Swindon Town,Brighton & Hove Albion,5 - 1
+38201,13,1932-11-05,Accrington Stanley,Hull City,1 - 2
+38202,14,1932-11-05,Barrow,Halifax Town,3 - 3
+38203,14,1932-11-05,Carlisle United,Tranmere Rovers,0 - 1
+38204,14,1932-11-05,Chester,Hartlepool United,3 - 3
+38205,14,1932-11-05,Crewe Alexandra,Walsall,2 - 1
+38206,14,1932-11-05,Mansfield Town,Darlington,3 - 3
+38207,14,1932-11-05,New Brighton,Barnsley,3 - 5
+38208,14,1932-11-05,Rochdale,Gateshead,1 - 0
+38209,14,1932-11-05,Rotherham United,Doncaster Rovers,1 - 1
+38210,14,1932-11-05,Southport,Stockport County,2 - 1
+38211,14,1932-11-05,York City,Wrexham,2 - 3
+38212,14,1932-11-05,Aldershot,Leyton Orient,4 - 0
+38213,14,1932-11-05,Brighton & Hove Albion,AFC Bournemouth,3 - 0
+38214,14,1932-11-05,Bristol Rovers,Swindon Town,1 - 0
+38215,14,1932-11-05,Cardiff City,Exeter City,1 - 3
+38216,14,1932-11-05,Crystal Palace,Coventry City,1 - 3
+38217,14,1932-11-05,Gillingham,Brentford,1 - 3
+38218,14,1932-11-05,Norwich City,Newport County,3 - 1
+38219,14,1932-11-05,Queens Park Rangers,Northampton Town,1 - 1
+38220,14,1932-11-05,Reading,Luton Town,4 - 1
+38221,14,1932-11-05,Southend United,Bristol City,3 - 1
+38222,14,1932-11-05,Watford,Torquay United,0 - 0
+38245,14,1932-11-12,Barnsley,Chester,0 - 3
+38246,15,1932-11-12,Darlington,Rotherham United,4 - 1
+38247,15,1932-11-12,Doncaster Rovers,Accrington Stanley,2 - 2
+38248,15,1932-11-12,Gateshead,Southport,4 - 1
+38249,15,1932-11-12,Halifax Town,Carlisle United,0 - 1
+38250,15,1932-11-12,Hartlepool United,Barrow,0 - 1
+38251,15,1932-11-12,Hull City,New Brighton,5 - 0
+38252,15,1932-11-12,Stockport County,Mansfield Town,2 - 2
+38253,15,1932-11-12,Tranmere Rovers,York City,2 - 3
+38254,15,1932-11-12,Walsall,Rochdale,2 - 1
+38255,15,1932-11-12,Wrexham,Crewe Alexandra,7 - 0
+38256,15,1932-11-12,AFC Bournemouth,Bristol Rovers,2 - 2
+38257,15,1932-11-12,Brentford,Watford,2 - 1
+38258,15,1932-11-12,Bristol City,Crystal Palace,3 - 3
+38259,15,1932-11-12,Coventry City,Gillingham,4 - 2
+38260,15,1932-11-12,Exeter City,Reading,4 - 1
+38261,15,1932-11-12,Leyton Orient,Queens Park Rangers,2 - 2
+38262,15,1932-11-12,Luton Town,Norwich City,1 - 1
+38263,15,1932-11-12,Northampton Town,Southend United,0 - 0
+38264,15,1932-11-12,Swindon Town,Aldershot,3 - 2
+38265,15,1932-11-12,Torquay United,Cardiff City,4 - 1
+38266,15,1932-11-17,Newport County,Brighton & Hove Albion,5 - 2
+38289,15,1932-11-19,Accrington Stanley,Darlington,2 - 0
+38290,16,1932-11-19,Barrow,Barnsley,2 - 3
+38291,16,1932-11-19,Carlisle United,Hartlepool United,3 - 1
+38292,16,1932-11-19,Chester,Hull City,1 - 1
+38293,16,1932-11-19,Crewe Alexandra,Tranmere Rovers,2 - 0
+38294,16,1932-11-19,Mansfield Town,Gateshead,1 - 2
+38295,16,1932-11-19,New Brighton,Doncaster Rovers,4 - 4
+38296,16,1932-11-19,Rochdale,Wrexham,3 - 1
+38297,16,1932-11-19,Rotherham United,Stockport County,2 - 1
+38298,16,1932-11-19,Southport,Walsall,2 - 1
+38299,16,1932-11-19,York City,Halifax Town,5 - 3
+38300,16,1932-11-19,Aldershot,AFC Bournemouth,1 - 1
+38301,16,1932-11-19,Brighton & Hove Albion,Luton Town,2 - 0
+38302,16,1932-11-19,Bristol Rovers,Newport County,2 - 2
+38303,16,1932-11-19,Cardiff City,Brentford,2 - 1
+38304,16,1932-11-19,Crystal Palace,Northampton Town,2 - 0
+38305,16,1932-11-19,Gillingham,Bristol City,4 - 2
+38306,16,1932-11-19,Norwich City,Exeter City,0 - 0
+38307,16,1932-11-19,Queens Park Rangers,Swindon Town,4 - 2
+38308,16,1932-11-19,Reading,Torquay United,5 - 2
+38309,16,1932-11-19,Southend United,Leyton Orient,3 - 3
+38310,16,1932-11-19,Watford,Coventry City,3 - 1
+38355,16,1932-12-03,Accrington Stanley,Gateshead,0 - 3
+38356,17,1932-12-03,Barrow,Doncaster Rovers,3 - 0
+38357,17,1932-12-03,Carlisle United,Hull City,1 - 1
+38358,17,1932-12-03,Chester,Darlington,5 - 2
+38359,17,1932-12-03,Crewe Alexandra,Hartlepool United,6 - 2
+38360,17,1932-12-03,Mansfield Town,Wrexham,0 - 0
+38361,17,1932-12-03,New Brighton,Stockport County,1 - 1
+38362,17,1932-12-03,Rochdale,Halifax Town,1 - 0
+38363,17,1932-12-03,Rotherham United,Walsall,4 - 1
+38364,17,1932-12-03,Southport,Tranmere Rovers,1 - 1
+38365,17,1932-12-03,York City,Barnsley,3 - 2
+38366,17,1932-12-03,Aldershot,Luton Town,2 - 2
+38367,17,1932-12-03,Brighton & Hove Albion,Torquay United,1 - 1
+38368,17,1932-12-03,Bristol Rovers,Exeter City,1 - 0
+38369,17,1932-12-03,Cardiff City,Bristol City,1 - 1
+38370,17,1932-12-03,Crystal Palace,Swindon Town,4 - 3
+38371,17,1932-12-03,Gillingham,Leyton Orient,3 - 1
+38372,17,1932-12-03,Norwich City,Brentford,3 - 0
+38373,17,1932-12-03,Queens Park Rangers,Newport County,6 - 1
+38374,17,1932-12-03,Reading,Coventry City,3 - 3
+38375,17,1932-12-03,Southend United,AFC Bournemouth,2 - 1
+38376,17,1932-12-03,Watford,Northampton Town,4 - 0
+38399,17,1932-12-10,Barnsley,New Brighton,1 - 2
+38400,18,1932-12-10,Mansfield Town,Rochdale,4 - 1
+38401,18,1932-12-10,AFC Bournemouth,Crystal Palace,3 - 2
+38402,18,1932-12-10,Leyton Orient,Watford,2 - 0
+38403,18,1932-12-12,Barnsley,Crewe Alexandra,7 - 1
+38404,19,1932-12-12,Halifax Town,Southport,1 - 0
+38405,19,1932-12-12,Walsall,Accrington Stanley,1 - 0
+38428,19,1932-12-17,Accrington Stanley,Wrexham,5 - 3
+38429,20,1932-12-17,Barrow,Stockport County,0 - 3
+38430,20,1932-12-17,Chester,Gateshead,3 - 1
+38431,20,1932-12-17,Crewe Alexandra,Hull City,1 - 1
+38432,20,1932-12-17,Mansfield Town,Halifax Town,2 - 2
+38433,20,1932-12-17,New Brighton,Walsall,2 - 2
+38434,20,1932-12-17,Rochdale,Barnsley,2 - 3
+38435,20,1932-12-17,Rotherham United,Tranmere Rovers,2 - 0
+38436,20,1932-12-17,Southport,Hartlepool United,6 - 3
+38437,20,1932-12-17,York City,Doncaster Rovers,2 - 3
+38438,20,1932-12-17,Aldershot,Torquay United,2 - 0
+38439,20,1932-12-17,Brighton & Hove Albion,Coventry City,1 - 0
+38440,20,1932-12-17,Bristol Rovers,Brentford,2 - 4
+38441,20,1932-12-17,Cardiff City,Leyton Orient,6 - 1
+38442,20,1932-12-17,Crystal Palace,Newport County,0 - 0
+38443,20,1932-12-17,Gillingham,AFC Bournemouth,4 - 0
+38444,20,1932-12-17,Norwich City,Bristol City,3 - 0
+38445,20,1932-12-17,Queens Park Rangers,Exeter City,1 - 3
+38446,20,1932-12-17,Reading,Northampton Town,4 - 0
+38447,20,1932-12-17,Southend United,Luton Town,2 - 1
+38448,20,1932-12-17,Watford,Swindon Town,2 - 2
+38471,20,1932-12-24,Barnsley,Southport,2 - 0
+38472,21,1932-12-24,Darlington,York City,3 - 0
+38473,21,1932-12-24,Doncaster Rovers,Crewe Alexandra,5 - 1
+38474,21,1932-12-24,Gateshead,Barrow,2 - 3
+38475,21,1932-12-24,Halifax Town,Rotherham United,2 - 1
+38476,21,1932-12-24,Hartlepool United,Mansfield Town,6 - 3
+38477,21,1932-12-24,Hull City,Rochdale,1 - 1
+38478,21,1932-12-24,Stockport County,Carlisle United,0 - 1
+38479,21,1932-12-24,Tranmere Rovers,Accrington Stanley,4 - 0
+38480,21,1932-12-24,Walsall,Chester,3 - 1
+38481,21,1932-12-24,Wrexham,New Brighton,5 - 0
+38482,21,1932-12-24,AFC Bournemouth,Watford,2 - 2
+38483,21,1932-12-24,Brentford,Aldershot,2 - 0
+38484,21,1932-12-24,Bristol City,Brighton & Hove Albion,3 - 4
+38485,21,1932-12-24,Coventry City,Bristol Rovers,2 - 0
+38486,21,1932-12-24,Exeter City,Southend United,3 - 0
+38487,21,1932-12-24,Leyton Orient,Reading,2 - 5
+38488,21,1932-12-24,Luton Town,Crystal Palace,1 - 1
+38489,21,1932-12-24,Newport County,Gillingham,0 - 2
+38490,21,1932-12-24,Northampton Town,Norwich City,2 - 2
+38491,21,1932-12-24,Swindon Town,Cardiff City,6 - 2
+38492,21,1932-12-24,Torquay United,Queens Park Rangers,3 - 1
+38513,21,1932-12-26,Barnsley,Hartlepool United,3 - 2
+38514,22,1932-12-26,Carlisle United,Gateshead,1 - 2
+38515,22,1932-12-26,Chester,Crewe Alexandra,3 - 1
+38516,22,1932-12-26,Doncaster Rovers,Tranmere Rovers,2 - 2
+38517,22,1932-12-26,Hull City,Halifax Town,3 - 1
+38518,22,1932-12-26,New Brighton,Rochdale,0 - 3
+38519,22,1932-12-26,Rotherham United,Mansfield Town,3 - 0
+38520,22,1932-12-26,Southport,Accrington Stanley,2 - 3
+38521,22,1932-12-26,Stockport County,Walsall,5 - 0
+38522,22,1932-12-26,Wrexham,Darlington,3 - 1
+38523,22,1932-12-26,AFC Bournemouth,Luton Town,0 - 2
+38524,22,1932-12-26,Aldershot,Bristol Rovers,1 - 0
+38525,22,1932-12-26,Bristol City,Coventry City,5 - 3
+38526,22,1932-12-26,Cardiff City,Gillingham,1 - 0
+38527,22,1932-12-26,Crystal Palace,Reading,1 - 1
+38528,22,1932-12-26,Leyton Orient,Torquay United,1 - 4
+38529,22,1932-12-26,Newport County,Watford,2 - 0
+38530,22,1932-12-26,Northampton Town,Brentford,1 - 0
+38531,22,1932-12-26,Queens Park Rangers,Brighton & Hove Albion,0 - 1
+38532,22,1932-12-26,Southend United,Norwich City,2 - 1
+38533,22,1932-12-26,Swindon Town,Exeter City,2 - 2
+38554,22,1932-12-27,Barrow,York City,1 - 0
+38555,22,1932-12-27,Crewe Alexandra,Chester,0 - 1
+38556,23,1932-12-27,Gateshead,Carlisle United,1 - 0
+38557,23,1932-12-27,Halifax Town,Hull City,1 - 3
+38558,23,1932-12-27,Hartlepool United,Barnsley,6 - 4
+38559,23,1932-12-27,Mansfield Town,Rotherham United,9 - 2
+38560,23,1932-12-27,Rochdale,New Brighton,1 - 0
+38561,23,1932-12-27,Tranmere Rovers,Doncaster Rovers,3 - 2
+38562,23,1932-12-27,Walsall,Stockport County,0 - 0
+38563,23,1932-12-27,Brentford,Northampton Town,1 - 0
+38564,23,1932-12-27,Brighton & Hove Albion,Queens Park Rangers,4 - 1
+38565,23,1932-12-27,Bristol Rovers,Aldershot,4 - 1
+38566,23,1932-12-27,Coventry City,Bristol City,6 - 0
+38567,23,1932-12-27,Exeter City,Swindon Town,5 - 0
+38568,23,1932-12-27,Gillingham,Cardiff City,1 - 1
+38569,23,1932-12-27,Luton Town,AFC Bournemouth,1 - 2
+38570,23,1932-12-27,Norwich City,Southend United,1 - 0
+38571,23,1932-12-27,Reading,Crystal Palace,2 - 3
+38572,23,1932-12-27,Torquay United,Leyton Orient,1 - 1
+38573,23,1932-12-27,Watford,Newport County,3 - 2
+38596,23,1932-12-31,Barnsley,Wrexham,5 - 3
+38597,24,1932-12-31,Barrow,Southport,2 - 0
+38598,24,1932-12-31,Carlisle United,Rochdale,2 - 2
+38599,24,1932-12-31,Chester,Mansfield Town,5 - 2
+38600,24,1932-12-31,Darlington,Stockport County,1 - 1
+38601,24,1932-12-31,Doncaster Rovers,Gateshead,3 - 1
+38602,24,1932-12-31,Halifax Town,Accrington Stanley,0 - 0
+38603,24,1932-12-31,Hartlepool United,Tranmere Rovers,2 - 3
+38604,24,1932-12-31,Hull City,Walsall,0 - 0
+38605,24,1932-12-31,New Brighton,Rotherham United,5 - 2
+38606,24,1932-12-31,York City,Crewe Alexandra,4 - 0
+38607,24,1932-12-31,Brentford,Queens Park Rangers,2 - 0
+38608,24,1932-12-31,Bristol City,Exeter City,0 - 1
+38609,24,1932-12-31,Cardiff City,Reading,0 - 1
+38610,24,1932-12-31,Coventry City,Torquay United,5 - 0
+38611,24,1932-12-31,Crystal Palace,Bristol Rovers,2 - 0
+38612,24,1932-12-31,Gillingham,Brighton & Hove Albion,2 - 0
+38613,24,1932-12-31,Leyton Orient,Newport County,3 - 1
+38614,24,1932-12-31,Northampton Town,Luton Town,1 - 0
+38615,24,1932-12-31,Southend United,Aldershot,5 - 1
+38616,24,1932-12-31,Swindon Town,AFC Bournemouth,2 - 0
+38617,24,1932-12-31,Watford,Norwich City,1 - 2
+38626,24,1933-01-02,Accrington Stanley,Mansfield Town,6 - 0
+38627,25,1933-01-02,Barnsley,Carlisle United,4 - 1
+38628,25,1933-01-02,Darlington,Wrexham,1 - 2
+38629,25,1933-01-02,Hartlepool United,Rochdale,3 - 0
+38630,25,1933-01-02,Southport,Halifax Town,1 - 2
+38631,25,1933-01-03,Gateshead,New Brighton,2 - 0
+38654,25,1933-01-07,Accrington Stanley,New Brighton,5 - 4
+38655,26,1933-01-07,Crewe Alexandra,Darlington,2 - 4
+38656,26,1933-01-07,Gateshead,Hull City,2 - 3
+38657,26,1933-01-07,Mansfield Town,Barrow,2 - 1
+38658,26,1933-01-07,Rochdale,York City,1 - 4
+38659,26,1933-01-07,Rotherham United,Chester,0 - 5
+38660,26,1933-01-07,Southport,Carlisle United,4 - 0
+38661,26,1933-01-07,Stockport County,Doncaster Rovers,5 - 1
+38662,26,1933-01-07,Tranmere Rovers,Halifax Town,2 - 3
+38663,26,1933-01-07,Walsall,Barnsley,1 - 1
+38664,26,1933-01-07,Wrexham,Hartlepool United,8 - 1
+38665,26,1933-01-07,AFC Bournemouth,Leyton Orient,4 - 2
+38666,26,1933-01-07,Aldershot,Crystal Palace,3 - 1
+38667,26,1933-01-07,Brighton & Hove Albion,Watford,3 - 0
+38668,26,1933-01-07,Bristol Rovers,Gillingham,1 - 0
+38669,26,1933-01-07,Exeter City,Coventry City,5 - 0
+38670,26,1933-01-07,Luton Town,Bristol City,5 - 4
+38671,26,1933-01-07,Newport County,Northampton Town,0 - 3
+38672,26,1933-01-07,Norwich City,Cardiff City,3 - 1
+38673,26,1933-01-07,Queens Park Rangers,Southend United,6 - 1
+38674,26,1933-01-07,Reading,Swindon Town,7 - 1
+38675,26,1933-01-07,Torquay United,Brentford,1 - 1
+38676,26,1933-01-14,Barrow,Crewe Alexandra,3 - 0
+38677,27,1933-01-14,Hartlepool United,York City,4 - 2
+38678,27,1933-01-14,Stockport County,Accrington Stanley,2 - 0
+38679,27,1933-01-14,Wrexham,Southport,6 - 0
+38680,27,1933-01-14,Coventry City,Cardiff City,5 - 0
+38681,27,1933-01-14,Leyton Orient,Crystal Palace,4 - 1
+38682,27,1933-01-14,Newport County,AFC Bournemouth,1 - 1
+38683,27,1933-01-14,Northampton Town,Gillingham,1 - 0
+38684,27,1933-01-14,Torquay United,Norwich City,2 - 2
+38685,27,1933-01-18,Darlington,New Brighton,2 - 1
+38686,27,1933-01-18,Halifax Town,Crewe Alexandra,1 - 5
+38687,27,1933-01-18,Tranmere Rovers,Rochdale,3 - 1
+38688,27,1933-01-18,AFC Bournemouth,Queens Park Rangers,3 - 0
+38689,28,1933-01-18,Exeter City,Brighton & Hove Albion,4 - 1
+38690,28,1933-01-19,Hull City,Barrow,3 - 0
+38691,28,1933-01-19,Walsall,Mansfield Town,8 - 1
+38692,28,1933-01-19,Newport County,Aldershot,2 - 1
+38715,28,1933-01-21,Barnsley,Gateshead,2 - 4
+38716,28,1933-01-21,Barrow,Rotherham United,2 - 1
+38717,29,1933-01-21,Carlisle United,Mansfield Town,3 - 1
+38718,29,1933-01-21,Chester,Accrington Stanley,4 - 2
+38719,29,1933-01-21,Crewe Alexandra,Rochdale,3 - 1
+38720,29,1933-01-21,Doncaster Rovers,Darlington,3 - 1
+38721,29,1933-01-21,Halifax Town,Wrexham,0 - 0
+38722,29,1933-01-21,Hartlepool United,Walsall,2 - 0
+38723,29,1933-01-21,Hull City,Stockport County,3 - 0
+38724,29,1933-01-21,New Brighton,Tranmere Rovers,1 - 1
+38725,29,1933-01-21,Brentford,Exeter City,0 - 2
+38726,29,1933-01-21,Bristol City,Newport County,3 - 2
+38727,29,1933-01-21,Cardiff City,Brighton & Hove Albion,1 - 2
+38728,29,1933-01-21,Coventry City,Luton Town,4 - 0
+38729,29,1933-01-21,Crystal Palace,Queens Park Rangers,0 - 1
+38730,29,1933-01-21,Gillingham,Aldershot,5 - 2
+38731,29,1933-01-21,Leyton Orient,Swindon Town,7 - 1
+38732,29,1933-01-21,Northampton Town,AFC Bournemouth,6 - 0
+38733,29,1933-01-21,Reading,Norwich City,3 - 2
+38734,29,1933-01-21,Southend United,Torquay United,2 - 1
+38735,29,1933-01-21,Watford,Bristol Rovers,3 - 1
+38736,29,1933-01-25,Gateshead,Rotherham United,1 - 1
+38737,29,1933-01-25,Bristol City,Watford,2 - 3
+38744,30,1933-01-28,Accrington Stanley,Barrow,0 - 0
+38745,30,1933-01-28,Gateshead,Hartlepool United,3 - 1
+38746,30,1933-01-28,Mansfield Town,York City,2 - 0
+38747,30,1933-01-28,Rochdale,Doncaster Rovers,2 - 3
+38748,30,1933-01-28,Rotherham United,Carlisle United,1 - 0
+38749,30,1933-01-28,Southport,Crewe Alexandra,4 - 1
+38750,30,1933-01-28,Stockport County,Barnsley,5 - 4
+38751,30,1933-01-28,AFC Bournemouth,Bristol City,6 - 1
+38752,30,1933-01-28,Bristol Rovers,Cardiff City,0 - 0
+38753,30,1933-01-28,Exeter City,Torquay United,5 - 0
+38754,30,1933-01-28,Newport County,Coventry City,2 - 1
+38755,30,1933-01-28,Norwich City,Leyton Orient,2 - 0
+38756,30,1933-01-28,Queens Park Rangers,Gillingham,1 - 1
+38757,30,1933-01-28,Swindon Town,Northampton Town,2 - 1
+38771,30,1933-02-01,Darlington,Hull City,3 - 2
+38772,30,1933-02-01,Aldershot,Watford,2 - 1
+38773,30,1933-02-01,Brighton & Hove Albion,Reading,5 - 3
+38774,30,1933-02-01,Luton Town,Brentford,5 - 5
+38775,30,1933-02-01,Southend United,Crystal Palace,1 - 2
+38776,30,1933-02-02,Coventry City,Norwich City,3 - 5
+38799,31,1933-02-04,Barnsley,Darlington,6 - 2
+38800,31,1933-02-04,Barrow,New Brighton,2 - 1
+38801,31,1933-02-04,Carlisle United,Accrington Stanley,2 - 2
+38802,31,1933-02-04,Chester,Wrexham,0 - 3
+38803,31,1933-02-04,Crewe Alexandra,Mansfield Town,7 - 0
+38804,31,1933-02-04,Halifax Town,Gateshead,1 - 0
+38805,31,1933-02-04,Hartlepool United,Stockport County,1 - 1
+38806,31,1933-02-04,Hull City,Doncaster Rovers,6 - 1
+38807,31,1933-02-04,Rochdale,Southport,1 - 3
+38808,31,1933-02-04,Tranmere Rovers,Walsall,1 - 3
+38809,31,1933-02-04,York City,Rotherham United,4 - 3
+38810,31,1933-02-04,Brentford,Newport County,6 - 0
+38811,31,1933-02-04,Bristol City,Swindon Town,5 - 1
+38812,31,1933-02-04,Cardiff City,Aldershot,2 - 1
+38813,31,1933-02-04,Coventry City,AFC Bournemouth,3 - 0
+38814,32,1933-02-04,Crystal Palace,Exeter City,2 - 2
+38815,32,1933-02-04,Gillingham,Southend United,3 - 2
+38816,32,1933-02-04,Northampton Town,Leyton Orient,3 - 0
+38817,32,1933-02-04,Norwich City,Brighton & Hove Albion,1 - 0
+38818,32,1933-02-04,Reading,Bristol Rovers,3 - 1
+38819,32,1933-02-04,Torquay United,Luton Town,3 - 1
+38820,32,1933-02-04,Watford,Queens Park Rangers,2 - 2
+38823,32,1933-02-08,New Brighton,Chester,3 - 1
+38825,32,1933-02-09,Walsall,Halifax Town,4 - 0
+38826,32,1933-02-09,Newport County,Southend United,1 - 3
+38849,32,1933-02-11,Accrington Stanley,York City,5 - 0
+38850,32,1933-02-11,Chester,Barrow,2 - 1
+38851,33,1933-02-11,Darlington,Hartlepool United,1 - 2
+38852,33,1933-02-11,Doncaster Rovers,Barnsley,3 - 1
+38853,33,1933-02-11,Gateshead,Tranmere Rovers,0 - 2
+38854,33,1933-02-11,New Brighton,Carlisle United,2 - 0
+38855,33,1933-02-11,Rotherham United,Crewe Alexandra,5 - 0
+38856,33,1933-02-11,Southport,Hull City,0 - 1
+38857,33,1933-02-11,Stockport County,Halifax Town,6 - 0
+38858,33,1933-02-11,Walsall,Wrexham,2 - 3
+38859,33,1933-02-11,AFC Bournemouth,Brentford,1 - 1
+38860,33,1933-02-11,Aldershot,Reading,4 - 4
+38861,33,1933-02-11,Brighton & Hove Albion,Northampton Town,2 - 1
+38862,33,1933-02-11,Bristol Rovers,Norwich City,1 - 1
+38863,33,1933-02-11,Crystal Palace,Gillingham,5 - 1
+38864,33,1933-02-11,Leyton Orient,Bristol City,2 - 2
+38865,33,1933-02-11,Luton Town,Exeter City,4 - 0
+38866,33,1933-02-11,Newport County,Torquay United,3 - 1
+38867,33,1933-02-11,Queens Park Rangers,Cardiff City,5 - 1
+38868,33,1933-02-11,Southend United,Watford,2 - 1
+38869,33,1933-02-11,Swindon Town,Coventry City,1 - 2
+38870,33,1933-02-15,Darlington,Barrow,1 - 2
+38883,34,1933-02-18,Barnsley,Hull City,1 - 0
+38884,34,1933-02-18,Barrow,Walsall,1 - 2
+38885,35,1933-02-18,Carlisle United,Chester,1 - 1
+38886,35,1933-02-18,Crewe Alexandra,Accrington Stanley,3 - 1
+38887,35,1933-02-18,Hartlepool United,Doncaster Rovers,4 - 0
+38888,35,1933-02-18,Rochdale,Rotherham United,2 - 2
+38889,35,1933-02-18,Southport,Mansfield Town,5 - 2
+38890,35,1933-02-18,Tranmere Rovers,Stockport County,2 - 2
+38891,35,1933-02-18,Wrexham,Gateshead,5 - 1
+38892,35,1933-02-18,York City,New Brighton,3 - 0
+38893,35,1933-02-18,Brentford,Swindon Town,1 - 0
+38894,35,1933-02-18,Bristol City,Northampton Town,5 - 4
+38895,35,1933-02-18,Cardiff City,Southend United,2 - 0
+38896,35,1933-02-18,Coventry City,Leyton Orient,5 - 0
+38897,35,1933-02-18,Exeter City,Newport County,4 - 0
+38898,35,1933-02-18,Reading,Queens Park Rangers,3 - 1
+38899,35,1933-02-18,Torquay United,AFC Bournemouth,2 - 1
+38900,35,1933-02-18,Watford,Crystal Palace,1 - 0
+38907,35,1933-02-22,Halifax Town,Darlington,4 - 2
+38908,35,1933-02-22,Gillingham,Luton Town,1 - 1
+38910,35,1933-02-23,Norwich City,Aldershot,3 - 2
+38920,35,1933-02-25,Barrow,Carlisle United,2 - 1
+38921,36,1933-02-25,Darlington,Tranmere Rovers,1 - 0
+38922,36,1933-02-25,Hull City,Hartlepool United,3 - 0
+38923,36,1933-02-25,New Brighton,Crewe Alexandra,1 - 2
+38924,36,1933-02-25,AFC Bournemouth,Exeter City,1 - 1
+38925,36,1933-02-25,Crystal Palace,Cardiff City,4 - 1
+38926,36,1933-02-25,Gillingham,Watford,3 - 3
+38927,36,1933-02-25,Leyton Orient,Brentford,1 - 5
+38928,36,1933-02-25,Northampton Town,Coventry City,5 - 1
+38929,36,1933-02-25,Queens Park Rangers,Norwich City,2 - 2
+38930,36,1933-02-25,Southend United,Reading,3 - 1
+38931,36,1933-02-25,Swindon Town,Torquay United,0 - 0
+38933,36,1933-03-01,Wrexham,Rotherham United,5 - 1
+38934,36,1933-03-01,Brighton & Hove Albion,Bristol Rovers,0 - 3
+38935,36,1933-03-01,Swindon Town,Southend United,2 - 2
+38952,37,1933-03-04,Barnsley,Rotherham United,3 - 1
+38953,37,1933-03-04,Darlington,Rochdale,5 - 1
+38954,37,1933-03-04,Doncaster Rovers,Southport,2 - 1
+38955,37,1933-03-04,Gateshead,York City,2 - 2
+38956,37,1933-03-04,Halifax Town,New Brighton,3 - 3
+38957,37,1933-03-04,Hartlepool United,Accrington Stanley,3 - 1
+38958,37,1933-03-04,Hull City,Mansfield Town,4 - 1
+38959,37,1933-03-04,Stockport County,Crewe Alexandra,1 - 0
+38960,37,1933-03-04,Tranmere Rovers,Chester,2 - 2
+38961,37,1933-03-04,Walsall,Carlisle United,5 - 0
+38962,37,1933-03-04,Wrexham,Barrow,4 - 1
+38963,37,1933-03-04,AFC Bournemouth,Reading,0 - 3
+38964,37,1933-03-04,Brentford,Southend United,3 - 1
+38965,37,1933-03-04,Bristol City,Aldershot,2 - 2
+38966,37,1933-03-04,Coventry City,Queens Park Rangers,7 - 0
+38967,37,1933-03-04,Exeter City,Gillingham,2 - 1
+38968,37,1933-03-04,Leyton Orient,Brighton & Hove Albion,2 - 0
+38969,37,1933-03-04,Newport County,Cardiff City,4 - 2
+38970,37,1933-03-04,Northampton Town,Bristol Rovers,1 - 1
+38971,37,1933-03-04,Swindon Town,Norwich City,2 - 4
+38972,38,1933-03-04,Torquay United,Crystal Palace,2 - 1
+39001,38,1933-03-11,Accrington Stanley,Barnsley,2 - 0
+39002,38,1933-03-11,Barrow,Tranmere Rovers,2 - 0
+39003,38,1933-03-11,Carlisle United,Wrexham,2 - 1
+39004,38,1933-03-11,Chester,Halifax Town,6 - 3
+39005,38,1933-03-11,Crewe Alexandra,Gateshead,2 - 0
+39006,38,1933-03-11,Mansfield Town,Doncaster Rovers,2 - 2
+39007,38,1933-03-11,New Brighton,Hartlepool United,5 - 2
+39008,38,1933-03-11,Rochdale,Stockport County,0 - 2
+39009,38,1933-03-11,Rotherham United,Hull City,3 - 2
+39010,38,1933-03-11,Southport,Darlington,5 - 1
+39011,38,1933-03-11,York City,Walsall,4 - 2
+39012,38,1933-03-11,Aldershot,Northampton Town,0 - 1
+39013,38,1933-03-11,Brighton & Hove Albion,Swindon Town,5 - 1
+39014,38,1933-03-11,Bristol Rovers,Leyton Orient,2 - 0
+39015,38,1933-03-11,Cardiff City,Luton Town,3 - 2
+39016,38,1933-03-11,Crystal Palace,Brentford,2 - 1
+39017,39,1933-03-11,Gillingham,Torquay United,1 - 1
+39018,39,1933-03-11,Norwich City,AFC Bournemouth,6 - 0
+39019,39,1933-03-11,Queens Park Rangers,Bristol City,1 - 1
+39020,39,1933-03-11,Reading,Newport County,4 - 1
+39021,39,1933-03-11,Southend United,Coventry City,1 - 3
+39022,39,1933-03-11,Watford,Exeter City,0 - 0
+39024,39,1933-03-13,Luton Town,Bristol Rovers,1 - 1
+39045,39,1933-03-18,Darlington,Mansfield Town,1 - 3
+39046,39,1933-03-18,Doncaster Rovers,Rotherham United,1 - 0
+39047,39,1933-03-18,Gateshead,Rochdale,3 - 0
+39048,39,1933-03-18,Halifax Town,Barrow,2 - 0
+39049,39,1933-03-18,Hartlepool United,Chester,3 - 1
+39050,39,1933-03-18,Hull City,Accrington Stanley,4 - 2
+39051,39,1933-03-18,Stockport County,Southport,3 - 1
+39052,39,1933-03-18,Tranmere Rovers,Carlisle United,1 - 2
+39053,39,1933-03-18,Walsall,Crewe Alexandra,2 - 1
+39054,39,1933-03-18,Wrexham,York City,3 - 1
+39055,39,1933-03-18,AFC Bournemouth,Brighton & Hove Albion,1 - 1
+39056,40,1933-03-18,Brentford,Gillingham,1 - 2
+39057,40,1933-03-18,Bristol City,Southend United,5 - 1
+39058,40,1933-03-18,Coventry City,Crystal Palace,6 - 2
+39059,40,1933-03-18,Exeter City,Cardiff City,1 - 0
+39060,40,1933-03-18,Leyton Orient,Aldershot,2 - 3
+39061,40,1933-03-18,Luton Town,Reading,1 - 1
+39062,40,1933-03-18,Newport County,Norwich City,3 - 4
+39063,40,1933-03-18,Northampton Town,Queens Park Rangers,2 - 1
+39064,40,1933-03-18,Swindon Town,Bristol Rovers,1 - 1
+39065,40,1933-03-18,Torquay United,Watford,3 - 2
+39092,40,1933-03-25,Accrington Stanley,Doncaster Rovers,1 - 1
+39093,40,1933-03-25,Barrow,Hartlepool United,3 - 1
+39094,40,1933-03-25,Carlisle United,Halifax Town,5 - 3
+39095,40,1933-03-25,Chester,Barnsley,3 - 1
+39096,40,1933-03-25,Crewe Alexandra,Wrexham,2 - 0
+39097,40,1933-03-25,Mansfield Town,Stockport County,1 - 2
+39098,40,1933-03-25,New Brighton,Hull City,1 - 0
+39099,40,1933-03-25,Rochdale,Walsall,1 - 1
+39100,40,1933-03-25,Rotherham United,Darlington,3 - 1
+39101,40,1933-03-25,Southport,Gateshead,4 - 1
+39102,40,1933-03-25,York City,Tranmere Rovers,0 - 1
+39103,40,1933-03-25,Aldershot,Swindon Town,0 - 1
+39104,41,1933-03-25,Brighton & Hove Albion,Newport County,1 - 0
+39105,41,1933-03-25,Bristol Rovers,AFC Bournemouth,1 - 0
+39106,41,1933-03-25,Cardiff City,Torquay United,2 - 1
+39107,41,1933-03-25,Crystal Palace,Bristol City,2 - 2
+39108,41,1933-03-25,Gillingham,Coventry City,3 - 0
+39109,41,1933-03-25,Norwich City,Luton Town,2 - 1
+39110,41,1933-03-25,Queens Park Rangers,Leyton Orient,2 - 1
+39111,41,1933-03-25,Reading,Exeter City,2 - 2
+39112,41,1933-03-25,Southend United,Northampton Town,1 - 0
+39113,41,1933-03-25,Watford,Brentford,1 - 1
+39117,41,1933-03-29,Chester,York City,5 - 0
+39118,41,1933-03-29,Aldershot,Brighton & Hove Albion,1 - 1
+39119,42,1933-03-29,Bristol Rovers,Bristol City,1 - 1
+39121,42,1933-03-30,Doncaster Rovers,Halifax Town,5 - 1
+39144,42,1933-04-01,Barnsley,Barrow,3 - 0
+39145,42,1933-04-01,Darlington,Accrington Stanley,2 - 2
+39146,42,1933-04-01,Doncaster Rovers,New Brighton,2 - 0
+39147,43,1933-04-01,Gateshead,Mansfield Town,3 - 2
+39148,43,1933-04-01,Halifax Town,York City,2 - 0
+39149,43,1933-04-01,Hartlepool United,Carlisle United,2 - 1
+39150,43,1933-04-01,Hull City,Chester,2 - 0
+39151,43,1933-04-01,Stockport County,Rotherham United,1 - 0
+39152,43,1933-04-01,Tranmere Rovers,Crewe Alexandra,5 - 0
+39153,43,1933-04-01,Walsall,Southport,3 - 1
+39154,43,1933-04-01,Wrexham,Rochdale,4 - 1
+39155,43,1933-04-01,AFC Bournemouth,Aldershot,1 - 0
+39156,43,1933-04-01,Brentford,Cardiff City,7 - 3
+39157,43,1933-04-01,Bristol City,Gillingham,1 - 1
+39158,43,1933-04-01,Coventry City,Watford,1 - 3
+39159,43,1933-04-01,Exeter City,Norwich City,2 - 1
+39160,43,1933-04-01,Leyton Orient,Southend United,0 - 0
+39161,43,1933-04-01,Luton Town,Brighton & Hove Albion,0 - 0
+39162,43,1933-04-01,Newport County,Bristol Rovers,3 - 1
+39163,43,1933-04-01,Northampton Town,Crystal Palace,1 - 0
+39164,43,1933-04-01,Swindon Town,Queens Park Rangers,0 - 0
+39165,43,1933-04-01,Torquay United,Reading,1 - 1
+39172,43,1933-04-05,York City,Barrow,3 - 1
+39173,44,1933-04-05,Newport County,Luton Town,3 - 2
+39196,44,1933-04-08,Accrington Stanley,Stockport County,1 - 1
+39197,44,1933-04-08,Barrow,Hull City,0 - 2
+39198,45,1933-04-08,Carlisle United,Barnsley,0 - 1
+39199,45,1933-04-08,Chester,Doncaster Rovers,2 - 0
+39200,45,1933-04-08,Crewe Alexandra,Halifax Town,2 - 1
+39201,45,1933-04-08,Mansfield Town,Walsall,2 - 0
+39202,45,1933-04-08,New Brighton,Darlington,7 - 1
+39203,45,1933-04-08,Rochdale,Tranmere Rovers,0 - 3
+39204,45,1933-04-08,Rotherham United,Gateshead,1 - 2
+39205,45,1933-04-08,Southport,Wrexham,0 - 0
+39206,45,1933-04-08,York City,Hartlepool United,1 - 1
+39207,45,1933-04-08,Aldershot,Newport County,2 - 1
+39208,45,1933-04-08,Brighton & Hove Albion,Exeter City,2 - 1
+39209,45,1933-04-08,Bristol Rovers,Luton Town,0 - 0
+39210,45,1933-04-08,Cardiff City,Coventry City,2 - 2
+39211,45,1933-04-08,Crystal Palace,Leyton Orient,2 - 1
+39212,45,1933-04-08,Gillingham,Northampton Town,5 - 1
+39213,45,1933-04-08,Norwich City,Torquay United,1 - 2
+39214,45,1933-04-08,Queens Park Rangers,AFC Bournemouth,3 - 1
+39215,45,1933-04-08,Reading,Brentford,1 - 3
+39216,45,1933-04-08,Southend United,Swindon Town,0 - 0
+39217,45,1933-04-08,Watford,Bristol City,1 - 0
+39218,45,1933-04-10,Tranmere Rovers,Mansfield Town,3 - 0
+39219,46,1933-04-10,Northampton Town,Cardiff City,2 - 0
+39238,46,1933-04-14,Carlisle United,York City,5 - 1
+39239,46,1933-04-14,Chester,Rochdale,2 - 0
+39240,46,1933-04-14,Crewe Alexandra,Barrow,2 - 0
+39241,46,1933-04-14,Darlington,Walsall,1 - 1
+39242,46,1933-04-14,Doncaster Rovers,Wrexham,1 - 1
+39243,46,1933-04-14,Gateshead,Stockport County,0 - 3
+39244,46,1933-04-14,Hartlepool United,Rotherham United,2 - 0
+39245,46,1933-04-14,Mansfield Town,Barnsley,0 - 1
+39246,47,1933-04-14,Southport,New Brighton,1 - 1
+39247,47,1933-04-14,Tranmere Rovers,Hull City,2 - 0
+39248,47,1933-04-14,Aldershot,Coventry City,1 - 1
+39249,47,1933-04-14,Brighton & Hove Albion,Southend United,1 - 2
+39250,47,1933-04-14,Bristol City,Brentford,1 - 2
+39251,47,1933-04-14,Cardiff City,Watford,1 - 1
+39252,47,1933-04-14,Crystal Palace,Norwich City,4 - 0
+39253,47,1933-04-14,Gillingham,Reading,4 - 1
+39254,47,1933-04-14,Leyton Orient,Exeter City,2 - 2
+39255,47,1933-04-14,Luton Town,Swindon Town,6 - 2
+39256,47,1933-04-14,Queens Park Rangers,Bristol Rovers,1 - 1
+39279,47,1933-04-15,Barnsley,York City,1 - 1
+39280,48,1933-04-15,Darlington,Chester,1 - 1
+39281,48,1933-04-15,Doncaster Rovers,Barrow,1 - 1
+39282,48,1933-04-15,Gateshead,Accrington Stanley,1 - 0
+39283,48,1933-04-15,Halifax Town,Rochdale,2 - 0
+39284,48,1933-04-15,Hartlepool United,Crewe Alexandra,3 - 2
+39285,48,1933-04-15,Hull City,Carlisle United,6 - 1
+39286,48,1933-04-15,Stockport County,New Brighton,1 - 1
+39287,48,1933-04-15,Tranmere Rovers,Southport,2 - 1
+39288,48,1933-04-15,Walsall,Rotherham United,1 - 0
+39289,48,1933-04-15,Wrexham,Mansfield Town,1 - 1
+39290,48,1933-04-15,AFC Bournemouth,Southend United,4 - 0
+39291,48,1933-04-15,Brentford,Norwich City,2 - 2
+39292,48,1933-04-15,Bristol City,Cardiff City,3 - 1
+39293,48,1933-04-15,Coventry City,Reading,3 - 1
+39294,48,1933-04-15,Exeter City,Bristol Rovers,1 - 0
+39295,48,1933-04-15,Leyton Orient,Gillingham,1 - 2
+39296,48,1933-04-15,Luton Town,Aldershot,2 - 1
+39297,48,1933-04-15,Newport County,Queens Park Rangers,5 - 1
+39298,48,1933-04-15,Northampton Town,Watford,0 - 0
+39299,48,1933-04-15,Swindon Town,Crystal Palace,1 - 0
+39300,48,1933-04-15,Torquay United,Brighton & Hove Albion,1 - 0
+39318,48,1933-04-17,Barnsley,Halifax Town,1 - 1
+39319,49,1933-04-17,Hull City,Tranmere Rovers,3 - 0
+39320,49,1933-04-17,Mansfield Town,Accrington Stanley,1 - 3
+39321,49,1933-04-17,New Brighton,Southport,2 - 1
+39322,49,1933-04-17,Rochdale,Chester,2 - 0
+39323,49,1933-04-17,Rotherham United,Hartlepool United,1 - 1
+39324,49,1933-04-17,Stockport County,Gateshead,4 - 3
+39325,49,1933-04-17,Walsall,Darlington,4 - 0
+39326,49,1933-04-17,Wrexham,Doncaster Rovers,3 - 0
+39327,49,1933-04-17,York City,Carlisle United,0 - 1
+39328,49,1933-04-17,AFC Bournemouth,Newport County,1 - 2
+39329,49,1933-04-17,Brentford,Bristol City,2 - 1
+39330,49,1933-04-17,Bristol Rovers,Queens Park Rangers,4 - 1
+39331,49,1933-04-17,Exeter City,Leyton Orient,3 - 0
+39332,49,1933-04-17,Norwich City,Crystal Palace,3 - 0
+39333,49,1933-04-17,Reading,Gillingham,4 - 0
+39334,49,1933-04-17,Southend United,Brighton & Hove Albion,2 - 1
+39335,49,1933-04-17,Swindon Town,Luton Town,1 - 1
+39336,49,1933-04-17,Torquay United,Northampton Town,5 - 1
+39337,49,1933-04-17,Watford,Cardiff City,2 - 1
+39343,49,1933-04-18,Halifax Town,Barnsley,2 - 1
+39344,50,1933-04-18,Rotherham United,Southport,3 - 1
+39345,50,1933-04-18,Coventry City,Aldershot,3 - 0
+39346,50,1933-04-18,Luton Town,Queens Park Rangers,3 - 1
+39347,50,1933-04-18,Northampton Town,Torquay United,2 - 0
+39370,50,1933-04-22,Accrington Stanley,Walsall,1 - 3
+39371,50,1933-04-22,Barrow,Darlington,4 - 0
+39372,50,1933-04-22,Carlisle United,Doncaster Rovers,0 - 2
+39373,50,1933-04-22,Crewe Alexandra,Barnsley,2 - 2
+39374,50,1933-04-22,Mansfield Town,Tranmere Rovers,2 - 0
+39375,50,1933-04-22,New Brighton,Gateshead,1 - 1
+39376,50,1933-04-22,Rochdale,Hartlepool United,6 - 2
+39377,50,1933-04-22,Rotherham United,Wrexham,0 - 2
+39378,51,1933-04-22,York City,Hull City,1 - 2
+39379,51,1933-04-22,Aldershot,Exeter City,4 - 1
+39380,51,1933-04-22,Brighton & Hove Albion,Brentford,1 - 2
+39381,51,1933-04-22,Bristol Rovers,Torquay United,0 - 2
+39382,51,1933-04-22,Cardiff City,Northampton Town,6 - 0
+39383,51,1933-04-22,Crystal Palace,AFC Bournemouth,3 - 0
+39384,51,1933-04-22,Gillingham,Swindon Town,3 - 1
+39385,51,1933-04-22,Norwich City,Coventry City,2 - 1
+39386,51,1933-04-22,Queens Park Rangers,Luton Town,3 - 1
+39387,51,1933-04-22,Reading,Bristol City,2 - 2
+39388,51,1933-04-22,Watford,Leyton Orient,1 - 1
+39391,51,1933-04-24,Tranmere Rovers,Wrexham,0 - 0
+39394,51,1933-04-26,York City,Southport,0 - 1
+39395,52,1933-04-26,Brentford,Brighton & Hove Albion,2 - 1
+39396,52,1933-04-26,Bristol City,Reading,4 - 1
+39397,52,1933-04-26,Exeter City,Aldershot,0 - 0
+39398,52,1933-04-26,Luton Town,Watford,3 - 2
+39399,52,1933-04-26,Swindon Town,Gillingham,1 - 1
+39400,52,1933-04-26,Torquay United,Bristol Rovers,1 - 1
+39401,52,1933-04-27,Carlisle United,Darlington,3 - 0
+39402,52,1933-04-27,Doncaster Rovers,Chester,3 - 3
+39423,52,1933-04-29,Barnsley,Rochdale,3 - 1
+39424,52,1933-04-29,Darlington,Carlisle United,5 - 2
+39425,53,1933-04-29,Doncaster Rovers,York City,3 - 2
+39426,53,1933-04-29,Gateshead,Chester,3 - 0
+39427,53,1933-04-29,Halifax Town,Mansfield Town,5 - 1
+39428,53,1933-04-29,Hartlepool United,Southport,4 - 2
+39429,53,1933-04-29,Hull City,Crewe Alexandra,3 - 0
+39430,53,1933-04-29,Stockport County,Barrow,4 - 1
+39431,53,1933-04-29,Tranmere Rovers,Rotherham United,1 - 0
+39432,53,1933-04-29,Walsall,New Brighton,0 - 0
+39433,53,1933-04-29,Wrexham,Accrington Stanley,1 - 0
+39434,53,1933-04-29,AFC Bournemouth,Gillingham,1 - 0
+39435,53,1933-04-29,Brentford,Bristol Rovers,0 - 0
+39436,53,1933-04-29,Bristol City,Norwich City,1 - 1
+39437,53,1933-04-29,Coventry City,Brighton & Hove Albion,2 - 2
+39438,53,1933-04-29,Exeter City,Queens Park Rangers,2 - 0
+39439,53,1933-04-29,Leyton Orient,Cardiff City,3 - 0
+39440,53,1933-04-29,Luton Town,Southend United,3 - 3
+39441,53,1933-04-29,Newport County,Crystal Palace,1 - 3
+39442,53,1933-04-29,Northampton Town,Reading,1 - 0
+39443,53,1933-04-29,Swindon Town,Watford,1 - 2
+39444,53,1933-04-29,Torquay United,Aldershot,1 - 0
+39445,53,1933-05-01,Hull City,York City,2 - 1
+39446,54,1933-05-01,Stockport County,Wrexham,1 - 0
+39449,54,1933-05-03,Accrington Stanley,Rochdale,0 - 3
+39450,54,1933-05-03,Gateshead,Walsall,1 - 1
+39451,54,1933-05-03,Brentford,Reading,1 - 1
+39452,54,1933-05-04,Doncaster Rovers,Carlisle United,4 - 2
+39475,54,1933-05-06,Accrington Stanley,Tranmere Rovers,3 - 0
+39476,55,1933-05-06,Barrow,Gateshead,1 - 2
+39477,55,1933-05-06,Crewe Alexandra,Doncaster Rovers,4 - 0
+39478,55,1933-05-06,Mansfield Town,Hartlepool United,7 - 1
+39479,55,1933-05-06,New Brighton,Wrexham,0 - 2
+39480,55,1933-05-06,Rochdale,Hull City,3 - 2
+39481,55,1933-05-06,Rotherham United,Halifax Town,6 - 1
+39482,55,1933-05-06,Southport,Barnsley,2 - 0
+39483,55,1933-05-06,Stockport County,Chester,8 - 5
+39484,55,1933-05-06,York City,Darlington,6 - 1
+39485,55,1933-05-06,Aldershot,Brentford,1 - 1
+39486,55,1933-05-06,Brighton & Hove Albion,Bristol City,7 - 0
+39487,55,1933-05-06,Bristol Rovers,Coventry City,1 - 0
+39488,55,1933-05-06,Cardiff City,Swindon Town,3 - 0
+39489,55,1933-05-06,Crystal Palace,Luton Town,3 - 0
+39490,55,1933-05-06,Gillingham,Newport County,2 - 0
+39491,55,1933-05-06,Norwich City,Northampton Town,2 - 0
+39492,55,1933-05-06,Queens Park Rangers,Torquay United,1 - 1
+39493,55,1933-05-06,Reading,Leyton Orient,3 - 1
+39494,55,1933-05-06,Southend United,Exeter City,1 - 2
+39495,55,1933-05-06,Watford,AFC Bournemouth,2 - 1

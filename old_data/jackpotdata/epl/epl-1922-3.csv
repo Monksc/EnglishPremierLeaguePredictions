@@ -1,0 +1,843 @@
+,Round Number,Date,Home Team,Away Team,Result
+19302,0,1922-08-26,Accrington Stanley,Darlington,2 - 1
+19303,0,1922-08-26,Bradford Park Avenue,Nelson,6 - 2
+19304,0,1922-08-26,Chesterfield,Barrow,2 - 1
+19305,0,1922-08-26,Crewe Alexandra,Rochdale,0 - 1
+19306,0,1922-08-26,Durham City,Southport,1 - 1
+19307,0,1922-08-26,Grimsby Town,Wrexham,4 - 0
+19308,0,1922-08-26,Halifax Town,Lincoln City,3 - 1
+19309,0,1922-08-26,Tranmere Rovers,Stalybridge Celtic,1 - 1
+19310,0,1922-08-26,Walsall,Hartlepool United,2 - 2
+19311,0,1922-08-26,Wigan Borough,Ashington,6 - 1
+19312,0,1922-08-26,Aberdare Athletic,Exeter City,3 - 1
+19313,0,1922-08-26,Brighton & Hove Albion,Norwich City,0 - 0
+19314,0,1922-08-26,Bristol City,Reading,2 - 1
+19315,0,1922-08-26,Gillingham,Brentford,2 - 0
+19316,0,1922-08-26,Luton Town,Charlton Athletic,2 - 2
+19317,0,1922-08-26,Millwall,Plymouth Argyle,0 - 0
+19318,0,1922-08-26,Newport County,Southend United,0 - 2
+19319,0,1922-08-26,Portsmouth,Bristol Rovers,0 - 0
+19320,0,1922-08-26,Queens Park Rangers,Watford,1 - 2
+19321,0,1922-08-26,Swansea City,Merthyr Town,1 - 1
+19322,0,1922-08-26,Swindon Town,Northampton Town,2 - 0
+19340,0,1922-08-28,Brentford,Luton Town,3 - 2
+19341,1,1922-08-28,Bristol Rovers,Newport County,3 - 1
+19342,1,1922-08-28,Charlton Athletic,Portsmouth,0 - 2
+19343,1,1922-08-28,Merthyr Town,Swindon Town,1 - 1
+19344,1,1922-08-28,Northampton Town,Gillingham,1 - 0
+19345,1,1922-08-28,Norwich City,Queens Park Rangers,1 - 1
+19346,1,1922-08-28,Plymouth Argyle,Bristol City,5 - 1
+19349,1,1922-08-30,Exeter City,Brighton & Hove Albion,1 - 0
+19350,1,1922-08-30,Reading,Swansea City,4 - 4
+19351,1,1922-08-30,Watford,Millwall,0 - 0
+19374,1,1922-09-02,Ashington,Wigan Borough,2 - 1
+19375,1,1922-09-02,Barrow,Chesterfield,3 - 1
+19376,1,1922-09-02,Darlington,Accrington Stanley,4 - 0
+19377,1,1922-09-02,Hartlepool United,Walsall,2 - 2
+19378,1,1922-09-02,Lincoln City,Halifax Town,0 - 0
+19379,1,1922-09-02,Nelson,Bradford Park Avenue,1 - 0
+19380,1,1922-09-02,Rochdale,Crewe Alexandra,1 - 1
+19381,1,1922-09-02,Southport,Durham City,1 - 0
+19382,1,1922-09-02,Stalybridge Celtic,Tranmere Rovers,4 - 1
+19383,1,1922-09-02,Wrexham,Grimsby Town,1 - 1
+19384,1,1922-09-02,Brentford,Gillingham,2 - 0
+19385,2,1922-09-02,Bristol Rovers,Portsmouth,0 - 1
+19386,2,1922-09-02,Charlton Athletic,Luton Town,2 - 1
+19387,2,1922-09-02,Exeter City,Aberdare Athletic,1 - 0
+19388,2,1922-09-02,Merthyr Town,Swansea City,2 - 1
+19389,2,1922-09-02,Northampton Town,Swindon Town,1 - 2
+19390,2,1922-09-02,Norwich City,Brighton & Hove Albion,1 - 0
+19391,2,1922-09-02,Plymouth Argyle,Millwall,1 - 0
+19392,2,1922-09-02,Reading,Bristol City,0 - 0
+19393,2,1922-09-02,Southend United,Newport County,3 - 1
+19394,2,1922-09-02,Watford,Queens Park Rangers,0 - 3
+19413,2,1922-09-04,Bristol City,Plymouth Argyle,2 - 0
+19414,3,1922-09-04,Luton Town,Brentford,4 - 0
+19415,3,1922-09-04,Millwall,Watford,5 - 1
+19416,3,1922-09-04,Queens Park Rangers,Norwich City,2 - 0
+19417,3,1922-09-04,Swansea City,Reading,2 - 2
+19418,3,1922-09-04,Swindon Town,Merthyr Town,4 - 0
+19422,3,1922-09-06,Brighton & Hove Albion,Exeter City,3 - 0
+19423,3,1922-09-06,Gillingham,Northampton Town,0 - 3
+19424,3,1922-09-06,Portsmouth,Charlton Athletic,3 - 0
+19426,3,1922-09-07,Newport County,Bristol Rovers,4 - 1
+19449,3,1922-09-09,Barrow,Wrexham,1 - 0
+19450,3,1922-09-09,Bradford Park Avenue,Halifax Town,2 - 2
+19451,3,1922-09-09,Darlington,Ashington,1 - 1
+19452,3,1922-09-09,Durham City,Grimsby Town,0 - 3
+19453,3,1922-09-09,Hartlepool United,Southport,1 - 1
+19454,3,1922-09-09,Lincoln City,Rochdale,0 - 1
+19455,3,1922-09-09,Nelson,Stalybridge Celtic,1 - 0
+19456,3,1922-09-09,Tranmere Rovers,Accrington Stanley,4 - 1
+19457,3,1922-09-09,Walsall,Chesterfield,0 - 1
+19458,3,1922-09-09,Wigan Borough,Crewe Alexandra,1 - 1
+19459,3,1922-09-09,Aberdare Athletic,Portsmouth,0 - 2
+19460,3,1922-09-09,Bristol City,Newport County,2 - 0
+19461,4,1922-09-09,Exeter City,Charlton Athletic,0 - 0
+19462,4,1922-09-09,Luton Town,Brighton & Hove Albion,1 - 1
+19463,4,1922-09-09,Millwall,Swindon Town,1 - 1
+19464,4,1922-09-09,Northampton Town,Watford,1 - 1
+19465,4,1922-09-09,Norwich City,Brentford,0 - 2
+19466,4,1922-09-09,Plymouth Argyle,Merthyr Town,2 - 0
+19467,4,1922-09-09,Queens Park Rangers,Gillingham,2 - 1
+19468,4,1922-09-09,Reading,Bristol Rovers,0 - 1
+19469,4,1922-09-09,Swansea City,Southend United,1 - 0
+19471,4,1922-09-11,Aberdare Athletic,Southend United,1 - 1
+19472,4,1922-09-11,Brentford,Queens Park Rangers,1 - 3
+19473,5,1922-09-12,Nelson,Halifax Town,2 - 0
+19475,5,1922-09-13,Bristol Rovers,Watford,1 - 2
+19498,5,1922-09-16,Accrington Stanley,Tranmere Rovers,4 - 1
+19499,5,1922-09-16,Ashington,Darlington,3 - 1
+19500,5,1922-09-16,Chesterfield,Walsall,6 - 0
+19501,5,1922-09-16,Crewe Alexandra,Wigan Borough,0 - 1
+19502,5,1922-09-16,Grimsby Town,Durham City,1 - 0
+19503,5,1922-09-16,Halifax Town,Bradford Park Avenue,3 - 0
+19504,6,1922-09-16,Rochdale,Lincoln City,1 - 1
+19505,6,1922-09-16,Southport,Hartlepool United,1 - 0
+19506,6,1922-09-16,Stalybridge Celtic,Nelson,2 - 0
+19507,6,1922-09-16,Wrexham,Barrow,0 - 0
+19508,6,1922-09-16,Brentford,Norwich City,1 - 4
+19509,6,1922-09-16,Brighton & Hove Albion,Luton Town,0 - 1
+19510,6,1922-09-16,Bristol Rovers,Reading,1 - 1
+19511,6,1922-09-16,Charlton Athletic,Exeter City,0 - 0
+19512,6,1922-09-16,Gillingham,Queens Park Rangers,0 - 1
+19513,6,1922-09-16,Merthyr Town,Plymouth Argyle,0 - 1
+19514,6,1922-09-16,Newport County,Bristol City,0 - 1
+19515,6,1922-09-16,Portsmouth,Aberdare Athletic,1 - 0
+19516,6,1922-09-16,Southend United,Swansea City,0 - 1
+19517,6,1922-09-16,Swindon Town,Millwall,0 - 0
+19518,6,1922-09-16,Watford,Northampton Town,0 - 0
+19542,6,1922-09-23,Bradford Park Avenue,Walsall,2 - 2
+19543,7,1922-09-23,Chesterfield,Crewe Alexandra,2 - 1
+19544,7,1922-09-23,Darlington,Barrow,3 - 2
+19545,7,1922-09-23,Durham City,Accrington Stanley,4 - 1
+19546,7,1922-09-23,Grimsby Town,Wigan Borough,0 - 0
+19547,7,1922-09-23,Halifax Town,Tranmere Rovers,3 - 1
+19548,7,1922-09-23,Hartlepool United,Ashington,3 - 1
+19549,7,1922-09-23,Lincoln City,Stalybridge Celtic,1 - 1
+19550,7,1922-09-23,Nelson,Southport,2 - 0
+19551,7,1922-09-23,Rochdale,Wrexham,5 - 0
+19552,7,1922-09-23,Bristol City,Bristol Rovers,0 - 1
+19553,7,1922-09-23,Exeter City,Watford,1 - 2
+19554,7,1922-09-23,Luton Town,Swindon Town,3 - 2
+19555,7,1922-09-23,Merthyr Town,Charlton Athletic,3 - 0
+19556,7,1922-09-23,Millwall,Aberdare Athletic,1 - 0
+19557,7,1922-09-23,Northampton Town,Brentford,1 - 1
+19558,7,1922-09-23,Norwich City,Southend United,2 - 1
+19559,7,1922-09-23,Portsmouth,Newport County,2 - 0
+19560,7,1922-09-23,Queens Park Rangers,Brighton & Hove Albion,0 - 0
+19561,7,1922-09-23,Reading,Plymouth Argyle,0 - 1
+19562,7,1922-09-23,Swansea City,Gillingham,1 - 0
+19563,7,1922-09-25,Southend United,Aberdare Athletic,4 - 0
+19586,8,1922-09-30,Accrington Stanley,Durham City,3 - 1
+19587,8,1922-09-30,Ashington,Hartlepool United,4 - 2
+19588,8,1922-09-30,Barrow,Darlington,0 - 1
+19589,8,1922-09-30,Crewe Alexandra,Chesterfield,2 - 0
+19590,8,1922-09-30,Southport,Nelson,0 - 1
+19591,8,1922-09-30,Stalybridge Celtic,Lincoln City,0 - 1
+19592,8,1922-09-30,Tranmere Rovers,Halifax Town,2 - 1
+19593,8,1922-09-30,Walsall,Bradford Park Avenue,1 - 0
+19594,8,1922-09-30,Wigan Borough,Grimsby Town,1 - 0
+19595,8,1922-09-30,Wrexham,Rochdale,3 - 1
+19596,8,1922-09-30,Aberdare Athletic,Millwall,0 - 1
+19597,9,1922-09-30,Brentford,Northampton Town,2 - 1
+19598,9,1922-09-30,Brighton & Hove Albion,Queens Park Rangers,2 - 0
+19599,9,1922-09-30,Bristol Rovers,Bristol City,1 - 2
+19600,9,1922-09-30,Charlton Athletic,Merthyr Town,0 - 1
+19601,9,1922-09-30,Gillingham,Swansea City,2 - 2
+19602,9,1922-09-30,Newport County,Portsmouth,0 - 0
+19603,9,1922-09-30,Plymouth Argyle,Reading,3 - 0
+19604,9,1922-09-30,Southend United,Norwich City,3 - 1
+19605,9,1922-09-30,Swindon Town,Luton Town,1 - 1
+19606,9,1922-09-30,Watford,Exeter City,4 - 0
+19608,9,1922-10-02,Swansea City,Swindon Town,5 - 0
+19632,10,1922-10-07,Accrington Stanley,Wigan Borough,0 - 0
+19633,10,1922-10-07,Grimsby Town,Chesterfield,3 - 1
+19634,10,1922-10-07,Halifax Town,Durham City,1 - 3
+19635,10,1922-10-07,Hartlepool United,Barrow,2 - 0
+19636,10,1922-10-07,Nelson,Ashington,1 - 3
+19637,10,1922-10-07,Rochdale,Darlington,2 - 2
+19638,10,1922-10-07,Southport,Stalybridge Celtic,0 - 0
+19639,10,1922-10-07,Tranmere Rovers,Bradford Park Avenue,0 - 0
+19640,10,1922-10-07,Walsall,Crewe Alexandra,1 - 1
+19641,10,1922-10-07,Wrexham,Lincoln City,0 - 2
+19642,10,1922-10-07,Brighton & Hove Albion,Gillingham,3 - 0
+19643,10,1922-10-07,Bristol Rovers,Southend United,2 - 0
+19644,10,1922-10-07,Exeter City,Brentford,0 - 2
+19645,10,1922-10-07,Luton Town,Aberdare Athletic,4 - 1
+19646,10,1922-10-07,Merthyr Town,Watford,2 - 3
+19647,10,1922-10-07,Millwall,Newport County,0 - 0
+19648,10,1922-10-07,Norwich City,Northampton Town,1 - 0
+19649,10,1922-10-07,Portsmouth,Plymouth Argyle,1 - 2
+19650,10,1922-10-07,Queens Park Rangers,Swindon Town,0 - 2
+19651,10,1922-10-07,Reading,Charlton Athletic,2 - 1
+19652,10,1922-10-07,Swansea City,Bristol City,4 - 1
+19675,11,1922-10-14,Ashington,Nelson,0 - 2
+19676,11,1922-10-14,Barrow,Hartlepool United,0 - 0
+19677,11,1922-10-14,Bradford Park Avenue,Tranmere Rovers,3 - 0
+19678,11,1922-10-14,Chesterfield,Grimsby Town,3 - 2
+19679,11,1922-10-14,Crewe Alexandra,Darlington,3 - 0
+19680,11,1922-10-14,Durham City,Halifax Town,2 - 2
+19681,11,1922-10-14,Lincoln City,Wrexham,2 - 0
+19682,11,1922-10-14,Stalybridge Celtic,Southport,1 - 0
+19683,11,1922-10-14,Walsall,Rochdale,0 - 0
+19684,11,1922-10-14,Wigan Borough,Accrington Stanley,2 - 0
+19685,11,1922-10-14,Aberdare Athletic,Luton Town,2 - 1
+19686,11,1922-10-14,Brentford,Exeter City,0 - 1
+19687,11,1922-10-14,Bristol City,Swansea City,1 - 0
+19688,12,1922-10-14,Charlton Athletic,Reading,1 - 0
+19689,12,1922-10-14,Gillingham,Brighton & Hove Albion,2 - 0
+19690,12,1922-10-14,Newport County,Millwall,0 - 0
+19691,12,1922-10-14,Northampton Town,Norwich City,1 - 1
+19692,12,1922-10-14,Plymouth Argyle,Portsmouth,2 - 0
+19693,12,1922-10-14,Southend United,Bristol Rovers,0 - 0
+19694,12,1922-10-14,Swindon Town,Queens Park Rangers,1 - 0
+19695,12,1922-10-14,Watford,Merthyr Town,1 - 1
+19718,12,1922-10-21,Accrington Stanley,Wrexham,1 - 0
+19719,12,1922-10-21,Bradford Park Avenue,Lincoln City,4 - 1
+19720,12,1922-10-21,Chesterfield,Ashington,2 - 2
+19721,12,1922-10-21,Crewe Alexandra,Barrow,1 - 0
+19722,12,1922-10-21,Darlington,Walsall,2 - 0
+19723,12,1922-10-21,Durham City,Stalybridge Celtic,0 - 0
+19724,12,1922-10-21,Grimsby Town,Rochdale,1 - 1
+19725,12,1922-10-21,Halifax Town,Hartlepool United,3 - 0
+19726,12,1922-10-21,Southport,Wigan Borough,1 - 0
+19727,12,1922-10-21,Tranmere Rovers,Nelson,0 - 2
+19728,12,1922-10-21,Aberdare Athletic,Northampton Town,0 - 2
+19729,12,1922-10-21,Brighton & Hove Albion,Brentford,2 - 1
+19730,13,1922-10-21,Bristol City,Southend United,5 - 0
+19731,13,1922-10-21,Gillingham,Watford,1 - 4
+19732,13,1922-10-21,Luton Town,Plymouth Argyle,2 - 1
+19733,13,1922-10-21,Millwall,Bristol Rovers,1 - 0
+19734,13,1922-10-21,Newport County,Merthyr Town,1 - 1
+19735,13,1922-10-21,Portsmouth,Reading,1 - 0
+19736,13,1922-10-21,Queens Park Rangers,Charlton Athletic,1 - 2
+19737,13,1922-10-21,Swansea City,Exeter City,5 - 1
+19738,13,1922-10-21,Swindon Town,Norwich City,1 - 2
+19739,13,1922-10-23,Charlton Athletic,Plymouth Argyle,1 - 0
+19762,14,1922-10-28,Ashington,Chesterfield,2 - 0
+19763,14,1922-10-28,Barrow,Crewe Alexandra,2 - 0
+19764,14,1922-10-28,Hartlepool United,Halifax Town,3 - 2
+19765,14,1922-10-28,Lincoln City,Bradford Park Avenue,0 - 0
+19766,14,1922-10-28,Nelson,Tranmere Rovers,1 - 0
+19767,14,1922-10-28,Rochdale,Grimsby Town,0 - 1
+19768,14,1922-10-28,Walsall,Darlington,2 - 2
+19769,14,1922-10-28,Wigan Borough,Southport,1 - 0
+19770,14,1922-10-28,Wrexham,Accrington Stanley,2 - 0
+19771,14,1922-10-28,Brentford,Brighton & Hove Albion,1 - 2
+19772,14,1922-10-28,Bristol Rovers,Millwall,0 - 0
+19773,14,1922-10-28,Charlton Athletic,Queens Park Rangers,1 - 1
+19774,15,1922-10-28,Exeter City,Swansea City,1 - 0
+19775,15,1922-10-28,Merthyr Town,Newport County,1 - 0
+19776,15,1922-10-28,Northampton Town,Aberdare Athletic,3 - 1
+19777,15,1922-10-28,Norwich City,Swindon Town,0 - 0
+19778,15,1922-10-28,Plymouth Argyle,Luton Town,4 - 0
+19779,15,1922-10-28,Reading,Portsmouth,0 - 0
+19780,15,1922-10-28,Southend United,Bristol City,0 - 3
+19781,15,1922-10-28,Watford,Gillingham,5 - 2
+19804,15,1922-11-04,Accrington Stanley,Chesterfield,0 - 4
+19805,15,1922-11-04,Barrow,Nelson,1 - 0
+19806,15,1922-11-04,Bradford Park Avenue,Durham City,4 - 1
+19807,15,1922-11-04,Grimsby Town,Crewe Alexandra,2 - 3
+19808,15,1922-11-04,Hartlepool United,Rochdale,0 - 2
+19809,15,1922-11-04,Lincoln City,Southport,2 - 0
+19810,15,1922-11-04,Stalybridge Celtic,Ashington,2 - 1
+19811,15,1922-11-04,Tranmere Rovers,Walsall,2 - 3
+19812,15,1922-11-04,Wigan Borough,Halifax Town,0 - 1
+19813,15,1922-11-04,Wrexham,Darlington,0 - 0
+19814,15,1922-11-04,Aberdare Athletic,Queens Park Rangers,0 - 0
+19815,16,1922-11-04,Brentford,Merthyr Town,3 - 1
+19816,16,1922-11-04,Brighton & Hove Albion,Swansea City,1 - 3
+19817,16,1922-11-04,Bristol City,Portsmouth,2 - 1
+19818,16,1922-11-04,Exeter City,Norwich City,2 - 0
+19819,16,1922-11-04,Gillingham,Swindon Town,0 - 0
+19820,16,1922-11-04,Millwall,Charlton Athletic,1 - 1
+19821,16,1922-11-04,Newport County,Luton Town,0 - 3
+19822,16,1922-11-04,Plymouth Argyle,Bristol Rovers,3 - 0
+19823,16,1922-11-04,Southend United,Northampton Town,1 - 2
+19824,16,1922-11-04,Watford,Reading,1 - 0
+19848,16,1922-11-11,Ashington,Stalybridge Celtic,0 - 3
+19849,16,1922-11-11,Chesterfield,Accrington Stanley,3 - 1
+19850,16,1922-11-11,Crewe Alexandra,Grimsby Town,3 - 0
+19851,16,1922-11-11,Darlington,Wrexham,4 - 1
+19852,16,1922-11-11,Durham City,Bradford Park Avenue,0 - 0
+19853,16,1922-11-11,Halifax Town,Wigan Borough,0 - 1
+19854,16,1922-11-11,Nelson,Barrow,2 - 1
+19855,16,1922-11-11,Rochdale,Hartlepool United,4 - 0
+19856,16,1922-11-11,Southport,Lincoln City,3 - 0
+19857,16,1922-11-11,Walsall,Tranmere Rovers,2 - 1
+19858,16,1922-11-11,Bristol Rovers,Plymouth Argyle,0 - 1
+19859,17,1922-11-11,Charlton Athletic,Millwall,0 - 2
+19860,17,1922-11-11,Luton Town,Newport County,1 - 0
+19861,17,1922-11-11,Merthyr Town,Brentford,1 - 0
+19862,17,1922-11-11,Northampton Town,Southend United,5 - 2
+19863,17,1922-11-11,Norwich City,Exeter City,6 - 0
+19864,17,1922-11-11,Portsmouth,Bristol City,1 - 2
+19865,17,1922-11-11,Queens Park Rangers,Aberdare Athletic,4 - 1
+19866,17,1922-11-11,Reading,Watford,1 - 0
+19867,17,1922-11-11,Swansea City,Brighton & Hove Albion,0 - 0
+19868,17,1922-11-11,Swindon Town,Gillingham,0 - 1
+19891,17,1922-11-18,Bradford Park Avenue,Stalybridge Celtic,1 - 0
+19892,17,1922-11-18,Grimsby Town,Walsall,1 - 2
+19893,17,1922-11-18,Hartlepool United,Wrexham,1 - 1
+19894,17,1922-11-18,Southport,Ashington,1 - 0
+19895,17,1922-11-18,Brentford,Reading,1 - 1
+19896,18,1922-11-18,Bristol City,Millwall,1 - 1
+19897,18,1922-11-18,Charlton Athletic,Bristol Rovers,0 - 0
+19898,18,1922-11-18,Gillingham,Aberdare Athletic,4 - 0
+19899,18,1922-11-18,Merthyr Town,Norwich City,0 - 1
+19900,18,1922-11-18,Newport County,Queens Park Rangers,1 - 0
+19901,18,1922-11-18,Portsmouth,Swansea City,0 - 3
+19902,18,1922-11-18,Swindon Town,Brighton & Hove Albion,3 - 0
+19903,18,1922-11-18,Watford,Luton Town,2 - 1
+19925,18,1922-11-25,Ashington,Southport,1 - 1
+19926,18,1922-11-25,Crewe Alexandra,Accrington Stanley,1 - 1
+19927,18,1922-11-25,Durham City,Tranmere Rovers,1 - 0
+19928,18,1922-11-25,Halifax Town,Chesterfield,2 - 0
+19929,18,1922-11-25,Lincoln City,Darlington,1 - 1
+19930,18,1922-11-25,Nelson,Rochdale,1 - 2
+19931,18,1922-11-25,Stalybridge Celtic,Barrow,2 - 0
+19932,18,1922-11-25,Walsall,Grimsby Town,1 - 0
+19933,18,1922-11-25,Wigan Borough,Bradford Park Avenue,3 - 2
+19934,18,1922-11-25,Wrexham,Hartlepool United,2 - 0
+19935,18,1922-11-25,Aberdare Athletic,Gillingham,2 - 0
+19936,19,1922-11-25,Brighton & Hove Albion,Swindon Town,1 - 1
+19937,19,1922-11-25,Bristol Rovers,Charlton Athletic,1 - 1
+19938,19,1922-11-25,Luton Town,Watford,0 - 1
+19939,19,1922-11-25,Millwall,Bristol City,1 - 1
+19940,19,1922-11-25,Northampton Town,Exeter City,3 - 0
+19941,19,1922-11-25,Norwich City,Merthyr Town,1 - 1
+19942,19,1922-11-25,Plymouth Argyle,Southend United,1 - 1
+19943,19,1922-11-25,Queens Park Rangers,Newport County,1 - 1
+19944,19,1922-11-25,Reading,Brentford,1 - 0
+19945,19,1922-11-25,Swansea City,Portsmouth,2 - 1
+19966,19,1922-12-02,Luton Town,Bristol City,1 - 1
+19967,20,1922-12-02,Portsmouth,Millwall,2 - 0
+19968,20,1922-12-04,Rochdale,Tranmere Rovers,0 - 0
+19991,20,1922-12-09,Ashington,Lincoln City,0 - 2
+19992,20,1922-12-09,Barrow,Southport,2 - 0
+19993,20,1922-12-09,Chesterfield,Bradford Park Avenue,2 - 2
+19994,20,1922-12-09,Darlington,Nelson,2 - 3
+19995,20,1922-12-09,Durham City,Walsall,0 - 2
+19996,20,1922-12-09,Halifax Town,Crewe Alexandra,1 - 0
+19997,20,1922-12-09,Hartlepool United,Accrington Stanley,0 - 0
+19998,20,1922-12-09,Wigan Borough,Tranmere Rovers,0 - 0
+19999,20,1922-12-09,Wrexham,Stalybridge Celtic,2 - 1
+20000,20,1922-12-09,Brighton & Hove Albion,Aberdare Athletic,3 - 1
+20001,20,1922-12-09,Bristol City,Luton Town,1 - 0
+20002,21,1922-12-09,Exeter City,Southend United,2 - 1
+20003,21,1922-12-09,Newport County,Gillingham,2 - 1
+20004,21,1922-12-09,Northampton Town,Merthyr Town,1 - 1
+20005,21,1922-12-09,Plymouth Argyle,Charlton Athletic,2 - 0
+20006,21,1922-12-09,Queens Park Rangers,Brentford,1 - 1
+20007,21,1922-12-09,Reading,Norwich City,4 - 1
+20008,21,1922-12-09,Swindon Town,Swansea City,2 - 1
+20009,21,1922-12-09,Watford,Bristol Rovers,0 - 1
+20033,21,1922-12-16,Crewe Alexandra,Bradford Park Avenue,0 - 1
+20034,21,1922-12-16,Newport County,Brighton & Hove Albion,1 - 0
+20035,22,1922-12-16,Portsmouth,Luton Town,1 - 2
+20036,22,1922-12-16,Queens Park Rangers,Bristol City,1 - 2
+20037,22,1922-12-16,Reading,Northampton Town,0 - 0
+20038,22,1922-12-16,Southend United,Exeter City,5 - 0
+20039,22,1922-12-16,Swansea City,Millwall,0 - 1
+20040,22,1922-12-16,Watford,Plymouth Argyle,1 - 0
+20063,22,1922-12-23,Accrington Stanley,Walsall,2 - 1
+20064,22,1922-12-23,Ashington,Barrow,2 - 6
+20065,22,1922-12-23,Bradford Park Avenue,Crewe Alexandra,3 - 0
+20066,22,1922-12-23,Durham City,Wigan Borough,2 - 2
+20067,22,1922-12-23,Grimsby Town,Halifax Town,0 - 1
+20068,22,1922-12-23,Lincoln City,Hartlepool United,2 - 1
+20069,22,1922-12-23,Nelson,Darlington,3 - 0
+20070,22,1922-12-23,Rochdale,Southport,3 - 2
+20071,22,1922-12-23,Stalybridge Celtic,Wrexham,3 - 2
+20072,22,1922-12-23,Tranmere Rovers,Chesterfield,2 - 3
+20073,22,1922-12-23,Brentford,Bristol Rovers,0 - 1
+20074,22,1922-12-23,Brighton & Hove Albion,Newport County,2 - 1
+20075,23,1922-12-23,Bristol City,Queens Park Rangers,3 - 2
+20076,23,1922-12-23,Exeter City,Merthyr Town,2 - 1
+20077,23,1922-12-23,Luton Town,Portsmouth,0 - 2
+20078,23,1922-12-23,Millwall,Swansea City,0 - 2
+20079,23,1922-12-23,Northampton Town,Reading,5 - 0
+20080,23,1922-12-23,Norwich City,Gillingham,1 - 1
+20081,23,1922-12-23,Plymouth Argyle,Watford,1 - 0
+20082,23,1922-12-23,Southend United,Charlton Athletic,0 - 0
+20083,23,1922-12-23,Swindon Town,Aberdare Athletic,5 - 4
+20104,23,1922-12-25,Bradford Park Avenue,Chesterfield,1 - 0
+20105,23,1922-12-25,Crewe Alexandra,Wrexham,0 - 0
+20106,23,1922-12-25,Darlington,Hartlepool United,4 - 0
+20107,23,1922-12-25,Grimsby Town,Accrington Stanley,7 - 1
+20108,23,1922-12-25,Halifax Town,Nelson,2 - 2
+20109,23,1922-12-25,Lincoln City,Walsall,0 - 2
+20110,23,1922-12-25,Southport,Rochdale,0 - 1
+20111,23,1922-12-25,Tranmere Rovers,Ashington,1 - 0
+20112,23,1922-12-25,Wigan Borough,Durham City,0 - 2
+20113,23,1922-12-25,Aberdare Athletic,Merthyr Town,0 - 0
+20114,24,1922-12-25,Brighton & Hove Albion,Portsmouth,7 - 1
+20115,24,1922-12-25,Bristol Rovers,Exeter City,3 - 3
+20116,24,1922-12-25,Charlton Athletic,Norwich City,3 - 0
+20117,24,1922-12-25,Gillingham,Millwall,3 - 0
+20118,24,1922-12-25,Plymouth Argyle,Northampton Town,1 - 0
+20119,24,1922-12-25,Queens Park Rangers,Luton Town,4 - 0
+20120,24,1922-12-25,Southend United,Reading,3 - 1
+20121,24,1922-12-25,Watford,Brentford,2 - 0
+20143,24,1922-12-26,Accrington Stanley,Ashington,4 - 1
+20144,24,1922-12-26,Chesterfield,Rochdale,4 - 0
+20145,24,1922-12-26,Hartlepool United,Durham City,2 - 1
+20146,24,1922-12-26,Southport,Tranmere Rovers,0 - 0
+20147,24,1922-12-26,Stalybridge Celtic,Bradford Park Avenue,1 - 0
+20148,24,1922-12-26,Walsall,Lincoln City,2 - 0
+20149,24,1922-12-26,Wigan Borough,Barrow,2 - 1
+20150,24,1922-12-26,Wrexham,Crewe Alexandra,2 - 1
+20151,24,1922-12-26,Brentford,Watford,2 - 1
+20152,25,1922-12-26,Bristol City,Swindon Town,3 - 1
+20153,25,1922-12-26,Exeter City,Bristol Rovers,0 - 0
+20154,25,1922-12-26,Luton Town,Queens Park Rangers,1 - 0
+20155,25,1922-12-26,Merthyr Town,Aberdare Athletic,0 - 2
+20156,25,1922-12-26,Millwall,Gillingham,3 - 1
+20157,25,1922-12-26,Northampton Town,Plymouth Argyle,1 - 0
+20158,25,1922-12-26,Norwich City,Charlton Athletic,2 - 3
+20159,25,1922-12-26,Portsmouth,Brighton & Hove Albion,1 - 2
+20160,25,1922-12-26,Reading,Southend United,1 - 1
+20161,25,1922-12-26,Swansea City,Newport County,5 - 1
+20163,25,1922-12-27,Newport County,Swansea City,1 - 2
+20164,26,1922-12-27,Norwich City,Reading,2 - 0
+20165,26,1922-12-27,Swindon Town,Bristol City,0 - 1
+20188,26,1922-12-30,Accrington Stanley,Halifax Town,4 - 1
+20189,26,1922-12-30,Chesterfield,Durham City,3 - 1
+20190,26,1922-12-30,Crewe Alexandra,Tranmere Rovers,2 - 0
+20191,26,1922-12-30,Grimsby Town,Bradford Park Avenue,0 - 1
+20192,26,1922-12-30,Lincoln City,Barrow,1 - 1
+20193,26,1922-12-30,Nelson,Hartlepool United,4 - 1
+20194,26,1922-12-30,Rochdale,Ashington,2 - 0
+20195,26,1922-12-30,Stalybridge Celtic,Darlington,4 - 2
+20196,26,1922-12-30,Wigan Borough,Walsall,1 - 0
+20197,26,1922-12-30,Wrexham,Southport,1 - 1
+20198,26,1922-12-30,Charlton Athletic,Watford,0 - 0
+20199,26,1922-12-30,Gillingham,Bristol City,1 - 1
+20200,26,1922-12-30,Luton Town,Millwall,2 - 2
+20201,26,1922-12-30,Merthyr Town,Southend United,2 - 1
+20202,26,1922-12-30,Northampton Town,Brighton & Hove Albion,0 - 0
+20203,26,1922-12-30,Queens Park Rangers,Portsmouth,0 - 1
+20204,26,1922-12-30,Reading,Exeter City,1 - 3
+20205,27,1922-12-30,Swansea City,Aberdare Athletic,5 - 1
+20206,27,1922-12-30,Swindon Town,Newport County,2 - 2
+20215,27,1923-01-01,Accrington Stanley,Grimsby Town,4 - 0
+20216,27,1923-01-01,Ashington,Durham City,0 - 0
+20217,27,1923-01-01,Barrow,Wigan Borough,2 - 3
+20218,27,1923-01-01,Chesterfield,Tranmere Rovers,5 - 0
+20219,27,1923-01-01,Hartlepool United,Darlington,1 - 0
+20220,27,1923-01-01,Southport,Crewe Alexandra,2 - 0
+20221,27,1923-01-01,Millwall,Portsmouth,1 - 3
+20223,27,1923-01-02,Barrow,Stalybridge Celtic,0 - 1
+20224,28,1923-01-02,Darlington,Rochdale,1 - 1
+20225,28,1923-01-02,Hartlepool United,Lincoln City,2 - 0
+20248,28,1923-01-06,Ashington,Rochdale,2 - 0
+20249,28,1923-01-06,Barrow,Lincoln City,1 - 3
+20250,29,1923-01-06,Bradford Park Avenue,Grimsby Town,2 - 1
+20251,29,1923-01-06,Darlington,Stalybridge Celtic,1 - 0
+20252,29,1923-01-06,Durham City,Chesterfield,1 - 1
+20253,29,1923-01-06,Halifax Town,Accrington Stanley,0 - 0
+20254,29,1923-01-06,Hartlepool United,Nelson,5 - 1
+20255,29,1923-01-06,Southport,Wrexham,1 - 0
+20256,29,1923-01-06,Tranmere Rovers,Crewe Alexandra,1 - 2
+20257,29,1923-01-06,Walsall,Wigan Borough,3 - 1
+20258,29,1923-01-06,Aberdare Athletic,Swansea City,0 - 1
+20259,29,1923-01-06,Brentford,Plymouth Argyle,2 - 0
+20260,29,1923-01-06,Brighton & Hove Albion,Northampton Town,1 - 0
+20261,29,1923-01-06,Bristol City,Gillingham,2 - 1
+20262,29,1923-01-06,Exeter City,Reading,4 - 0
+20263,29,1923-01-06,Millwall,Luton Town,0 - 0
+20264,29,1923-01-06,Newport County,Swindon Town,2 - 2
+20265,29,1923-01-06,Norwich City,Bristol Rovers,0 - 0
+20266,29,1923-01-06,Portsmouth,Queens Park Rangers,1 - 1
+20267,29,1923-01-06,Southend United,Merthyr Town,1 - 1
+20268,29,1923-01-06,Watford,Charlton Athletic,2 - 2
+20270,29,1923-01-13,Accrington Stanley,Crewe Alexandra,0 - 0
+20271,30,1923-01-13,Barrow,Ashington,3 - 0
+20272,30,1923-01-13,Darlington,Lincoln City,0 - 0
+20273,30,1923-01-13,Rochdale,Nelson,0 - 3
+20274,30,1923-01-13,Tranmere Rovers,Durham City,5 - 1
+20275,30,1923-01-13,Exeter City,Northampton Town,1 - 2
+20276,30,1923-01-13,Gillingham,Newport County,3 - 0
+20299,30,1923-01-20,Accrington Stanley,Bradford Park Avenue,4 - 3
+20300,31,1923-01-20,Ashington,Wrexham,1 - 1
+20301,31,1923-01-20,Chesterfield,Wigan Borough,3 - 1
+20302,31,1923-01-20,Crewe Alexandra,Durham City,4 - 0
+20303,31,1923-01-20,Grimsby Town,Tranmere Rovers,0 - 0
+20304,31,1923-01-20,Halifax Town,Walsall,1 - 2
+20305,31,1923-01-20,Lincoln City,Nelson,1 - 0
+20306,31,1923-01-20,Rochdale,Barrow,3 - 1
+20307,31,1923-01-20,Southport,Darlington,2 - 1
+20308,31,1923-01-20,Stalybridge Celtic,Hartlepool United,1 - 1
+20309,31,1923-01-20,Brighton & Hove Albion,Bristol City,2 - 1
+20310,31,1923-01-20,Bristol Rovers,Northampton Town,0 - 0
+20311,31,1923-01-20,Charlton Athletic,Brentford,1 - 1
+20312,31,1923-01-20,Exeter City,Swindon Town,2 - 1
+20313,31,1923-01-20,Gillingham,Portsmouth,4 - 2
+20314,31,1923-01-20,Luton Town,Swansea City,6 - 1
+20315,31,1923-01-20,Merthyr Town,Reading,1 - 1
+20316,31,1923-01-20,Newport County,Aberdare Athletic,0 - 0
+20317,31,1923-01-20,Plymouth Argyle,Norwich City,1 - 1
+20318,31,1923-01-20,Queens Park Rangers,Millwall,2 - 3
+20319,31,1923-01-20,Southend United,Watford,2 - 1
+20321,31,1923-01-22,Halifax Town,Grimsby Town,1 - 0
+20344,32,1923-01-27,Barrow,Rochdale,4 - 1
+20345,32,1923-01-27,Bradford Park Avenue,Accrington Stanley,5 - 1
+20346,32,1923-01-27,Darlington,Southport,2 - 1
+20347,32,1923-01-27,Durham City,Crewe Alexandra,2 - 0
+20348,32,1923-01-27,Hartlepool United,Stalybridge Celtic,4 - 0
+20349,32,1923-01-27,Nelson,Lincoln City,2 - 1
+20350,32,1923-01-27,Tranmere Rovers,Grimsby Town,3 - 2
+20351,32,1923-01-27,Walsall,Halifax Town,2 - 1
+20352,32,1923-01-27,Wigan Borough,Chesterfield,1 - 0
+20353,32,1923-01-27,Wrexham,Ashington,0 - 0
+20354,32,1923-01-27,Aberdare Athletic,Newport County,6 - 2
+20355,32,1923-01-27,Brentford,Charlton Athletic,0 - 3
+20356,32,1923-01-27,Bristol City,Brighton & Hove Albion,3 - 1
+20357,32,1923-01-27,Millwall,Queens Park Rangers,0 - 0
+20358,32,1923-01-27,Northampton Town,Bristol Rovers,1 - 0
+20359,32,1923-01-27,Norwich City,Plymouth Argyle,1 - 0
+20360,32,1923-01-27,Portsmouth,Gillingham,6 - 1
+20361,32,1923-01-27,Reading,Merthyr Town,1 - 0
+20362,32,1923-01-27,Swansea City,Luton Town,1 - 0
+20363,32,1923-01-27,Swindon Town,Exeter City,2 - 1
+20364,32,1923-01-27,Watford,Southend United,1 - 1
+20370,32,1923-02-03,Accrington Stanley,Rochdale,2 - 1
+20371,33,1923-02-03,Chesterfield,Southport,3 - 0
+20372,33,1923-02-03,Crewe Alexandra,Ashington,3 - 1
+20373,33,1923-02-03,Durham City,Nelson,0 - 1
+20374,33,1923-02-03,Grimsby Town,Barrow,2 - 0
+20375,33,1923-02-03,Halifax Town,Darlington,2 - 1
+20376,33,1923-02-03,Tranmere Rovers,Lincoln City,2 - 0
+20377,33,1923-02-03,Wrexham,Walsall,1 - 0
+20378,33,1923-02-03,Aberdare Athletic,Norwich City,0 - 3
+20379,33,1923-02-03,Luton Town,Bristol Rovers,1 - 0
+20380,33,1923-02-03,Newport County,Exeter City,6 - 2
+20381,33,1923-02-03,Portsmouth,Southend United,0 - 0
+20382,33,1923-02-03,Swansea City,Northampton Town,4 - 0
+20383,33,1923-02-03,Swindon Town,Brentford,3 - 0
+20408,33,1923-02-10,Ashington,Crewe Alexandra,2 - 4
+20409,34,1923-02-10,Barrow,Grimsby Town,2 - 0
+20410,34,1923-02-10,Darlington,Halifax Town,0 - 1
+20411,34,1923-02-10,Hartlepool United,Bradford Park Avenue,0 - 1
+20412,34,1923-02-10,Lincoln City,Tranmere Rovers,2 - 0
+20413,34,1923-02-10,Nelson,Durham City,4 - 0
+20414,34,1923-02-10,Rochdale,Accrington Stanley,1 - 1
+20415,34,1923-02-10,Southport,Chesterfield,0 - 2
+20416,34,1923-02-10,Walsall,Wrexham,1 - 0
+20417,34,1923-02-10,Brentford,Swindon Town,3 - 0
+20418,34,1923-02-10,Bristol Rovers,Luton Town,1 - 1
+20419,34,1923-02-10,Charlton Athletic,Gillingham,3 - 1
+20420,34,1923-02-10,Exeter City,Newport County,4 - 0
+20421,34,1923-02-10,Merthyr Town,Bristol City,0 - 1
+20422,34,1923-02-10,Millwall,Reading,0 - 0
+20423,34,1923-02-10,Northampton Town,Swansea City,1 - 3
+20424,34,1923-02-10,Norwich City,Aberdare Athletic,1 - 4
+20425,34,1923-02-10,Plymouth Argyle,Queens Park Rangers,2 - 0
+20426,34,1923-02-10,Southend United,Portsmouth,0 - 0
+20427,34,1923-02-10,Watford,Brighton & Hove Albion,1 - 2
+20432,34,1923-02-14,Bristol City,Merthyr Town,3 - 0
+20433,35,1923-02-14,Gillingham,Charlton Athletic,2 - 2
+20434,35,1923-02-14,Reading,Millwall,1 - 2
+20457,35,1923-02-17,Accrington Stanley,Barrow,3 - 4
+20458,35,1923-02-17,Ashington,Grimsby Town,2 - 1
+20459,35,1923-02-17,Bradford Park Avenue,Darlington,2 - 1
+20460,35,1923-02-17,Chesterfield,Stalybridge Celtic,1 - 0
+20461,35,1923-02-17,Crewe Alexandra,Southport,1 - 0
+20462,35,1923-02-17,Durham City,Lincoln City,7 - 1
+20463,35,1923-02-17,Halifax Town,Wrexham,1 - 1
+20464,35,1923-02-17,Tranmere Rovers,Hartlepool United,1 - 1
+20465,35,1923-02-17,Wigan Borough,Nelson,3 - 1
+20466,35,1923-02-17,Aberdare Athletic,Brentford,0 - 0
+20467,35,1923-02-17,Brighton & Hove Albion,Charlton Athletic,1 - 0
+20468,35,1923-02-17,Bristol City,Exeter City,1 - 1
+20469,36,1923-02-17,Gillingham,Plymouth Argyle,1 - 0
+20470,36,1923-02-17,Luton Town,Reading,1 - 2
+20471,36,1923-02-17,Millwall,Southend United,1 - 1
+20472,36,1923-02-17,Northampton Town,Newport County,2 - 1
+20473,36,1923-02-17,Portsmouth,Merthyr Town,1 - 1
+20474,36,1923-02-17,Queens Park Rangers,Bristol Rovers,3 - 1
+20475,36,1923-02-17,Swansea City,Norwich City,3 - 1
+20476,36,1923-02-17,Swindon Town,Watford,1 - 1
+20478,36,1923-02-20,Stalybridge Celtic,Wigan Borough,0 - 2
+20480,36,1923-02-21,Brighton & Hove Albion,Watford,3 - 0
+20491,36,1923-02-24,Barrow,Accrington Stanley,5 - 2
+20492,36,1923-02-24,Darlington,Bradford Park Avenue,2 - 0
+20493,36,1923-02-24,Grimsby Town,Ashington,7 - 4
+20494,36,1923-02-24,Hartlepool United,Tranmere Rovers,0 - 1
+20495,36,1923-02-24,Lincoln City,Durham City,3 - 1
+20496,36,1923-02-24,Nelson,Wigan Borough,1 - 0
+20497,36,1923-02-24,Rochdale,Walsall,0 - 2
+20498,36,1923-02-24,Stalybridge Celtic,Chesterfield,1 - 2
+20499,37,1923-02-24,Wrexham,Halifax Town,2 - 1
+20500,37,1923-02-24,Brentford,Aberdare Athletic,0 - 1
+20501,37,1923-02-24,Exeter City,Bristol City,0 - 0
+20502,37,1923-02-24,Merthyr Town,Portsmouth,3 - 0
+20503,37,1923-02-24,Newport County,Northampton Town,1 - 1
+20504,37,1923-02-24,Norwich City,Swansea City,1 - 4
+20505,37,1923-02-24,Reading,Luton Town,3 - 0
+20506,37,1923-02-24,Southend United,Millwall,4 - 0
+20507,37,1923-02-24,Watford,Swindon Town,0 - 3
+20512,37,1923-03-01,Aberdare Athletic,Swindon Town,3 - 3
+20535,38,1923-03-03,Ashington,Accrington Stanley,2 - 5
+20536,38,1923-03-03,Bradford Park Avenue,Wrexham,0 - 1
+20537,38,1923-03-03,Chesterfield,Nelson,1 - 2
+20538,38,1923-03-03,Crewe Alexandra,Stalybridge Celtic,4 - 1
+20539,38,1923-03-03,Durham City,Hartlepool United,3 - 2
+20540,38,1923-03-03,Grimsby Town,Southport,2 - 1
+20541,38,1923-03-03,Halifax Town,Rochdale,1 - 0
+20542,38,1923-03-03,Tranmere Rovers,Darlington,2 - 2
+20543,38,1923-03-03,Walsall,Barrow,3 - 1
+20544,38,1923-03-03,Wigan Borough,Lincoln City,9 - 1
+20545,38,1923-03-03,Aberdare Athletic,Watford,3 - 1
+20546,39,1923-03-03,Brighton & Hove Albion,Plymouth Argyle,1 - 0
+20547,39,1923-03-03,Bristol City,Northampton Town,1 - 0
+20548,39,1923-03-03,Gillingham,Bristol Rovers,0 - 1
+20549,39,1923-03-03,Luton Town,Southend United,2 - 0
+20550,39,1923-03-03,Millwall,Merthyr Town,1 - 0
+20551,39,1923-03-03,Norwich City,Newport County,1 - 1
+20552,39,1923-03-03,Portsmouth,Exeter City,3 - 4
+20553,39,1923-03-03,Queens Park Rangers,Reading,1 - 0
+20554,39,1923-03-03,Swansea City,Brentford,0 - 0
+20555,39,1923-03-03,Swindon Town,Charlton Athletic,2 - 1
+20557,39,1923-03-05,Merthyr Town,Northampton Town,3 - 0
+20574,40,1923-03-10,Accrington Stanley,Hartlepool United,2 - 1
+20575,40,1923-03-10,Barrow,Walsall,0 - 0
+20576,40,1923-03-10,Darlington,Tranmere Rovers,4 - 0
+20577,40,1923-03-10,Lincoln City,Wigan Borough,2 - 1
+20578,40,1923-03-10,Nelson,Chesterfield,4 - 0
+20579,40,1923-03-10,Rochdale,Halifax Town,0 - 1
+20580,40,1923-03-10,Southport,Grimsby Town,3 - 1
+20581,40,1923-03-10,Stalybridge Celtic,Crewe Alexandra,0 - 1
+20582,40,1923-03-10,Wrexham,Bradford Park Avenue,3 - 0
+20583,40,1923-03-10,Brentford,Swansea City,0 - 1
+20584,40,1923-03-10,Bristol Rovers,Gillingham,1 - 0
+20585,40,1923-03-10,Exeter City,Portsmouth,2 - 3
+20586,40,1923-03-10,Merthyr Town,Millwall,1 - 1
+20587,41,1923-03-10,Newport County,Norwich City,1 - 3
+20588,41,1923-03-10,Northampton Town,Bristol City,2 - 1
+20589,41,1923-03-10,Plymouth Argyle,Brighton & Hove Albion,2 - 2
+20590,41,1923-03-10,Southend United,Luton Town,1 - 3
+20591,41,1923-03-10,Watford,Aberdare Athletic,6 - 0
+20595,41,1923-03-12,Charlton Athletic,Southend United,5 - 1
+20599,41,1923-03-14,Bradford Park Avenue,Hartlepool United,1 - 1
+20601,41,1923-03-15,Queens Park Rangers,Plymouth Argyle,2 - 3
+20624,41,1923-03-17,Ashington,Walsall,3 - 0
+20625,41,1923-03-17,Darlington,Durham City,1 - 0
+20626,41,1923-03-17,Halifax Town,Barrow,3 - 0
+20627,41,1923-03-17,Hartlepool United,Wigan Borough,0 - 0
+20628,42,1923-03-17,Lincoln City,Chesterfield,0 - 0
+20629,42,1923-03-17,Nelson,Crewe Alexandra,0 - 0
+20630,42,1923-03-17,Rochdale,Bradford Park Avenue,0 - 3
+20631,42,1923-03-17,Southport,Accrington Stanley,1 - 2
+20632,42,1923-03-17,Stalybridge Celtic,Grimsby Town,3 - 2
+20633,42,1923-03-17,Wrexham,Tranmere Rovers,2 - 1
+20634,42,1923-03-17,Brentford,Newport County,0 - 0
+20635,42,1923-03-17,Bristol Rovers,Brighton & Hove Albion,0 - 0
+20636,42,1923-03-17,Charlton Athletic,Aberdare Athletic,1 - 1
+20637,42,1923-03-17,Exeter City,Millwall,2 - 1
+20638,42,1923-03-17,Merthyr Town,Luton Town,0 - 1
+20639,42,1923-03-17,Northampton Town,Portsmouth,3 - 0
+20640,42,1923-03-17,Norwich City,Bristol City,2 - 2
+20641,42,1923-03-17,Plymouth Argyle,Swindon Town,2 - 0
+20642,42,1923-03-17,Reading,Gillingham,1 - 1
+20643,42,1923-03-17,Southend United,Queens Park Rangers,2 - 0
+20644,42,1923-03-17,Watford,Swansea City,2 - 1
+20650,42,1923-03-21,Chesterfield,Halifax Town,3 - 0
+20651,43,1923-03-21,Reading,Queens Park Rangers,0 - 0
+20667,43,1923-03-24,Accrington Stanley,Southport,3 - 1
+20668,43,1923-03-24,Barrow,Halifax Town,0 - 1
+20669,43,1923-03-24,Bradford Park Avenue,Rochdale,3 - 0
+20670,43,1923-03-24,Crewe Alexandra,Nelson,1 - 0
+20671,43,1923-03-24,Durham City,Darlington,0 - 0
+20672,43,1923-03-24,Grimsby Town,Stalybridge Celtic,3 - 0
+20673,43,1923-03-24,Tranmere Rovers,Wrexham,4 - 0
+20674,43,1923-03-24,Walsall,Ashington,2 - 1
+20675,43,1923-03-24,Wigan Borough,Hartlepool United,2 - 0
+20676,43,1923-03-24,Aberdare Athletic,Charlton Athletic,3 - 1
+20677,43,1923-03-24,Brighton & Hove Albion,Bristol Rovers,2 - 1
+20678,43,1923-03-24,Bristol City,Norwich City,4 - 0
+20679,43,1923-03-24,Gillingham,Reading,2 - 1
+20680,43,1923-03-24,Luton Town,Merthyr Town,2 - 1
+20681,43,1923-03-24,Millwall,Exeter City,3 - 0
+20682,43,1923-03-24,Newport County,Brentford,0 - 1
+20683,43,1923-03-24,Portsmouth,Northampton Town,0 - 0
+20684,43,1923-03-24,Queens Park Rangers,Southend United,1 - 0
+20685,44,1923-03-24,Swansea City,Watford,0 - 0
+20686,44,1923-03-24,Swindon Town,Plymouth Argyle,2 - 1
+20688,44,1923-03-26,Bristol Rovers,Queens Park Rangers,1 - 3
+20705,44,1923-03-30,Crewe Alexandra,Walsall,0 - 0
+20706,44,1923-03-30,Grimsby Town,Darlington,0 - 1
+20707,44,1923-03-30,Lincoln City,Ashington,2 - 0
+20708,44,1923-03-30,Rochdale,Chesterfield,0 - 2
+20709,44,1923-03-30,Southport,Barrow,2 - 0
+20710,44,1923-03-30,Stalybridge Celtic,Durham City,1 - 0
+20711,44,1923-03-30,Tranmere Rovers,Wigan Borough,4 - 2
+20712,44,1923-03-30,Brentford,Southend United,0 - 0
+20713,44,1923-03-30,Bristol City,Aberdare Athletic,0 - 0
+20714,44,1923-03-30,Gillingham,Luton Town,1 - 0
+20715,44,1923-03-30,Millwall,Brighton & Hove Albion,2 - 1
+20716,44,1923-03-30,Plymouth Argyle,Exeter City,5 - 1
+20717,45,1923-03-30,Portsmouth,Swindon Town,4 - 1
+20718,45,1923-03-30,Queens Park Rangers,Swansea City,2 - 1
+20719,45,1923-03-30,Reading,Newport County,2 - 0
+20720,45,1923-03-30,Watford,Norwich City,2 - 1
+20743,45,1923-03-31,Ashington,Halifax Town,3 - 2
+20744,45,1923-03-31,Barrow,Bradford Park Avenue,1 - 2
+20745,45,1923-03-31,Darlington,Wigan Borough,2 - 0
+20746,45,1923-03-31,Hartlepool United,Chesterfield,5 - 0
+20747,45,1923-03-31,Lincoln City,Crewe Alexandra,1 - 0
+20748,45,1923-03-31,Nelson,Grimsby Town,1 - 1
+20749,45,1923-03-31,Southport,Walsall,2 - 1
+20750,45,1923-03-31,Stalybridge Celtic,Accrington Stanley,1 - 0
+20751,45,1923-03-31,Wrexham,Durham City,1 - 0
+20752,45,1923-03-31,Brentford,Bristol City,4 - 0
+20753,45,1923-03-31,Bristol Rovers,Swindon Town,2 - 0
+20754,45,1923-03-31,Charlton Athletic,Swansea City,3 - 1
+20755,45,1923-03-31,Exeter City,Luton Town,1 - 2
+20756,46,1923-03-31,Merthyr Town,Queens Park Rangers,0 - 1
+20757,46,1923-03-31,Northampton Town,Millwall,2 - 1
+20758,46,1923-03-31,Plymouth Argyle,Aberdare Athletic,2 - 0
+20759,46,1923-03-31,Portsmouth,Norwich City,2 - 1
+20760,46,1923-03-31,Reading,Brighton & Hove Albion,0 - 0
+20761,46,1923-03-31,Southend United,Gillingham,1 - 1
+20762,46,1923-03-31,Watford,Newport County,2 - 1
+20783,46,1923-04-02,Bradford Park Avenue,Wigan Borough,1 - 1
+20784,46,1923-04-02,Chesterfield,Lincoln City,3 - 3
+20785,46,1923-04-02,Crewe Alexandra,Halifax Town,2 - 1
+20786,46,1923-04-02,Darlington,Grimsby Town,1 - 3
+20787,46,1923-04-02,Durham City,Ashington,1 - 1
+20788,46,1923-04-02,Stalybridge Celtic,Rochdale,0 - 0
+20789,46,1923-04-02,Tranmere Rovers,Southport,2 - 0
+20790,46,1923-04-02,Walsall,Accrington Stanley,0 - 2
+20791,46,1923-04-02,Wrexham,Nelson,2 - 1
+20792,46,1923-04-02,Aberdare Athletic,Bristol City,0 - 1
+20793,47,1923-04-02,Brighton & Hove Albion,Millwall,2 - 0
+20794,47,1923-04-02,Bristol Rovers,Merthyr Town,3 - 0
+20795,47,1923-04-02,Charlton Athletic,Northampton Town,2 - 0
+20796,47,1923-04-02,Exeter City,Plymouth Argyle,0 - 0
+20797,47,1923-04-02,Luton Town,Gillingham,2 - 0
+20798,47,1923-04-02,Newport County,Reading,3 - 0
+20799,47,1923-04-02,Norwich City,Watford,2 - 0
+20800,47,1923-04-02,Southend United,Brentford,1 - 2
+20801,47,1923-04-02,Swansea City,Queens Park Rangers,3 - 0
+20802,47,1923-04-02,Swindon Town,Portsmouth,3 - 0
+20806,47,1923-04-03,Rochdale,Stalybridge Celtic,2 - 0
+20807,47,1923-04-03,Walsall,Durham City,2 - 0
+20808,47,1923-04-03,Merthyr Town,Bristol Rovers,1 - 1
+20809,48,1923-04-03,Northampton Town,Charlton Athletic,0 - 0
+20832,48,1923-04-07,Accrington Stanley,Stalybridge Celtic,1 - 0
+20833,48,1923-04-07,Bradford Park Avenue,Barrow,3 - 0
+20834,48,1923-04-07,Chesterfield,Hartlepool United,1 - 1
+20835,48,1923-04-07,Crewe Alexandra,Lincoln City,3 - 1
+20836,48,1923-04-07,Durham City,Wrexham,2 - 0
+20837,48,1923-04-07,Grimsby Town,Nelson,0 - 2
+20838,48,1923-04-07,Halifax Town,Ashington,0 - 0
+20839,48,1923-04-07,Tranmere Rovers,Rochdale,2 - 0
+20840,48,1923-04-07,Walsall,Southport,1 - 0
+20841,48,1923-04-07,Wigan Borough,Darlington,3 - 0
+20842,48,1923-04-07,Aberdare Athletic,Plymouth Argyle,2 - 2
+20843,48,1923-04-07,Brighton & Hove Albion,Reading,3 - 1
+20844,48,1923-04-07,Bristol City,Brentford,1 - 1
+20845,48,1923-04-07,Gillingham,Southend United,1 - 0
+20846,48,1923-04-07,Luton Town,Exeter City,6 - 0
+20847,48,1923-04-07,Millwall,Northampton Town,2 - 0
+20848,48,1923-04-07,Newport County,Watford,0 - 1
+20849,48,1923-04-07,Norwich City,Portsmouth,0 - 2
+20850,48,1923-04-07,Queens Park Rangers,Merthyr Town,1 - 1
+20851,48,1923-04-07,Swansea City,Charlton Athletic,3 - 2
+20852,48,1923-04-07,Swindon Town,Bristol Rovers,1 - 0
+20855,48,1923-04-09,Southend United,Plymouth Argyle,2 - 1
+20860,49,1923-04-12,Merthyr Town,Exeter City,3 - 1
+20883,49,1923-04-14,Ashington,Bradford Park Avenue,2 - 1
+20884,49,1923-04-14,Barrow,Tranmere Rovers,2 - 1
+20885,49,1923-04-14,Darlington,Chesterfield,4 - 1
+20886,49,1923-04-14,Hartlepool United,Crewe Alexandra,1 - 1
+20887,49,1923-04-14,Lincoln City,Grimsby Town,1 - 2
+20888,49,1923-04-14,Nelson,Accrington Stanley,2 - 1
+20889,49,1923-04-14,Rochdale,Durham City,2 - 0
+20890,49,1923-04-14,Southport,Halifax Town,1 - 3
+20891,49,1923-04-14,Stalybridge Celtic,Walsall,2 - 0
+20892,49,1923-04-14,Wigan Borough,Wrexham,1 - 1
+20893,49,1923-04-14,Brentford,Portsmouth,1 - 0
+20894,49,1923-04-14,Bristol Rovers,Aberdare Athletic,1 - 0
+20895,49,1923-04-14,Charlton Athletic,Newport County,6 - 0
+20896,49,1923-04-14,Exeter City,Queens Park Rangers,1 - 2
+20897,50,1923-04-14,Merthyr Town,Gillingham,1 - 0
+20898,50,1923-04-14,Northampton Town,Luton Town,2 - 0
+20899,50,1923-04-14,Norwich City,Millwall,3 - 2
+20900,50,1923-04-14,Plymouth Argyle,Swansea City,2 - 0
+20901,50,1923-04-14,Reading,Swindon Town,1 - 0
+20902,50,1923-04-14,Southend United,Brighton & Hove Albion,0 - 0
+20903,50,1923-04-14,Watford,Bristol City,1 - 1
+20907,50,1923-04-16,Charlton Athletic,Brighton & Hove Albion,0 - 1
+20911,50,1923-04-18,Wigan Borough,Stalybridge Celtic,3 - 0
+20912,50,1923-04-18,Plymouth Argyle,Gillingham,2 - 0
+20934,51,1923-04-21,Accrington Stanley,Nelson,0 - 1
+20935,51,1923-04-21,Bradford Park Avenue,Ashington,3 - 0
+20936,51,1923-04-21,Chesterfield,Darlington,0 - 0
+20937,51,1923-04-21,Crewe Alexandra,Hartlepool United,2 - 1
+20938,51,1923-04-21,Durham City,Rochdale,1 - 1
+20939,51,1923-04-21,Grimsby Town,Lincoln City,1 - 0
+20940,51,1923-04-21,Halifax Town,Southport,0 - 1
+20941,51,1923-04-21,Tranmere Rovers,Barrow,3 - 0
+20942,51,1923-04-21,Walsall,Stalybridge Celtic,2 - 1
+20943,51,1923-04-21,Wrexham,Wigan Borough,2 - 1
+20944,51,1923-04-21,Aberdare Athletic,Bristol Rovers,0 - 0
+20945,51,1923-04-21,Brighton & Hove Albion,Southend United,0 - 1
+20946,51,1923-04-21,Bristol City,Watford,3 - 1
+20947,51,1923-04-21,Gillingham,Merthyr Town,2 - 0
+20948,52,1923-04-21,Luton Town,Northampton Town,2 - 1
+20949,52,1923-04-21,Millwall,Norwich City,3 - 0
+20950,52,1923-04-21,Newport County,Charlton Athletic,4 - 0
+20951,52,1923-04-21,Portsmouth,Brentford,3 - 0
+20952,52,1923-04-21,Queens Park Rangers,Exeter City,2 - 0
+20953,52,1923-04-21,Swansea City,Plymouth Argyle,1 - 1
+20954,52,1923-04-21,Swindon Town,Reading,3 - 1
+20956,52,1923-04-23,Bristol Rovers,Norwich City,3 - 2
+20957,52,1923-04-24,Nelson,Wrexham,2 - 0
+20960,52,1923-04-25,Gillingham,Norwich City,5 - 0
+20981,53,1923-04-28,Ashington,Tranmere Rovers,3 - 1
+20982,53,1923-04-28,Barrow,Durham City,2 - 1
+20983,53,1923-04-28,Darlington,Crewe Alexandra,5 - 0
+20984,53,1923-04-28,Hartlepool United,Grimsby Town,2 - 0
+20985,53,1923-04-28,Lincoln City,Accrington Stanley,0 - 0
+20986,53,1923-04-28,Nelson,Walsall,3 - 0
+20987,53,1923-04-28,Rochdale,Wigan Borough,3 - 2
+20988,53,1923-04-28,Southport,Bradford Park Avenue,0 - 0
+20989,53,1923-04-28,Stalybridge Celtic,Halifax Town,4 - 3
+20990,53,1923-04-28,Wrexham,Chesterfield,3 - 1
+20991,53,1923-04-28,Brentford,Millwall,1 - 1
+20992,53,1923-04-28,Bristol Rovers,Swansea City,0 - 0
+20993,53,1923-04-28,Charlton Athletic,Bristol City,1 - 0
+20994,53,1923-04-28,Exeter City,Gillingham,0 - 1
+20995,53,1923-04-28,Merthyr Town,Brighton & Hove Albion,2 - 0
+20996,53,1923-04-28,Northampton Town,Queens Park Rangers,4 - 2
+20997,53,1923-04-28,Norwich City,Luton Town,1 - 2
+20998,54,1923-04-28,Plymouth Argyle,Newport County,1 - 0
+20999,54,1923-04-28,Reading,Aberdare Athletic,1 - 0
+21000,54,1923-04-28,Southend United,Swindon Town,2 - 0
+21001,54,1923-04-28,Watford,Portsmouth,2 - 3
+21004,54,1923-04-30,Bristol Rovers,Brentford,1 - 1
+21005,54,1923-05-01,Aberdare Athletic,Brighton & Hove Albion,0 - 1
+21006,55,1923-05-02,Plymouth Argyle,Brentford,3 - 0
+21007,55,1923-05-03,Charlton Athletic,Swindon Town,3 - 1
+21027,55,1923-05-05,Accrington Stanley,Lincoln City,1 - 0
+21028,55,1923-05-05,Bradford Park Avenue,Southport,5 - 1
+21029,55,1923-05-05,Chesterfield,Wrexham,2 - 1
+21030,55,1923-05-05,Durham City,Barrow,4 - 1
+21031,55,1923-05-05,Grimsby Town,Hartlepool United,1 - 0
+21032,55,1923-05-05,Halifax Town,Stalybridge Celtic,2 - 1
+21033,55,1923-05-05,Walsall,Nelson,5 - 0
+21034,55,1923-05-05,Wigan Borough,Rochdale,6 - 0
+21035,55,1923-05-05,Aberdare Athletic,Reading,0 - 0
+21036,56,1923-05-05,Brighton & Hove Albion,Merthyr Town,0 - 0
+21037,56,1923-05-05,Bristol City,Charlton Athletic,3 - 1
+21038,56,1923-05-05,Gillingham,Exeter City,2 - 1
+21039,56,1923-05-05,Luton Town,Norwich City,4 - 0
+21040,56,1923-05-05,Millwall,Brentford,1 - 1
+21041,56,1923-05-05,Newport County,Plymouth Argyle,1 - 0
+21042,56,1923-05-05,Portsmouth,Watford,1 - 0
+21043,56,1923-05-05,Queens Park Rangers,Northampton Town,3 - 2
+21044,56,1923-05-05,Swansea City,Bristol Rovers,0 - 1
+21045,56,1923-05-05,Swindon Town,Southend United,3 - 0
