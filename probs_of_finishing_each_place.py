@@ -22,6 +22,15 @@ def calculateProbsOfEachGameInASeason(csv_file_name, predict):
         tieProb = tieProb / total
         loserProb = loserProb / total
 
+        try:
+            result = data["Result"][i].split("-")
+            homeGoals = int(result[0])
+            awayGoals = int(result[1])
+        except:
+            homeGoals = None
+            awayGoals = None
+
+
         game_data.append({
             'Home Team': homeTeam,
             'Away Team': awayTeam,
@@ -31,6 +40,8 @@ def calculateProbsOfEachGameInASeason(csv_file_name, predict):
             'home_win': float(winnerProp),
             'tie': float(tieProb),
             'away_win': float(loserProb),
+            'home_goals': homeGoals,
+            'away_goals': awayGoals,
         })
 
     return game_data
@@ -133,8 +144,8 @@ def calculateProbs(predictionCount, csv_file_name, predict):
 
 
 def main():
-    predictor = predictions_tensorflow.createPredictGameFunction('epl-2021.csv')
-    indexToPlaceFinishedToTimesFinished, indexToTeam = calculateProbs(10**3, 'epl-2021.csv', predictor)
+    predictor = predictions_tensorflow.createPredictGameFunction('epl.csv')
+    indexToPlaceFinishedToTimesFinished, indexToTeam = calculateProbs(10**3, 'epl.csv', predictor)
 
     print(indexToPlaceFinishedToTimesFinished)
     print(indexToTeam)

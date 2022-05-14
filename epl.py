@@ -259,7 +259,7 @@ def plotSeason(maxWeek, model, week_multiplier=None):
 
 if __name__ == "__main__":
 
-    csvFileName = "epl-2021.csv"
+    csvFileName = "epl.csv"
     week = 40
     if len(sys.argv) > 1:
         csvFileName = sys.argv[1]

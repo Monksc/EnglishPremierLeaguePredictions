@@ -5,7 +5,7 @@ import probs_of_finishing_each_place as probs
 import json
 import numpy as np
 
-def main(csv_file_name='epl-2021.csv', output_file_name='epl-predictions-stats.json'):
+def main(csv_file_name='epl.csv', output_file_name='epl-predictions-stats.json'):
 
     model = epl.getData(csv_file_name)
     data, indexToTeam, teamToIndex, indexToGamesPlayed = model
@@ -40,7 +40,7 @@ def main(csv_file_name='epl-2021.csv', output_file_name='epl-predictions-stats.j
 
 if __name__ == '__main__':
     import os
-    csv_file_name = 'epl-2021.csv'
+    csv_file_name = 'epl.csv'
     output_file_name = 'epl-predictions-stats.json'
     if len(os.sys.argv) > 1:
         csv_file_name = os.sys.argv[1]

@@ -11,7 +11,7 @@ def getPrediction(jsonPrediction, weekNumber, homeTeam, awayTeam):
 
     return None
 
-def getErrors(resultsDataFileName='epl-2021.csv',
+def getErrors(resultsDataFileName='epl.csv',
         predictedFileName='epl-predictions-stats.json', afterWeek=15):
     results = pd.read_csv(resultsDataFileName)
     predicted = json.load(open('epl-predictions-stats.json'))['games']
@@ -68,7 +68,7 @@ def getErrors(resultsDataFileName='epl-2021.csv',
     return (meanSquaredError / totalResults, correctAnswers/totalResults, isWin, isTie)
 
 
-def main(resultsDataFileName='epl-2021.csv',
+def main(resultsDataFileName='epl.csv',
         predictedFileName='epl-predictions-stats.json'):
     (meanSquaredError, percentCorrect, isWin, isTie) = getErrors(resultsDataFileName, predictedFileName)
     print(meanSquaredError, percentCorrect, isWin, isTie)

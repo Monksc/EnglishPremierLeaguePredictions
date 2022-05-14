@@ -45,14 +45,15 @@ def makeModel(inputs, input_len, output_len):
     ]
     
     model.compile(
-        optimizer=keras.optimizers.Adam(lr=1e-3),
+        optimizer=tf.keras.optimizers.Adam(learning_rate=1e-3),
+        #optimizer=keras.optimizers.Adam(lr=1e-3),
         #loss=keras.losses.BinaryCrossentropy(),
         loss=tf.keras.losses.MeanSquaredError(),
         metrics=metrics)
 
 
     #model.load_weights('saved_model/model3.ckpt')
-    model.load_weights('saved_model/model-9-30-2021.ckpt')
+    model.load_weights('saved_model/model-9-9-2022.ckpt')
 
     return model
 
@@ -124,7 +125,7 @@ def train():
     model = makeModel(train_dataset, len(features_str), len(targets_str))
 
     model.summary()
-    model.fit(train_dataset, epochs=5)
+    model.fit(train_dataset, epochs=1)
 
     #trainModel(model, train_features, train_labels, batch_size=128, epochs=2**10)
     #trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
@@ -140,7 +141,7 @@ def train():
     
     # Save the entire model as a SavedModel.
     #model.save_weights("saved_model/model-tie.ckpt")
-    model.save_weights("saved_model/model-9-30-2021.ckpt")
+    model.save_weights("saved_model/model-9-9-2022.ckpt")
 
     #print("Training Features Shape: ", train_features.shape, "Testing Labels Shape: ", testing_labels.shape)
 
@@ -235,9 +236,9 @@ def predictGames(filename):
 
 
 if __name__ == "__main__":
-    train()
+    #train()
     #predictGames('old_data/american-football.csv/nfl-2020.csv')
-    predictGames('epl-2021.csv')
+    predictGames('epl.csv')
     #predictGames('old_data/efl-championship-2020.csv')
     #predictGames('old_data/la-liga-2019.csv')
     #predictGames('old_data/bundesliga-2020.csv')

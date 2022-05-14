@@ -267,7 +267,6 @@ def getAllMyData(filenames=[
             "old_data/epl-2018.csv",
             "old_data/epl-2019.csv",
             "old_data/epl-2020.csv",
-            "epl-2021.csv",
             ], getAllInputs=False, starting_week=10):
 
     total_inputs  = []
