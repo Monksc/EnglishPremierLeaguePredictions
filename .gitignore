@@ -3,6 +3,7 @@
 *.old
 dnn_model
 saved_model
+old_data/jackpotdata/all/all.csv
 
 
 # Byte-compiled / optimized / DLL files
