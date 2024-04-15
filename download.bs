@@ -1,1 +1,1 @@
-curl https://fixturedownload.com/download/epl-2022-GMTStandardTime.csv --output epl.csv
+curl https://fixturedownload.com/download/epl-2023-GMTStandardTime.csv --output epl.csv

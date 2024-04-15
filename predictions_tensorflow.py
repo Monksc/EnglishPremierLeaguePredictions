@@ -52,8 +52,7 @@ def makeModel(inputs, input_len, output_len):
         metrics=metrics)
 
 
-    #model.load_weights('saved_model/model3.ckpt')
-    model.load_weights('saved_model/model-9-9-2022.ckpt')
+    model.load_weights('saved_model/model-9-25-2023.ckpt')
 
     return model
 
@@ -65,7 +64,7 @@ def trainModel(model, train_features, train_labels, batch_size=128, epochs=16):
         if train_labels[i].max() > 1.0 or train_labels[i].min() < 0:
             print(train_labels[i])
 
-    
+
     careful_bias_history = model.fit(
         train_features,
         train_labels,
@@ -125,7 +124,7 @@ def train():
     model = makeModel(train_dataset, len(features_str), len(targets_str))
 
     model.summary()
-    model.fit(train_dataset, epochs=1)
+    model.fit(train_dataset, epochs=2**3)
 
     #trainModel(model, train_features, train_labels, batch_size=128, epochs=2**10)
     #trainModel(model, train_features, train_labels, batch_size=train_labels.shape[0], epochs=2**10)
@@ -141,7 +140,7 @@ def train():
     
     # Save the entire model as a SavedModel.
     #model.save_weights("saved_model/model-tie.ckpt")
-    model.save_weights("saved_model/model-9-9-2022.ckpt")
+    model.save_weights("saved_model/model-9-25-2023.ckpt")
 
     #print("Training Features Shape: ", train_features.shape, "Testing Labels Shape: ", testing_labels.shape)
 
